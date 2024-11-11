@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-25 19:32:50.449856 by osmWebWizard.py v1_20_0+0002-343658e7c64
+<configuration>
+    <net-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.net.xml.gz"/>
+    <additional-files value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_stops.add.xml,D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_pt.rou.xml"/>
+    <output-trip-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.pedestrian.trips.xml"/>
+    <route-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.pedestrian.rou.xml"/>
+    <persontrips value="True"/>
+    <persontrip.walk-opposite-factor value="0.8"/>
+    <prefix value="ped"/>
+    <trip-attributes value="modes=&quot;public&quot;"/>
+    <vehicle-class value="pedestrian"/>
+    <fringe-factor value="1"/>
+    <insertion-density value="40.0"/>
+    <duarouter-weights.tls-penalty value="20"/>
+</configuration>
+-->
+
+<!-- generated on 2024-09-25 19:32:43 by Eclipse SUMO duarouter Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.net.xml.gz"/>
+        <additional-files value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_stops.add.xml,D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_pt.rou.xml"/>
+        <route-files value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.pedestrian.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.pedestrian.rou.xml"/>
+        <alternatives-output value="NUL"/>
+    </output>
+
+    <processing>
+        <weights.tls-penalty value="20"/>
+        <persontrip.walk-opposite-factor value="0.8"/>
+    </processing>
+
+    <time>
+        <begin value="0.0"/>
+        <end value="3600.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="ped_pedestrian" vClass="pedestrian"/>
+    <person id="ped130" type="ped_pedestrian" depart="34.76">
+        <walk edges="192714141#24 -192714141#23 -192714141#22 -192714141#20 -192714141#19 -192714141#18 -192714141#16 -192714141#15 247829621 192714141#12"/>
+    </person>
+    <person id="ped161" type="ped_pedestrian" depart="43.05">
+        <walk edges="191359731#0 191359702 191359640#2 191359640#3 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.1" depart="840.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 -192714141#22 -192714141#20 -192714141#19 247829623 192714141#7"/>
+    </person>
+    <person id="ped333" type="ped_pedestrian" depart="89.05">
+        <walk edges="191356932#2 191356900#1 -191356911#1 -191356911#0 191356962#4 191356962#5 -191356934#3 -191356934#2 -191356934#1 -191356916 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.1" depart="769.00"/> <!-- Bengal Chemical -->
+        <walk edges="191129905#4 -191129905#3 -191129905#2 -191129905#1 -191129905#0"/>
+    </person>
+    <person id="ped456" type="ped_pedestrian" depart="121.94">
+        <walk edges="-191356919#2 191356919#3 191356919#4 191356919#5 191356919#7 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.1" depart="769.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359710#5 191359710#6 191359710#8 191359648#0"/>
+    </person>
+    <person id="ped517" type="ped_pedestrian" depart="138.25">
+        <walk edges="-1019992664" busStop="7628479190"/> <!-- Salt Lake Sector V -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="646.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 191356962#10 191356962#11 -191357935#2 -191356925#2 -191356925#1 -191356930 191356930"/>
+    </person>
+    <person id="ped649" type="ped_pedestrian" depart="173.55">
+        <walk edges="-192714141#15 192714141#16 192714141#18 192714141#19 192714141#20 192714141#22 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="733.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 -191356962#3 -191356962#2 -191356962#1 191356962#0"/>
+    </person>
+    <person id="ped674" type="ped_pedestrian" depart="180.23">
+        <walk edges="-631547302#3 192708264#2 -192708264#2" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="804.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 191356909#1 -191356933#1 191356933#0 -191356892#0"/>
+    </person>
+    <person id="ped859" type="ped_pedestrian" depart="229.70">
+        <walk edges="191359639#0 191359639#1 191359695#1 -191359766 -191359710#4 -191359710#2 -191324246#2 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <walk edges="191129905#4 -191129905#3 -191129905#2 -191129905#1 191129905#1"/>
+    </person>
+    <person id="ped884" type="ped_pedestrian" depart="236.39">
+        <walk edges="-191359646#0 -191359710#5 -191359710#4 -191359710#2 -191324246#2 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="962.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 191356911#0 191356911#1 -191356900#1 191356932#2 -191356932#1 -191356929"/>
+    </person>
+    <person id="ped892" type="ped_pedestrian" depart="238.53">
+        <walk edges="-191356934#1 -191356916 191356923#2 -191356923#2"/>
+    </person>
+    <person id="ped960" type="ped_pedestrian" depart="256.71">
+        <walk edges="191359720 191359638#1 191359690#0 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.1" depart="840.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714146#0 192714146#1 247829612 -247829612"/>
+    </person>
+    <person id="ped1011" type="ped_pedestrian" depart="270.35">
+        <walk edges="-191359669#1 191359681 191359669#3 191359673#1 191089314 191089312 -191089313#0 -191089399#2 -191089399#1 -191089399#0 191089315#1"/>
+    </person>
+    <person id="ped1027" type="ped_pedestrian" depart="274.62">
+        <walk edges="995148513 -995148513"/>
+    </person>
+    <person id="ped1049" type="ped_pedestrian" depart="280.51">
+        <walk edges="1019992616 193230784#1"/>
+    </person>
+    <person id="ped1190" type="ped_pedestrian" depart="318.21">
+        <walk edges="191085052#2 -191085052#1"/>
+    </person>
+    <person id="ped1247" type="ped_pedestrian" depart="333.45">
+        <walk edges="192392126#2 192392126#3 -1064239246 237743332#0 -153955434 1096320030#0 -1096320031 1126843683#2 1126843683#1 1126843683#0 1126633518 331480838#2 -331480838#1 1030294705#1 153585432 -153585432"/>
+    </person>
+    <person id="ped1289" type="ped_pedestrian" depart="344.69">
+        <walk edges="-191359763#3 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.2" depart="1440.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 247829617 192714141#4"/>
+    </person>
+    <person id="ped1347" type="ped_pedestrian" depart="360.19">
+        <walk edges="-247829623 192714141#19 192714141#20 192714141#22 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140062" lines="2:1" intended="pt_subway_2:1.1" depart="733.00"/> <!-- Central Park -->
+        <walk edges="1022840528#1 1192334178 -192062515#2 -192062337"/>
+    </person>
+    <person id="ped1421" type="ped_pedestrian" depart="379.98">
+        <walk edges="191561280#1 191561280#3 -191561468#1 -191561468#0"/>
+    </person>
+    <person id="ped1481" type="ped_pedestrian" depart="396.03">
+        <walk edges="194273943#1 -194273943#0 194273943#0"/>
+    </person>
+    <person id="ped1599" type="ped_pedestrian" depart="427.58">
+        <walk edges="247829612 -192714146#1 -192714146#0 192714141#24" busStop="5777572361"/> <!-- Karunamoyee -->
+        <walk edges="192051705#0 192051705#1"/>
+    </person>
+    <person id="ped1641" type="ped_pedestrian" depart="438.81">
+        <walk edges="-191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="962.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 191356911#0 191356911#1 191356911#2 191356921"/>
+    </person>
+    <person id="ped1684" type="ped_pedestrian" depart="450.31">
+        <walk edges="115610231#1 -115610220#1"/>
+    </person>
+    <person id="ped1770" type="ped_pedestrian" depart="473.31">
+        <walk edges="247829609#1 -247829609#0 -192714146#0 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="733.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 -191356962#3"/>
+    </person>
+    <person id="ped1823" type="ped_pedestrian" depart="487.48">
+        <walk edges="191359648#0 -191359710#8 -191359710#6 -191359710#5 -191359710#4 -191359710#2 -191324246#2 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="962.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2"/>
+    </person>
+    <person id="ped1834" type="ped_pedestrian" depart="490.42">
+        <walk edges="247829609#0 -192714146#0 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="733.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 191356962#10 191356962#11 191356962#12 191357942#0 191357942#2 191357941#0 -191357937"/>
+    </person>
+    <person id="ped1971" type="ped_pedestrian" depart="527.06">
+        <walk edges="-192063216#1 -192065961#0" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="5189265436" lines="2:1" intended="pt_subway_2:1.1" depart="804.00"/> <!-- Phoolbagan -->
+        <walk edges="-191118882 191118882"/>
+    </person>
+    <person id="ped2046" type="ped_pedestrian" depart="547.11">
+        <walk edges="191359690#0 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.2" depart="1562.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 -191356919#7 -191356919#5 -191356919#4 -191356919#3 -191356919#2 -191356919#1"/>
+    </person>
+    <person id="ped2065" type="ped_pedestrian" depart="552.19">
+        <walk edges="192708276#0 192708273#0 192708273#1 192708273#2 192708264#1 192708264#2 -192708264#2" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.1" depart="804.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 191359750#2"/>
+    </person>
+    <person id="ped2069" type="ped_pedestrian" depart="553.26">
+        <walk edges="235061968#2 235061968#3 235061968#4 235061968#5 1065798352#1 -235061511#15 -235061511#14 -235061511#13 -235061511#12 -235061511#11 -235061511#10 -235061511#9 -235061511#8 -235061511#7 -235061511#6 -235061511#5 -235061511#4 -235061511#3 -235061511#2 -235061511#1 -235061511#0 570510785#0 570510785#1 -570510785#1"/>
+    </person>
+    <person id="ped2176" type="ped_pedestrian" depart="581.87">
+        <walk edges="191913404#3 191913397#1 -191913397#1"/>
+    </person>
+    <person id="ped2196" type="ped_pedestrian" depart="587.22">
+        <walk edges="-115610231#1 115610231#2 115610231#3"/>
+    </person>
+    <person id="ped2411" type="ped_pedestrian" depart="644.71">
+        <walk edges="-191136618#1 -191136625#2"/>
+    </person>
+    <person id="ped2511" type="ped_pedestrian" depart="671.45">
+        <walk edges="-191356890#1 -191356962#6 -191356962#5 -191356962#4 191356911#0 191356911#1 -191356900#1 191356932#2 -191356931 191356931"/>
+    </person>
+    <person id="ped2529" type="ped_pedestrian" depart="676.27">
+        <walk edges="363570966 -363570966" busStop="7976140065"/> <!-- City Centre -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.1" depart="878.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 -191356919#7 -191356883#0"/>
+    </person>
+    <person id="ped2562" type="ped_pedestrian" depart="685.09">
+        <walk edges="153933321#3 -153933321#1 -153933321#0 -153933323#2 -153933323#1 -1065795619#0 1065795619#0"/>
+    </person>
+    <person id="ped2587" type="ped_pedestrian" depart="691.78">
+        <walk edges="192714150 -192714141#1 -247829609#4"/>
+    </person>
+    <person id="ped2655" type="ped_pedestrian" depart="709.96">
+        <walk edges="689556655#1 689556655#2"/>
+    </person>
+    <person id="ped2661" type="ped_pedestrian" depart="711.56">
+        <walk edges="191359641 191359639#1 191359695#1 191359695#2 -191359646#1 -191359646#0 -191359761#0"/>
+    </person>
+    <person id="ped2771" type="ped_pedestrian" depart="740.98">
+        <walk edges="-1170468771 1170468774 1192334178 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.2" depart="1404.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 191356919#8"/>
+    </person>
+    <person id="ped2782" type="ped_pedestrian" depart="743.92">
+        <walk edges="-191359718#3 191324246#0 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.2" depart="1562.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9"/>
+    </person>
+    <person id="ped2879" type="ped_pedestrian" depart="769.86">
+        <walk edges="191357935#1 191357935#2 -191356962#11 -191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 -191356883#1 -191356883#0 191356919#7"/>
+    </person>
+    <person id="ped2967" type="ped_pedestrian" depart="793.39">
+        <walk edges="-191356926#0 191356926#1 -191356883#0 191356919#7 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#2 -191359710#1 191359710#0"/>
+    </person>
+    <person id="ped3255" type="ped_pedestrian" depart="870.40">
+        <walk edges="191356889 191356919#4 191356919#5 191356919#7 191356919#8 191356923#2 191356923#3 191356923#4 -191356923#4"/>
+    </person>
+    <person id="ped3258" type="ped_pedestrian" depart="871.21">
+        <walk edges="743210397#1 -363570966" busStop="7976140065"/> <!-- City Centre -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.2" depart="1478.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 -191356919#7 191356883#0 -191356926#1 -191356903"/>
+    </person>
+    <person id="ped3286" type="ped_pedestrian" depart="878.69">
+        <walk edges="-191356903 191356926#1 -191356883#0 191356919#7 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 -192708264#1 192708273#2 192708273#1 192708273#0 192708257#1 192708257#0 23104342 192708286"/>
+    </person>
+    <person id="ped3364" type="ped_pedestrian" depart="899.55">
+        <walk edges="-191052501 -191034150#6 -191034150#5 -191034150#3 -191034150#2 -191034150#0 -191034165#2"/>
+    </person>
+    <person id="ped3453" type="ped_pedestrian" depart="923.35">
+        <walk edges="-193230784#0 193230784#1 193230784#2 193230755#2 193230755#3 193230755#5 193230755#6 193230755#7 193230755#9 -193230755#9"/>
+    </person>
+    <person id="ped3455" type="ped_pedestrian" depart="923.88">
+        <walk edges="191357935#2 -191356962#11 -191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Central Park -->
+        <walk edges="1022840528#1 1192334178 -192062515#2"/>
+    </person>
+    <person id="ped3580" type="ped_pedestrian" depart="957.31">
+        <walk edges="191356913 191356962#3 191356962#4 191356962#5 -191356934#3 -191356934#2 -191356934#1 -191356916 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359766 -191359695#2"/>
+    </person>
+    <person id="ped3624" type="ped_pedestrian" depart="969.08">
+        <walk edges="1310050306 -1022840526#1 -1022840526#0 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.2" depart="1404.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 191359763#2 191359763#3 -191359728#1 -191359689#1"/>
+    </person>
+    <person id="ped3628" type="ped_pedestrian" depart="970.15">
+        <walk edges="191089313#2 -191089312 -191089316#1"/>
+    </person>
+    <person id="ped3681" type="ped_pedestrian" depart="984.32">
+        <walk edges="191356894#0 -191356881 -191356934#2 -191356934#1 -191356916 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 -192714141#22 -192714141#20 -192714141#19 -192714141#18 247829616 -247829616"/>
+    </person>
+    <person id="ped3707" type="ped_pedestrian" depart="991.27">
+        <walk edges="-247829617 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.2" depart="1333.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 191356962#10 191356962#11 -191357935#2 191356925#2"/>
+    </person>
+    <person id="ped3726" type="ped_pedestrian" depart="996.35">
+        <walk edges="-192714146#1 -192714146#0 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.2" depart="1333.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 -191356919#7 -191356919#5 191356919#5"/>
+    </person>
+    <person id="ped3741" type="ped_pedestrian" depart="1000.36">
+        <walk edges="191357941#1 -191357941#0 -191357942#2 -191357942#0 -191356962#12 -191356962#11 -191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.3" depart="1969.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 -192708264#1 192708273#2 192708273#1 192708273#0 192708276#0 192708244#0"/>
+    </person>
+    <person id="ped3789" type="ped_pedestrian" depart="1013.20">
+        <walk edges="191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 -191359763#1"/>
+    </person>
+    <person id="ped3833" type="ped_pedestrian" depart="1024.96">
+        <walk edges="-191356923#4" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.2" depart="1369.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 247829617 192714141#4"/>
+    </person>
+    <person id="ped3881" type="ped_pedestrian" depart="1037.80">
+        <walk edges="192714146#4 -192714146#3 -192714146#1 -192714146#0 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.2" depart="1333.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359766 -191359695#1 191359639#1"/>
+    </person>
+    <person id="ped4035" type="ped_pedestrian" depart="1078.98">
+        <walk edges="-193479979#6 -193479979#5 193479979#5"/>
+    </person>
+    <person id="ped4166" type="ped_pedestrian" depart="1114.01">
+        <walk edges="-153933321#12 153933321#0 153933321#1"/>
+    </person>
+    <person id="ped4209" type="ped_pedestrian" depart="1125.51">
+        <walk edges="192714141#6 -247829614 192714141#20 192714141#22 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.2" depart="1333.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 -191359763#1 191359763#0"/>
+    </person>
+    <person id="ped4309" type="ped_pedestrian" depart="1152.25">
+        <walk edges="-192062515#0 192062337 192062515#2 1192334178 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.3" depart="2004.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 -191359710#1 -191359710#0 -191324228#0 191324267#1"/>
+    </person>
+    <person id="ped4312" type="ped_pedestrian" depart="1153.05">
+        <walk edges="-192717956#2 192717956#2"/>
+    </person>
+    <person id="ped4341" type="ped_pedestrian" depart="1160.81">
+        <walk edges="191356932#2 191356900#1 -191356911#1 -191356911#0 191356962#4 191356962#5 -191356934#3 -191356934#2 -191356934#1 -191356916 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.3" depart="1969.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714146#0 192714146#1 247829612 -247829624"/>
+    </person>
+    <person id="ped4372" type="ped_pedestrian" depart="1169.09">
+        <walk edges="-191034150#6 -191034150#5 -191034150#3 -191034150#2 -191034150#0 -191034165#2"/>
+    </person>
+    <person id="ped4433" type="ped_pedestrian" depart="1185.41">
+        <walk edges="115610220#2 -115610220#1 115610217#0 115610217#1 115610213#1"/>
+    </person>
+    <person id="ped4442" type="ped_pedestrian" depart="1187.81">
+        <walk edges="-191913409#0 191913411 191913401#0 191913401#1 191913401#2 191913401#3 191913401#4 191913401#5 191913401#6 191913401#7 191913405#0"/>
+    </person>
+    <person id="ped4492" type="ped_pedestrian" depart="1201.18">
+        <walk edges="-192051705#1 -192051705#0 192051705#0" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="1933.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356898 -191356898"/>
+    </person>
+    <person id="ped4620" type="ped_pedestrian" depart="1235.41">
+        <walk edges="-191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.3" depart="1969.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 -192714141#22 -192714141#20 -192714141#19 -192714141#18 -192714141#16 -192714141#15 192714141#14"/>
+    </person>
+    <person id="ped4716" type="ped_pedestrian" depart="1261.08">
+        <walk edges="191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.3" depart="2040.00"/> <!-- Central Park -->
+        <walk edges="1022840528#1 1022840526#0 -1022840526#1 1022840526#2"/>
+    </person>
+    <person id="ped4767" type="ped_pedestrian" depart="1274.72">
+        <walk edges="-191359750#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.3" depart="2040.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714146#0 247829609#0 -247829615"/>
+    </person>
+    <person id="ped4813" type="ped_pedestrian" depart="1287.02">
+        <walk edges="-191228700#0 191228700#1 -1236887335"/>
+    </person>
+    <person id="ped4845" type="ped_pedestrian" depart="1295.58">
+        <walk edges="191356962#12 -191357935#2 -191356925#2"/>
+    </person>
+    <person id="ped4850" type="ped_pedestrian" depart="1296.91">
+        <walk edges="-191359691#0 191359691#1 191359691#2 -191359728#2 -191359763#3 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2162.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 191356962#10 191356962#11 -191357935#2 -191356925#2 -191356925#1"/>
+    </person>
+    <person id="ped4867" type="ped_pedestrian" depart="1301.46">
+        <walk edges="-191359675#0 191359714 191359763#2 191359654 -191359739#0"/>
+    </person>
+    <person id="ped4889" type="ped_pedestrian" depart="1307.34">
+        <walk edges="191359716 191359691#2 -191359728#2 -191359763#3 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.3" depart="2040.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 192708264#1"/>
+    </person>
+    <person id="ped5050" type="ped_pedestrian" depart="1350.40">
+        <walk edges="-1243413970#1 192708273#2 192708264#1 192708264#2 -192708264#2" busStop="7976140061"/> <!-- Central Park -->
+        <walk edges="1022840528#1 1022840528#0"/>
+    </person>
+    <person id="ped5211" type="ped_pedestrian" depart="1393.45">
+        <walk edges="-193657471#0 193657605 193479986#1 193479984#0 -193479982 193479982"/>
+    </person>
+    <person id="ped5356" type="ped_pedestrian" depart="1432.22">
+        <walk edges="-191324259#2 -191324259#1 -191324238 191324246#1 -191324246#0 191359718#3 -191359715 191359715"/>
+    </person>
+    <person id="ped5426" type="ped_pedestrian" depart="1450.94">
+        <walk edges="191356923#3" busStop="7976140071"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5189265436" lines="2:1" intended="pt_subway_2:1.2" depart="1633.00"/> <!-- Phoolbagan -->
+        <walk edges="-191118882"/>
+    </person>
+    <person id="ped5445" type="ped_pedestrian" depart="1456.02">
+        <walk edges="191359731#1 191359702 191359640#2 191359640#3 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2162.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 191356962#10 191356962#11 -191357935#2 -191356925#2 191357944"/>
+    </person>
+    <person id="ped5472" type="ped_pedestrian" depart="1463.24">
+        <walk edges="-1065785689 191913404#4 -191913403#1 -1065785688 1065785688"/>
+    </person>
+    <person id="ped5647" type="ped_pedestrian" depart="1510.04">
+        <walk edges="191129905#5 191129905#4" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2162.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 -191356962#9"/>
+    </person>
+    <person id="ped5667" type="ped_pedestrian" depart="1515.38">
+        <walk edges="-192065963 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2004.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 -191356962#10"/>
+    </person>
+    <person id="ped5688" type="ped_pedestrian" depart="1521.00">
+        <walk edges="191324259#0 -191359710#1 -191324246#2 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2162.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 191356962#10 191356962#11 -191357935#2 191356925#2"/>
+    </person>
+    <person id="ped5704" type="ped_pedestrian" depart="1525.28">
+        <walk edges="-330489665 -1126633518"/>
+    </person>
+    <person id="ped5760" type="ped_pedestrian" depart="1540.25">
+        <walk edges="-191357941#1 -191357941#0 -191357942#2 -191357942#0 -191356962#12 -191356962#11 -191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.4" depart="2569.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 -192708264#1 -192708264#0"/>
+    </person>
+    <person id="ped5799" type="ped_pedestrian" depart="1550.68">
+        <walk edges="191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2162.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 191356911#0 191356911#1 -191356900#1 191356932#2 -191356931 191356931"/>
+    </person>
+    <person id="ped5925" type="ped_pedestrian" depart="1584.37">
+        <walk edges="-191359638#2 191359690#0 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.4" depart="2640.00"/> <!-- Central Park -->
+        <walk edges="192708247"/>
+    </person>
+    <person id="ped6026" type="ped_pedestrian" depart="1611.38">
+        <walk edges="-191359763#0 191359763#1 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.4" depart="2640.00"/> <!-- Karunamoyee -->
+        <walk edges="192051705#0 -192053101 1022840518"/>
+    </person>
+    <person id="ped6069" type="ped_pedestrian" depart="1622.88">
+        <walk edges="-191359765 -191359728#4 -191359728#3 -191359728#2 -191359763#3 -191359763#2 191359714"/>
+    </person>
+    <person id="ped6156" type="ped_pedestrian" depart="1646.15">
+        <walk edges="191322083#0"/>
+    </person>
+    <person id="ped6162" type="ped_pedestrian" depart="1647.75">
+        <walk edges="115610230#1 -115610230#0 115610213#1 -115610217#1 115610210#1 115610210#2 -115610210#2"/>
+    </person>
+    <person id="ped6316" type="ped_pedestrian" depart="1688.93">
+        <walk edges="191359654 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.4" depart="2640.00"/> <!-- Central Park -->
+        <walk edges="1022840528#1 1022840526#0 -1022840526#1"/>
+    </person>
+    <person id="ped6342" type="ped_pedestrian" depart="1695.88">
+        <walk edges="191359731#0 191359702 191359640#2 191359640#3 191359640#4 191359640#5 191359640#6 191359710#4"/>
+    </person>
+    <person id="ped6351" type="ped_pedestrian" depart="1698.29">
+        <walk edges="192708247" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2004.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 191356909#1 -191356933#1 191356933#0 -191356892#0 191356917#1"/>
+    </person>
+    <person id="ped6413" type="ped_pedestrian" depart="1714.87">
+        <walk edges="235061968#3 235061968#4 -1182673504 -1182673503#0"/>
+    </person>
+    <person id="ped6443" type="ped_pedestrian" depart="1722.89">
+        <walk edges="191324246#2 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="2162.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2"/>
+    </person>
+    <person id="ped6454" type="ped_pedestrian" depart="1725.83">
+        <walk edges="191138579#4 191138594#0"/>
+    </person>
+    <person id="ped6456" type="ped_pedestrian" depart="1726.37">
+        <walk edges="-191356898 -191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 191356911#0 191356911#1 -191356900#1 191356932#2"/>
+    </person>
+    <person id="ped6528" type="ped_pedestrian" depart="1745.62">
+        <walk edges="191118908#1"/>
+    </person>
+    <person id="ped6551" type="ped_pedestrian" depart="1751.77">
+        <walk edges="191129895#1 -191129895#0 191129905#1 191129905#2 191129905#3 191129905#4" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.4" depart="2640.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 -192714141#22 -192714141#20 -192714141#19 247829623 -247829623"/>
+    </person>
+    <person id="ped6638" type="ped_pedestrian" depart="1775.03">
+        <walk edges="-191359731#0 -191359718#5 -191359718#4 -191359718#3 191324246#0"/>
+    </person>
+    <person id="ped6654" type="ped_pedestrian" depart="1779.31">
+        <walk edges="191322456#2" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359710#5 191359710#6 191359710#8 191359710#9"/>
+    </person>
+    <person id="ped6697" type="ped_pedestrian" depart="1790.81">
+        <walk edges="-192062515#2 1192334178 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.3" depart="2004.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <walk edges="191129905#4 -191129905#3 -191129901"/>
+    </person>
+    <person id="ped6748" type="ped_pedestrian" depart="1804.45">
+        <walk edges="247829622 192714141#16 192714141#18 192714141#19 192714141#20 192714141#22 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.3" depart="1933.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 191359750#2"/>
+    </person>
+    <person id="ped6796" type="ped_pedestrian" depart="1817.28">
+        <walk edges="-192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.3" depart="1933.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 -191356962#5 -191356962#4 191356911#0 191356911#1 191356911#2 191356921"/>
+    </person>
+    <person id="ped6919" type="ped_pedestrian" depart="1850.18">
+        <walk edges="191359710#4 -191359710#2 -191324246#2 191324238 191324259#1"/>
+    </person>
+    <person id="ped7175" type="ped_pedestrian" depart="1918.63">
+        <walk edges="-191356921 -191356911#0 191356962#4 191356962#5 -191356934#3 -191356934#2 -191356934#1 -191356934#0 -191356909#1 -191356909#0"/>
+    </person>
+    <person id="ped7222" type="ped_pedestrian" depart="1931.20">
+        <walk edges="193230787#4 -193230787#3 -193230787#2 -193230787#1 -193230787#0 -193230755#7"/>
+    </person>
+    <person id="ped7259" type="ped_pedestrian" depart="1941.09">
+        <walk edges="191091455#1"/>
+    </person>
+    <person id="ped7280" type="ped_pedestrian" depart="1946.71">
+        <walk edges="192708273#2 192708264#1 192708264#2 -192708264#2" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.4" depart="2604.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359710#5 191359646#1 191359648#2"/>
+    </person>
+    <person id="ped7309" type="ped_pedestrian" depart="1954.46">
+        <walk edges="-191356933#0 191356933#1 191356909#2 191356934#1 191356934#2 191356934#3 -191356962#5 -191356962#4"/>
+    </person>
+    <person id="ped7370" type="ped_pedestrian" depart="1970.78">
+        <walk edges="-191356881 -191356934#2"/>
+    </person>
+    <person id="ped7395" type="ped_pedestrian" depart="1977.46">
+        <walk edges="-191129905#0 191129905#1 191129905#2 191129905#3 191129905#4" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.4" depart="2640.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 247829617 -192714150 192714150"/>
+    </person>
+    <person id="ped7512" type="ped_pedestrian" depart="2008.75">
+        <walk edges="191359691#2 -191359728#2 -191359763#3 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.4" depart="2762.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 191356909#0"/>
+    </person>
+    <person id="ped7522" type="ped_pedestrian" depart="2011.42">
+        <walk edges="191359714 -191359675#0 191359750#1 -191359735#1 -191359735#0 -191359648#2 -191359695#2 -191359766"/>
+    </person>
+    <person id="ped7605" type="ped_pedestrian" depart="2033.62">
+        <walk edges="-191033306#1 191033285#0 191033285#1 191033298#2 -191033302#2 -191033302#1 -191033302#0 1242526041#1 1242526042 191034156#1"/>
+    </person>
+    <person id="ped7639" type="ped_pedestrian" depart="2042.71">
+        <walk edges="1170468773 1192334178 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140065" lines="2:1" intended="pt_subway_2:1.4" depart="2604.00"/> <!-- City Centre -->
+        <walk edges="473930202#3 473930202#2"/>
+    </person>
+    <person id="ped7738" type="ped_pedestrian" depart="2069.18">
+        <walk edges="191359724 -191359718#4 -191359718#3 -191359718#2 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 191359763#2 191359763#3 191359728#2 -191359691#2 -191359691#1 -191359691#0 191359726#1"/>
+    </person>
+    <person id="ped7748" type="ped_pedestrian" depart="2071.85">
+        <walk edges="247829609#1 -247829609#0 -192714146#0 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.4" depart="2533.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359766 -191359695#1 -191359639#1 -191359639#0 191359639#0"/>
+    </person>
+    <person id="ped7827" type="ped_pedestrian" depart="2092.98">
+        <walk edges="191359718#3 191324246#0 191324246#1 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.4" depart="2762.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 191356909#1 -191356933#1 -191356933#0"/>
+    </person>
+    <person id="ped7897" type="ped_pedestrian" depart="2111.70">
+        <walk edges="192708286 23104342 192708257#0 192708257#1 192708273#0 192708273#1 192708273#2 192708264#1 192708264#2 -192708264#2" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.5" depart="3204.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 191359710#2 -191359710#4 191359710#5 191359710#6 191359735#0 191359735#1"/>
+    </person>
+    <person id="ped8003" type="ped_pedestrian" depart="2140.04">
+        <walk edges="191359718#1 191359761#0 -191359646#0"/>
+    </person>
+    <person id="ped8032" type="ped_pedestrian" depart="2147.80">
+        <walk edges="193479979#0 193479979#2 193479979#3 -193479986#1 -193654957#3 -193654957#2 -193654957#1 -193654957#0 193654957#0"/>
+    </person>
+    <person id="ped8164" type="ped_pedestrian" depart="2183.09">
+        <walk edges="-191357934#0 191357935#1 191357935#2 -191356962#11 -191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 -192714141#22 -192714141#20 -192714141#19 -192714141#18 -192714141#16 -192714141#15 -192714141#14 -192714141#13"/>
+    </person>
+    <person id="ped8180" type="ped_pedestrian" depart="2187.37">
+        <walk edges="192708273#2 192708264#1 192708264#2 -192708264#2" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.4" depart="2604.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356898"/>
+    </person>
+    <person id="ped8224" type="ped_pedestrian" depart="2199.14">
+        <walk edges="192714141#0 192714141#1 -247829617 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140062" lines="2:1" intended="pt_subway_2:1.4" depart="2533.00"/> <!-- Central Park -->
+        <walk edges="-192065961#0 -192063216#0"/>
+    </person>
+    <person id="ped8261" type="ped_pedestrian" depart="2209.03">
+        <walk edges="191913392#0 191913392#1 191913392#2 191913397#2 191913397#3 191913397#4 191913397#5 -191913401#0"/>
+    </person>
+    <person id="ped8430" type="ped_pedestrian" depart="2254.22">
+        <walk edges="-191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.4" depart="2569.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#1 -191359640#3 -191359640#2 -191359702 191359731#0"/>
+    </person>
+    <person id="ped8552" type="ped_pedestrian" depart="2286.85">
+        <walk edges="191356925#2 191357935#2 -191356962#11 -191356962#10 -191356962#9 191356917#0 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#1 -191359640#3 -191359724 -191359718#5"/>
+    </person>
+    <person id="ped8606" type="ped_pedestrian" depart="2301.29">
+        <walk edges="191359689#0 191359739#0 191359654 -191359763#2 -191359714 -191359675#0 191359750#1 -191359735#1 -191359735#0 -191359710#6 -191359710#5 -191359710#4 -191359710#2 -191324246#2"/>
+    </person>
+    <person id="ped8658" type="ped_pedestrian" depart="2315.19">
+        <walk edges="191912351#2 191912351#3 191912351#4"/>
+    </person>
+    <person id="ped8664" type="ped_pedestrian" depart="2316.80">
+        <walk edges="-192062515#2 1192334178 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.4" depart="2604.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 191359763#2 191359763#3 -191359728#1 -191359689#1"/>
+    </person>
+    <person id="ped8672" type="ped_pedestrian" depart="2318.94">
+        <walk edges="-192714141#18 247829623 -192714141#6 -192714141#5 -247829613"/>
+    </person>
+    <person id="ped8945" type="ped_pedestrian" depart="2391.94">
+        <walk edges="192714141#4 -247829617 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140062" lines="2:1" intended="pt_subway_2:1.4" depart="2533.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 -192708264#1 192708273#2 192708273#1 192708273#0 192708276#0 192708276#1 192708288"/>
+    </person>
+    <person id="ped9020" type="ped_pedestrian" depart="2411.99">
+        <walk edges="-192928841#0 693497608#2"/>
+    </person>
+    <person id="ped9041" type="ped_pedestrian" depart="2417.61">
+        <walk edges="191359726#1 191359691#0 191359691#1 191359691#2 -191359728#2 -191359763#3 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 191359718#2 191359718#3 191359718#4 191359724 -191359640#2 191359640#1"/>
+    </person>
+    <person id="ped9045" type="ped_pedestrian" depart="2418.68">
+        <walk edges="-191356962#7 -191356962#6 -191356934#3 -191356934#2 -191356934#1 -191356916 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714141#23 -192714141#22 247829613 192714141#5"/>
+    </person>
+    <person id="ped9267" type="ped_pedestrian" depart="2478.04">
+        <walk edges="-191356927 -191356914#0 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140064" lines="2:0" intended="pt_subway_2:0.4" depart="2569.00"/> <!-- City Centre -->
+        <walk edges="-363570966 363570966 -473930201"/>
+    </person>
+    <person id="ped9275" type="ped_pedestrian" depart="2480.18">
+        <walk edges="191359710#4 -191359710#2 -191324246#2 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.5" depart="3240.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 -192708264#1 192708273#2"/>
+    </person>
+    <person id="ped9369" type="ped_pedestrian" depart="2505.32">
+        <walk edges="191356926#0 -191356926#0 191356926#1 -191356883#0 191356919#7 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 -631547302#3 -631547302#2 -631547302#1 -631547302#0"/>
+    </person>
+    <person id="ped9417" type="ped_pedestrian" depart="2518.15">
+        <walk edges="191324228#2 191359710#0 -191359710#1 191359710#2 -191359640#6 191359718#0 191359718#1 -191359642"/>
+    </person>
+    <person id="ped9619" type="ped_pedestrian" depart="2572.17">
+        <walk edges="191359718#0 -191359640#5 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.5" depart="3240.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714146#0 247829609#0 247829609#1"/>
+    </person>
+    <person id="ped9750" type="ped_pedestrian" depart="2607.20">
+        <walk edges="191356917#2 -191356917#1 191356892#0 191356933#0 191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140064" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- City Centre -->
+        <walk edges="473930202#3 473930202#2 473930200 473930197#1 473930198#0 473930199"/>
+    </person>
+    <person id="ped9770" type="ped_pedestrian" depart="2612.55">
+        <walk edges="-191359750#1 191359750#2 191359690#1 -191359761#1 191359761#0 191359718#1 -191359642 -191359640#4 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <walk edges="191129905#4 -191129905#3 191129905#2"/>
+    </person>
+    <person id="ped9771" type="ped_pedestrian" depart="2612.81">
+        <walk edges="368911270 -191363016#0 842100864 191356962#2 191356962#3 191356962#4 191356962#5 -191356934#3 -191356934#2 -191356934#1 -191356916 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#2 -191359710#2"/>
+    </person>
+    <person id="ped9806" type="ped_pedestrian" depart="2622.17">
+        <walk edges="-191359718#4 -191359718#3 -191359718#2"/>
+    </person>
+    <person id="ped9931" type="ped_pedestrian" depart="2655.60">
+        <walk edges="192714141#22 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.5" depart="3133.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#2 -191324246#2"/>
+    </person>
+    <person id="ped9956" type="ped_pedestrian" depart="2662.28">
+        <walk edges="-192062515#2 1192334178 1022840528#1" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.5" depart="3204.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 -191359640#3 -191359640#2 -191359702 191359702"/>
+    </person>
+    <person id="ped10172" type="ped_pedestrian" depart="2720.04">
+        <walk edges="191356877 191356882#1 191356919#3 191356919#4 191356919#5 191356919#7 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140061" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Central Park -->
+        <walk edges="-192708264#2 192708264#1"/>
+    </person>
+    <person id="ped10220" type="ped_pedestrian" depart="2732.88">
+        <walk edges="-193230760 193230759#1 193230755#5 193230755#6 193230755#7 193230787#0 193230787#1 193230787#2 193230787#3 -1019992651"/>
+    </person>
+    <person id="ped10246" type="ped_pedestrian" depart="2739.83">
+        <walk edges="191356882#0 191356882#1 191356919#3 191356919#4 191356919#5 191356883#0 191356883#1 191356933#0 -191356892#0 -191356917#0 191356962#9 191356962#10 191356962#11 -191357935#2 -191356925#2 191357944"/>
+    </person>
+    <person id="ped10279" type="ped_pedestrian" depart="2748.66">
+        <walk edges="191359724 191359640#3 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <ride busStop="5777572361" lines="2:0" intended="pt_subway_2:0.5" depart="3240.00"/> <!-- Karunamoyee -->
+        <walk edges="192714141#24 -192714146#0 192714146#1 247829612 247829609#3"/>
+    </person>
+    <person id="ped10321" type="ped_pedestrian" depart="2759.89">
+        <walk edges="191320744#1 -191320744#0 191320744#0"/>
+    </person>
+    <person id="ped10357" type="ped_pedestrian" depart="2769.51">
+        <walk edges="-191324267#1 -191324267#0 191359710#0 -191359710#1 -191324246#2 191324238 191324259#1 -191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.5" depart="3362.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 191356909#1 -191356933#1 191356933#0 -191356892#0 191356917#1 191356917#2"/>
+    </person>
+    <person id="ped10403" type="ped_pedestrian" depart="2781.81">
+        <walk edges="192714150 -247829617 192714141#23 192714141#24" busStop="5189265479"/> <!-- Karunamoyee -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.5" depart="3133.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#2 -191356919#8 191356909#1 -191356933#1 -191356883#1"/>
+    </person>
+    <person id="ped10604" type="ped_pedestrian" depart="2835.56">
+        <walk edges="191034165#2 191034150#0 191034150#2 191034150#3 191034150#5 191034150#6 693239855#2"/>
+    </person>
+    <person id="ped10609" type="ped_pedestrian" depart="2836.90">
+        <walk edges="-191359640#0 191359640#1 191359640#2 191359640#3 191324246#1 191324238 191324259#1 -191324244" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <walk edges="191129905#4 191129909"/>
+    </person>
+    <person id="ped10765" type="ped_pedestrian" depart="2878.62">
+        <walk edges="191356933#1 -191356909#1 191356919#8 191356923#2 -191356923#3" busStop="7976140070"/> <!-- Salt Lake Stadium -->
+        <ride busStop="7976140068" lines="2:0" intended="pt_subway_2:0.5" depart="3169.00"/> <!-- Bengal Chemical -->
+        <walk edges="191324244 -191324259#1 -191324238 191324246#1 191359640#4 -191359642"/>
+    </person>
+    <person id="ped10994" type="ped_pedestrian" depart="2939.85">
+        <walk edges="192065963 -192065961#0" busStop="7976140062"/> <!-- Central Park -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.5" depart="3204.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356881 -191356894#0 191356894#0"/>
+    </person>
+    <person id="ped11025" type="ped_pedestrian" depart="2948.14">
+        <walk edges="473930196#0 473930197#0 473930197#1 473930200 473930202#2 473930202#3" busStop="7976140065"/> <!-- City Centre -->
+        <ride busStop="7976140067" lines="2:1" intended="pt_subway_2:1.5" depart="3278.00"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244 191324244 -191324259#1 -191324238 191324246#1 191359640#4 191359642 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 191359763#2 191359763#3 191359728#2 -191359691#2 -191359691#1 -191359691#0 191359691#0"/>
+    </person>
+    <person id="ped11118" type="ped_pedestrian" depart="2973.01">
+        <walk edges="-192714141#0 192714141#1 -247829617 192714141#23 192714141#24"/>
+    </person>
+    <person id="ped11200" type="ped_pedestrian" depart="2994.94">
+        <walk edges="-191359654 -191359763#2 -191359714 -191359675#0 191359750#1 191359750#2 191359690#1"/>
+    </person>
+    <person id="ped11217" type="ped_pedestrian" depart="2999.48">
+        <walk edges="-191320764 191320734#2 -191320740#1 -191320740#0 191320735#2"/>
+    </person>
+    <person id="ped11535" type="ped_pedestrian" depart="3084.52">
+        <walk edges="-191129909 191129905#4" busStop="7976140068"/> <!-- Bengal Chemical -->
+        <walk edges="-191324244" busStop="7976140067"/> <!-- Bengal Chemical -->
+        <ride busStop="7976140071" lines="2:1" intended="pt_subway_2:1.5" depart="3362.00"/> <!-- Salt Lake Stadium -->
+        <walk edges="-191356923#3 191356914#0 191356914#1 191356879#1 191356934#2 191356934#3 191356962#6 191356962#7 191356962#8 191356962#9 -191356918"/>
+    </person>
+    <person id="ped11591" type="ped_pedestrian" depart="3099.49">
+        <walk edges="191359763#3 191359654 -191359739#0 191359689#1"/>
+    </person>
+    <person id="ped11840" type="ped_pedestrian" depart="3166.08">
+        <walk edges="-1019946360#1 -193659675#1 -193659675#0 193659675#0"/>
+    </person>
+    <person id="ped11937" type="ped_pedestrian" depart="3192.01">
+        <walk edges="-192717956#4 -192717956#3 192717901#1"/>
+    </person>
+    <person id="ped11989" type="ped_pedestrian" depart="3205.92">
+        <walk edges="191319424 191319446#2 191319446#3 -191319427 191319427"/>
+    </person>
+    <person id="ped12151" type="ped_pedestrian" depart="3249.24">
+        <walk edges="191357935#0 191357935#1"/>
+    </person>
+    <person id="ped12358" type="ped_pedestrian" depart="3304.59">
+        <walk edges="191356962#5 -191356962#4 191356911#0 191356911#1 191356900#1"/>
+    </person>
+    <person id="ped12371" type="ped_pedestrian" depart="3308.07">
+        <walk edges="191359718#4 -191359718#3 -191359718#2 -191359718#1 191359761#0 191359761#1 -191359690#1 -191359750#2 -191359750#1 -191359675#0 191359714 191359763#2 191359654 191359739#1"/>
+    </person>
+    <person id="ped12430" type="ped_pedestrian" depart="3323.84">
+        <walk edges="1200738418#2 -1200738418#1 -1200738418#0"/>
+    </person>
+    <person id="ped12534" type="ped_pedestrian" depart="3351.65">
+        <walk edges="-192717901#1 -192717956#2 -192717956#1 192717895#3 -192717895#2 192717895#1"/>
+    </person>
+    <person id="ped12722" type="ped_pedestrian" depart="3401.93">
+        <walk edges="190597345#1 190597782"/>
+    </person>
+    <person id="ped12804" type="ped_pedestrian" depart="3423.85">
+        <walk edges="1192334176 -192063216#1 192065961#0 192065963 1192334178 1170468774 192062515#0"/>
+    </person>
+    <person id="ped12813" type="ped_pedestrian" depart="3426.26">
+        <walk edges="191561446#3 -191561280#3 191561444#0"/>
+    </person>
+    <person id="ped13253" type="ped_pedestrian" depart="3543.92">
+        <walk edges="192392123 190362377#4 190362377#5 190362376#1"/>
+    </person>
+    <person id="ped13428" type="ped_pedestrian" depart="3590.71">
+        <walk edges="191357941#1 -191357941#0 -191357942#2 -191357942#0 -191356962#12 -191356962#11 -191356962#10 -191356962#9 -191356962#8 -191356962#7 -191356962#6 -191356962#5 -191356962#4 -191356962#3 -191356962#2 842100864 191363016#0"/>
+    </person>
+    <person id="ped13458" type="ped_pedestrian" depart="3598.74">
+        <walk edges="191356962#8 -191356962#7 -191356962#6 -191356962#5 -191356894#1 -191356894#0"/>
+    </person>
+</routes>

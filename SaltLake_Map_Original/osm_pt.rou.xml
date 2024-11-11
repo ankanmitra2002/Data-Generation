@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-25 19:23:30.254946 by osmWebWizard.py v1_20_0+0002-343658e7c64
+<configuration>
+    <net-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.net.xml.gz"/>
+    <ptlines-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_ptlines.xml"/>
+    <ptstops-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_stops.add.xml"/>
+    <output-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_pt.rou.xml"/>
+    <stopinfos-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\stopinfos.xml"/>
+    <routes-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\vehroutes.xml"/>
+    <trips-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\trips.trips.xml"/>
+    <min-stops value="0"/>
+    <extend-to-fringe value="True"/>
+    <random-begin value="True"/>
+    <seed value="42"/>
+    <ignore-errors value="True"/>
+    <vtype-prefix value="pt_"/>
+    <verbose value="True"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="pt_bus" vClass="bus"/>
+    <vType id="pt_tram" vClass="tram"/>
+    <vType id="pt_train" vClass="rail"/>
+    <vType id="pt_subway" vClass="subway"/>
+    <vType id="pt_light_rail" vClass="rail_urban"/>
+    <vType id="pt_monorail" vClass="rail_urban"/>
+    <vType id="pt_trolleybus" vClass="bus"/>
+    <vType id="pt_minibus" vClass="bus"/>
+    <vType id="pt_share_taxi" vClass="taxi"/>
+    <vType id="pt_aerialway" vClass="cable_car" length="2.5" width="2" personCapacity="4"/>
+    <vType id="pt_ferry" vClass="ship"/>
+    <route id="pt_tram_17:0" edges="205080226#7" >
+        <stop busStop="2207611901" duration="20" until="36.0"/> <!-- Bidhan Nagar -->
+    </route>
+    <route id="pt_tram_20/17:0" edges="205080226#7" >
+        <stop busStop="2207611901" duration="20" until="36.0"/> <!-- Bidhan Nagar -->
+    </route>
+    <route id="pt_subway_2:1" color="green" edges="535333527#0 535333527#1 535333527#2 535333527#3 1146853686" >
+        <stop busStop="7628479190" duration="20" until="31.0"/> <!-- Salt Lake Sector V -->
+        <stop busStop="5189265479" duration="20" until="118.0"/> <!-- Karunamoyee -->
+        <stop busStop="7976140062" duration="20" until="189.0"/> <!-- Central Park -->
+        <stop busStop="7976140065" duration="20" until="263.0"/> <!-- City Centre -->
+        <stop busStop="7976140067" duration="20" until="347.0"/> <!-- Bengal Chemical -->
+        <stop busStop="7976140071" duration="20" until="418.0"/> <!-- Salt Lake Stadium -->
+        <stop busStop="5189265436" duration="20" until="530.0"/> <!-- Phoolbagan -->
+    </route>
+    <route id="pt_subway_2:0" color="green" edges="1146853675 610018750#0 610018750#1" >
+        <stop busStop="5777572412" duration="20" until="45.0"/> <!-- Phoolbagan -->
+        <stop busStop="7976140070" duration="20" until="154.0"/> <!-- Salt Lake Stadium -->
+        <stop busStop="7976140068" duration="20" until="225.0"/> <!-- Bengal Chemical -->
+        <stop busStop="7976140064" duration="20" until="307.0"/> <!-- City Centre -->
+        <stop busStop="7976140061" duration="20" until="380.0"/> <!-- Central Park -->
+        <stop busStop="5777572361" duration="20" until="450.0"/> <!-- Karunamoyee -->
+        <stop busStop="5777572424" duration="20" until="535.0"/> <!-- Salt Lake Sector V -->
+    </route>
+    <flow id="pt_tram_17:0" type="pt_tram" route="pt_tram_17:0" begin="17.0" end="3617.0" period="600" line="17:0" >
+        <param key="completeness" value="0.50"/>
+    </flow>
+    <flow id="pt_tram_20/17:0" type="pt_tram" route="pt_tram_20/17:0" begin="57.0" end="3657.0" period="600" line="20/17:0" >
+        <param key="completeness" value="1.00"/>
+    </flow>
+    <flow id="pt_subway_2:1" type="pt_subway" route="pt_subway_2:1" begin="15.0" end="3615.0" period="600" line="2:1" >
+        <param key="name" value="Kolkata Metro Line 2 (Salt Lake Sector V → Sealdah)"/>
+        <param key="completeness" value="0.88"/>
+    </flow>
+    <flow id="pt_subway_2:0" type="pt_subway" route="pt_subway_2:0" begin="15.0" end="3615.0" period="600" line="2:0" >
+        <param key="name" value="Kolkata Metro Line 2 (Sealdah → Salt Lake Sector V)"/>
+        <param key="completeness" value="0.88"/>
+    </flow>
+</routes>

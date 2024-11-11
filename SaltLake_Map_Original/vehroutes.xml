@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-25 19:23:27 by Eclipse SUMO sumo Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm.net.xml.gz"/>
+        <route-files value="D:\SW\SUMO\tools\2024-09-25-19-22-37\trips.trips.xml"/>
+        <additional-files value="D:\SW\SUMO\tools\2024-09-25-19-22-37\osm_stops.add.xml"/>
+    </input>
+
+    <output>
+        <vehroute-output value="D:\SW\SUMO\tools\2024-09-25-19-22-37\vehroutes.xml"/>
+        <stop-output value="D:\SW\SUMO\tools\2024-09-25-19-22-37\stopinfos.xml"/>
+    </output>
+
+    <time>
+        <begin value="0.0"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-interval value="0"/>
+    </routing>
+
+    <report>
+        <aggregate-warnings value="5"/>
+        <error-log value="D:\SW\SUMO\tools\2024-09-25-19-22-37\trips.trips.xml.errorlog"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="2_tram_17:0" type="pt_tram" depart="17.00" departLane="0" arrival="57.00">
+        <route edges="205080226#7"/>
+        <stop busStop="2207611901" duration="30.00"/>
+    </vehicle>
+
+    <vehicle id="3_tram_20/17:0" type="pt_tram" depart="57.00" departLane="0" arrival="97.00">
+        <route edges="205080226#7"/>
+        <stop busStop="2207611901" duration="30.00"/>
+    </vehicle>
+
+    <vehicle id="1_subway_2:1" type="pt_subway" depart="15.00" departLane="0" arrival="549.00">
+        <route edges="535333527#0 535333527#1 535333527#2 535333527#3 1146853686"/>
+        <stop busStop="7628479190" duration="30.00"/>
+        <stop busStop="5189265479" duration="30.00"/>
+        <stop busStop="7976140062" duration="30.00"/>
+        <stop busStop="7976140065" duration="30.00"/>
+        <stop busStop="7976140067" duration="30.00"/>
+        <stop busStop="7976140071" duration="30.00"/>
+        <stop busStop="5189265436" duration="30.00"/>
+    </vehicle>
+
+    <vehicle id="0_subway_2:0" type="pt_subway" depart="15.00" departLane="0" arrival="560.00">
+        <route edges="1146853675 610018750#0 610018750#1"/>
+        <stop busStop="5777572412" duration="30.00"/>
+        <stop busStop="7976140070" duration="30.00"/>
+        <stop busStop="7976140068" duration="30.00"/>
+        <stop busStop="7976140064" duration="30.00"/>
+        <stop busStop="7976140061" duration="30.00"/>
+        <stop busStop="5777572361" duration="30.00"/>
+        <stop busStop="5777572424" duration="30.00"/>
+    </vehicle>
+
+</routes>

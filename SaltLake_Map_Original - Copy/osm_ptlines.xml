@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-25 19:23:11 by Eclipse SUMO netconvert Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <type-files value="${SUMO_HOME}/data/typemap/osmNetconvert.typ.xml,${SUMO_HOME}/data/typemap/osmNetconvertUrbanDe.typ.xml,${SUMO_HOME}/data/typemap/osmNetconvertPedestrians.typ.xml,${SUMO_HOME}/data/typemap/osmNetconvertAerialway.typ.xml"/>
+        <osm-files value="osm_bbox.osm.xml.gz"/>
+    </input>
+
+    <output>
+        <output-file value="osm.net.xml.gz"/>
+        <output.street-names value="true"/>
+        <output.original-names value="true"/>
+        <ptstop-output value="osm_stops.add.xml"/>
+        <ptline-output value="osm_ptlines.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+    <processing>
+        <geometry.remove value="true"/>
+        <roundabouts.guess value="true"/>
+        <lefthand value="true"/>
+    </processing>
+
+    <tls_building>
+        <tls.discard-simple value="true"/>
+        <tls.join value="true"/>
+        <tls.guess-signals value="true"/>
+        <tls.default-type value="actuated"/>
+    </tls_building>
+
+    <ramp_guessing>
+        <ramps.guess value="true"/>
+    </ramp_guessing>
+
+    <junctions>
+        <junctions.join value="true"/>
+        <junctions.corner-detail value="5"/>
+    </junctions>
+
+    <pedestrian>
+        <crossings.guess value="true"/>
+    </pedestrian>
+
+    <railway>
+        <railway.topology.repair value="true"/>
+    </railway>
+
+    <formats>
+        <osm.sidewalks value="true"/>
+    </formats>
+
+</configuration>
+-->
+
+<ptLines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/ptlines_file.xsd">
+    <ptLine id="11720071" name="Kolkata Metro Line 2 (Sealdah → Salt Lake Sector V)" line="2" type="subway" vClass="subway" color="green" completeness="0.88" missingBefore="1">
+        <route edges="1146853675 610018750#0 610018750#1"/>
+        <busStop id="5777572412" name="Phoolbagan"/>
+        <busStop id="7976140070" name="Salt Lake Stadium"/>
+        <busStop id="7976140068" name="Bengal Chemical"/>
+        <busStop id="7976140064" name="City Centre"/>
+        <busStop id="7976140061" name="Central Park"/>
+        <busStop id="5777572361" name="Karunamoyee"/>
+        <busStop id="5777572424" name="Salt Lake Sector V"/>
+    </ptLine>
+    <ptLine id="11720072" name="Kolkata Metro Line 2 (Salt Lake Sector V → Sealdah)" line="2" type="subway" vClass="subway" color="green" completeness="0.88" missingAfter="1">
+        <route edges="535333527#0 535333527#1 535333527#2 535333527#3 1146853686"/>
+        <busStop id="7628479190" name="Salt Lake Sector V"/>
+        <busStop id="5189265479" name="Karunamoyee"/>
+        <busStop id="7976140062" name="Central Park"/>
+        <busStop id="7976140065" name="City Centre"/>
+        <busStop id="7976140067" name="Bengal Chemical"/>
+        <busStop id="7976140071" name="Salt Lake Stadium"/>
+        <busStop id="5189265436" name="Phoolbagan"/>
+    </ptLine>
+    <ptLine id="2753056" line="17" type="tram" vClass="tram" completeness="0.50" missingBefore="1">
+        <route edges="-205080225#11 -205080225#10 -205080225#9 -205080225#8 -205080225#7 -205080225#5 -205080225#3 -205080225#1 -205080225#0 -205080226#6 -205080226#5 -205080226#4 -205080226#2 -205080226#1 -205080226#0"/>
+        <busStop id="2207611901" name="Bidhan Nagar"/>
+    </ptLine>
+    <ptLine id="2753057" line="20/17" type="tram" vClass="tram" completeness="1.00">
+        <route edges="-205080225#11 -205080225#10 -205080225#9 -205080225#8 -205080225#7 -205080225#5 -205080225#3 -205080225#1 -205080225#0 -205080226#6 -205080226#5 -205080226#4 -205080226#2 -205080226#1 -205080226#0"/>
+        <busStop id="2207611901" name="Bidhan Nagar"/>
+    </ptLine>
+    <ptLine id="3221981" line="173" type="bus" vClass="bus" completeness="0.00" missingBefore="1" missingAfter="3"/>
+    <ptLine id="3221986" line="Barasat Baruipur" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221987" line="C-18" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221988" line="DN-16" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221989" line="Dhamakhali Barasat" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="1"/>
+    <ptLine id="3221990" line="GLS-11" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221991" line="IC-21" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221992" line="JM-2" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221993" line="RT-007" type="bus" vClass="bus" completeness="0.00" missingBefore="3" missingAfter="3"/>
+    <ptLine id="3221994" line="RT-239" type="bus" vClass="bus" completeness="0.00" missingBefore="1" missingAfter="3"/>
+</ptLines>

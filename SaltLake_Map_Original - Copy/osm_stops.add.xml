@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-25 19:23:11 by Eclipse SUMO netconvert Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <type-files value="${SUMO_HOME}/data/typemap/osmNetconvert.typ.xml,${SUMO_HOME}/data/typemap/osmNetconvertUrbanDe.typ.xml,${SUMO_HOME}/data/typemap/osmNetconvertPedestrians.typ.xml,${SUMO_HOME}/data/typemap/osmNetconvertAerialway.typ.xml"/>
+        <osm-files value="osm_bbox.osm.xml.gz"/>
+    </input>
+
+    <output>
+        <output-file value="osm.net.xml.gz"/>
+        <output.street-names value="true"/>
+        <output.original-names value="true"/>
+        <ptstop-output value="osm_stops.add.xml"/>
+        <ptline-output value="osm_ptlines.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+    <processing>
+        <geometry.remove value="true"/>
+        <roundabouts.guess value="true"/>
+        <lefthand value="true"/>
+    </processing>
+
+    <tls_building>
+        <tls.discard-simple value="true"/>
+        <tls.join value="true"/>
+        <tls.guess-signals value="true"/>
+        <tls.default-type value="actuated"/>
+    </tls_building>
+
+    <ramp_guessing>
+        <ramps.guess value="true"/>
+    </ramp_guessing>
+
+    <junctions>
+        <junctions.join value="true"/>
+        <junctions.corner-detail value="5"/>
+    </junctions>
+
+    <pedestrian>
+        <crossings.guess value="true"/>
+    </pedestrian>
+
+    <railway>
+        <railway.topology.repair value="true"/>
+    </railway>
+
+    <formats>
+        <osm.sidewalks value="true"/>
+    </formats>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="-2207611901" name="Bidhan Nagar" lane="-205080225#0_0" startPos="13.84" endPos="38.84" friendlyPos="true">
+        <access lane="-189921793#0_0" pos="0.00" length="34.54" friendlyPos="1"/>
+        <access lane="115879811_0" pos="0.00" length="152.74" friendlyPos="1"/>
+        <access lane="115879812_0" pos="0.00" length="169.21" friendlyPos="1"/>
+        <access lane="115879814_0" pos="0.00" length="171.98" friendlyPos="1"/>
+        <access lane="189921793#0_0" pos="43.29" length="38.48" friendlyPos="1"/>
+    </busStop>
+    <busStop id="11975930340" name="Sector - V" lane="158013562#27_0" startPos="0.00" endPos="6.30" friendlyPos="true">
+        <access lane="-1207094243#1_0" pos="26.74" length="88.03" friendlyPos="1"/>
+        <access lane="-1209999641_0" pos="0.00" length="29.75" friendlyPos="1"/>
+        <access lane="-193478513_0" pos="33.32" length="56.32" friendlyPos="1"/>
+        <access lane="1209999641_0" pos="56.74" length="25.03" friendlyPos="1"/>
+        <access lane="193478513_0" pos="0.00" length="59.83" friendlyPos="1"/>
+    </busStop>
+    <busStop id="11982377441" name="Sector - V (2)" lane="158014642#3_0" startPos="0.00" endPos="3.97" friendlyPos="true">
+        <access lane="-1217032012#0_0" pos="0.00" length="141.46" friendlyPos="1"/>
+        <access lane="-1217032012#1_0" pos="0.00" length="139.48" friendlyPos="1"/>
+        <access lane="-804120982_0" pos="0.00" length="87.88" friendlyPos="1"/>
+        <access lane="720156971_0" pos="423.19" length="23.11" friendlyPos="1"/>
+        <access lane="804120982_0" pos="97.04" length="83.10" friendlyPos="1"/>
+    </busStop>
+    <busStop id="11982377442" name="Sector - V" lane="1019992644#1_0" startPos="0.00" endPos="0.51" friendlyPos="true">
+        <access lane="-1207094243#1_0" pos="26.74" length="92.66" friendlyPos="1"/>
+        <access lane="-1209999641_0" pos="0.00" length="36.77" friendlyPos="1"/>
+        <access lane="-193478513_0" pos="33.32" length="46.19" friendlyPos="1"/>
+        <access lane="1209999641_0" pos="56.74" length="33.04" friendlyPos="1"/>
+        <access lane="193478513_0" pos="0.00" length="48.77" friendlyPos="1"/>
+    </busStop>
+    <busStop id="1702530312" name="Technopolis" lane="1216156367#2_0" startPos="0.00" endPos="15.00" friendlyPos="true">
+        <access lane="-1029975644_0" pos="134.76" length="106.71" friendlyPos="1"/>
+        <access lane="-1200754194_0" pos="0.00" length="87.05" friendlyPos="1"/>
+        <access lane="-194275016_0" pos="0.00" length="135.40" friendlyPos="1"/>
+        <access lane="1019992614_0" pos="122.67" length="91.84" friendlyPos="1"/>
+        <access lane="1029975644_0" pos="0.00" length="102.19" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2141425962" name="Bidhannagar Road" lane="204140137_0" startPos="720.33" endPos="920.33" friendlyPos="true">
+        <access lane="115879795#1_0" pos="0.00" length="135.96" friendlyPos="1"/>
+        <access lane="115879811_0" pos="11.59" length="67.58" friendlyPos="1"/>
+        <access lane="115879812_0" pos="0.00" length="52.84" friendlyPos="1"/>
+        <access lane="115879814_0" pos="0.00" length="82.47" friendlyPos="1"/>
+        <access lane="220084838_0" pos="26.08" length="135.77" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2141425973" name="Bidhannagar Road" lane="204128934#0_0" startPos="720.84" endPos="920.84" friendlyPos="true">
+        <access lane="115879795#1_0" pos="11.27" length="135.71" friendlyPos="1"/>
+        <access lane="115879811_0" pos="11.59" length="60.48" friendlyPos="1"/>
+        <access lane="115879812_0" pos="0.00" length="62.07" friendlyPos="1"/>
+        <access lane="115879814_0" pos="0.00" length="77.25" friendlyPos="1"/>
+        <access lane="220084838_0" pos="26.08" length="138.00" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2207611901" name="Bidhan Nagar" lane="205080226#7_0" startPos="9.01" endPos="34.01" friendlyPos="true">
+        <access lane="-189921793#0_0" pos="0.00" length="34.54" friendlyPos="1"/>
+        <access lane="115879811_0" pos="0.00" length="152.74" friendlyPos="1"/>
+        <access lane="115879812_0" pos="0.00" length="169.21" friendlyPos="1"/>
+        <access lane="115879814_0" pos="0.00" length="171.98" friendlyPos="1"/>
+        <access lane="189921793#0_0" pos="43.29" length="38.48" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5189265436" name="Phoolbagan" lane="1146853686_0" startPos="810.33" endPos="1010.33" friendlyPos="true" lines="2">
+        <access lane="-191118882_0" pos="0.00" length="145.31" friendlyPos="1"/>
+        <access lane="-191118887#0_0" pos="0.00" length="121.80" friendlyPos="1"/>
+        <access lane="-191118887#1_0" pos="13.31" length="103.30" friendlyPos="1"/>
+        <access lane="191118887#0_0" pos="47.29" length="120.01" friendlyPos="1"/>
+        <access lane="191118887#1_0" pos="29.76" length="108.10" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5189265479" name="Karunamoyee" lane="535333527#1_0" startPos="1034.20" endPos="1234.20" friendlyPos="true" lines="2">
+        <access lane="-192714141#24_0" pos="0.00" length="46.73" friendlyPos="1"/>
+        <access lane="-794300462_0" pos="125.09" length="22.98" friendlyPos="1"/>
+        <access lane="192051705#0_0" pos="0.00" length="49.62" friendlyPos="1"/>
+        <access lane="192714141#24_0" pos="4.81" length="42.20" friendlyPos="1"/>
+        <access lane="794300462_0" pos="0.00" length="20.17" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5777572361" name="Karunamoyee" lane="610018750#0_0" startPos="4303.91" endPos="4503.91" friendlyPos="true" lines="2">
+        <access lane="-192051705#0_0" pos="184.39" length="46.21" friendlyPos="1"/>
+        <access lane="-794300462_0" pos="125.09" length="29.42" friendlyPos="1"/>
+        <access lane="192051705#0_0" pos="0.00" length="43.07" friendlyPos="1"/>
+        <access lane="192714141#24_0" pos="4.81" length="44.49" friendlyPos="1"/>
+        <access lane="794300462_0" pos="0.00" length="27.11" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5777572412" name="Phoolbagan" lane="1146853675_0" startPos="29.36" endPos="229.36" friendlyPos="true" lines="2">
+        <access lane="-191118882_0" pos="0.00" length="138.33" friendlyPos="1"/>
+        <access lane="-191118887#0_0" pos="0.00" length="111.78" friendlyPos="1"/>
+        <access lane="-191118887#1_0" pos="14.22" length="92.83" friendlyPos="1"/>
+        <access lane="191118887#0_0" pos="47.29" length="109.88" friendlyPos="1"/>
+        <access lane="191118887#1_0" pos="28.85" length="97.63" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5777572424" name="Salt Lake Sector V" lane="610018750#1_0" startPos="2.75" endPos="202.75" friendlyPos="true" lines="2">
+        <access lane="-1019992664_0" pos="0.00" length="131.13" friendlyPos="1"/>
+        <access lane="-1019992665_0" pos="156.78" length="121.53" friendlyPos="1"/>
+        <access lane="1019992664_0" pos="63.64" length="133.55" friendlyPos="1"/>
+        <access lane="1019992665_0" pos="26.34" length="116.73" friendlyPos="1"/>
+        <access lane="1019993845_0" pos="38.10" length="120.09" friendlyPos="1"/>
+    </busStop>
+    <busStop id="664440061" name="Bidhannagar Road" lane="92642063_0" startPos="1394.99" endPos="1594.99" friendlyPos="true">
+        <access lane="115879795#1_0" pos="0.00" length="135.42" friendlyPos="1"/>
+        <access lane="115879811_0" pos="11.59" length="64.71" friendlyPos="1"/>
+        <access lane="115879812_0" pos="0.00" length="53.89" friendlyPos="1"/>
+        <access lane="115879814_0" pos="0.00" length="80.19" friendlyPos="1"/>
+        <access lane="220084838_0" pos="26.08" length="135.57" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7468327498" name="Tank No. 4" lane="158821466#1_0" startPos="169.11" endPos="184.11" friendlyPos="true">
+        <access lane="-1173253099#5_0" pos="0.00" length="235.35" friendlyPos="1"/>
+        <access lane="1173253099#5_0" pos="40.87" length="230.60" friendlyPos="1"/>
+        <access lane="153554005_0" pos="18.82" length="81.32" friendlyPos="1"/>
+        <access lane="160026378_0" pos="21.06" length="262.79" friendlyPos="1"/>
+        <access lane="349738527_0" pos="0.00" length="101.79" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7628479190" name="Salt Lake Sector V" lane="535333527#0_0" startPos="0.00" endPos="75.39" friendlyPos="true" lines="2">
+        <access lane="-1019992664_0" pos="0.00" length="122.66" friendlyPos="1"/>
+        <access lane="-1019992665_0" pos="157.67" length="112.96" friendlyPos="1"/>
+        <access lane="1019992664_0" pos="63.64" length="125.14" friendlyPos="1"/>
+        <access lane="1019992665_0" pos="25.44" length="108.16" friendlyPos="1"/>
+        <access lane="1019993845_0" pos="40.56" length="112.24" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140061" name="Central Park" lane="610018750#0_0" startPos="3487.96" endPos="3687.96" friendlyPos="true" lines="2">
+        <access lane="-192065961#0_0" pos="101.74" length="67.22" friendlyPos="1"/>
+        <access lane="-192708264#2_0" pos="0.00" length="60.14" friendlyPos="1"/>
+        <access lane="1022840528#1_0" pos="68.75" length="35.69" friendlyPos="1"/>
+        <access lane="192708247_0" pos="72.14" length="25.19" friendlyPos="1"/>
+        <access lane="192708264#2_0" pos="67.10" length="64.35" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140062" name="Central Park" lane="535333527#1_0" startPos="1844.87" endPos="2044.87" friendlyPos="true" lines="2">
+        <access lane="-192065961#0_0" pos="101.74" length="73.51" friendlyPos="1"/>
+        <access lane="-192708264#2_0" pos="0.00" length="57.65" friendlyPos="1"/>
+        <access lane="1022840528#1_0" pos="68.93" length="42.28" friendlyPos="1"/>
+        <access lane="192708247_0" pos="72.14" length="21.71" friendlyPos="1"/>
+        <access lane="192708264#2_0" pos="67.10" length="62.06" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140064" name="City Centre" lane="610018750#0_0" startPos="2575.46" endPos="2775.46" friendlyPos="true" lines="2">
+        <access lane="-363570966_0" pos="64.08" length="85.73" friendlyPos="1"/>
+        <access lane="363570966_0" pos="0.00" length="86.03" friendlyPos="1"/>
+        <access lane="473930202#3_0" pos="2.53" length="126.35" friendlyPos="1"/>
+        <access lane="473930203_0" pos="20.19" length="120.19" friendlyPos="1"/>
+        <access lane="473930204_0" pos="20.44" length="101.90" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140065" name="City Centre" lane="535333527#2_0" startPos="287.61" endPos="487.61" friendlyPos="true" lines="2">
+        <access lane="-363570966_0" pos="64.08" length="92.60" friendlyPos="1"/>
+        <access lane="363570966_0" pos="0.00" length="92.90" friendlyPos="1"/>
+        <access lane="473930202#3_0" pos="2.53" length="130.10" friendlyPos="1"/>
+        <access lane="473930203_0" pos="20.19" length="122.22" friendlyPos="1"/>
+        <access lane="473930204_0" pos="20.44" length="106.80" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140067" name="Bengal Chemical" lane="535333527#3_0" startPos="759.93" endPos="959.93" friendlyPos="true" lines="2">
+        <access lane="-191322456#1_0" pos="0.00" length="97.75" friendlyPos="1"/>
+        <access lane="-191322456#2_0" pos="18.20" length="60.53" friendlyPos="1"/>
+        <access lane="-191324244_0" pos="76.65" length="12.17" friendlyPos="1"/>
+        <access lane="191322456#2_0" pos="36.20" length="65.81" friendlyPos="1"/>
+        <access lane="191324244_0" pos="0.00" length="15.75" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140068" name="Bengal Chemical" lane="610018750#0_0" startPos="1422.46" endPos="1622.46" friendlyPos="true" lines="2">
+        <access lane="-191322456#2_0" pos="18.20" length="69.15" friendlyPos="1"/>
+        <access lane="-191324244_0" pos="76.65" length="20.02" friendlyPos="1"/>
+        <access lane="191129905#4_0" pos="33.30" length="100.84" friendlyPos="1"/>
+        <access lane="191322456#2_0" pos="36.20" length="74.43" friendlyPos="1"/>
+        <access lane="191324244_0" pos="0.00" length="22.67" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140070" name="Salt Lake Stadium" lane="610018750#0_0" startPos="626.37" endPos="826.37" friendlyPos="true" lines="2">
+        <access lane="-191356923#2_0" pos="0.00" length="43.72" friendlyPos="1"/>
+        <access lane="-191356923#3_0" pos="2.24" length="37.52" friendlyPos="1"/>
+        <access lane="-191356923#4_0" pos="39.13" length="41.27" friendlyPos="1"/>
+        <access lane="191356923#3_0" pos="3.65" length="42.32" friendlyPos="1"/>
+        <access lane="191356923#4_0" pos="0.00" length="45.67" friendlyPos="1"/>
+    </busStop>
+    <busStop id="7976140071" name="Salt Lake Stadium" lane="535333527#3_0" startPos="1555.83" endPos="1755.83" friendlyPos="true" lines="2">
+        <access lane="-191356923#2_0" pos="0.00" length="38.79" friendlyPos="1"/>
+        <access lane="-191356923#3_0" pos="1.60" length="31.20" friendlyPos="1"/>
+        <access lane="-191356923#4_0" pos="39.13" length="35.18" friendlyPos="1"/>
+        <access lane="191356923#3_0" pos="4.29" length="36.00" friendlyPos="1"/>
+        <access lane="191356923#4_0" pos="0.00" length="39.49" friendlyPos="1"/>
+    </busStop>
+</additional>

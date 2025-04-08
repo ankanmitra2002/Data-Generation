@@ -1,602 +1,162 @@
-[
-    {
-        "id": "p0",
-        "source": "bs_1",
-        "destination": "ch_up_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p1",
-        "source": "5777572361",
-        "destination": "5777572424",
-        "route": "r_0"
-    },
-    {
-        "id": "p2",
-        "source": "7976140067",
-        "destination": "7n_tnk_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p3",
-        "source": "2207611901",
-        "destination": "nlbh_uo_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p4",
-        "source": "no_up_1",
-        "destination": "5189265479",
-        "route": "r_1"
-    },
-    {
-        "id": "p5",
-        "source": "1702530312",
-        "destination": "kp_down",
-        "route": "r_1"
-    },
-    {
-        "id": "p6",
-        "source": "inox_up",
-        "destination": "lp_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p7",
-        "source": "7976140067",
-        "destination": "cit_m_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p8",
-        "source": "gg_up",
-        "destination": "5189265436",
-        "route": "r_0"
-    },
-    {
-        "id": "p9",
-        "source": "gg_up",
-        "destination": "ch_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p10",
-        "source": "np_down_1",
-        "destination": "kp_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p11",
-        "source": "2207611901",
-        "destination": "664440061",
-        "route": "r_0"
-    },
-    {
-        "id": "p12",
-        "source": "11982377442",
-        "destination": "inox_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p13",
-        "source": "5777572412",
-        "destination": "lt_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p14",
-        "source": "11975930340",
-        "destination": "5189265479",
-        "route": "r_0"
-    },
-    {
-        "id": "p15",
-        "source": "7628479190",
-        "destination": "gg_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p16",
-        "source": "7n_tnk_down",
-        "destination": "cit_m_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p17",
-        "source": "7976140067",
-        "destination": "7976140062",
-        "route": "r_0"
-    },
-    {
-        "id": "p18",
-        "source": "664440061",
-        "destination": "bm_down_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p19",
-        "source": "7976140067",
-        "destination": "lp_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p20",
-        "source": "bm_down_1",
-        "destination": "lp_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p21",
-        "source": "cm_up_1",
-        "destination": "11975930340",
-        "route": "r_0"
-    },
-    {
-        "id": "p22",
-        "source": "gg_down",
-        "destination": "cm_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p23",
-        "source": "2207611901",
-        "destination": "lp_down_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p24",
-        "source": "cm_up_1",
-        "destination": "gg_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p25",
-        "source": "7976140068",
-        "destination": "2207611901",
-        "route": "r_0"
-    },
-    {
-        "id": "p26",
-        "source": "2207611901",
-        "destination": "11982377441",
-        "route": "r_1"
-    },
-    {
-        "id": "p27",
-        "source": "5777572412",
-        "destination": "gd_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p28",
-        "source": "bm_up_1",
-        "destination": "cm_up_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p29",
-        "source": "2207611901",
-        "destination": "lp_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p30",
-        "source": "cit_m_up",
-        "destination": "no_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p31",
-        "source": "jvk_1",
-        "destination": "7976140062",
-        "route": "r_0"
-    },
-    {
-        "id": "p32",
-        "source": "7976140065",
-        "destination": "kp_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p33",
-        "source": "11982377441",
-        "destination": "cit_m_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p34",
-        "source": "5189265479",
-        "destination": "no_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p35",
-        "source": "gd_down",
-        "destination": "5777572361",
-        "route": "r_0"
-    },
-    {
-        "id": "p36",
-        "source": "lp_up_1",
-        "destination": "664440061",
-        "route": "r_1"
-    },
-    {
-        "id": "p37",
-        "source": "lp_up_1",
-        "destination": "gd_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p38",
-        "source": "cit_m_down",
-        "destination": "kp_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p39",
-        "source": "ch_up_1",
-        "destination": "5189265479",
-        "route": "r_1"
-    },
-    {
-        "id": "p40",
-        "source": "7976140068",
-        "destination": "7976140071",
-        "route": "r_1"
-    },
-    {
-        "id": "p41",
-        "source": "jvk_1",
-        "destination": "-2207611901",
-        "route": "r_1"
-    },
-    {
-        "id": "p42",
-        "source": "nlbh_uo_1",
-        "destination": "gd_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p43",
-        "source": "5189265436",
-        "destination": "664440061",
-        "route": "r_0"
-    },
-    {
-        "id": "p44",
-        "source": "7976140070",
-        "destination": "kkg_r",
-        "route": "r_0"
-    },
-    {
-        "id": "p45",
-        "source": "ch_up_1",
-        "destination": "5777572424",
-        "route": "r_1"
-    },
-    {
-        "id": "p46",
-        "source": "gd_down",
-        "destination": "ch_down_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p47",
-        "source": "np_down_1",
-        "destination": "gd_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p48",
-        "source": "7976140061",
-        "destination": "lt_down",
-        "route": "r_1"
-    },
-    {
-        "id": "p49",
-        "source": "cm_up_1",
-        "destination": "11982377441",
-        "route": "r_1"
-    },
-    {
-        "id": "p50",
-        "source": "lt_down",
-        "destination": "gd_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p51",
-        "source": "7976140065",
-        "destination": "5777572412",
-        "route": "r_0"
-    },
-    {
-        "id": "p52",
-        "source": "bm_down_1",
-        "destination": "no_up_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p53",
-        "source": "bm_up_1",
-        "destination": "7n_tnk_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p54",
-        "source": "kkg_up",
-        "destination": "11982377441",
-        "route": "r_1"
-    },
-    {
-        "id": "p55",
-        "source": "bs_0",
-        "destination": "kkg_down",
-        "route": "r_1"
-    },
-    {
-        "id": "p56",
-        "source": "inox_up",
-        "destination": "11982377442",
-        "route": "r_1"
-    },
-    {
-        "id": "p57",
-        "source": "11975930340",
-        "destination": "gd_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p58",
-        "source": "7n_tnk_down",
-        "destination": "gg_up",
-        "route": "r_1"
-    },
-    {
-        "id": "p59",
-        "source": "gd_up",
-        "destination": "664440061",
-        "route": "r_1"
-    },
-    {
-        "id": "p60",
-        "source": "lp_down_1",
-        "destination": "7468327498",
-        "route": "r_0"
-    },
-    {
-        "id": "p61",
-        "source": "7976140064",
-        "destination": "gd_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p62",
-        "source": "lt_up",
-        "destination": "gg_down",
-        "route": "r_1"
-    },
-    {
-        "id": "p63",
-        "source": "kp_up",
-        "destination": "7468327498",
-        "route": "r_1"
-    },
-    {
-        "id": "p64",
-        "source": "cm_up_1",
-        "destination": "11982377442",
-        "route": "r_1"
-    },
-    {
-        "id": "p65",
-        "source": "5189265479",
-        "destination": "jvk_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p66",
-        "source": "kp_down",
-        "destination": "jvk_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p67",
-        "source": "7976140061",
-        "destination": "no_up_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p68",
-        "source": "7468327498",
-        "destination": "amri_hos",
-        "route": "r_0"
-    },
-    {
-        "id": "p69",
-        "source": "7976140071",
-        "destination": "5189265436",
-        "route": "r_0"
-    },
-    {
-        "id": "p70",
-        "source": "lt_up",
-        "destination": "11975930340",
-        "route": "r_1"
-    },
-    {
-        "id": "p71",
-        "source": "11975930340",
-        "destination": "7468327498",
-        "route": "r_0"
-    },
-    {
-        "id": "p72",
-        "source": "cit_m_up",
-        "destination": "5777572424",
-        "route": "r_1"
-    },
-    {
-        "id": "p73",
-        "source": "lp_up_1",
-        "destination": "lt_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p74",
-        "source": "bs_1",
-        "destination": "lp_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p75",
-        "source": "11982377441",
-        "destination": "ch_up_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p76",
-        "source": "7628479190",
-        "destination": "7976140068",
-        "route": "r_1"
-    },
-    {
-        "id": "p77",
-        "source": "kkg_up",
-        "destination": "cm_up_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p78",
-        "source": "nlbh_uo_1",
-        "destination": "cm_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p79",
-        "source": "5189265436",
-        "destination": "1702530312",
-        "route": "r_1"
-    },
-    {
-        "id": "p80",
-        "source": "gd_down",
-        "destination": "2141425973",
-        "route": "r_0"
-    },
-    {
-        "id": "p81",
-        "source": "gg_up",
-        "destination": "inox_down",
-        "route": "r_0"
-    },
-    {
-        "id": "p82",
-        "source": "kp_up",
-        "destination": "2141425973",
-        "route": "r_0"
-    },
-    {
-        "id": "p83",
-        "source": "lp_up_1",
-        "destination": "bs_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p84",
-        "source": "lt_up",
-        "destination": "7976140065",
-        "route": "r_0"
-    },
-    {
-        "id": "p85",
-        "source": "5777572361",
-        "destination": "bs_1",
-        "route": "r_0"
-    },
-    {
-        "id": "p86",
-        "source": "cm_up_1",
-        "destination": "7976140065",
-        "route": "r_0"
-    },
-    {
-        "id": "p87",
-        "source": "7976140068",
-        "destination": "5777572361",
-        "route": "r_1"
-    },
-    {
-        "id": "p88",
-        "source": "11975930340",
-        "destination": "kp_down",
-        "route": "r_1"
-    },
-    {
-        "id": "p89",
-        "source": "bm_up_1",
-        "destination": "lp_up_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p90",
-        "source": "2141425973",
-        "destination": "gg_up",
-        "route": "r_0"
-    },
-    {
-        "id": "p91",
-        "source": "7n_tnk_down",
-        "destination": "2141425973",
-        "route": "r_0"
-    },
-    {
-        "id": "p92",
-        "source": "kkg_l",
-        "destination": "nlbh_uo_1",
-        "route": "r_1"
-    },
-    {
-        "id": "p93",
-        "source": "5777572424",
-        "destination": "kkg_l",
-        "route": "r_1"
-    },
-    {
-        "id": "p94",
-        "source": "kp_down",
-        "destination": "kkg_r",
-        "route": "r_0"
-    },
-    {
-        "id": "p95",
-        "source": "gd_down",
-        "destination": "kkg_l",
-        "route": "r_0"
-    },
-    {
-        "id": "p96",
-        "source": "kkg_l",
-        "destination": "kkg_r",
-        "route": "r_1"
-    },
-    {
-        "id": "p97",
-        "source": "7976140070",
-        "destination": "2141425973",
-        "route": "r_0"
-    },
-    {
-        "id": "p98",
-        "source": "kkg_r",
-        "destination": "1702530312",
-        "route": "r_1"
-    },
-    {
-        "id": "p99",
-        "source": "inox_down",
-        "destination": "jvk_1",
-        "route": "r_1"
+{
+    "P0": {
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade"
+    },
+    "P1": {
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P2": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P3": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P4": {
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Garia"
+    },
+    "P5": {
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P6": {
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P7": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P8": {
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P9": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P10": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore"
+    },
+    "P11": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "Daber More"
+    },
+    "P12": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kalighat"
+    },
+    "P13": {
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Garia"
+    },
+    "P14": {
+        "source": [
+            "Garia",
+            "Kamalgazi",
+            "Narendrapur"
+        ],
+        "destination": "Sonarpur"
+    },
+    "P15": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Hazra"
+    },
+    "P16": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba"
+    },
+    "P17": {
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road"
+    },
+    "P18": {
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar"
+    },
+    "P19": {
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur"
     }
-]
+}

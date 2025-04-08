@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2025-03-16 23:41:16 by Eclipse SUMO netedit Version 1.20.0
+<!-- generated on 2025-04-03 09:48:10 by Eclipse SUMO netedit Version 1.20.0
 -->
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <!-- Routes -->
-    <route id="r_0" edges="158640634 -158640634 158640634 -158640620#0 158640620#0 158640638"/>
-    <route id="r_1" edges="1174200828 -158640620#2"/>
-    <!-- Vehicles, persons and containers (sorted by depart) -->
-    <person id="p_0" depart="0.00">
-        <personTrip from="-158320876#3" to="-158308569#1"/>
-    </person>
-    <person id="p_1" depart="0.00">
-        <personTrip from="156324979#0" to="264303734"/>
-    </person>
+    <!-- VTypes -->
+    <vType id="bus" vClass="bus"/>
 </routes>

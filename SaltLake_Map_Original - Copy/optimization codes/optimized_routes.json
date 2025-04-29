@@ -1,0 +1,185 @@
+{
+    "assignments": [
+        {
+            "passenger": "P0",
+            "route": "r8",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade"
+            ]
+        },
+        {
+            "passenger": "P1",
+            "route": "r19",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Phoolbagan",
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ]
+        },
+        {
+            "passenger": "P2",
+            "route": "r16",
+            "stops": [
+                "Shibpur",
+                "Alipore",
+                "Tollygunge",
+                "Garia"
+            ]
+        },
+        {
+            "passenger": "P3",
+            "route": "r26",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ]
+        },
+        {
+            "passenger": "P4",
+            "route": "r19",
+            "stops": [
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ]
+        },
+        {
+            "passenger": "P5",
+            "route": "r39",
+            "stops": [
+                "SN Banerjee",
+                "Esplanade",
+                "Park Street",
+                "Rabindra Sadan"
+            ]
+        },
+        {
+            "passenger": "P6",
+            "route": "r34",
+            "stops": [
+                "Kalighat",
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ]
+        },
+        {
+            "passenger": "P7",
+            "route": "r20",
+            "stops": [
+                "Airport Gate No. 1",
+                "VIP Road",
+                "New Town",
+                "Eco Park"
+            ]
+        },
+        {
+            "passenger": "P8",
+            "route": "r5",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Esplanade"
+            ]
+        },
+        {
+            "passenger": "P9",
+            "route": "r44",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ]
+        },
+        {
+            "passenger": "P10",
+            "route": "r52",
+            "stops": [
+                "Esplanade",
+                "Park Street",
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore"
+            ]
+        },
+        {
+            "passenger": "P11",
+            "route": "r0",
+            "stops": [
+                "New Town",
+                "Unitech",
+                "Eco Space",
+                "Aliah University",
+                "Daber More"
+            ]
+        },
+        {
+            "passenger": "P12",
+            "route": "r4",
+            "stops": [
+                "Jadavpur",
+                "Kalighat"
+            ]
+        },
+        {
+            "passenger": "P13",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ]
+        },
+        {
+            "passenger": "P14",
+            "route": "r46",
+            "stops": [
+                "Garia",
+                "Kamalgazi",
+                "Narendrapur",
+                "Sonarpur"
+            ]
+        },
+        {
+            "passenger": "P15",
+            "route": "r6",
+            "stops": [
+                "Kasba",
+                "Bosepukur",
+                "Gariahat",
+                "Golpark",
+                "Hazra"
+            ]
+        },
+        {
+            "passenger": "P16",
+            "route": "r53",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ]
+        },
+        {
+            "passenger": "P19",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park",
+                "Salt Lake",
+                "Karunamoyee",
+                "Ultadanga",
+                "Esplanade",
+                "Howrah Station"
+            ]
+        }
+    ]
+}

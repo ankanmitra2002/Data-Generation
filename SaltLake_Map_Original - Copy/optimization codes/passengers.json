@@ -1,0 +1,141 @@
+{
+    "P0": {
+        "source": [
+            "Salt Lake"
+        ],
+        "destination": "Esplanade"
+    },
+    "P1": {
+        "source": [
+            "Salt Lake"
+        ],
+        "destination": "Garia"
+    },
+    "P2": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P3": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P4": {
+        "source": [
+            "Park Circus"
+        ],
+        "destination": "Garia"
+    },
+    "P5": {
+        "source": [
+            "SN Banerjee"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P6": {
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P7": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P8": {
+        "source": [
+            "Tollygunge"
+        ],
+        "destination": "Esplanade"
+    },
+    "P9": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P10": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore"
+    },
+    "P11": {
+        "source": [
+            "New Town",
+            "Unitech"
+        ],
+        "destination": "Daber More"
+    },
+    "P12": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kalighat"
+    },
+    "P13": {
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Garia"
+    },
+    "P14": {
+        "source": [
+            "Garia"
+        ],
+        "destination": "Sonarpur"
+    },
+    "P15": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Hazra"
+    },
+    "P16": {
+        "source": [
+            "Gariahat"
+        ],
+        "destination": "Kasba"
+    },
+    "P17": {
+        "source": [
+            "New Town"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P18": {
+        "source": [
+            "New Town"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P19": {
+        "source": [
+            "New Town"
+        ],
+        "destination": "Howrah Station"
+    }
+}

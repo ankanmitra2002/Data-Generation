@@ -1,0 +1,145 @@
+{
+    "assignments": [
+        {
+            "passenger": "P0",
+            "count": 4,
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake",
+                "Karunamoyee"
+            ]
+        },
+        {
+            "passenger": "P1",
+            "count": 3,
+            "route": "r14",
+            "stops": [
+                "Tollygunge",
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus",
+                "Sealdah"
+            ]
+        },
+        {
+            "passenger": "P3",
+            "count": 3,
+            "route": "r27",
+            "stops": [
+                "Garia",
+                "Ruby",
+                "Ultadanga",
+                "Salt Lake"
+            ]
+        },
+        {
+            "passenger": "P4",
+            "count": 7,
+            "route": "r22",
+            "stops": [
+                "Ballygunge",
+                "Sealdah"
+            ]
+        },
+        {
+            "passenger": "P5",
+            "count": 4,
+            "route": "r12",
+            "stops": [
+                "VIP Road",
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ]
+        },
+        {
+            "passenger": "P6",
+            "count": 4,
+            "route": "r28",
+            "stops": [
+                "Sealdah",
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ]
+        },
+        {
+            "passenger": "P8",
+            "count": 3,
+            "route": "r6",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Hazra",
+                "Kalighat"
+            ]
+        },
+        {
+            "passenger": "P9",
+            "count": 5,
+            "route": "r34",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Esplanade"
+            ]
+        },
+        {
+            "passenger": "P10",
+            "count": 3,
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ]
+        },
+        {
+            "passenger": "P11",
+            "count": 6,
+            "route": "r46",
+            "stops": [
+                "Kamalgazi",
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road"
+            ]
+        },
+        {
+            "passenger": "P12",
+            "count": 8,
+            "route": "r8",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ]
+        },
+        {
+            "passenger": "P14",
+            "count": 5,
+            "route": "r3",
+            "stops": [
+                "Kalighat",
+                "Minto Park",
+                "Esplanade"
+            ]
+        },
+        {
+            "passenger": "P15",
+            "count": 6,
+            "route": "r21",
+            "stops": [
+                "Tollygunge",
+                "Kalighat",
+                "Hazra"
+            ]
+        }
+    ]
+}

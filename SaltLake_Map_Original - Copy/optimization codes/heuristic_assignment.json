@@ -1,0 +1,32 @@
+{
+    "assigned_count": 3,
+    "total_passengers": 20,
+    "assignments": [
+        {
+            "passenger": "P3",
+            "route": "r3",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ]
+        },
+        {
+            "passenger": "P5",
+            "route": "r12",
+            "stops": [
+                "Phoolbagan",
+                "Sealdah"
+            ]
+        },
+        {
+            "passenger": "P17",
+            "route": "r19",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Park Circus",
+                "Ruby"
+            ]
+        }
+    ]
+}

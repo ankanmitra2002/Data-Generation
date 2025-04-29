@@ -26,11 +26,11 @@ route_map = dict(zip(route_ids, Routes))
 prob = pulp.LpProblem("MaximizePassengerAssignments", pulp.LpMaximize)
 
 # -------------------------------------------------Decision Variables----------------------------------------------
-x = pulp.LpVariable.dicts("PassengerRoute", [(p, r) for p in passengers_data for r in route_ids], cat="Binary")
+x = pulp.LpVariable.dicts("PassengerRoute", [(p, r) for p in passengers_data for r in route_ids], lowBound=0, upBound=1, cat="Continuous")
 S = pulp.LpVariable.dicts("StopAssignment",
     [(p, r, stop) for p in passengers_data for r in route_ids for stop in set(sum(Routes, []))],
     lowBound=0,
-    cat="Integer"
+    cat="Continuous"
 )
 
 # ------------------- Objective: Maximize Assigned Passengers ---------------------
@@ -73,7 +73,7 @@ prob.solve()
 assignment_results = {"assignments": []}
 for p in passengers_data:
     for r in route_ids:
-        if x[p, r].varValue == 1:
+        if x[p, r].varValue > 0:
             r_index = int(r[1:])
             stops_in_route = Routes[r_index]
             assigned_stops = [stop for stop in stops_in_route if S[p, r, stop].varValue > 0]
@@ -85,7 +85,7 @@ for p in passengers_data:
             })
 
 # Output Assignment
-with open("optimized_routes_multi.json", "w") as file:
+with open("optimized_routes_multiLPP.json", "w") as file:
     json.dump(assignment_results, file, indent=4)
 
 print("Optimization complete. Results are saved to optimized_routes_multi.json")

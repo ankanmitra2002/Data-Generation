@@ -11,16 +11,14 @@ with open("passenger_routes.json", "r") as f:
 with open("Routes.json", "r") as f:
     route_dict = json.load(f)
 
-Routes = list(route_dict.values())
+with open("route_capacities.json") as f:
+    capacity = json.load(f)
 
+Routes = list(route_dict.values())
 
 route_ids = [f"r{i}" for i in range(len(Routes))]
 route_map = dict(zip(route_ids, Routes))
 
-
-random.seed(42)  
-capacity = {rid: random.randint(1,2) for rid in route_ids}
-# capacity = {rid: 1 for rid in route_ids} 
 
 
 
@@ -31,8 +29,9 @@ capacity = {rid: random.randint(1,2) for rid in route_ids}
 prob = pulp.LpProblem("MaximizePassengerAssignments", pulp.LpMaximize)
 
 # --------------------------------------------decision variables---------------------------------------------------
-x = pulp.LpVariable.dicts("PassengerRoute", [(p, r) for p in passengers_data for r in route_ids], cat="Binary")
-S = pulp.LpVariable.dicts("StopAssignment", [(p, r, stop) for p in passengers_data for r in route_ids for stop in set(sum(Routes, []))], cat="Binary")
+x = pulp.LpVariable.dicts("PassengerRoute", [(p, r) for p in passengers_data for r in route_ids], 
+                          lowBound=0, upBound=1, cat="Continuous")
+S = pulp.LpVariable.dicts("StopAssignment", [(p, r, stop) for p in passengers_data for r in route_ids for stop in set(sum(Routes, []))], lowBound=0,cat="Continuous")
 
 # ---------------------------------Objective Function: Maximizing the number of passengers assigned--------------------------
 prob += pulp.lpSum(x[p, r] for p in passengers_data for r in route_ids)
@@ -89,19 +88,19 @@ prob.solve()
 assignment_results = {"assignments": []}
 for p in passengers_data:
     for r in route_ids:
-        if x[p, r].varValue == 1:
+        if x[p, r].varValue > 0:
             r_index = int(r[1:])  
             stops_in_route = Routes[r_index]  
-            assigned_stops = [stop for stop in stops_in_route if S[p, r, stop].varValue == 1]
+            assigned_stops = [stop for stop in stops_in_route if S[p, r, stop].varValue > 0]
             assignment_results["assignments"].append({
                 "passenger": p,
                 "route": r,
-                "stops": assigned_stops
+                "stops": assigned_stops,
+                "value": x[p, r].varValue,
             })
 
 # Output Assignment
-with open("optimized_routes.json", "w") as file:
+with open("optimized_routesLPP.json", "w") as file:
     json.dump(assignment_results, file, indent=4)
-
-print("Optimization complete. Results are saved to optimized_routes.json")
+print("Optimization complete. Results are saved to optimized_routesLPP.json")
 

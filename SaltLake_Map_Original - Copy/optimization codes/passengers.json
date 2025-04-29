@@ -1,90 +1,85 @@
 {
     "P0": {
         "source": [
-            "Salt Lake"
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
         ],
-        "destination": "Esplanade"
+        "destination": "Sealdah"
     },
     "P1": {
         "source": [
-            "Salt Lake"
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
         ],
-        "destination": "Garia"
+        "destination": "Kalighat"
     },
     "P2": {
         "source": [
-            "Shibpur",
-            "Alipore",
-            "Tollygunge"
+            "Baranagar",
+            "Dunlop",
+            "BT Road"
         ],
-        "destination": "Garia"
+        "destination": "Tobin Road"
     },
     "P3": {
         "source": [
+            "Howrah",
             "Esplanade",
-            "Ultadanga",
-            "Salt Lake"
+            "Ultadanga"
         ],
-        "destination": "New Town"
+        "destination": "Salt Lake"
     },
     "P4": {
         "source": [
-            "Park Circus"
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
         ],
-        "destination": "Garia"
+        "destination": "Kalighat"
     },
     "P5": {
         "source": [
-            "SN Banerjee"
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
         ],
-        "destination": "Rabindra Sadan"
+        "destination": "Sealdah"
     },
     "P6": {
         "source": [
-            "Kalighat",
             "Esplanade",
-            "Salt Lake"
+            "Rashbehari",
+            "Gariahat"
         ],
-        "destination": "Rajarhat"
+        "destination": "Ruby"
     },
     "P7": {
         "source": [
-            "Airport Gate No. 1",
-            "VIP Road",
-            "New Town"
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
         ],
-        "destination": "Eco Park"
+        "destination": "Kasba"
     },
     "P8": {
         "source": [
-            "Tollygunge"
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
         ],
-        "destination": "Esplanade"
+        "destination": "Ultadanga"
     },
     "P9": {
         "source": [
-            "Ultadanga",
-            "Salt Lake",
-            "New Town"
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
         ],
-        "destination": "Eco Park"
+        "destination": "MG Road"
     },
     "P10": {
-        "source": [
-            "Esplanade",
-            "Park Street",
-            "Maidan"
-        ],
-        "destination": "Bhowanipore"
-    },
-    "P11": {
-        "source": [
-            "New Town",
-            "Unitech"
-        ],
-        "destination": "Daber More"
-    },
-    "P12": {
         "source": [
             "Jadavpur",
             "Dhakuria",
@@ -92,21 +87,2767 @@
         ],
         "destination": "Kalighat"
     },
+    "P11": {
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P12": {
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Garia"
+    },
     "P13": {
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "Daber More"
+    },
+    "P14": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus"
+    },
+    "P15": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P16": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P17": {
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan"
+    },
+    "P18": {
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus"
+    },
+    "P19": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P20": {
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P21": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P22": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P23": {
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby"
+    },
+    "P24": {
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P25": {
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road"
+    },
+    "P26": {
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "New Town"
+    },
+    "P27": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P28": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka"
+    },
+    "P29": {
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat"
+    },
+    "P30": {
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P31": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "ECO Park"
+    },
+    "P32": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P33": {
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P34": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade"
+    },
+    "P35": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V"
+    },
+    "P36": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Sealdah"
+    },
+    "P37": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P38": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P39": {
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space"
+    },
+    "P40": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Street"
+    },
+    "P41": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P42": {
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P43": {
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P44": {
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli"
+    },
+    "P45": {
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park"
+    },
+    "P46": {
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space"
+    },
+    "P47": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P48": {
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade"
+    },
+    "P49": {
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Minto Park"
+        ],
+        "destination": "Esplanade"
+    },
+    "P50": {
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia"
+    },
+    "P51": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P52": {
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P53": {
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road"
+    },
+    "P54": {
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Ruby"
+    },
+    "P55": {
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Circus"
+    },
+    "P56": {
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P57": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town"
+    },
+    "P58": {
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P59": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah"
+    },
+    "P60": {
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar"
+    },
+    "P61": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P62": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Eco Space"
+    },
+    "P63": {
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P64": {
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur"
+    },
+    "P65": {
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Titagarh"
+    },
+    "P66": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Bosepukur"
+    },
+    "P67": {
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P68": {
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P69": {
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P70": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park"
+    },
+    "P71": {
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P72": {
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore"
+    },
+    "P73": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town"
+    },
+    "P74": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Kalighat"
+    },
+    "P75": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P76": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba"
+    },
+    "P77": {
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park"
+    },
+    "P78": {
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P79": {
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Gariahat"
+    },
+    "P80": {
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Ruby"
+    },
+    "P81": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P82": {
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "Tollygunge"
+        ],
+        "destination": "Hazra"
+    },
+    "P83": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P84": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby"
+    },
+    "P85": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P86": {
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P87": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby"
+    },
+    "P88": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P89": {
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P90": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P91": {
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "Shyambazar"
+    },
+    "P92": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P93": {
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P94": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P95": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park"
+    },
+    "P96": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat"
+    },
+    "P97": {
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City"
+    },
+    "P98": {
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space"
+    },
+    "P99": {
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P100": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus"
+    },
+    "P101": {
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Esplanade"
+    },
+    "P102": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "City"
+    },
+    "P103": {
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P104": {
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Titagarh"
+    },
+    "P105": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba"
+    },
+    "P106": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P107": {
         "source": [
             "Lalbazar",
             "Minto Park",
             "Kalighat"
         ],
-        "destination": "Garia"
+        "destination": "Jadavpur"
     },
-    "P14": {
+    "P108": {
         "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P109": {
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "VIP Road"
+    },
+    "P110": {
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar"
+    },
+    "P111": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade"
+    },
+    "P112": {
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P113": {
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P114": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P115": {
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade"
+    },
+    "P116": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P117": {
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road"
+    },
+    "P118": {
+        "source": [
+            "Park Circus",
+            "Ruby",
             "Garia"
         ],
         "destination": "Sonarpur"
     },
-    "P15": {
+    "P119": {
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade"
+    },
+    "P120": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P121": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Sector V"
+    },
+    "P122": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P123": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P124": {
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Baranagar"
+    },
+    "P125": {
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Ruby"
+    },
+    "P126": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P127": {
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia"
+    },
+    "P128": {
+        "source": [
+            "Sinthee",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Street"
+    },
+    "P129": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P130": {
+        "source": [
+            "Esplanade",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P131": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P132": {
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street"
+    },
+    "P133": {
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P134": {
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Phoolbagan"
+    },
+    "P135": {
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur"
+    },
+    "P136": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby"
+    },
+    "P137": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P138": {
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P139": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town"
+    },
+    "P140": {
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P141": {
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Phoolbagan"
+    },
+    "P142": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus"
+    },
+    "P143": {
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P144": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P145": {
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh"
+    },
+    "P146": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P147": {
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P148": {
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum"
+    },
+    "P149": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P150": {
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park"
+    },
+    "P151": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P152": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade"
+    },
+    "P153": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P154": {
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P155": {
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P156": {
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P157": {
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space"
+    },
+    "P158": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P159": {
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Esplanade"
+    },
+    "P160": {
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah"
+    },
+    "P161": {
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Garia"
+    },
+    "P162": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P163": {
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road"
+    },
+    "P164": {
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P165": {
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P166": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Park Street"
+    },
+    "P167": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P168": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus"
+    },
+    "P169": {
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P170": {
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus"
+    },
+    "P171": {
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P172": {
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P173": {
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli"
+    },
+    "P174": {
+        "source": [
+            "Eco Space",
+            "Aliah University",
+            "Daber More"
+        ],
+        "destination": "City"
+    },
+    "P175": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P176": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P177": {
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh"
+    },
+    "P178": {
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P179": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Rashbehari"
+    },
+    "P180": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P181": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P182": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P183": {
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Ruby"
+    },
+    "P184": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P185": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kasba"
+        ],
+        "destination": "Bosepukur"
+    },
+    "P186": {
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P187": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Kalighat"
+    },
+    "P188": {
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P189": {
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P190": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town"
+    },
+    "P191": {
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Garia"
+    },
+    "P192": {
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Park Circus"
+    },
+    "P193": {
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P194": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Rashbehari"
+    },
+    "P195": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P196": {
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Ballygunge"
+    },
+    "P197": {
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P198": {
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur"
+    },
+    "P199": {
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P200": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus"
+    },
+    "P201": {
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum"
+    },
+    "P202": {
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Titagarh"
+    },
+    "P203": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P204": {
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P205": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P206": {
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Ruby"
+    },
+    "P207": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P208": {
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P209": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kasba"
+        ],
+        "destination": "Bosepukur"
+    },
+    "P210": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore"
+    },
+    "P211": {
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Garia Station Road"
+    },
+    "P212": {
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "Shyambazar"
+    },
+    "P213": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park"
+    },
+    "P214": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P215": {
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City"
+    },
+    "P216": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P217": {
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "MG Road"
+    },
+    "P218": {
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P219": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P220": {
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P221": {
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh"
+    },
+    "P222": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P223": {
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Circus"
+    },
+    "P224": {
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "Park Street"
+    },
+    "P225": {
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat"
+    },
+    "P226": {
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P227": {
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "City"
+    },
+    "P228": {
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Minto Park"
+    },
+    "P229": {
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City"
+    },
+    "P230": {
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P231": {
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Esplanade"
+    },
+    "P232": {
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli"
+    },
+    "P233": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P234": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P235": {
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P236": {
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P237": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "MG Road"
+    },
+    "P238": {
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Garia"
+    },
+    "P239": {
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P240": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P241": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P242": {
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat"
+    },
+    "P243": {
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P244": {
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Garia Station Road"
+    },
+    "P245": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P246": {
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P247": {
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P248": {
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Airport"
+    },
+    "P249": {
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P250": {
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Barasat"
+    },
+    "P251": {
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space"
+    },
+    "P252": {
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P253": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town"
+    },
+    "P254": {
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Park Circus"
+    },
+    "P255": {
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P256": {
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P257": {
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore"
+    },
+    "P258": {
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka"
+    },
+    "P259": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P260": {
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P261": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "Aliah University"
+    },
+    "P262": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P263": {
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P264": {
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade"
+    },
+    "P265": {
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P266": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P267": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade"
+    },
+    "P268": {
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P269": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P270": {
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P271": {
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P272": {
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Joka"
+    },
+    "P273": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P274": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus"
+    },
+    "P275": {
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park"
+    },
+    "P276": {
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Park Circus"
+    },
+    "P277": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P278": {
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "Tollygunge"
+        ],
+        "destination": "Esplanade"
+    },
+    "P279": {
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Bidhannagar"
+    },
+    "P280": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P281": {
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P282": {
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan"
+    },
+    "P283": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park"
+    },
+    "P284": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Phoolbagan"
+    },
+    "P285": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P286": {
+        "source": [
+            "College More",
+            "New Town",
+            "Unitech"
+        ],
+        "destination": "City"
+    },
+    "P287": {
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby"
+    },
+    "P288": {
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P289": {
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P290": {
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh"
+    },
+    "P291": {
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P292": {
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park"
+    },
+    "P293": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town"
+    },
+    "P294": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus"
+    },
+    "P295": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P296": {
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P297": {
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Golpark"
+    },
+    "P298": {
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P299": {
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia"
+    },
+    "P300": {
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park"
+    },
+    "P301": {
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "Titagarh"
+    },
+    "P302": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "City"
+    },
+    "P303": {
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport"
+    },
+    "P304": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P305": {
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Sinthee More"
+        ],
+        "destination": "Khardah"
+    },
+    "P306": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P307": {
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop"
+    },
+    "P308": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P309": {
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "VIP Road"
+    },
+    "P310": {
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Barasat"
+    },
+    "P311": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P312": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P313": {
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum"
+    },
+    "P314": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P315": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake Sector V"
+    },
+    "P316": {
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Park Street"
+    },
+    "P317": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P318": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P319": {
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P320": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P321": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park"
+    },
+    "P322": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P323": {
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P324": {
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat"
+    },
+    "P325": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P326": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P327": {
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Garia Station Road"
+    },
+    "P328": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P329": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P330": {
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Chinar Park"
+    },
+    "P331": {
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop"
+    },
+    "P332": {
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "Park Street"
+    },
+    "P333": {
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P334": {
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade"
+    },
+    "P335": {
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur"
+    },
+    "P336": {
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P337": {
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P338": {
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Park Street"
+    },
+    "P339": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "New Town"
+    },
+    "P340": {
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah"
+    },
+    "P341": {
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P342": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "ECO Park"
+    },
+    "P343": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka"
+    },
+    "P344": {
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P345": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah"
+    },
+    "P346": {
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P347": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P348": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P349": {
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport"
+    },
+    "P350": {
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "ECO Park"
+    },
+    "P351": {
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P352": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P353": {
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia"
+    },
+    "P354": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P355": {
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat"
+    },
+    "P356": {
         "source": [
             "Kasba",
             "Bosepukur",
@@ -114,28 +2855,1148 @@
         ],
         "destination": "Hazra"
     },
-    "P16": {
+    "P357": {
         "source": [
-            "Gariahat"
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka"
+    },
+    "P358": {
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P359": {
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Rashbehari"
+    },
+    "P360": {
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P361": {
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "VIP Road"
+    },
+    "P362": {
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P363": {
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P364": {
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P365": {
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Unitech"
+    },
+    "P366": {
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P367": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kasba"
+        ],
+        "destination": "Ruby"
+    },
+    "P368": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "Daber More"
+    },
+    "P369": {
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P370": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade"
+    },
+    "P371": {
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P372": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P373": {
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Hazra"
+    },
+    "P374": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P375": {
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Rashbehari"
+    },
+    "P376": {
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P377": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P378": {
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P379": {
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka"
+    },
+    "P380": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade"
+    },
+    "P381": {
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P382": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore"
+    },
+    "P383": {
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Rashbehari"
+    },
+    "P384": {
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P385": {
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Garia"
+    },
+    "P386": {
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Garia"
+    },
+    "P387": {
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur"
+    },
+    "P388": {
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street"
+    },
+    "P389": {
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P390": {
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town"
+    },
+    "P391": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade"
+    },
+    "P392": {
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Garia"
+    },
+    "P393": {
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Lalbazar"
+    },
+    "P394": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Hazra"
+        ],
+        "destination": "Kalighat"
+    },
+    "P395": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "Daber More"
+    },
+    "P396": {
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport"
+    },
+    "P397": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Minto Park"
+    },
+    "P398": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
         ],
         "destination": "Kasba"
     },
-    "P17": {
+    "P399": {
         "source": [
-            "New Town"
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P400": {
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P401": {
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P402": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah"
+    },
+    "P403": {
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town"
+    },
+    "P404": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore"
+    },
+    "P405": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P406": {
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P407": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah"
+    },
+    "P408": {
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Park Circus"
+    },
+    "P409": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P410": {
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Sector V"
+    },
+    "P411": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P412": {
+        "source": [
+            "College More",
+            "New Town",
+            "Unitech"
+        ],
+        "destination": "Eco Space"
+    },
+    "P413": {
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Park Street"
+    },
+    "P414": {
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
         ],
         "destination": "Howrah Station"
     },
-    "P18": {
+    "P415": {
         "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Circus"
+    },
+    "P416": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P417": {
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P418": {
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat"
+    },
+    "P419": {
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat"
+    },
+    "P420": {
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum"
+    },
+    "P421": {
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P422": {
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum"
+    },
+    "P423": {
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore"
+    },
+    "P424": {
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Esplanade"
+    },
+    "P425": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P426": {
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade"
+    },
+    "P427": {
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Ruby"
+    },
+    "P428": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P429": {
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Ruby"
+    },
+    "P430": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P431": {
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby"
+    },
+    "P432": {
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P433": {
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V"
+    },
+    "P434": {
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Garia Station Road"
+    },
+    "P435": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
             "New Town"
+        ],
+        "destination": "Eco Park"
+    },
+    "P436": {
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P437": {
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Barasat"
+    },
+    "P438": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P439": {
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
         ],
         "destination": "Howrah Station"
     },
-    "P19": {
+    "P440": {
         "source": [
-            "New Town"
+            "Shyambazar",
+            "Esplanade",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P441": {
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Sealdah"
+    },
+    "P442": {
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat"
+    },
+    "P443": {
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Sealdah"
+    },
+    "P444": {
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba"
+    },
+    "P445": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P446": {
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P447": {
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P448": {
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
         ],
         "destination": "Howrah Station"
+    },
+    "P449": {
+        "source": [
+            "Tobin Road",
+            "Khardah",
+            "Titagarh"
+        ],
+        "destination": "Barrackpore"
+    },
+    "P450": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah"
+    },
+    "P451": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia"
+    },
+    "P452": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P453": {
+        "source": [
+            "Marquis Street",
+            "SN Banerjee",
+            "MG Road"
+        ],
+        "destination": "Baranagar"
+    },
+    "P454": {
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P455": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town"
+    },
+    "P456": {
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah"
+    },
+    "P457": {
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P458": {
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Baranagar"
+    },
+    "P459": {
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Baranagar"
+    },
+    "P460": {
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P461": {
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia"
+    },
+    "P462": {
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P463": {
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge"
+    },
+    "P464": {
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P465": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba"
+    },
+    "P466": {
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat"
+    },
+    "P467": {
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town"
+    },
+    "P468": {
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P469": {
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Sector V"
+    },
+    "P470": {
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan"
+    },
+    "P471": {
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Jadavpur"
+    },
+    "P472": {
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum"
+    },
+    "P473": {
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P474": {
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street"
+    },
+    "P475": {
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba"
+    },
+    "P476": {
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town"
+    },
+    "P477": {
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "BT Road"
+    },
+    "P478": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade"
+    },
+    "P479": {
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V"
+    },
+    "P480": {
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Eco Space"
+    },
+    "P481": {
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P482": {
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P483": {
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1"
+    },
+    "P484": {
+        "source": [
+            "Garia",
+            "Kamalgazi",
+            "Narendrapur"
+        ],
+        "destination": "Ruby Hospital"
+    },
+    "P485": {
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby"
+    },
+    "P486": {
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P487": {
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga"
+    },
+    "P488": {
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "ECO Park"
+    },
+    "P489": {
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Hazra"
+        ],
+        "destination": "Kalighat"
+    },
+    "P490": {
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P491": {
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Kalighat"
+    },
+    "P492": {
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Ruby"
+    },
+    "P493": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P494": {
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus"
+    },
+    "P495": {
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake"
+    },
+    "P496": {
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Ruby"
+    },
+    "P497": {
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee"
+    },
+    "P498": {
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station"
+    },
+    "P499": {
+        "source": [
+            "Sinthee More",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Tobin Road"
     }
 }

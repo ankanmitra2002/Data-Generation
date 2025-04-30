@@ -81,7 +81,8 @@ for p in passengers_data:
                 "passenger": p,
                 "count": passengers_data[p]["count"],
                 "route": r,
-                "stops": assigned_stops
+                "stops": assigned_stops,
+                "x[p, r]": x[p, r].varValue
             })
 
 # Output Assignment

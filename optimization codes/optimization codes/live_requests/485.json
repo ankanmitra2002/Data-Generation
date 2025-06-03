@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000021",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "8:07:28"
+    },
+    {
+        "id": "P000470",
+        "source": [
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
+        ],
+        "destination": "Kalighat",
+        "count": 6,
+        "timestamp": "8:05:13"
+    },
+    {
+        "id": "P000934",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Patuli",
+        "count": 8,
+        "timestamp": "8:08:10"
+    },
+    {
+        "id": "P001470",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Salt Lake",
+        "count": 5,
+        "timestamp": "8:07:32"
+    },
+    {
+        "id": "P001708",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 6,
+        "timestamp": "8:06:58"
+    },
+    {
+        "id": "P002214",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "8:05:25"
+    },
+    {
+        "id": "P002371",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "8:07:39"
+    },
+    {
+        "id": "P002538",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "8:05:28"
+    },
+    {
+        "id": "P002556",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "8:06:16"
+    },
+    {
+        "id": "P002579",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Narendrapur",
+        "count": 6,
+        "timestamp": "8:08:19"
+    },
+    {
+        "id": "P002677",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 4,
+        "timestamp": "8:09:42"
+    },
+    {
+        "id": "P002744",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "8:09:11"
+    }
+]

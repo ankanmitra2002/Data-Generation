@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000527",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 1,
+        "timestamp": "21:02:15"
+    },
+    {
+        "id": "P000837",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "21:01:27"
+    },
+    {
+        "id": "P000921",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 8,
+        "timestamp": "21:02:11"
+    },
+    {
+        "id": "P001326",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "21:00:13"
+    },
+    {
+        "id": "P001481",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 1,
+        "timestamp": "21:01:16"
+    },
+    {
+        "id": "P001875",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 10,
+        "timestamp": "21:00:24"
+    },
+    {
+        "id": "P002379",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 8,
+        "timestamp": "21:03:35"
+    },
+    {
+        "id": "P002474",
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore",
+        "count": 1,
+        "timestamp": "21:00:25"
+    },
+    {
+        "id": "P002782",
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Baranagar",
+        "count": 5,
+        "timestamp": "21:04:47"
+    }
+]

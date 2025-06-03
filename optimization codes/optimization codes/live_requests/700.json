@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000057",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "11:43:31"
+    },
+    {
+        "id": "P000627",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 1,
+        "timestamp": "11:40:56"
+    },
+    {
+        "id": "P001078",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Lalbazar",
+        "count": 5,
+        "timestamp": "11:42:10"
+    },
+    {
+        "id": "P001555",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 3,
+        "timestamp": "11:44:07"
+    },
+    {
+        "id": "P001850",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "11:43:12"
+    },
+    {
+        "id": "P001884",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 5,
+        "timestamp": "11:42:06"
+    },
+    {
+        "id": "P002099",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "11:42:58"
+    },
+    {
+        "id": "P002685",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur",
+        "count": 4,
+        "timestamp": "11:44:11"
+    },
+    {
+        "id": "P002861",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 6,
+        "timestamp": "11:40:55"
+    }
+]

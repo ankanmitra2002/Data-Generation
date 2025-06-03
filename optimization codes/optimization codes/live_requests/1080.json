@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000179",
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "Dunlop",
+        "count": 7,
+        "timestamp": "18:01:42"
+    },
+    {
+        "id": "P000258",
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "18:04:46"
+    },
+    {
+        "id": "P000585",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 1,
+        "timestamp": "18:01:50"
+    },
+    {
+        "id": "P000651",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 3,
+        "timestamp": "18:00:30"
+    },
+    {
+        "id": "P001600",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 7,
+        "timestamp": "18:00:53"
+    },
+    {
+        "id": "P001717",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 5,
+        "timestamp": "18:04:45"
+    },
+    {
+        "id": "P002435",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "18:03:49"
+    },
+    {
+        "id": "P002540",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 5,
+        "timestamp": "18:04:30"
+    },
+    {
+        "id": "P002812",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "18:00:02"
+    }
+]

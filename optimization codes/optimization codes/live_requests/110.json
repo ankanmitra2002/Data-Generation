@@ -1,0 +1,57 @@
+[
+    {
+        "id": "P000534",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 3,
+        "timestamp": "1:50:31"
+    },
+    {
+        "id": "P001036",
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City",
+        "count": 9,
+        "timestamp": "1:51:58"
+    },
+    {
+        "id": "P002103",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 7,
+        "timestamp": "1:50:04"
+    },
+    {
+        "id": "P002219",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Hazra"
+        ],
+        "destination": "Kalighat",
+        "count": 8,
+        "timestamp": "1:51:50"
+    },
+    {
+        "id": "P002741",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "1:50:15"
+    }
+]

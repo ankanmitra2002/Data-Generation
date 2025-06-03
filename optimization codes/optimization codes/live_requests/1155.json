@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000022",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 9,
+        "timestamp": "19:15:06"
+    },
+    {
+        "id": "P000040",
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat",
+        "count": 2,
+        "timestamp": "19:16:28"
+    },
+    {
+        "id": "P000233",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "19:16:11"
+    },
+    {
+        "id": "P000254",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "19:16:05"
+    },
+    {
+        "id": "P000422",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 3,
+        "timestamp": "19:19:57"
+    },
+    {
+        "id": "P000457",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 10,
+        "timestamp": "19:17:57"
+    },
+    {
+        "id": "P000517",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 9,
+        "timestamp": "19:17:40"
+    },
+    {
+        "id": "P000938",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "19:19:15"
+    },
+    {
+        "id": "P001000",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "19:18:52"
+    },
+    {
+        "id": "P001146",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 1,
+        "timestamp": "19:18:45"
+    },
+    {
+        "id": "P001158",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 3,
+        "timestamp": "19:18:24"
+    },
+    {
+        "id": "P002140",
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka",
+        "count": 2,
+        "timestamp": "19:16:34"
+    },
+    {
+        "id": "P002617",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Sinthee More"
+        ],
+        "destination": "Khardah",
+        "count": 9,
+        "timestamp": "19:16:32"
+    }
+]

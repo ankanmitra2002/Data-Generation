@@ -1,0 +1,57 @@
+[
+    {
+        "id": "P000912",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 3,
+        "timestamp": "14:24:18"
+    },
+    {
+        "id": "P001042",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Gariahat",
+        "count": 1,
+        "timestamp": "14:23:30"
+    },
+    {
+        "id": "P002034",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 8,
+        "timestamp": "14:22:17"
+    },
+    {
+        "id": "P002264",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "14:24:39"
+    },
+    {
+        "id": "P002620",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "14:21:09"
+    }
+]

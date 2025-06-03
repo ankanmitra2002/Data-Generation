@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000209",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "4:00:05"
+    },
+    {
+        "id": "P000316",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "4:02:51"
+    },
+    {
+        "id": "P000326",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge",
+        "count": 10,
+        "timestamp": "4:01:30"
+    },
+    {
+        "id": "P000968",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 1,
+        "timestamp": "4:03:32"
+    },
+    {
+        "id": "P001240",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "4:00:03"
+    },
+    {
+        "id": "P001891",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "4:04:40"
+    },
+    {
+        "id": "P001899",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "VIP Road",
+        "count": 1,
+        "timestamp": "4:04:31"
+    },
+    {
+        "id": "P002484",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "4:01:26"
+    },
+    {
+        "id": "P002520",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 5,
+        "timestamp": "4:00:09"
+    },
+    {
+        "id": "P002831",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 9,
+        "timestamp": "4:02:01"
+    }
+]

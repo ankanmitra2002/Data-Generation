@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000087",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "7:31:29"
+    },
+    {
+        "id": "P000745",
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Joka",
+        "count": 4,
+        "timestamp": "7:30:17"
+    },
+    {
+        "id": "P000889",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "7:31:23"
+    },
+    {
+        "id": "P001142",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 10,
+        "timestamp": "7:30:42"
+    },
+    {
+        "id": "P001546",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 3,
+        "timestamp": "7:30:27"
+    },
+    {
+        "id": "P002501",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "7:33:27"
+    }
+]

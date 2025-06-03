@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000186",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "20:54:33"
+    },
+    {
+        "id": "P000188",
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat",
+        "count": 5,
+        "timestamp": "20:51:09"
+    },
+    {
+        "id": "P000192",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "20:50:57"
+    },
+    {
+        "id": "P000486",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 2,
+        "timestamp": "20:53:04"
+    },
+    {
+        "id": "P001438",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Chinar Park",
+        "count": 7,
+        "timestamp": "20:53:27"
+    },
+    {
+        "id": "P001519",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "VIP Road",
+        "count": 8,
+        "timestamp": "20:51:52"
+    },
+    {
+        "id": "P001862",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 2,
+        "timestamp": "20:54:40"
+    },
+    {
+        "id": "P002101",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 7,
+        "timestamp": "20:53:46"
+    },
+    {
+        "id": "P002149",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 7,
+        "timestamp": "20:51:13"
+    },
+    {
+        "id": "P002398",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "20:50:03"
+    },
+    {
+        "id": "P002493",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 3,
+        "timestamp": "20:50:24"
+    },
+    {
+        "id": "P002647",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Garia",
+        "count": 2,
+        "timestamp": "20:51:46"
+    },
+    {
+        "id": "P002784",
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "20:53:05"
+    }
+]

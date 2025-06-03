@@ -1,0 +1,35 @@
+[
+    {
+        "id": "P000291",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "18:12:33"
+    },
+    {
+        "id": "P000409",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge",
+        "count": 9,
+        "timestamp": "18:12:53"
+    },
+    {
+        "id": "P001671",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "18:11:28"
+    }
+]

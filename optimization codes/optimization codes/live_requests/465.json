@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000173",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "7:48:20"
+    },
+    {
+        "id": "P000725",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "7:49:19"
+    },
+    {
+        "id": "P000790",
+        "source": [
+            "Phoolbagan",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "7:49:37"
+    },
+    {
+        "id": "P001006",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "7:49:03"
+    },
+    {
+        "id": "P001293",
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Baranagar",
+        "count": 10,
+        "timestamp": "7:47:49"
+    },
+    {
+        "id": "P001698",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "7:49:32"
+    },
+    {
+        "id": "P001798",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Hazra",
+        "count": 2,
+        "timestamp": "7:48:27"
+    },
+    {
+        "id": "P001874",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 10,
+        "timestamp": "7:46:00"
+    },
+    {
+        "id": "P002069",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 5,
+        "timestamp": "7:46:56"
+    },
+    {
+        "id": "P002116",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "7:49:30"
+    },
+    {
+        "id": "P002738",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 1,
+        "timestamp": "7:49:54"
+    }
+]

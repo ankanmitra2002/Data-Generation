@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000299",
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "10:27:37"
+    },
+    {
+        "id": "P000473",
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 8,
+        "timestamp": "10:26:26"
+    },
+    {
+        "id": "P000528",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 5,
+        "timestamp": "10:27:44"
+    },
+    {
+        "id": "P000825",
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "Tobin Road",
+        "count": 6,
+        "timestamp": "10:26:12"
+    },
+    {
+        "id": "P001112",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "New Town",
+        "count": 3,
+        "timestamp": "10:25:56"
+    },
+    {
+        "id": "P001187",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 5,
+        "timestamp": "10:27:53"
+    },
+    {
+        "id": "P001359",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 9,
+        "timestamp": "10:29:35"
+    },
+    {
+        "id": "P002042",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 1,
+        "timestamp": "10:25:12"
+    },
+    {
+        "id": "P002325",
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Garia",
+        "count": 3,
+        "timestamp": "10:27:49"
+    }
+]

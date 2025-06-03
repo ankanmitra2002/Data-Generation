@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000104",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 9,
+        "timestamp": "19:36:53"
+    },
+    {
+        "id": "P000112",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town",
+        "count": 5,
+        "timestamp": "19:36:21"
+    },
+    {
+        "id": "P000160",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 9,
+        "timestamp": "19:38:59"
+    },
+    {
+        "id": "P000436",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "19:36:47"
+    },
+    {
+        "id": "P000806",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 4,
+        "timestamp": "19:36:47"
+    },
+    {
+        "id": "P001101",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "19:39:46"
+    },
+    {
+        "id": "P001193",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 2,
+        "timestamp": "19:37:33"
+    },
+    {
+        "id": "P001461",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 7,
+        "timestamp": "19:35:33"
+    },
+    {
+        "id": "P001658",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "19:38:12"
+    },
+    {
+        "id": "P001791",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Maidan",
+        "count": 1,
+        "timestamp": "19:36:19"
+    },
+    {
+        "id": "P002607",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 3,
+        "timestamp": "19:37:12"
+    }
+]

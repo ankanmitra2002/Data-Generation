@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P000203",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Sector V",
+        "count": 4,
+        "timestamp": "5:03:11"
+    },
+    {
+        "id": "P000592",
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 8,
+        "timestamp": "5:04:31"
+    },
+    {
+        "id": "P001562",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Park Street",
+        "count": 2,
+        "timestamp": "5:04:25"
+    },
+    {
+        "id": "P002849",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 7,
+        "timestamp": "5:00:38"
+    }
+]

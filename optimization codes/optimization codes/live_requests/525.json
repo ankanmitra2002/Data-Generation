@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000229",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "8:46:11"
+    },
+    {
+        "id": "P001012",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah",
+        "count": 9,
+        "timestamp": "8:45:18"
+    },
+    {
+        "id": "P001182",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "8:48:12"
+    },
+    {
+        "id": "P001306",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "8:46:03"
+    },
+    {
+        "id": "P001390",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 9,
+        "timestamp": "8:47:04"
+    },
+    {
+        "id": "P001454",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 8,
+        "timestamp": "8:45:40"
+    },
+    {
+        "id": "P001663",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 6,
+        "timestamp": "8:49:40"
+    },
+    {
+        "id": "P001685",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "8:49:13"
+    },
+    {
+        "id": "P002615",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "8:48:24"
+    },
+    {
+        "id": "P002771",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "8:46:59"
+    }
+]

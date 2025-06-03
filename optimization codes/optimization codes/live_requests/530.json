@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000802",
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Tollygunge",
+        "count": 6,
+        "timestamp": "8:53:05"
+    },
+    {
+        "id": "P000896",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kasba"
+        ],
+        "destination": "Bosepukur",
+        "count": 2,
+        "timestamp": "8:51:16"
+    },
+    {
+        "id": "P001409",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "8:50:24"
+    },
+    {
+        "id": "P001587",
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "City",
+        "count": 7,
+        "timestamp": "8:53:42"
+    },
+    {
+        "id": "P002047",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "New Town",
+        "count": 3,
+        "timestamp": "8:52:47"
+    },
+    {
+        "id": "P002090",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 3,
+        "timestamp": "8:52:38"
+    },
+    {
+        "id": "P002518",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "8:53:19"
+    },
+    {
+        "id": "P002787",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "8:50:31"
+    },
+    {
+        "id": "P002816",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 2,
+        "timestamp": "8:52:18"
+    }
+]

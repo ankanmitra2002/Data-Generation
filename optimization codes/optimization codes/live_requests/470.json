@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000008",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat",
+        "count": 5,
+        "timestamp": "7:53:54"
+    },
+    {
+        "id": "P000207",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 8,
+        "timestamp": "7:54:04"
+    },
+    {
+        "id": "P000351",
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ballygunge",
+        "count": 10,
+        "timestamp": "7:50:20"
+    },
+    {
+        "id": "P000385",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "7:53:46"
+    },
+    {
+        "id": "P001655",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Rashbehari",
+        "count": 6,
+        "timestamp": "7:53:17"
+    },
+    {
+        "id": "P001795",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 6,
+        "timestamp": "7:53:10"
+    },
+    {
+        "id": "P002292",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "7:50:02"
+    },
+    {
+        "id": "P002305",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "7:52:35"
+    },
+    {
+        "id": "P002569",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "7:53:17"
+    },
+    {
+        "id": "P002616",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Bidhannagar",
+        "count": 4,
+        "timestamp": "7:50:16"
+    }
+]

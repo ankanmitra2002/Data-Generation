@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000129",
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "Barrackpore",
+        "count": 8,
+        "timestamp": "20:06:07"
+    },
+    {
+        "id": "P000168",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 2,
+        "timestamp": "20:06:19"
+    },
+    {
+        "id": "P000282",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 8,
+        "timestamp": "20:09:14"
+    },
+    {
+        "id": "P001400",
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ballygunge",
+        "count": 4,
+        "timestamp": "20:05:08"
+    },
+    {
+        "id": "P001796",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 6,
+        "timestamp": "20:08:46"
+    },
+    {
+        "id": "P001849",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 3,
+        "timestamp": "20:05:42"
+    },
+    {
+        "id": "P001988",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 5,
+        "timestamp": "20:06:23"
+    },
+    {
+        "id": "P002282",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Unitech",
+        "count": 5,
+        "timestamp": "20:07:04"
+    },
+    {
+        "id": "P002383",
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "ECO Park",
+        "count": 8,
+        "timestamp": "20:08:52"
+    },
+    {
+        "id": "P002409",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "20:05:11"
+    },
+    {
+        "id": "P002626",
+        "source": [
+            "Phoolbagan",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 7,
+        "timestamp": "20:09:52"
+    },
+    {
+        "id": "P002829",
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Garia Station Road",
+        "count": 9,
+        "timestamp": "20:08:02"
+    }
+]

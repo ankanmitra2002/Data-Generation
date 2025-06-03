@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000072",
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ballygunge",
+        "count": 7,
+        "timestamp": "1:37:59"
+    },
+    {
+        "id": "P000123",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "1:39:34"
+    },
+    {
+        "id": "P000855",
+        "source": [
+            "Bosepukur",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Hazra",
+        "count": 1,
+        "timestamp": "1:39:44"
+    },
+    {
+        "id": "P000888",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 3,
+        "timestamp": "1:37:01"
+    },
+    {
+        "id": "P001062",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Titagarh",
+        "count": 3,
+        "timestamp": "1:38:57"
+    },
+    {
+        "id": "P001177",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 8,
+        "timestamp": "1:39:25"
+    },
+    {
+        "id": "P001181",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "1:37:35"
+    },
+    {
+        "id": "P001604",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "1:37:50"
+    },
+    {
+        "id": "P001925",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "1:35:54"
+    },
+    {
+        "id": "P002739",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Sinthee More"
+        ],
+        "destination": "Tobin Road",
+        "count": 7,
+        "timestamp": "1:35:55"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000756",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 3,
+        "timestamp": "12:15:16"
+    },
+    {
+        "id": "P000971",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 7,
+        "timestamp": "12:19:32"
+    },
+    {
+        "id": "P001045",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 8,
+        "timestamp": "12:19:55"
+    },
+    {
+        "id": "P001074",
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "New Town",
+        "count": 2,
+        "timestamp": "12:18:48"
+    },
+    {
+        "id": "P001148",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 1,
+        "timestamp": "12:15:41"
+    },
+    {
+        "id": "P002384",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "12:17:51"
+    },
+    {
+        "id": "P002460",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "12:15:21"
+    },
+    {
+        "id": "P002710",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "New Alipore",
+        "count": 3,
+        "timestamp": "12:16:38"
+    }
+]

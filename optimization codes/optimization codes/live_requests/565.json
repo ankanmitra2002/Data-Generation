@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000005",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 4,
+        "timestamp": "9:27:57"
+    },
+    {
+        "id": "P000055",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Sealdah",
+        "count": 2,
+        "timestamp": "9:26:44"
+    },
+    {
+        "id": "P000297",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "9:29:55"
+    },
+    {
+        "id": "P000435",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "9:28:22"
+    },
+    {
+        "id": "P000978",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "9:29:28"
+    },
+    {
+        "id": "P001167",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "9:28:45"
+    },
+    {
+        "id": "P001514",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "9:29:38"
+    },
+    {
+        "id": "P002418",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 6,
+        "timestamp": "9:28:15"
+    },
+    {
+        "id": "P002423",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Jadavpur",
+        "count": 5,
+        "timestamp": "9:26:47"
+    },
+    {
+        "id": "P002464",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 2,
+        "timestamp": "9:26:25"
+    }
+]

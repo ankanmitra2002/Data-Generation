@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000041",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 7,
+        "timestamp": "21:26:14"
+    },
+    {
+        "id": "P000395",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "21:28:42"
+    },
+    {
+        "id": "P000702",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Sector V",
+        "count": 8,
+        "timestamp": "21:26:16"
+    },
+    {
+        "id": "P000722",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Sonarpur",
+        "count": 4,
+        "timestamp": "21:26:38"
+    },
+    {
+        "id": "P001398",
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Barasat",
+        "count": 7,
+        "timestamp": "21:25:20"
+    },
+    {
+        "id": "P001455",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "21:28:07"
+    },
+    {
+        "id": "P001500",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Sealdah",
+        "count": 2,
+        "timestamp": "21:25:26"
+    },
+    {
+        "id": "P001577",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "21:26:32"
+    },
+    {
+        "id": "P001755",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 10,
+        "timestamp": "21:25:43"
+    },
+    {
+        "id": "P001756",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus",
+        "count": 10,
+        "timestamp": "21:27:25"
+    },
+    {
+        "id": "P002324",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "21:28:12"
+    },
+    {
+        "id": "P002619",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "21:29:48"
+    }
+]

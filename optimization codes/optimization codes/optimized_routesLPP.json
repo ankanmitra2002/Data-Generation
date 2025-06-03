@@ -1,0 +1,5209 @@
+{
+    "assignments": [
+        {
+            "passenger": "P0",
+            "route": "r12",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P2",
+            "route": "r1",
+            "stops": [
+                "Baranagar",
+                "Dunlop",
+                "BT Road",
+                "Tobin Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P3",
+            "route": "r36",
+            "stops": [
+                "Esplanade",
+                "Salt Lake"
+            ],
+            "value": 0.84
+        },
+        {
+            "passenger": "P3",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.16
+        },
+        {
+            "passenger": "P4",
+            "route": "r40",
+            "stops": [
+                "Howrah Station",
+                "Esplanade",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P5",
+            "route": "r12",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P6",
+            "route": "r55",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P7",
+            "route": "r55",
+            "stops": [
+                "Jadavpur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P8",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P9",
+            "route": "r22",
+            "stops": [
+                "Jadavpur",
+                "Ballygunge",
+                "Sealdah",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P10",
+            "route": "r4",
+            "stops": [
+                "Jadavpur",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P11",
+            "route": "r23",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P12",
+            "route": "r58",
+            "stops": [
+                "Howrah Station",
+                "Lalbazar",
+                "Minto Park",
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P13",
+            "route": "r0",
+            "stops": [
+                "Unitech",
+                "Eco Space",
+                "Aliah University",
+                "Daber More"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P14",
+            "route": "r24",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Esplanade",
+                "Sealdah",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P15",
+            "route": "r20",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P16",
+            "route": "r30",
+            "stops": [
+                "Gariahat",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P17",
+            "route": "r19",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P18",
+            "route": "r14",
+            "stops": [
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P20",
+            "route": "r41",
+            "stops": [
+                "VIP Road",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P21",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P22",
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P23",
+            "route": "r55",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P24",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P25",
+            "route": "r39",
+            "stops": [
+                "Shyambazar",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P26",
+            "route": "r29",
+            "stops": [
+                "Sealdah",
+                "Phoolbagan",
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 0.9
+        },
+        {
+            "passenger": "P26",
+            "route": "r31",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 0.1
+        },
+        {
+            "passenger": "P27",
+            "route": "r20",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P28",
+            "route": "r10",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Tollygunge",
+                "Joka"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P29",
+            "route": "r30",
+            "stops": [
+                "Ultadanga",
+                "VIP Road",
+                "Airport Gate No. 1",
+                "Barasat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P30",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P31",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P32",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P33",
+            "route": "r34",
+            "stops": [
+                "Hazra",
+                "Kalighat",
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P34",
+            "route": "r38",
+            "stops": [
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P35",
+            "route": "r38",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee",
+                "Salt Lake Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P36",
+            "route": "r47",
+            "stops": [
+                "Karunamoyee",
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P37",
+            "route": "r5",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P38",
+            "route": "r30",
+            "stops": [
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P39",
+            "route": "r0",
+            "stops": [
+                "New Town",
+                "Unitech",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P41",
+            "route": "r5",
+            "stops": [
+                "Behala",
+                "Tollygunge",
+                "Hazra",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P42",
+            "route": "r38",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P43",
+            "route": "r19",
+            "stops": [
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 0.16
+        },
+        {
+            "passenger": "P43",
+            "route": "r43",
+            "stops": [
+                "MG Road",
+                "Sealdah",
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 0.84
+        },
+        {
+            "passenger": "P44",
+            "route": "r18",
+            "stops": [
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital",
+                "Patuli"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P45",
+            "route": "r45",
+            "stops": [
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P46",
+            "route": "r0",
+            "stops": [
+                "New Town",
+                "Unitech",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P47",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P48",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P49",
+            "route": "r38",
+            "stops": [
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P50",
+            "route": "r58",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P51",
+            "route": "r21",
+            "stops": [
+                "Kalighat",
+                "Hazra",
+                "Gariahat",
+                "Ultadanga"
+            ],
+            "value": 0.09
+        },
+        {
+            "passenger": "P51",
+            "route": "r30",
+            "stops": [
+                "Gariahat",
+                "Ultadanga"
+            ],
+            "value": 0.91
+        },
+        {
+            "passenger": "P52",
+            "route": "r46",
+            "stops": [
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road",
+                "Ruby Hospital"
+            ],
+            "value": 0.03
+        },
+        {
+            "passenger": "P53",
+            "route": "r39",
+            "stops": [
+                "Shyambazar",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P54",
+            "route": "r55",
+            "stops": [
+                "Jadavpur",
+                "Kasba",
+                "Bosepukur",
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P55",
+            "route": "r15",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P56",
+            "route": "r36",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P57",
+            "route": "r41",
+            "stops": [
+                "Airport Gate No. 1",
+                "VIP Road",
+                "Ultadanga",
+                "Salt Lake",
+                "Sector V",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P59",
+            "route": "r24",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Esplanade",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P60",
+            "route": "r50",
+            "stops": [
+                "Dumdum",
+                "Lake Town",
+                "Bangur",
+                "Ultadanga",
+                "Bidhannagar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P61",
+            "route": "r36",
+            "stops": [
+                "Esplanade",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P62",
+            "route": "r35",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee",
+                "New Town",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P63",
+            "route": "r5",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P64",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia",
+                "Narendrapur"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P66",
+            "route": "r55",
+            "stops": [
+                "Jadavpur",
+                "Kasba",
+                "Bosepukur"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P67",
+            "route": "r54",
+            "stops": [
+                "Sealdah",
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ],
+            "value": 0.24
+        },
+        {
+            "passenger": "P68",
+            "route": "r34",
+            "stops": [
+                "Kalighat",
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P70",
+            "route": "r20",
+            "stops": [
+                "Dumdum",
+                "Airport Gate No. 1",
+                "VIP Road",
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P71",
+            "route": "r2",
+            "stops": [
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 0.38
+        },
+        {
+            "passenger": "P71",
+            "route": "r23",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 0.62
+        },
+        {
+            "passenger": "P72",
+            "route": "r45",
+            "stops": [
+                "Behala",
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P73",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P74",
+            "route": "r9",
+            "stops": [
+                "Gariahat",
+                "Rashbehari",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P75",
+            "route": "r13",
+            "stops": [
+                "Garia",
+                "Ballygunge",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P76",
+            "route": "r53",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P77",
+            "route": "r38",
+            "stops": [
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 0.84
+        },
+        {
+            "passenger": "P77",
+            "route": "r45",
+            "stops": [
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 0.16
+        },
+        {
+            "passenger": "P78",
+            "route": "r46",
+            "stops": [
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road",
+                "Ruby Hospital"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P79",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P80",
+            "route": "r55",
+            "stops": [
+                "Jadavpur",
+                "Kasba",
+                "Bosepukur",
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P81",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P82",
+            "route": "r21",
+            "stops": [
+                "Tollygunge",
+                "Kalighat",
+                "Hazra"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P83",
+            "route": "r26",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P84",
+            "route": "r51",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P85",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P86",
+            "route": "r5",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P87",
+            "route": "r51",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P88",
+            "route": "r49",
+            "stops": [
+                "Shyambazar",
+                "Beleghata",
+                "Phoolbagan",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P89",
+            "route": "r43",
+            "stops": [
+                "MG Road",
+                "Sealdah",
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P90",
+            "route": "r11",
+            "stops": [
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P91",
+            "route": "r43",
+            "stops": [
+                "Baranagar",
+                "Shyambazar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P92",
+            "route": "r29",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P93",
+            "route": "r16",
+            "stops": [
+                "Howrah Station",
+                "Shibpur",
+                "Alipore",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P94",
+            "route": "r4",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.3
+        },
+        {
+            "passenger": "P94",
+            "route": "r22",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Ballygunge",
+                "Sealdah",
+                "MG Road",
+                "Howrah Station"
+            ],
+            "value": 0.7
+        },
+        {
+            "passenger": "P95",
+            "route": "r20",
+            "stops": [
+                "Dumdum",
+                "Airport Gate No. 1",
+                "VIP Road",
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P96",
+            "route": "r14",
+            "stops": [
+                "Tollygunge",
+                "Rashbehari",
+                "Gariahat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P97",
+            "route": "r0",
+            "stops": [
+                "Aliah University",
+                "Daber More",
+                "ECO Park",
+                "City"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P98",
+            "route": "r35",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee",
+                "New Town",
+                "Eco Space"
+            ],
+            "value": 0.57
+        },
+        {
+            "passenger": "P98",
+            "route": "r44",
+            "stops": [
+                "New Town",
+                "Eco Park",
+                "Eco Space"
+            ],
+            "value": 0.43
+        },
+        {
+            "passenger": "P99",
+            "route": "r47",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P100",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Sealdah",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P101",
+            "route": "r8",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P103",
+            "route": "r48",
+            "stops": [
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P104",
+            "route": "r1",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Sinthee More",
+                "Baranagar",
+                "Dunlop",
+                "BT Road",
+                "Tobin Road",
+                "Khardah",
+                "Titagarh"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P105",
+            "route": "r53",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P106",
+            "route": "r4",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P107",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P108",
+            "route": "r48",
+            "stops": [
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P109",
+            "route": "r32",
+            "stops": [
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P110",
+            "route": "r50",
+            "stops": [
+                "Dumdum",
+                "Lake Town",
+                "Bangur",
+                "Ultadanga",
+                "Bidhannagar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P111",
+            "route": "r3",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P112",
+            "route": "r31",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P113",
+            "route": "r9",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P114",
+            "route": "r32",
+            "stops": [
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P115",
+            "route": "r8",
+            "stops": [
+                "Newtown",
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P116",
+            "route": "r36",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P117",
+            "route": "r39",
+            "stops": [
+                "Shyambazar",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P119",
+            "route": "r15",
+            "stops": [
+                "Shyambazar",
+                "Esplanade"
+            ],
+            "value": 0.21
+        },
+        {
+            "passenger": "P119",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade"
+            ],
+            "value": 0.79
+        },
+        {
+            "passenger": "P120",
+            "route": "r30",
+            "stops": [
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P121",
+            "route": "r49",
+            "stops": [
+                "Salt Lake",
+                "Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P122",
+            "route": "r3",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Minto Park",
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P123",
+            "route": "r26",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.35
+        },
+        {
+            "passenger": "P123",
+            "route": "r31",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.65
+        },
+        {
+            "passenger": "P124",
+            "route": "r1",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Sinthee More",
+                "Baranagar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P125",
+            "route": "r51",
+            "stops": [
+                "Lalbazar",
+                "Esplanade",
+                "Rashbehari",
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P126",
+            "route": "r20",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P127",
+            "route": "r58",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P128",
+            "route": "r56",
+            "stops": [
+                "Sinthee",
+                "Shyambazar",
+                "MG Road",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P129",
+            "route": "r6",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Hazra",
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P130",
+            "route": "r34",
+            "stops": [
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P131",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P133",
+            "route": "r22",
+            "stops": [
+                "Ballygunge",
+                "Sealdah",
+                "MG Road",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P134",
+            "route": "r12",
+            "stops": [
+                "Barasat",
+                "Airport Gate No. 1",
+                "VIP Road",
+                "Ultadanga",
+                "Phoolbagan"
+            ],
+            "value": 0.47
+        },
+        {
+            "passenger": "P135",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P136",
+            "route": "r51",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P138",
+            "route": "r5",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P139",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 0.77
+        },
+        {
+            "passenger": "P139",
+            "route": "r41",
+            "stops": [
+                "Airport Gate No. 1",
+                "VIP Road",
+                "Ultadanga",
+                "Salt Lake",
+                "Sector V",
+                "New Town"
+            ],
+            "value": 0.23
+        },
+        {
+            "passenger": "P140",
+            "route": "r19",
+            "stops": [
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 0.84
+        },
+        {
+            "passenger": "P140",
+            "route": "r23",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 0.16
+        },
+        {
+            "passenger": "P142",
+            "route": "r2",
+            "stops": [
+                "Sealdah",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P143",
+            "route": "r8",
+            "stops": [
+                "Newtown",
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P144",
+            "route": "r5",
+            "stops": [
+                "Behala",
+                "Tollygunge",
+                "Hazra",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P145",
+            "route": "r37",
+            "stops": [
+                "Shyambazar",
+                "Baranagar",
+                "Dunlop",
+                "Titagarh"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P146",
+            "route": "r30",
+            "stops": [
+                "Gariahat",
+                "Ultadanga"
+            ],
+            "value": 0.13
+        },
+        {
+            "passenger": "P146",
+            "route": "r33",
+            "stops": [
+                "Gariahat",
+                "Phoolbagan",
+                "Ultadanga"
+            ],
+            "value": 0.87
+        },
+        {
+            "passenger": "P147",
+            "route": "r36",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P148",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P149",
+            "route": "r26",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P150",
+            "route": "r38",
+            "stops": [
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P151",
+            "route": "r6",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 0.73
+        },
+        {
+            "passenger": "P151",
+            "route": "r9",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 0.27
+        },
+        {
+            "passenger": "P152",
+            "route": "r38",
+            "stops": [
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P153",
+            "route": "r30",
+            "stops": [
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P154",
+            "route": "r4",
+            "stops": [
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P155",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P156",
+            "route": "r8",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P157",
+            "route": "r0",
+            "stops": [
+                "New Town",
+                "Unitech",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P158",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P159",
+            "route": "r8",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P160",
+            "route": "r17",
+            "stops": [
+                "Karunamoyee",
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P161",
+            "route": "r2",
+            "stops": [
+                "Howrah",
+                "Sealdah",
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P162",
+            "route": "r12",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P163",
+            "route": "r39",
+            "stops": [
+                "Shyambazar",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P164",
+            "route": "r36",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P165",
+            "route": "r47",
+            "stops": [
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P167",
+            "route": "r47",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P168",
+            "route": "r15",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P169",
+            "route": "r4",
+            "stops": [
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P170",
+            "route": "r14",
+            "stops": [
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P171",
+            "route": "r4",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P172",
+            "route": "r47",
+            "stops": [
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P173",
+            "route": "r18",
+            "stops": [
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital",
+                "Patuli"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P174",
+            "route": "r0",
+            "stops": [
+                "Eco Space",
+                "Aliah University",
+                "Daber More",
+                "ECO Park",
+                "City"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P175",
+            "route": "r36",
+            "stops": [
+                "Esplanade",
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P176",
+            "route": "r49",
+            "stops": [
+                "Shyambazar",
+                "Beleghata",
+                "Phoolbagan",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P177",
+            "route": "r37",
+            "stops": [
+                "Shyambazar",
+                "Baranagar",
+                "Dunlop",
+                "Titagarh"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P178",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P179",
+            "route": "r9",
+            "stops": [
+                "Jadavpur",
+                "Dhakuria",
+                "Gariahat",
+                "Rashbehari"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P180",
+            "route": "r27",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P181",
+            "route": "r38",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P182",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P183",
+            "route": "r2",
+            "stops": [
+                "Sealdah",
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P184",
+            "route": "r3",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Minto Park",
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P185",
+            "route": "r6",
+            "stops": [
+                "Kasba",
+                "Bosepukur"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P186",
+            "route": "r31",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P187",
+            "route": "r40",
+            "stops": [
+                "Esplanade",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P188",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park",
+                "Salt Lake",
+                "Karunamoyee",
+                "Ultadanga",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P189",
+            "route": "r34",
+            "stops": [
+                "Hazra",
+                "Kalighat",
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P190",
+            "route": "r41",
+            "stops": [
+                "Airport Gate No. 1",
+                "VIP Road",
+                "Ultadanga",
+                "Salt Lake",
+                "Sector V",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P192",
+            "route": "r14",
+            "stops": [
+                "Tollygunge",
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P193",
+            "route": "r23",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P194",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P195",
+            "route": "r3",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Minto Park",
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P196",
+            "route": "r54",
+            "stops": [
+                "Sealdah",
+                "Moulali",
+                "Park Circus",
+                "Ballygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P197",
+            "route": "r48",
+            "stops": [
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P199",
+            "route": "r51",
+            "stops": [
+                "Howrah",
+                "Lalbazar",
+                "Esplanade",
+                "Rashbehari",
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P200",
+            "route": "r24",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Esplanade",
+                "Sealdah",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P201",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P203",
+            "route": "r16",
+            "stops": [
+                "Shibpur",
+                "Alipore",
+                "Tollygunge",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P204",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P205",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P206",
+            "route": "r23",
+            "stops": [
+                "Ultadanga",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P207",
+            "route": "r4",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P208",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P209",
+            "route": "r6",
+            "stops": [
+                "Kasba",
+                "Bosepukur"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P211",
+            "route": "r46",
+            "stops": [
+                "Kamalgazi",
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P212",
+            "route": "r43",
+            "stops": [
+                "Baranagar",
+                "Shyambazar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P213",
+            "route": "r20",
+            "stops": [
+                "Dumdum",
+                "Airport Gate No. 1",
+                "VIP Road",
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P214",
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P215",
+            "route": "r0",
+            "stops": [
+                "Aliah University",
+                "Daber More",
+                "ECO Park",
+                "City"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P216",
+            "route": "r30",
+            "stops": [
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P217",
+            "route": "r22",
+            "stops": [
+                "Jadavpur",
+                "Ballygunge",
+                "Sealdah",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P218",
+            "route": "r27",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P219",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P220",
+            "route": "r36",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P221",
+            "route": "r1",
+            "stops": [
+                "Shyambazar",
+                "Sinthee More",
+                "Baranagar",
+                "Dunlop",
+                "BT Road",
+                "Tobin Road",
+                "Khardah",
+                "Titagarh"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P222",
+            "route": "r16",
+            "stops": [
+                "Shibpur",
+                "Alipore",
+                "Tollygunge",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P223",
+            "route": "r19",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Phoolbagan",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P224",
+            "route": "r56",
+            "stops": [
+                "BT Road",
+                "Baranagar",
+                "Sinthee",
+                "Shyambazar",
+                "MG Road",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P225",
+            "route": "r30",
+            "stops": [
+                "Ultadanga",
+                "VIP Road",
+                "Airport Gate No. 1",
+                "Barasat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P226",
+            "route": "r47",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P227",
+            "route": "r0",
+            "stops": [
+                "Unitech",
+                "Eco Space",
+                "Aliah University",
+                "Daber More",
+                "ECO Park",
+                "City"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P228",
+            "route": "r45",
+            "stops": [
+                "Behala",
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P229",
+            "route": "r0",
+            "stops": [
+                "Aliah University",
+                "Daber More",
+                "ECO Park",
+                "City"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P230",
+            "route": "r4",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.62
+        },
+        {
+            "passenger": "P230",
+            "route": "r5",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.38
+        },
+        {
+            "passenger": "P231",
+            "route": "r9",
+            "stops": [
+                "Dhakuria",
+                "Gariahat",
+                "Rashbehari",
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P232",
+            "route": "r18",
+            "stops": [
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital",
+                "Patuli"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P233",
+            "route": "r26",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 0.11
+        },
+        {
+            "passenger": "P233",
+            "route": "r34",
+            "stops": [
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 0.89
+        },
+        {
+            "passenger": "P234",
+            "route": "r38",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P235",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P236",
+            "route": "r17",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P237",
+            "route": "r22",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Ballygunge",
+                "Sealdah",
+                "MG Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P238",
+            "route": "r2",
+            "stops": [
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P239",
+            "route": "r32",
+            "stops": [
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 0.72
+        },
+        {
+            "passenger": "P240",
+            "route": "r27",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.16
+        },
+        {
+            "passenger": "P240",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.84
+        },
+        {
+            "passenger": "P241",
+            "route": "r17",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 0.61
+        },
+        {
+            "passenger": "P241",
+            "route": "r47",
+            "stops": [
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah"
+            ],
+            "value": 0.39
+        },
+        {
+            "passenger": "P242",
+            "route": "r14",
+            "stops": [
+                "Rashbehari",
+                "Gariahat"
+            ],
+            "value": 0.25
+        },
+        {
+            "passenger": "P242",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat"
+            ],
+            "value": 0.75
+        },
+        {
+            "passenger": "P243",
+            "route": "r25",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P244",
+            "route": "r46",
+            "stops": [
+                "Kamalgazi",
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P245",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P246",
+            "route": "r16",
+            "stops": [
+                "Howrah Station",
+                "Shibpur",
+                "Alipore",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P247",
+            "route": "r19",
+            "stops": [
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P248",
+            "route": "r57",
+            "stops": [
+                "Salt Lake",
+                "New Town",
+                "Eco Park",
+                "Chinar Park",
+                "Airport"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P249",
+            "route": "r44",
+            "stops": [
+                "Eco Park",
+                "Eco Space",
+                "Unitech",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P251",
+            "route": "r35",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee",
+                "New Town",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P252",
+            "route": "r25",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P253",
+            "route": "r31",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P254",
+            "route": "r14",
+            "stops": [
+                "Tollygunge",
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P255",
+            "route": "r3",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.12
+        },
+        {
+            "passenger": "P255",
+            "route": "r31",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 0.88
+        },
+        {
+            "passenger": "P257",
+            "route": "r45",
+            "stops": [
+                "Behala",
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P258",
+            "route": "r10",
+            "stops": [
+                "Belgachia",
+                "Shyambazar",
+                "Esplanade",
+                "Tollygunge",
+                "Joka"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P259",
+            "route": "r27",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P260",
+            "route": "r38",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P261",
+            "route": "r0",
+            "stops": [
+                "New Town",
+                "Unitech",
+                "Eco Space",
+                "Aliah University"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P262",
+            "route": "r3",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Minto Park",
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P263",
+            "route": "r50",
+            "stops": [
+                "Dumdum",
+                "Lake Town",
+                "Bangur",
+                "Ultadanga",
+                "Bidhannagar",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P264",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P265",
+            "route": "r44",
+            "stops": [
+                "Eco Park",
+                "Eco Space",
+                "Unitech",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P266",
+            "route": "r4",
+            "stops": [
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P267",
+            "route": "r42",
+            "stops": [
+                "Behala",
+                "Sakherbazar",
+                "Tollygunge",
+                "Kalighat",
+                "Hazra",
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P268",
+            "route": "r27",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P269",
+            "route": "r13",
+            "stops": [
+                "Garia",
+                "Ballygunge",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P270",
+            "route": "r11",
+            "stops": [
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P271",
+            "route": "r44",
+            "stops": [
+                "Eco Park",
+                "Eco Space",
+                "Unitech",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P272",
+            "route": "r10",
+            "stops": [
+                "Dumdum",
+                "Belgachia",
+                "Shyambazar",
+                "Esplanade",
+                "Tollygunge",
+                "Joka"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P273",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P274",
+            "route": "r2",
+            "stops": [
+                "Sealdah",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P275",
+            "route": "r38",
+            "stops": [
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P276",
+            "route": "r15",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P277",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P278",
+            "route": "r42",
+            "stops": [
+                "Behala",
+                "Sakherbazar",
+                "Tollygunge",
+                "Kalighat",
+                "Hazra",
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P279",
+            "route": "r50",
+            "stops": [
+                "Lake Town",
+                "Bangur",
+                "Ultadanga",
+                "Bidhannagar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P280",
+            "route": "r34",
+            "stops": [
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P281",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P282",
+            "route": "r19",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P283",
+            "route": "r20",
+            "stops": [
+                "Dumdum",
+                "Airport Gate No. 1",
+                "VIP Road",
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P284",
+            "route": "r49",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Phoolbagan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P285",
+            "route": "r32",
+            "stops": [
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P286",
+            "route": "r0",
+            "stops": [
+                "College More",
+                "New Town",
+                "Unitech",
+                "Eco Space",
+                "Aliah University",
+                "Daber More",
+                "ECO Park",
+                "City"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P287",
+            "route": "r51",
+            "stops": [
+                "Howrah",
+                "Lalbazar",
+                "Esplanade",
+                "Rashbehari",
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P288",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P289",
+            "route": "r17",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P290",
+            "route": "r37",
+            "stops": [
+                "Shyambazar",
+                "Baranagar",
+                "Dunlop",
+                "Titagarh"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P291",
+            "route": "r39",
+            "stops": [
+                "Shyambazar",
+                "MG Road",
+                "SN Banerjee",
+                "Esplanade",
+                "Park Street",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P292",
+            "route": "r45",
+            "stops": [
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P293",
+            "route": "r31",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P294",
+            "route": "r15",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Esplanade",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P295",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P296",
+            "route": "r35",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 0.21
+        },
+        {
+            "passenger": "P296",
+            "route": "r47",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 0.79
+        },
+        {
+            "passenger": "P297",
+            "route": "r53",
+            "stops": [
+                "Gariahat",
+                "Golpark"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P298",
+            "route": "r11",
+            "stops": [
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P299",
+            "route": "r58",
+            "stops": [
+                "Minto Park",
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P300",
+            "route": "r45",
+            "stops": [
+                "Sakherbazar",
+                "New Alipore",
+                "Alipore",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P301",
+            "route": "r37",
+            "stops": [
+                "Shyambazar",
+                "Baranagar",
+                "Dunlop",
+                "Titagarh"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P303",
+            "route": "r57",
+            "stops": [
+                "New Town",
+                "Eco Park",
+                "Chinar Park",
+                "Airport"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P304",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P305",
+            "route": "r1",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Sinthee More",
+                "Baranagar",
+                "Dunlop",
+                "BT Road",
+                "Tobin Road",
+                "Khardah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P306",
+            "route": "r6",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P307",
+            "route": "r37",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Baranagar",
+                "Dunlop"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P308",
+            "route": "r26",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P309",
+            "route": "r32",
+            "stops": [
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P311",
+            "route": "r30",
+            "stops": [
+                "Gariahat",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P312",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 0.33
+        },
+        {
+            "passenger": "P313",
+            "route": "r28",
+            "stops": [
+                "Sealdah",
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P314",
+            "route": "r32",
+            "stops": [
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P315",
+            "route": "r38",
+            "stops": [
+                "Minto Park",
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee",
+                "Salt Lake Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P316",
+            "route": "r56",
+            "stops": [
+                "MG Road",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P317",
+            "route": "r17",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P318",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P319",
+            "route": "r31",
+            "stops": [
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P321",
+            "route": "r20",
+            "stops": [
+                "Dumdum",
+                "Airport Gate No. 1",
+                "VIP Road",
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P322",
+            "route": "r12",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P323",
+            "route": "r25",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee",
+                "Ultadanga",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P324",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P325",
+            "route": "r47",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P326",
+            "route": "r34",
+            "stops": [
+                "Esplanade",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P327",
+            "route": "r46",
+            "stops": [
+                "Kamalgazi",
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P328",
+            "route": "r17",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P329",
+            "route": "r3",
+            "stops": [
+                "Tollygunge",
+                "Hazra",
+                "Kalighat",
+                "Minto Park",
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P330",
+            "route": "r57",
+            "stops": [
+                "Salt Lake",
+                "New Town",
+                "Eco Park",
+                "Chinar Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P331",
+            "route": "r37",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Baranagar",
+                "Dunlop"
+            ],
+            "value": 0.22
+        },
+        {
+            "passenger": "P332",
+            "route": "r56",
+            "stops": [
+                "Baranagar",
+                "Sinthee",
+                "Shyambazar",
+                "MG Road",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P333",
+            "route": "r15",
+            "stops": [
+                "Esplanade",
+                "Park Circus",
+                "Ruby Hospital"
+            ],
+            "value": 0.7
+        },
+        {
+            "passenger": "P333",
+            "route": "r18",
+            "stops": [
+                "Esplanade",
+                "Minto Park",
+                "Gariahat",
+                "Ruby Hospital"
+            ],
+            "value": 0.3
+        },
+        {
+            "passenger": "P334",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P337",
+            "route": "r9",
+            "stops": [
+                "Jadavpur",
+                "Dhakuria",
+                "Gariahat",
+                "Rashbehari",
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P338",
+            "route": "r39",
+            "stops": [
+                "Shyambazar",
+                "MG Road",
+                "SN Banerjee",
+                "Esplanade",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P339",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 0.35
+        },
+        {
+            "passenger": "P339",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 0.65
+        },
+        {
+            "passenger": "P340",
+            "route": "r14",
+            "stops": [
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P341",
+            "route": "r3",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P342",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P343",
+            "route": "r10",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Tollygunge",
+                "Joka"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P344",
+            "route": "r2",
+            "stops": [
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P345",
+            "route": "r43",
+            "stops": [
+                "Shyambazar",
+                "MG Road",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P346",
+            "route": "r17",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P347",
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake"
+            ],
+            "value": 0.43
+        },
+        {
+            "passenger": "P347",
+            "route": "r49",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Phoolbagan",
+                "Salt Lake"
+            ],
+            "value": 0.57
+        },
+        {
+            "passenger": "P348",
+            "route": "r13",
+            "stops": [
+                "Garia",
+                "Ballygunge",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P349",
+            "route": "r57",
+            "stops": [
+                "New Town",
+                "Eco Park",
+                "Chinar Park",
+                "Airport"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P350",
+            "route": "r0",
+            "stops": [
+                "Unitech",
+                "Eco Space",
+                "Aliah University",
+                "Daber More",
+                "ECO Park"
+            ],
+            "value": 0.2
+        },
+        {
+            "passenger": "P351",
+            "route": "r34",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P352",
+            "route": "r4",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Kalighat",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P353",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P354",
+            "route": "r20",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P355",
+            "route": "r30",
+            "stops": [
+                "Ultadanga",
+                "VIP Road",
+                "Airport Gate No. 1",
+                "Barasat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P356",
+            "route": "r6",
+            "stops": [
+                "Kasba",
+                "Bosepukur",
+                "Gariahat",
+                "Golpark",
+                "Hazra"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P357",
+            "route": "r10",
+            "stops": [
+                "Belgachia",
+                "Shyambazar",
+                "Esplanade",
+                "Tollygunge",
+                "Joka"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P358",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P359",
+            "route": "r54",
+            "stops": [
+                "Moulali",
+                "Park Circus",
+                "Ballygunge",
+                "Rashbehari"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P360",
+            "route": "r27",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P361",
+            "route": "r32",
+            "stops": [
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P362",
+            "route": "r48",
+            "stops": [
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P363",
+            "route": "r43",
+            "stops": [
+                "MG Road",
+                "Sealdah",
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P364",
+            "route": "r48",
+            "stops": [
+                "Park Circus",
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P365",
+            "route": "r0",
+            "stops": [
+                "New Town",
+                "Unitech"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P367",
+            "route": "r27",
+            "stops": [
+                "Garia",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P369",
+            "route": "r11",
+            "stops": [
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P370",
+            "route": "r42",
+            "stops": [
+                "Behala",
+                "Sakherbazar",
+                "Tollygunge",
+                "Kalighat",
+                "Hazra",
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P371",
+            "route": "r31",
+            "stops": [
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P372",
+            "route": "r16",
+            "stops": [
+                "Shibpur",
+                "Alipore",
+                "Tollygunge",
+                "Garia"
+            ],
+            "value": 0.1
+        },
+        {
+            "passenger": "P373",
+            "route": "r5",
+            "stops": [
+                "Tollygunge",
+                "Hazra"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P374",
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P376",
+            "route": "r43",
+            "stops": [
+                "MG Road",
+                "Sealdah",
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P377",
+            "route": "r36",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P378",
+            "route": "r5",
+            "stops": [
+                "Thakurpukur",
+                "Behala",
+                "Tollygunge",
+                "Hazra",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P379",
+            "route": "r10",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Tollygunge",
+                "Joka"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P380",
+            "route": "r36",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 0.86
+        },
+        {
+            "passenger": "P380",
+            "route": "r38",
+            "stops": [
+                "Minto Park",
+                "Esplanade"
+            ],
+            "value": 0.14
+        },
+        {
+            "passenger": "P381",
+            "route": "r35",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P384",
+            "route": "r43",
+            "stops": [
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P385",
+            "route": "r19",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Park Circus",
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P386",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P387",
+            "route": "r40",
+            "stops": [
+                "Kalighat",
+                "Jadavpur",
+                "Garia",
+                "Narendrapur"
+            ],
+            "value": 0.52
+        },
+        {
+            "passenger": "P387",
+            "route": "r46",
+            "stops": [
+                "Garia",
+                "Kamalgazi",
+                "Narendrapur"
+            ],
+            "value": 0.48
+        },
+        {
+            "passenger": "P388",
+            "route": "r47",
+            "stops": [
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P389",
+            "route": "r38",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P390",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P391",
+            "route": "r6",
+            "stops": [
+                "Hazra",
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P392",
+            "route": "r58",
+            "stops": [
+                "Howrah Station",
+                "Lalbazar",
+                "Minto Park",
+                "Kalighat",
+                "Jadavpur",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P393",
+            "route": "r48",
+            "stops": [
+                "Park Circus",
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P394",
+            "route": "r34",
+            "stops": [
+                "Hazra",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P396",
+            "route": "r57",
+            "stops": [
+                "New Town",
+                "Eco Park",
+                "Chinar Park",
+                "Airport"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P397",
+            "route": "r42",
+            "stops": [
+                "Tollygunge",
+                "Kalighat",
+                "Hazra",
+                "Minto Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P398",
+            "route": "r53",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P399",
+            "route": "r16",
+            "stops": [
+                "Howrah Station",
+                "Shibpur",
+                "Alipore",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P400",
+            "route": "r44",
+            "stops": [
+                "Eco Park",
+                "Eco Space",
+                "Unitech",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P401",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P402",
+            "route": "r14",
+            "stops": [
+                "Ballygunge",
+                "Park Circus",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P403",
+            "route": "r41",
+            "stops": [
+                "Airport Gate No. 1",
+                "VIP Road",
+                "Ultadanga",
+                "Salt Lake",
+                "Sector V",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P405",
+            "route": "r47",
+            "stops": [
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P406",
+            "route": "r36",
+            "stops": [
+                "Esplanade",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P407",
+            "route": "r47",
+            "stops": [
+                "Ultadanga",
+                "Kankurgachi",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P408",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Sealdah",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P409",
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P410",
+            "route": "r41",
+            "stops": [
+                "Airport Gate No. 1",
+                "VIP Road",
+                "Ultadanga",
+                "Salt Lake",
+                "Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P411",
+            "route": "r35",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P412",
+            "route": "r35",
+            "stops": [
+                "New Town",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P413",
+            "route": "r52",
+            "stops": [
+                "Esplanade",
+                "Park Street"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P414",
+            "route": "r8",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.32
+        },
+        {
+            "passenger": "P414",
+            "route": "r25",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.68
+        },
+        {
+            "passenger": "P415",
+            "route": "r19",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Phoolbagan",
+                "Park Circus"
+            ],
+            "value": 0.03
+        },
+        {
+            "passenger": "P416",
+            "route": "r36",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 0.4
+        },
+        {
+            "passenger": "P416",
+            "route": "r47",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 0.6
+        },
+        {
+            "passenger": "P417",
+            "route": "r35",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P418",
+            "route": "r26",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Salt Lake",
+                "New Town",
+                "Rajarhat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P419",
+            "route": "r52",
+            "stops": [
+                "Maidan",
+                "Rabindra Sadan",
+                "Bhowanipore",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P420",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P421",
+            "route": "r26",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P422",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P424",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park",
+                "Salt Lake",
+                "Karunamoyee",
+                "Ultadanga",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P425",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P426",
+            "route": "r8",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P428",
+            "route": "r30",
+            "stops": [
+                "Gariahat",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P429",
+            "route": "r43",
+            "stops": [
+                "Baranagar",
+                "Shyambazar",
+                "MG Road",
+                "Sealdah",
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 0.61
+        },
+        {
+            "passenger": "P430",
+            "route": "r7",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P431",
+            "route": "r55",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P433",
+            "route": "r41",
+            "stops": [
+                "Salt Lake",
+                "Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P434",
+            "route": "r46",
+            "stops": [
+                "Kamalgazi",
+                "Narendrapur",
+                "Sonarpur",
+                "Garia Station Road"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P435",
+            "route": "r20",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 0.03
+        },
+        {
+            "passenger": "P435",
+            "route": "r44",
+            "stops": [
+                "New Town",
+                "Eco Park"
+            ],
+            "value": 0.97
+        },
+        {
+            "passenger": "P436",
+            "route": "r28",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P437",
+            "route": "r30",
+            "stops": [
+                "Gariahat",
+                "Ultadanga",
+                "VIP Road",
+                "Airport Gate No. 1",
+                "Barasat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P438",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P439",
+            "route": "r25",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee",
+                "Ultadanga",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P440",
+            "route": "r11",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P441",
+            "route": "r12",
+            "stops": [
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 0.66
+        },
+        {
+            "passenger": "P441",
+            "route": "r17",
+            "stops": [
+                "Karunamoyee",
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 0.34
+        },
+        {
+            "passenger": "P442",
+            "route": "r14",
+            "stops": [
+                "Rashbehari",
+                "Gariahat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P443",
+            "route": "r24",
+            "stops": [
+                "Shyambazar",
+                "Esplanade",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P444",
+            "route": "r53",
+            "stops": [
+                "Dhakuria",
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P445",
+            "route": "r2",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P446",
+            "route": "r19",
+            "stops": [
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P447",
+            "route": "r23",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P448",
+            "route": "r5",
+            "stops": [
+                "Behala",
+                "Tollygunge",
+                "Hazra",
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P449",
+            "route": "r1",
+            "stops": [
+                "Tobin Road",
+                "Khardah",
+                "Titagarh",
+                "Barrackpore"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P450",
+            "route": "r43",
+            "stops": [
+                "Shyambazar",
+                "MG Road",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P451",
+            "route": "r2",
+            "stops": [
+                "Ruby",
+                "Garia"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P452",
+            "route": "r36",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P453",
+            "route": "r37",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Baranagar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P454",
+            "route": "r30",
+            "stops": [
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 0.04
+        },
+        {
+            "passenger": "P454",
+            "route": "r32",
+            "stops": [
+                "Ballygunge",
+                "Park Circus",
+                "VIP Road",
+                "Airport Gate No. 1"
+            ],
+            "value": 0.96
+        },
+        {
+            "passenger": "P455",
+            "route": "r57",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P456",
+            "route": "r17",
+            "stops": [
+                "Karunamoyee",
+                "Ultadanga",
+                "Phoolbagan",
+                "Sealdah"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P457",
+            "route": "r22",
+            "stops": [
+                "Ballygunge",
+                "Sealdah",
+                "MG Road",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P458",
+            "route": "r1",
+            "stops": [
+                "MG Road",
+                "Shyambazar",
+                "Sinthee More",
+                "Baranagar"
+            ],
+            "value": 0.13
+        },
+        {
+            "passenger": "P458",
+            "route": "r37",
+            "stops": [
+                "Park Circus",
+                "MG Road",
+                "Shyambazar",
+                "Baranagar"
+            ],
+            "value": 0.87
+        },
+        {
+            "passenger": "P459",
+            "route": "r37",
+            "stops": [
+                "Park Circus",
+                "MG Road",
+                "Shyambazar",
+                "Baranagar"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P460",
+            "route": "r25",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P462",
+            "route": "r33",
+            "stops": [
+                "Gariahat",
+                "Phoolbagan",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P463",
+            "route": "r16",
+            "stops": [
+                "Howrah Station",
+                "Shibpur",
+                "Alipore",
+                "Tollygunge"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P464",
+            "route": "r4",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 0.55
+        },
+        {
+            "passenger": "P464",
+            "route": "r36",
+            "stops": [
+                "Kalighat",
+                "Esplanade"
+            ],
+            "value": 0.45
+        },
+        {
+            "passenger": "P465",
+            "route": "r53",
+            "stops": [
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P466",
+            "route": "r30",
+            "stops": [
+                "Ultadanga",
+                "VIP Road",
+                "Airport Gate No. 1",
+                "Barasat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P467",
+            "route": "r31",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P468",
+            "route": "r11",
+            "stops": [
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P469",
+            "route": "r49",
+            "stops": [
+                "Salt Lake",
+                "Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P470",
+            "route": "r11",
+            "stops": [
+                "Esplanade",
+                "Maidan",
+                "Rabindra Sadan"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P471",
+            "route": "r58",
+            "stops": [
+                "Howrah Station",
+                "Lalbazar",
+                "Minto Park",
+                "Kalighat",
+                "Jadavpur"
+            ],
+            "value": 0.82
+        },
+        {
+            "passenger": "P472",
+            "route": "r33",
+            "stops": [
+                "Phoolbagan",
+                "Ultadanga",
+                "Dumdum"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P473",
+            "route": "r35",
+            "stops": [
+                "Ultadanga",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P475",
+            "route": "r53",
+            "stops": [
+                "Dhakuria",
+                "Gariahat",
+                "Golpark",
+                "Bosepukur",
+                "Kasba"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P476",
+            "route": "r29",
+            "stops": [
+                "Ultadanga",
+                "Salt Lake",
+                "New Town"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P478",
+            "route": "r13",
+            "stops": [
+                "Garia",
+                "Ballygunge",
+                "Esplanade"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P479",
+            "route": "r38",
+            "stops": [
+                "Esplanade",
+                "Ultadanga",
+                "Karunamoyee",
+                "Salt Lake Sector V"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P480",
+            "route": "r35",
+            "stops": [
+                "New Town",
+                "Eco Space"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P482",
+            "route": "r48",
+            "stops": [
+                "Park Circus",
+                "Ripon Street",
+                "SN Banerjee",
+                "Lalbazar",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P485",
+            "route": "r55",
+            "stops": [
+                "Gariahat",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P486",
+            "route": "r19",
+            "stops": [
+                "Salt Lake",
+                "Ultadanga"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P487",
+            "route": "r31",
+            "stops": [
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 0.02
+        },
+        {
+            "passenger": "P487",
+            "route": "r35",
+            "stops": [
+                "Esplanade",
+                "Ultadanga"
+            ],
+            "value": 0.98
+        },
+        {
+            "passenger": "P488",
+            "route": "r25",
+            "stops": [
+                "New Town",
+                "ECO Park"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P489",
+            "route": "r3",
+            "stops": [
+                "Hazra",
+                "Kalighat"
+            ],
+            "value": 0.12
+        },
+        {
+            "passenger": "P489",
+            "route": "r9",
+            "stops": [
+                "Gariahat",
+                "Rashbehari",
+                "Kalighat"
+            ],
+            "value": 0.88
+        },
+        {
+            "passenger": "P490",
+            "route": "r4",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.21
+        },
+        {
+            "passenger": "P490",
+            "route": "r8",
+            "stops": [
+                "Esplanade",
+                "Howrah Station"
+            ],
+            "value": 0.79
+        },
+        {
+            "passenger": "P491",
+            "route": "r40",
+            "stops": [
+                "Howrah Station",
+                "Esplanade",
+                "Kalighat"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P492",
+            "route": "r43",
+            "stops": [
+                "Park Circus",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P493",
+            "route": "r25",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 0.68
+        },
+        {
+            "passenger": "P493",
+            "route": "r27",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 0.32
+        },
+        {
+            "passenger": "P494",
+            "route": "r14",
+            "stops": [
+                "Rashbehari",
+                "Gariahat",
+                "Ballygunge",
+                "Park Circus"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P495",
+            "route": "r49",
+            "stops": [
+                "Bagbazar",
+                "Shyambazar",
+                "Beleghata",
+                "Phoolbagan",
+                "Salt Lake"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P496",
+            "route": "r23",
+            "stops": [
+                "Ultadanga",
+                "Ruby"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P497",
+            "route": "r36",
+            "stops": [
+                "Salt Lake",
+                "Karunamoyee"
+            ],
+            "value": 1.0
+        },
+        {
+            "passenger": "P498",
+            "route": "r22",
+            "stops": [
+                "Garia",
+                "Jadavpur",
+                "Ballygunge",
+                "Sealdah",
+                "MG Road",
+                "Howrah Station"
+            ],
+            "value": 1.0
+        }
+    ]
+}

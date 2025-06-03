@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000060",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 3,
+        "timestamp": "21:37:39"
+    },
+    {
+        "id": "P000154",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 6,
+        "timestamp": "21:39:37"
+    },
+    {
+        "id": "P000384",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 4,
+        "timestamp": "21:37:39"
+    },
+    {
+        "id": "P000401",
+        "source": [
+            "Dumdum",
+            "Belgachia",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "21:36:53"
+    },
+    {
+        "id": "P001046",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 8,
+        "timestamp": "21:36:59"
+    },
+    {
+        "id": "P001104",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "21:36:08"
+    },
+    {
+        "id": "P001387",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 4,
+        "timestamp": "21:35:50"
+    },
+    {
+        "id": "P001421",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 8,
+        "timestamp": "21:36:57"
+    },
+    {
+        "id": "P001927",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "Tollygunge"
+        ],
+        "destination": "Minto Park",
+        "count": 2,
+        "timestamp": "21:37:18"
+    },
+    {
+        "id": "P002273",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 5,
+        "timestamp": "21:35:00"
+    },
+    {
+        "id": "P002280",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Golpark",
+        "count": 8,
+        "timestamp": "21:35:39"
+    },
+    {
+        "id": "P002535",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "New Alipore",
+        "count": 1,
+        "timestamp": "21:37:28"
+    }
+]

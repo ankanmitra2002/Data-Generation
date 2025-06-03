@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000079",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Ruby",
+        "count": 9,
+        "timestamp": "14:29:09"
+    },
+    {
+        "id": "P000410",
+        "source": [
+            "Esplanade",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 2,
+        "timestamp": "14:28:44"
+    },
+    {
+        "id": "P000451",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 1,
+        "timestamp": "14:29:56"
+    },
+    {
+        "id": "P000868",
+        "source": [
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
+        ],
+        "destination": "Kalighat",
+        "count": 3,
+        "timestamp": "14:26:16"
+    },
+    {
+        "id": "P001392",
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore",
+        "count": 8,
+        "timestamp": "14:27:59"
+    },
+    {
+        "id": "P001976",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "14:26:35"
+    },
+    {
+        "id": "P002058",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Alipore",
+        "count": 9,
+        "timestamp": "14:29:13"
+    }
+]

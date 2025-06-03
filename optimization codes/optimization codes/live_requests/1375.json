@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000438",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "22:55:28"
+    },
+    {
+        "id": "P000882",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 10,
+        "timestamp": "22:57:19"
+    },
+    {
+        "id": "P000908",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 9,
+        "timestamp": "22:59:53"
+    },
+    {
+        "id": "P001404",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "22:58:07"
+    },
+    {
+        "id": "P001723",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 4,
+        "timestamp": "22:57:58"
+    },
+    {
+        "id": "P002421",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby",
+        "count": 8,
+        "timestamp": "22:55:59"
+    },
+    {
+        "id": "P002468",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "22:57:26"
+    },
+    {
+        "id": "P002721",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "22:55:31"
+    }
+]

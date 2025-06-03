@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000003",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "21:13:37"
+    },
+    {
+        "id": "P000525",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "21:12:27"
+    },
+    {
+        "id": "P000698",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 6,
+        "timestamp": "21:10:51"
+    },
+    {
+        "id": "P001673",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "21:13:51"
+    },
+    {
+        "id": "P001688",
+        "source": [
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
+        ],
+        "destination": "Kalighat",
+        "count": 7,
+        "timestamp": "21:14:21"
+    },
+    {
+        "id": "P001921",
+        "source": [
+            "Tobin Road",
+            "Khardah",
+            "Titagarh"
+        ],
+        "destination": "Barrackpore",
+        "count": 3,
+        "timestamp": "21:14:03"
+    },
+    {
+        "id": "P002137",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Ruby",
+        "count": 3,
+        "timestamp": "21:13:38"
+    },
+    {
+        "id": "P002355",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "21:14:12"
+    },
+    {
+        "id": "P002389",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 9,
+        "timestamp": "21:13:29"
+    },
+    {
+        "id": "P002432",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "21:10:36"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000201",
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby",
+        "count": 4,
+        "timestamp": "3:06:14"
+    },
+    {
+        "id": "P000465",
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Chinar Park",
+        "count": 6,
+        "timestamp": "3:07:17"
+    },
+    {
+        "id": "P000680",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan",
+        "count": 5,
+        "timestamp": "3:07:03"
+    },
+    {
+        "id": "P001017",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town",
+        "count": 10,
+        "timestamp": "3:09:40"
+    },
+    {
+        "id": "P001273",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "3:06:27"
+    },
+    {
+        "id": "P001399",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 3,
+        "timestamp": "3:06:16"
+    },
+    {
+        "id": "P001910",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 4,
+        "timestamp": "3:07:18"
+    },
+    {
+        "id": "P002191",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Bidhannagar",
+        "count": 3,
+        "timestamp": "3:08:48"
+    },
+    {
+        "id": "P002705",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 3,
+        "timestamp": "3:07:07"
+    },
+    {
+        "id": "P002733",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 5,
+        "timestamp": "3:05:54"
+    }
+]

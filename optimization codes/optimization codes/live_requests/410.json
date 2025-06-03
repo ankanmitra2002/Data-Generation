@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000130",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Maidan",
+        "count": 1,
+        "timestamp": "6:51:19"
+    },
+    {
+        "id": "P000579",
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Titagarh",
+        "count": 5,
+        "timestamp": "6:52:55"
+    },
+    {
+        "id": "P000736",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 3,
+        "timestamp": "6:54:22"
+    },
+    {
+        "id": "P000811",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 5,
+        "timestamp": "6:54:18"
+    },
+    {
+        "id": "P001578",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "6:50:38"
+    },
+    {
+        "id": "P001738",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 1,
+        "timestamp": "6:52:38"
+    },
+    {
+        "id": "P001893",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Eco Space",
+        "count": 7,
+        "timestamp": "6:52:26"
+    },
+    {
+        "id": "P001963",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 6,
+        "timestamp": "6:54:26"
+    },
+    {
+        "id": "P002253",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "6:54:33"
+    },
+    {
+        "id": "P002403",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Bosepukur",
+        "count": 8,
+        "timestamp": "6:54:44"
+    },
+    {
+        "id": "P002477",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "6:51:34"
+    },
+    {
+        "id": "P002709",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 8,
+        "timestamp": "6:52:48"
+    }
+]

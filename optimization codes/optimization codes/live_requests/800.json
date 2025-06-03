@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000038",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "13:21:02"
+    },
+    {
+        "id": "P000566",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Chinar Park",
+        "count": 6,
+        "timestamp": "13:23:15"
+    },
+    {
+        "id": "P000899",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 3,
+        "timestamp": "13:21:20"
+    },
+    {
+        "id": "P001677",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 1,
+        "timestamp": "13:22:42"
+    },
+    {
+        "id": "P002059",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "13:20:14"
+    },
+    {
+        "id": "P002483",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "13:24:50"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000094",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 3,
+        "timestamp": "9:30:56"
+    },
+    {
+        "id": "P000118",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 10,
+        "timestamp": "9:32:10"
+    },
+    {
+        "id": "P000995",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "9:31:42"
+    },
+    {
+        "id": "P001152",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 10,
+        "timestamp": "9:34:58"
+    },
+    {
+        "id": "P001244",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "9:32:01"
+    },
+    {
+        "id": "P001385",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "9:31:31"
+    },
+    {
+        "id": "P001978",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 5,
+        "timestamp": "9:34:13"
+    },
+    {
+        "id": "P002189",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Esplanade",
+        "count": 4,
+        "timestamp": "9:30:55"
+    },
+    {
+        "id": "P002656",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Rashbehari",
+        "count": 9,
+        "timestamp": "9:31:22"
+    },
+    {
+        "id": "P002851",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 6,
+        "timestamp": "9:31:34"
+    }
+]

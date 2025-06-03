@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000483",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 1,
+        "timestamp": "20:20:37"
+    },
+    {
+        "id": "P000538",
+        "source": [
+            "College More",
+            "New Town",
+            "Unitech"
+        ],
+        "destination": "City",
+        "count": 10,
+        "timestamp": "20:22:20"
+    },
+    {
+        "id": "P000595",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 1,
+        "timestamp": "20:21:59"
+    },
+    {
+        "id": "P000761",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop",
+        "count": 1,
+        "timestamp": "20:23:24"
+    },
+    {
+        "id": "P000815",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 7,
+        "timestamp": "20:24:15"
+    },
+    {
+        "id": "P000861",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 3,
+        "timestamp": "20:24:34"
+    },
+    {
+        "id": "P000906",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "20:21:03"
+    },
+    {
+        "id": "P001203",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 2,
+        "timestamp": "20:23:08"
+    },
+    {
+        "id": "P001864",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "VIP Road",
+        "count": 4,
+        "timestamp": "20:23:51"
+    },
+    {
+        "id": "P001959",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 4,
+        "timestamp": "20:23:52"
+    },
+    {
+        "id": "P002082",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Sonarpur",
+        "count": 9,
+        "timestamp": "20:21:35"
+    },
+    {
+        "id": "P002229",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "20:22:27"
+    }
+]

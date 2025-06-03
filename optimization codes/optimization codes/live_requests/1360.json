@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000281",
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur",
+        "count": 10,
+        "timestamp": "22:40:31"
+    },
+    {
+        "id": "P000509",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Park Street",
+        "count": 5,
+        "timestamp": "22:42:54"
+    },
+    {
+        "id": "P000707",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 7,
+        "timestamp": "22:42:06"
+    },
+    {
+        "id": "P001278",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat",
+        "count": 2,
+        "timestamp": "22:43:57"
+    },
+    {
+        "id": "P001382",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 7,
+        "timestamp": "22:42:55"
+    },
+    {
+        "id": "P001456",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 1,
+        "timestamp": "22:44:47"
+    },
+    {
+        "id": "P001551",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 4,
+        "timestamp": "22:40:21"
+    },
+    {
+        "id": "P001828",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 10,
+        "timestamp": "22:40:30"
+    },
+    {
+        "id": "P002097",
+        "source": [
+            "Eco Space",
+            "Aliah University",
+            "Daber More"
+        ],
+        "destination": "City",
+        "count": 1,
+        "timestamp": "22:42:39"
+    },
+    {
+        "id": "P002173",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "22:40:46"
+    },
+    {
+        "id": "P002274",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Golpark",
+        "count": 6,
+        "timestamp": "22:44:06"
+    },
+    {
+        "id": "P002401",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus",
+        "count": 4,
+        "timestamp": "22:40:14"
+    },
+    {
+        "id": "P002865",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 6,
+        "timestamp": "22:41:30"
+    }
+]

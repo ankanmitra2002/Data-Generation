@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000905",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop",
+        "count": 4,
+        "timestamp": "23:16:00"
+    },
+    {
+        "id": "P001039",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Kalighat",
+        "count": 8,
+        "timestamp": "23:15:46"
+    },
+    {
+        "id": "P001530",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 3,
+        "timestamp": "23:19:05"
+    },
+    {
+        "id": "P001626",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 9,
+        "timestamp": "23:19:53"
+    },
+    {
+        "id": "P001926",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "23:16:06"
+    },
+    {
+        "id": "P002029",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Salt Lake",
+        "count": 7,
+        "timestamp": "23:17:39"
+    },
+    {
+        "id": "P002157",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "23:15:14"
+    },
+    {
+        "id": "P002459",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Sonarpur",
+        "count": 10,
+        "timestamp": "23:18:57"
+    }
+]

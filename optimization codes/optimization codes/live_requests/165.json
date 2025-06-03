@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000058",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "2:47:10"
+    },
+    {
+        "id": "P000114",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 4,
+        "timestamp": "2:46:57"
+    },
+    {
+        "id": "P000441",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "2:49:29"
+    },
+    {
+        "id": "P000500",
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka",
+        "count": 7,
+        "timestamp": "2:45:56"
+    },
+    {
+        "id": "P000897",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "2:48:38"
+    },
+    {
+        "id": "P000984",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "2:48:36"
+    },
+    {
+        "id": "P002314",
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat",
+        "count": 5,
+        "timestamp": "2:48:45"
+    }
+]

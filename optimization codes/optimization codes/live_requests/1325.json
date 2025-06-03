@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000105",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Garia",
+        "count": 2,
+        "timestamp": "22:09:20"
+    },
+    {
+        "id": "P000122",
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "MG Road",
+        "count": 10,
+        "timestamp": "22:09:57"
+    },
+    {
+        "id": "P000549",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 8,
+        "timestamp": "22:05:51"
+    },
+    {
+        "id": "P000741",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 6,
+        "timestamp": "22:07:34"
+    },
+    {
+        "id": "P000932",
+        "source": [
+            "Sinthee",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Street",
+        "count": 3,
+        "timestamp": "22:06:59"
+    },
+    {
+        "id": "P000986",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "22:09:18"
+    },
+    {
+        "id": "P001597",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 3,
+        "timestamp": "22:07:16"
+    },
+    {
+        "id": "P001598",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "22:09:18"
+    },
+    {
+        "id": "P001792",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Alipore",
+        "count": 5,
+        "timestamp": "22:05:32"
+    }
+]

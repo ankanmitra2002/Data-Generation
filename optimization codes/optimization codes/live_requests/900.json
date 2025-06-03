@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000724",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 7,
+        "timestamp": "15:00:05"
+    },
+    {
+        "id": "P000993",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 4,
+        "timestamp": "15:01:23"
+    },
+    {
+        "id": "P001378",
+        "source": [
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
+        ],
+        "destination": "Kalighat",
+        "count": 2,
+        "timestamp": "15:03:28"
+    },
+    {
+        "id": "P001619",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "15:00:53"
+    },
+    {
+        "id": "P001775",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 9,
+        "timestamp": "15:03:02"
+    },
+    {
+        "id": "P001929",
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Esplanade",
+        "count": 4,
+        "timestamp": "15:02:44"
+    },
+    {
+        "id": "P002688",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "15:02:27"
+    }
+]

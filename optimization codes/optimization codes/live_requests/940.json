@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000023",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "15:42:09"
+    },
+    {
+        "id": "P000323",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Patuli",
+        "count": 9,
+        "timestamp": "15:42:03"
+    },
+    {
+        "id": "P000672",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "15:44:57"
+    },
+    {
+        "id": "P000703",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 5,
+        "timestamp": "15:41:44"
+    },
+    {
+        "id": "P001369",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "15:44:52"
+    },
+    {
+        "id": "P001436",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "15:40:45"
+    },
+    {
+        "id": "P002614",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby",
+        "count": 7,
+        "timestamp": "15:43:46"
+    }
+]

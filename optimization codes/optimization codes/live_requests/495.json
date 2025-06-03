@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000831",
+        "source": [
+            "Garia",
+            "Kamalgazi",
+            "Narendrapur"
+        ],
+        "destination": "Garia Station Road",
+        "count": 10,
+        "timestamp": "8:18:34"
+    },
+    {
+        "id": "P001150",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "8:17:53"
+    },
+    {
+        "id": "P001174",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "8:15:13"
+    },
+    {
+        "id": "P001742",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Lalbazar",
+        "count": 4,
+        "timestamp": "8:19:48"
+    },
+    {
+        "id": "P002054",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore",
+        "count": 1,
+        "timestamp": "8:18:39"
+    },
+    {
+        "id": "P002171",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "8:15:04"
+    },
+    {
+        "id": "P002536",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "8:17:19"
+    },
+    {
+        "id": "P002561",
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "MG Road",
+        "count": 6,
+        "timestamp": "8:15:50"
+    }
+]

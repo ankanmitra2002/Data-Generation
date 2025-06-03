@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000004",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 7,
+        "timestamp": "17:05:28"
+    },
+    {
+        "id": "P000117",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "17:09:06"
+    },
+    {
+        "id": "P000196",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Street",
+        "count": 2,
+        "timestamp": "17:08:03"
+    },
+    {
+        "id": "P000244",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "17:06:25"
+    },
+    {
+        "id": "P000661",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Ruby",
+        "count": 8,
+        "timestamp": "17:05:14"
+    },
+    {
+        "id": "P000974",
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "17:09:40"
+    },
+    {
+        "id": "P001032",
+        "source": [
+            "Bosepukur",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Hazra",
+        "count": 7,
+        "timestamp": "17:08:16"
+    },
+    {
+        "id": "P001076",
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "17:08:42"
+    },
+    {
+        "id": "P001178",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 3,
+        "timestamp": "17:05:27"
+    },
+    {
+        "id": "P001612",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "17:07:37"
+    },
+    {
+        "id": "P001794",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "17:06:55"
+    },
+    {
+        "id": "P002624",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Unitech",
+        "count": 1,
+        "timestamp": "17:05:53"
+    }
+]

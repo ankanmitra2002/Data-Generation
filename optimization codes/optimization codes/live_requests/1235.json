@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000865",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 3,
+        "timestamp": "20:39:48"
+    },
+    {
+        "id": "P001172",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "20:37:17"
+    },
+    {
+        "id": "P001190",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 9,
+        "timestamp": "20:36:03"
+    },
+    {
+        "id": "P001322",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 1,
+        "timestamp": "20:35:47"
+    },
+    {
+        "id": "P001968",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 9,
+        "timestamp": "20:39:03"
+    },
+    {
+        "id": "P002121",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Alipore",
+        "count": 6,
+        "timestamp": "20:35:19"
+    },
+    {
+        "id": "P002131",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Circus",
+        "count": 8,
+        "timestamp": "20:37:15"
+    },
+    {
+        "id": "P002416",
+        "source": [
+            "Baranagar",
+            "Dunlop",
+            "BT Road"
+        ],
+        "destination": "Titagarh",
+        "count": 6,
+        "timestamp": "20:35:30"
+    }
+]

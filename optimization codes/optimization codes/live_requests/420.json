@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P000336",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "7:00:00"
+    },
+    {
+        "id": "P001064",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "7:03:11"
+    },
+    {
+        "id": "P001134",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "7:01:45"
+    },
+    {
+        "id": "P001923",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 8,
+        "timestamp": "7:02:26"
+    }
+]

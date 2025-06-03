@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000746",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 4,
+        "timestamp": "17:36:27"
+    },
+    {
+        "id": "P000957",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Kankurgachi",
+        "count": 3,
+        "timestamp": "17:38:47"
+    },
+    {
+        "id": "P001346",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "17:38:35"
+    },
+    {
+        "id": "P001659",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 4,
+        "timestamp": "17:35:00"
+    },
+    {
+        "id": "P001869",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "17:37:16"
+    },
+    {
+        "id": "P002672",
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 8,
+        "timestamp": "17:38:19"
+    },
+    {
+        "id": "P002684",
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur",
+        "count": 8,
+        "timestamp": "17:37:34"
+    }
+]

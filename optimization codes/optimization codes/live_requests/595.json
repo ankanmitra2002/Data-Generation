@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000456",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "9:55:14"
+    },
+    {
+        "id": "P000480",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 9,
+        "timestamp": "9:59:03"
+    },
+    {
+        "id": "P000502",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "9:55:29"
+    },
+    {
+        "id": "P000626",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "VIP Road",
+        "count": 3,
+        "timestamp": "9:55:46"
+    },
+    {
+        "id": "P001225",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 3,
+        "timestamp": "9:57:31"
+    },
+    {
+        "id": "P002052",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "9:55:23"
+    },
+    {
+        "id": "P002211",
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "9:59:19"
+    },
+    {
+        "id": "P002225",
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "9:55:44"
+    },
+    {
+        "id": "P002340",
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "9:58:29"
+    }
+]

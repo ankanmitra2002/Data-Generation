@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000062",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "14:51:52"
+    },
+    {
+        "id": "P000463",
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat",
+        "count": 7,
+        "timestamp": "14:51:50"
+    },
+    {
+        "id": "P000842",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 8,
+        "timestamp": "14:53:13"
+    },
+    {
+        "id": "P001405",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "14:52:54"
+    },
+    {
+        "id": "P001482",
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 8,
+        "timestamp": "14:53:58"
+    },
+    {
+        "id": "P001583",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Minto Park",
+        "count": 5,
+        "timestamp": "14:50:57"
+    },
+    {
+        "id": "P002322",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "14:53:09"
+    },
+    {
+        "id": "P002362",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 3,
+        "timestamp": "14:54:09"
+    },
+    {
+        "id": "P002723",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "14:53:18"
+    }
+]

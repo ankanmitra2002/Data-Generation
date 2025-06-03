@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000565",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Rashbehari",
+        "count": 3,
+        "timestamp": "21:47:13"
+    },
+    {
+        "id": "P000658",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 6,
+        "timestamp": "21:47:19"
+    },
+    {
+        "id": "P001556",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "21:45:34"
+    },
+    {
+        "id": "P001720",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge",
+        "count": 9,
+        "timestamp": "21:48:42"
+    },
+    {
+        "id": "P001896",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 6,
+        "timestamp": "21:47:20"
+    },
+    {
+        "id": "P002202",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "New Town",
+        "count": 10,
+        "timestamp": "21:45:04"
+    },
+    {
+        "id": "P002445",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "21:47:58"
+    },
+    {
+        "id": "P002657",
+        "source": [
+            "Phoolbagan",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Eco Park",
+        "count": 6,
+        "timestamp": "21:49:41"
+    },
+    {
+        "id": "P002678",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 3,
+        "timestamp": "21:49:59"
+    }
+]

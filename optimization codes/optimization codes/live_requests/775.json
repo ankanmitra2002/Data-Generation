@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000143",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "12:58:16"
+    },
+    {
+        "id": "P000412",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "12:57:19"
+    },
+    {
+        "id": "P000805",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Bosepukur",
+        "count": 7,
+        "timestamp": "12:56:17"
+    },
+    {
+        "id": "P000824",
+        "source": [
+            "Sinthee",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "12:57:40"
+    },
+    {
+        "id": "P001020",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Garia",
+        "count": 9,
+        "timestamp": "12:58:34"
+    },
+    {
+        "id": "P001155",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Phoolbagan",
+        "count": 1,
+        "timestamp": "12:56:51"
+    },
+    {
+        "id": "P001276",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Hazra",
+        "count": 6,
+        "timestamp": "12:56:46"
+    },
+    {
+        "id": "P001376",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Unitech",
+        "count": 7,
+        "timestamp": "12:55:57"
+    },
+    {
+        "id": "P001479",
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "12:57:18"
+    },
+    {
+        "id": "P001518",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "12:56:33"
+    },
+    {
+        "id": "P002397",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 4,
+        "timestamp": "12:57:15"
+    },
+    {
+        "id": "P002507",
+        "source": [
+            "Sinthee",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Street",
+        "count": 2,
+        "timestamp": "12:59:48"
+    },
+    {
+        "id": "P002665",
+        "source": [
+            "SN Banerjee",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Barrackpore",
+        "count": 9,
+        "timestamp": "12:56:04"
+    }
+]

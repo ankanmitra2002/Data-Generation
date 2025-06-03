@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000189",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "19:23:46"
+    },
+    {
+        "id": "P000208",
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 1,
+        "timestamp": "19:20:45"
+    },
+    {
+        "id": "P000238",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 4,
+        "timestamp": "19:21:55"
+    },
+    {
+        "id": "P000591",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 2,
+        "timestamp": "19:23:46"
+    },
+    {
+        "id": "P000644",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur",
+        "count": 6,
+        "timestamp": "19:24:46"
+    },
+    {
+        "id": "P001125",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 9,
+        "timestamp": "19:21:16"
+    },
+    {
+        "id": "P001533",
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "19:23:13"
+    },
+    {
+        "id": "P001953",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "19:20:36"
+    },
+    {
+        "id": "P002255",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Sonarpur",
+        "count": 1,
+        "timestamp": "19:21:30"
+    },
+    {
+        "id": "P002798",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 8,
+        "timestamp": "19:21:56"
+    },
+    {
+        "id": "P002806",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "19:22:46"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000885",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 7,
+        "timestamp": "15:21:35"
+    },
+    {
+        "id": "P001003",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 10,
+        "timestamp": "15:20:05"
+    },
+    {
+        "id": "P001328",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 1,
+        "timestamp": "15:23:35"
+    },
+    {
+        "id": "P001984",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge",
+        "count": 9,
+        "timestamp": "15:24:12"
+    },
+    {
+        "id": "P002241",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 10,
+        "timestamp": "15:21:01"
+    },
+    {
+        "id": "P002589",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 4,
+        "timestamp": "15:20:53"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000077",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 5,
+        "timestamp": "11:27:32"
+    },
+    {
+        "id": "P000106",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 4,
+        "timestamp": "11:28:54"
+    },
+    {
+        "id": "P000170",
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 10,
+        "timestamp": "11:25:07"
+    },
+    {
+        "id": "P000274",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "11:27:00"
+    },
+    {
+        "id": "P000730",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 5,
+        "timestamp": "11:28:35"
+    },
+    {
+        "id": "P000925",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 3,
+        "timestamp": "11:25:19"
+    },
+    {
+        "id": "P001351",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 3,
+        "timestamp": "11:29:49"
+    },
+    {
+        "id": "P001428",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "11:25:00"
+    },
+    {
+        "id": "P001483",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "11:28:12"
+    },
+    {
+        "id": "P001485",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan",
+        "count": 10,
+        "timestamp": "11:25:21"
+    },
+    {
+        "id": "P001814",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 9,
+        "timestamp": "11:25:54"
+    },
+    {
+        "id": "P002606",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "11:29:27"
+    }
+]

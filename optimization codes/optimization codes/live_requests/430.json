@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000116",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "7:12:43"
+    },
+    {
+        "id": "P000687",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore",
+        "count": 6,
+        "timestamp": "7:14:40"
+    },
+    {
+        "id": "P001236",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 4,
+        "timestamp": "7:10:03"
+    },
+    {
+        "id": "P001411",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "7:10:32"
+    },
+    {
+        "id": "P001582",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "7:11:53"
+    },
+    {
+        "id": "P001774",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "7:10:46"
+    },
+    {
+        "id": "P002427",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 1,
+        "timestamp": "7:13:48"
+    },
+    {
+        "id": "P002562",
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat",
+        "count": 6,
+        "timestamp": "7:12:18"
+    },
+    {
+        "id": "P002591",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "7:12:11"
+    },
+    {
+        "id": "P002663",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "7:10:02"
+    }
+]

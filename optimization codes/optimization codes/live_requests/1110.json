@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000050",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "18:31:41"
+    },
+    {
+        "id": "P000073",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 4,
+        "timestamp": "18:30:23"
+    },
+    {
+        "id": "P000496",
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "Tobin Road",
+        "count": 7,
+        "timestamp": "18:32:42"
+    },
+    {
+        "id": "P000771",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "18:31:33"
+    },
+    {
+        "id": "P001197",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 1,
+        "timestamp": "18:30:07"
+    },
+    {
+        "id": "P001560",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 5,
+        "timestamp": "18:33:20"
+    },
+    {
+        "id": "P001637",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Jadavpur",
+        "count": 2,
+        "timestamp": "18:30:14"
+    },
+    {
+        "id": "P001739",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Sector V",
+        "count": 5,
+        "timestamp": "18:34:55"
+    },
+    {
+        "id": "P002120",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Unitech",
+        "count": 1,
+        "timestamp": "18:34:44"
+    },
+    {
+        "id": "P002209",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Narendrapur",
+        "count": 6,
+        "timestamp": "18:34:33"
+    }
+]

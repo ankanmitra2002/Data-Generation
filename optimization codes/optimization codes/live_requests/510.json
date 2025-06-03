@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000048",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 2,
+        "timestamp": "8:30:17"
+    },
+    {
+        "id": "P000243",
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "8:30:52"
+    },
+    {
+        "id": "P000709",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 8,
+        "timestamp": "8:33:01"
+    },
+    {
+        "id": "P001188",
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Garia",
+        "count": 8,
+        "timestamp": "8:31:24"
+    },
+    {
+        "id": "P001820",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah",
+        "count": 6,
+        "timestamp": "8:34:28"
+    },
+    {
+        "id": "P001859",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "8:32:40"
+    },
+    {
+        "id": "P001985",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 4,
+        "timestamp": "8:31:41"
+    },
+    {
+        "id": "P002181",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 5,
+        "timestamp": "8:31:34"
+    },
+    {
+        "id": "P002216",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 4,
+        "timestamp": "8:34:45"
+    },
+    {
+        "id": "P002382",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 3,
+        "timestamp": "8:31:01"
+    },
+    {
+        "id": "P002414",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur",
+        "count": 7,
+        "timestamp": "8:34:27"
+    },
+    {
+        "id": "P002752",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 10,
+        "timestamp": "8:33:40"
+    }
+]

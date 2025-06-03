@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000439",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "23:21:56"
+    },
+    {
+        "id": "P000729",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 10,
+        "timestamp": "23:24:51"
+    },
+    {
+        "id": "P000879",
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga",
+        "count": 10,
+        "timestamp": "23:22:28"
+    },
+    {
+        "id": "P001120",
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 1,
+        "timestamp": "23:20:23"
+    },
+    {
+        "id": "P001213",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 10,
+        "timestamp": "23:22:12"
+    },
+    {
+        "id": "P001258",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "23:21:11"
+    },
+    {
+        "id": "P001264",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 10,
+        "timestamp": "23:24:47"
+    },
+    {
+        "id": "P001288",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "23:24:43"
+    },
+    {
+        "id": "P001475",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Rashbehari",
+        "count": 5,
+        "timestamp": "23:21:06"
+    },
+    {
+        "id": "P001618",
+        "source": [
+            "Dunlop",
+            "BT Road",
+            "Tobin Road"
+        ],
+        "destination": "Barrackpore",
+        "count": 9,
+        "timestamp": "23:24:18"
+    },
+    {
+        "id": "P002732",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Bidhannagar",
+        "count": 2,
+        "timestamp": "23:20:44"
+    }
+]

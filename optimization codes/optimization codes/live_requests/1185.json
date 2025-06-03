@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000033",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "19:48:27"
+    },
+    {
+        "id": "P000388",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 3,
+        "timestamp": "19:49:33"
+    },
+    {
+        "id": "P000472",
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Garia",
+        "count": 3,
+        "timestamp": "19:45:17"
+    },
+    {
+        "id": "P000590",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee",
+        "count": 9,
+        "timestamp": "19:47:58"
+    },
+    {
+        "id": "P000753",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "19:47:37"
+    },
+    {
+        "id": "P001484",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 3,
+        "timestamp": "19:46:24"
+    },
+    {
+        "id": "P002100",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "19:46:32"
+    }
+]

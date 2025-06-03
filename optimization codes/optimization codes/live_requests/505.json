@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000540",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 5,
+        "timestamp": "8:29:32"
+    },
+    {
+        "id": "P000767",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 4,
+        "timestamp": "8:25:29"
+    },
+    {
+        "id": "P000918",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 6,
+        "timestamp": "8:25:25"
+    },
+    {
+        "id": "P001427",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 7,
+        "timestamp": "8:26:34"
+    },
+    {
+        "id": "P001464",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "New Town",
+        "count": 2,
+        "timestamp": "8:27:03"
+    },
+    {
+        "id": "P001615",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "8:28:43"
+    },
+    {
+        "id": "P001816",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Ruby",
+        "count": 2,
+        "timestamp": "8:25:12"
+    },
+    {
+        "id": "P001843",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "8:27:37"
+    },
+    {
+        "id": "P002231",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 10,
+        "timestamp": "8:27:53"
+    },
+    {
+        "id": "P002287",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 3,
+        "timestamp": "8:26:45"
+    },
+    {
+        "id": "P002634",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "8:26:46"
+    }
+]

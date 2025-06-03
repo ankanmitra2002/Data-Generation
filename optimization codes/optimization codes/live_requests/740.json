@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000471",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus",
+        "count": 10,
+        "timestamp": "12:20:30"
+    },
+    {
+        "id": "P000507",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 4,
+        "timestamp": "12:22:57"
+    },
+    {
+        "id": "P000601",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Sealdah",
+        "count": 10,
+        "timestamp": "12:21:43"
+    },
+    {
+        "id": "P000926",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "12:22:28"
+    },
+    {
+        "id": "P001211",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Sonarpur",
+        "count": 6,
+        "timestamp": "12:22:53"
+    },
+    {
+        "id": "P001807",
+        "source": [
+            "Bosepukur",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "12:23:43"
+    },
+    {
+        "id": "P002329",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 5,
+        "timestamp": "12:22:17"
+    },
+    {
+        "id": "P002638",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 1,
+        "timestamp": "12:22:44"
+    },
+    {
+        "id": "P002833",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Esplanade",
+        "count": 4,
+        "timestamp": "12:20:18"
+    }
+]

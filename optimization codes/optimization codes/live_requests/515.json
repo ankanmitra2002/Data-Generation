@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000353",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 8,
+        "timestamp": "8:35:08"
+    },
+    {
+        "id": "P000376",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 7,
+        "timestamp": "8:38:00"
+    },
+    {
+        "id": "P000428",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 4,
+        "timestamp": "8:37:39"
+    },
+    {
+        "id": "P000904",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Unitech",
+        "count": 1,
+        "timestamp": "8:38:45"
+    },
+    {
+        "id": "P001108",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 9,
+        "timestamp": "8:37:33"
+    },
+    {
+        "id": "P001166",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "8:36:47"
+    },
+    {
+        "id": "P001416",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "8:35:50"
+    },
+    {
+        "id": "P001510",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "8:37:22"
+    },
+    {
+        "id": "P001674",
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 4,
+        "timestamp": "8:38:22"
+    },
+    {
+        "id": "P002226",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 8,
+        "timestamp": "8:39:51"
+    },
+    {
+        "id": "P002247",
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 9,
+        "timestamp": "8:36:41"
+    },
+    {
+        "id": "P002452",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 6,
+        "timestamp": "8:39:26"
+    }
+]

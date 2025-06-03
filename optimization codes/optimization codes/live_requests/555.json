@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000339",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "9:16:34"
+    },
+    {
+        "id": "P000619",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar",
+        "count": 3,
+        "timestamp": "9:17:57"
+    },
+    {
+        "id": "P000620",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Unitech",
+        "count": 5,
+        "timestamp": "9:15:31"
+    },
+    {
+        "id": "P001957",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Hazra",
+        "count": 1,
+        "timestamp": "9:17:58"
+    },
+    {
+        "id": "P002310",
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "9:19:54"
+    },
+    {
+        "id": "P002769",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Barasat",
+        "count": 2,
+        "timestamp": "9:15:13"
+    }
+]

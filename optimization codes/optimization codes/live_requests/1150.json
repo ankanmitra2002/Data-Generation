@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000364",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 8,
+        "timestamp": "19:11:40"
+    },
+    {
+        "id": "P000697",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "19:12:55"
+    },
+    {
+        "id": "P000809",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "19:11:13"
+    },
+    {
+        "id": "P001571",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "19:10:29"
+    },
+    {
+        "id": "P001580",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 7,
+        "timestamp": "19:10:51"
+    },
+    {
+        "id": "P001625",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "19:10:16"
+    },
+    {
+        "id": "P002051",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Golpark",
+        "count": 10,
+        "timestamp": "19:11:20"
+    },
+    {
+        "id": "P002487",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "19:14:16"
+    }
+]

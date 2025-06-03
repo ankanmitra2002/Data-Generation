@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P001251",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 10,
+        "timestamp": "12:54:45"
+    },
+    {
+        "id": "P001474",
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "12:50:27"
+    },
+    {
+        "id": "P002411",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "12:52:20"
+    },
+    {
+        "id": "P002661",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "12:51:59"
+    }
+]

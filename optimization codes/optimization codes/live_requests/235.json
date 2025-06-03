@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000648",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 7,
+        "timestamp": "3:55:38"
+    },
+    {
+        "id": "P000808",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "3:58:16"
+    },
+    {
+        "id": "P002263",
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Sealdah",
+        "count": 9,
+        "timestamp": "3:58:43"
+    },
+    {
+        "id": "P002488",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 7,
+        "timestamp": "3:55:22"
+    },
+    {
+        "id": "P002653",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 3,
+        "timestamp": "3:57:03"
+    },
+    {
+        "id": "P002662",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 2,
+        "timestamp": "3:55:13"
+    }
+]

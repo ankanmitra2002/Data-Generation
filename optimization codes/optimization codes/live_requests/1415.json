@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000372",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 5,
+        "timestamp": "23:38:48"
+    },
+    {
+        "id": "P001067",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Eco Space",
+        "count": 5,
+        "timestamp": "23:39:00"
+    },
+    {
+        "id": "P001539",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 4,
+        "timestamp": "23:39:21"
+    },
+    {
+        "id": "P001922",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba",
+        "count": 5,
+        "timestamp": "23:35:09"
+    },
+    {
+        "id": "P002027",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "23:37:06"
+    },
+    {
+        "id": "P002175",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "23:36:41"
+    },
+    {
+        "id": "P002351",
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "ECO Park",
+        "count": 4,
+        "timestamp": "23:37:17"
+    },
+    {
+        "id": "P002527",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "23:39:31"
+    },
+    {
+        "id": "P002692",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 2,
+        "timestamp": "23:38:24"
+    }
+]

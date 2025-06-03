@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000002",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Rashbehari",
+        "count": 3,
+        "timestamp": "6:46:55"
+    },
+    {
+        "id": "P000157",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 10,
+        "timestamp": "6:48:41"
+    },
+    {
+        "id": "P000345",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 2,
+        "timestamp": "6:48:27"
+    },
+    {
+        "id": "P001160",
+        "source": [
+            "Lake Town",
+            "Bangur",
+            "Ultadanga"
+        ],
+        "destination": "Bidhannagar",
+        "count": 4,
+        "timestamp": "6:46:51"
+    },
+    {
+        "id": "P001617",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore",
+        "count": 8,
+        "timestamp": "6:49:24"
+    },
+    {
+        "id": "P001851",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 6,
+        "timestamp": "6:49:37"
+    },
+    {
+        "id": "P002046",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "6:49:37"
+    },
+    {
+        "id": "P002176",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 5,
+        "timestamp": "6:47:22"
+    },
+    {
+        "id": "P002706",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park",
+        "count": 6,
+        "timestamp": "6:45:03"
+    }
+]

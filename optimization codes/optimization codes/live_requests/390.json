@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000236",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 3,
+        "timestamp": "6:33:00"
+    },
+    {
+        "id": "P000346",
+        "source": [
+            "Dunlop",
+            "BT Road",
+            "Tobin Road"
+        ],
+        "destination": "Titagarh",
+        "count": 3,
+        "timestamp": "6:34:44"
+    },
+    {
+        "id": "P000503",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Rashbehari",
+        "count": 3,
+        "timestamp": "6:32:43"
+    },
+    {
+        "id": "P000758",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "6:34:28"
+    },
+    {
+        "id": "P001292",
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Circus",
+        "count": 2,
+        "timestamp": "6:32:00"
+    },
+    {
+        "id": "P001296",
+        "source": [
+            "Marquis Street",
+            "SN Banerjee",
+            "MG Road"
+        ],
+        "destination": "Titagarh",
+        "count": 8,
+        "timestamp": "6:33:29"
+    },
+    {
+        "id": "P001730",
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "6:31:58"
+    },
+    {
+        "id": "P001903",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "6:32:43"
+    },
+    {
+        "id": "P001961",
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 9,
+        "timestamp": "6:34:25"
+    },
+    {
+        "id": "P002441",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 5,
+        "timestamp": "6:34:52"
+    },
+    {
+        "id": "P002742",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 7,
+        "timestamp": "6:31:07"
+    }
+]

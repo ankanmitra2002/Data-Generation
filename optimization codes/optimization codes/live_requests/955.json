@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000069",
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "ECO Park",
+        "count": 9,
+        "timestamp": "15:57:17"
+    },
+    {
+        "id": "P000827",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 6,
+        "timestamp": "15:58:22"
+    },
+    {
+        "id": "P001254",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "15:57:25"
+    },
+    {
+        "id": "P001606",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Ruby",
+        "count": 4,
+        "timestamp": "15:59:00"
+    },
+    {
+        "id": "P002180",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 7,
+        "timestamp": "15:58:01"
+    },
+    {
+        "id": "P002778",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 8,
+        "timestamp": "15:57:01"
+    }
+]

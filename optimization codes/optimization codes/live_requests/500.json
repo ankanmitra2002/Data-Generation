@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P000177",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 4,
+        "timestamp": "8:20:20"
+    },
+    {
+        "id": "P000946",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan",
+        "count": 1,
+        "timestamp": "8:22:11"
+    },
+    {
+        "id": "P001722",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 3,
+        "timestamp": "8:20:34"
+    },
+    {
+        "id": "P002271",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "8:23:42"
+    }
+]

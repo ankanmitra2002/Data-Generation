@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000333",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Gariahat",
+        "count": 3,
+        "timestamp": "19:03:02"
+    },
+    {
+        "id": "P000675",
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur",
+        "count": 4,
+        "timestamp": "19:00:35"
+    },
+    {
+        "id": "P000782",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 1,
+        "timestamp": "19:04:10"
+    },
+    {
+        "id": "P000844",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 7,
+        "timestamp": "19:01:36"
+    },
+    {
+        "id": "P001657",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 1,
+        "timestamp": "19:04:34"
+    },
+    {
+        "id": "P002065",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 8,
+        "timestamp": "19:04:29"
+    },
+    {
+        "id": "P002138",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "19:02:32"
+    }
+]

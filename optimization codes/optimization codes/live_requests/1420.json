@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000134",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby",
+        "count": 4,
+        "timestamp": "23:43:15"
+    },
+    {
+        "id": "P000247",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "23:41:00"
+    },
+    {
+        "id": "P000784",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "23:41:19"
+    },
+    {
+        "id": "P000903",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 8,
+        "timestamp": "23:44:55"
+    },
+    {
+        "id": "P001089",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "23:41:49"
+    },
+    {
+        "id": "P001422",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "23:43:36"
+    },
+    {
+        "id": "P001741",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "23:42:45"
+    },
+    {
+        "id": "P001767",
+        "source": [
+            "Esplanade",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 8,
+        "timestamp": "23:44:42"
+    },
+    {
+        "id": "P002019",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "23:44:33"
+    },
+    {
+        "id": "P002341",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "23:43:04"
+    }
+]

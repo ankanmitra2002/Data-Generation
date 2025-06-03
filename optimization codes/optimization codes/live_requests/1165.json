@@ -1,0 +1,156 @@
+[
+    {
+        "id": "P000045",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 4,
+        "timestamp": "19:28:29"
+    },
+    {
+        "id": "P000638",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Unitech",
+        "count": 6,
+        "timestamp": "19:25:35"
+    },
+    {
+        "id": "P000670",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Narendrapur",
+        "count": 1,
+        "timestamp": "19:26:42"
+    },
+    {
+        "id": "P000757",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Gariahat",
+        "count": 9,
+        "timestamp": "19:29:05"
+    },
+    {
+        "id": "P000819",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 1,
+        "timestamp": "19:26:39"
+    },
+    {
+        "id": "P000884",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 5,
+        "timestamp": "19:28:29"
+    },
+    {
+        "id": "P000929",
+        "source": [
+            "Sinthee More",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Khardah",
+        "count": 9,
+        "timestamp": "19:29:11"
+    },
+    {
+        "id": "P000988",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 4,
+        "timestamp": "19:27:20"
+    },
+    {
+        "id": "P001548",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 10,
+        "timestamp": "19:26:33"
+    },
+    {
+        "id": "P001905",
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby",
+        "count": 10,
+        "timestamp": "19:29:29"
+    },
+    {
+        "id": "P002032",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 1,
+        "timestamp": "19:28:39"
+    },
+    {
+        "id": "P002746",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Kankurgachi",
+        "count": 4,
+        "timestamp": "19:26:19"
+    },
+    {
+        "id": "P002764",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Rashbehari",
+        "count": 6,
+        "timestamp": "19:28:43"
+    },
+    {
+        "id": "P002776",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Eco Space",
+        "count": 9,
+        "timestamp": "19:28:52"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000153",
+        "source": [
+            "Bosepukur",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kalighat",
+        "count": 9,
+        "timestamp": "18:56:05"
+    },
+    {
+        "id": "P000956",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 6,
+        "timestamp": "18:59:48"
+    },
+    {
+        "id": "P001002",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "18:58:40"
+    },
+    {
+        "id": "P001122",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "18:59:56"
+    },
+    {
+        "id": "P001609",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "18:59:02"
+    },
+    {
+        "id": "P001749",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 3,
+        "timestamp": "18:59:06"
+    },
+    {
+        "id": "P001751",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 8,
+        "timestamp": "18:57:21"
+    },
+    {
+        "id": "P001987",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "18:58:41"
+    },
+    {
+        "id": "P002015",
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka",
+        "count": 9,
+        "timestamp": "18:55:37"
+    },
+    {
+        "id": "P002194",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 3,
+        "timestamp": "18:56:58"
+    },
+    {
+        "id": "P002283",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Titagarh",
+        "count": 9,
+        "timestamp": "18:55:36"
+    },
+    {
+        "id": "P002456",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "18:56:27"
+    },
+    {
+        "id": "P002694",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 7,
+        "timestamp": "18:58:09"
+    }
+]

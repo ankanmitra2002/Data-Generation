@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000147",
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Ruby",
+        "count": 4,
+        "timestamp": "23:46:03"
+    },
+    {
+        "id": "P000667",
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "23:49:15"
+    },
+    {
+        "id": "P000841",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "23:45:06"
+    },
+    {
+        "id": "P001191",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "23:45:37"
+    },
+    {
+        "id": "P001505",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 7,
+        "timestamp": "23:49:59"
+    },
+    {
+        "id": "P001541",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 1,
+        "timestamp": "23:45:10"
+    },
+    {
+        "id": "P001956",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba",
+        "count": 8,
+        "timestamp": "23:45:24"
+    },
+    {
+        "id": "P001995",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "23:48:37"
+    },
+    {
+        "id": "P002276",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 5,
+        "timestamp": "23:45:09"
+    },
+    {
+        "id": "P002549",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 10,
+        "timestamp": "23:47:23"
+    },
+    {
+        "id": "P002570",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 7,
+        "timestamp": "23:48:59"
+    },
+    {
+        "id": "P002655",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 7,
+        "timestamp": "23:47:55"
+    }
+]

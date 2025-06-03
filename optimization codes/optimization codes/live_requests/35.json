@@ -1,0 +1,35 @@
+[
+    {
+        "id": "P000415",
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Ruby",
+        "count": 3,
+        "timestamp": "0:36:24"
+    },
+    {
+        "id": "P000747",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "0:35:22"
+    },
+    {
+        "id": "P001284",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "0:37:00"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000289",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Sinthee More"
+        ],
+        "destination": "Dunlop",
+        "count": 10,
+        "timestamp": "4:59:44"
+    },
+    {
+        "id": "P000449",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Gariahat",
+        "count": 2,
+        "timestamp": "4:55:25"
+    },
+    {
+        "id": "P001183",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station",
+        "count": 1,
+        "timestamp": "4:58:43"
+    },
+    {
+        "id": "P001831",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "4:56:27"
+    },
+    {
+        "id": "P001982",
+        "source": [
+            "MG Road",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby",
+        "count": 3,
+        "timestamp": "4:57:17"
+    },
+    {
+        "id": "P002269",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "4:58:58"
+    },
+    {
+        "id": "P002686",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Maidan",
+        "count": 1,
+        "timestamp": "4:56:09"
+    },
+    {
+        "id": "P002712",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 8,
+        "timestamp": "4:56:35"
+    },
+    {
+        "id": "P002783",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "4:59:08"
+    },
+    {
+        "id": "P002810",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 4,
+        "timestamp": "4:57:57"
+    },
+    {
+        "id": "P002838",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "4:57:36"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000481",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "12:06:23"
+    },
+    {
+        "id": "P000822",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 10,
+        "timestamp": "12:05:27"
+    },
+    {
+        "id": "P000883",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "12:06:54"
+    },
+    {
+        "id": "P001118",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "12:07:44"
+    },
+    {
+        "id": "P001432",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "12:09:04"
+    },
+    {
+        "id": "P001837",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 10,
+        "timestamp": "12:09:23"
+    },
+    {
+        "id": "P002110",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "12:09:53"
+    },
+    {
+        "id": "P002342",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 6,
+        "timestamp": "12:07:11"
+    },
+    {
+        "id": "P002625",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "12:06:56"
+    },
+    {
+        "id": "P002627",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 10,
+        "timestamp": "12:09:12"
+    },
+    {
+        "id": "P002814",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Minto Park",
+        "count": 6,
+        "timestamp": "12:08:31"
+    },
+    {
+        "id": "P002843",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 9,
+        "timestamp": "12:09:26"
+    }
+]

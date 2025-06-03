@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000144",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 5,
+        "timestamp": "6:59:54"
+    },
+    {
+        "id": "P000150",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "6:55:31"
+    },
+    {
+        "id": "P000890",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 1,
+        "timestamp": "6:59:12"
+    },
+    {
+        "id": "P001005",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 2,
+        "timestamp": "6:58:26"
+    },
+    {
+        "id": "P001157",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "6:56:17"
+    },
+    {
+        "id": "P001196",
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Barasat",
+        "count": 3,
+        "timestamp": "6:58:41"
+    },
+    {
+        "id": "P001502",
+        "source": [
+            "Garia",
+            "Kamalgazi",
+            "Narendrapur"
+        ],
+        "destination": "Garia Station Road",
+        "count": 2,
+        "timestamp": "6:59:26"
+    },
+    {
+        "id": "P002586",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "6:55:11"
+    },
+    {
+        "id": "P002644",
+        "source": [
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
+        ],
+        "destination": "Bhowanipore",
+        "count": 6,
+        "timestamp": "6:57:20"
+    }
+]

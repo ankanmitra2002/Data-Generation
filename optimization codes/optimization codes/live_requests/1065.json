@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000067",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 2,
+        "timestamp": "17:48:21"
+    },
+    {
+        "id": "P000152",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 2,
+        "timestamp": "17:49:28"
+    },
+    {
+        "id": "P000768",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 8,
+        "timestamp": "17:48:02"
+    },
+    {
+        "id": "P001041",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 3,
+        "timestamp": "17:47:17"
+    },
+    {
+        "id": "P001871",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "17:47:35"
+    },
+    {
+        "id": "P001962",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 8,
+        "timestamp": "17:47:28"
+    },
+    {
+        "id": "P002072",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "17:45:12"
+    },
+    {
+        "id": "P002106",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ruby",
+        "count": 10,
+        "timestamp": "17:46:53"
+    },
+    {
+        "id": "P002112",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 5,
+        "timestamp": "17:48:16"
+    },
+    {
+        "id": "P002437",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 3,
+        "timestamp": "17:45:42"
+    },
+    {
+        "id": "P002691",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Gariahat",
+        "count": 5,
+        "timestamp": "17:46:40"
+    }
+]

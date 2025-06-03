@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000559",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "16:15:24"
+    },
+    {
+        "id": "P001087",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park",
+        "count": 1,
+        "timestamp": "16:16:28"
+    },
+    {
+        "id": "P001492",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Ruby",
+        "count": 9,
+        "timestamp": "16:16:22"
+    },
+    {
+        "id": "P001692",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 10,
+        "timestamp": "16:16:32"
+    },
+    {
+        "id": "P001772",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 6,
+        "timestamp": "16:19:30"
+    },
+    {
+        "id": "P001879",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Sealdah",
+        "count": 2,
+        "timestamp": "16:18:11"
+    }
+]

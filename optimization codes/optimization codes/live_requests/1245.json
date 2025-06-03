@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000475",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Sonarpur",
+        "count": 7,
+        "timestamp": "20:48:41"
+    },
+    {
+        "id": "P000766",
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "20:46:15"
+    },
+    {
+        "id": "P001094",
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "20:45:24"
+    },
+    {
+        "id": "P001303",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Eco Space",
+        "count": 1,
+        "timestamp": "20:45:25"
+    },
+    {
+        "id": "P002736",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Gariahat",
+        "count": 9,
+        "timestamp": "20:48:03"
+    },
+    {
+        "id": "P002781",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat",
+        "count": 5,
+        "timestamp": "20:45:26"
+    }
+]

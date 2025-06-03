@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000488",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "22:30:38"
+    },
+    {
+        "id": "P000789",
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "22:33:08"
+    },
+    {
+        "id": "P000804",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus",
+        "count": 6,
+        "timestamp": "22:31:26"
+    },
+    {
+        "id": "P001228",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "22:31:08"
+    },
+    {
+        "id": "P001558",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 2,
+        "timestamp": "22:30:44"
+    },
+    {
+        "id": "P001614",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "22:34:50"
+    },
+    {
+        "id": "P002150",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "22:30:28"
+    },
+    {
+        "id": "P002328",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "22:32:51"
+    },
+    {
+        "id": "P002454",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 8,
+        "timestamp": "22:32:44"
+    },
+    {
+        "id": "P002572",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "22:34:06"
+    }
+]

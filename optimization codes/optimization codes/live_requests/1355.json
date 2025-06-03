@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000031",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 3,
+        "timestamp": "22:35:35"
+    },
+    {
+        "id": "P000260",
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Ultadanga",
+        "count": 10,
+        "timestamp": "22:37:40"
+    },
+    {
+        "id": "P001136",
+        "source": [
+            "Eco Space",
+            "Aliah University",
+            "Daber More"
+        ],
+        "destination": "ECO Park",
+        "count": 9,
+        "timestamp": "22:38:34"
+    },
+    {
+        "id": "P001253",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 1,
+        "timestamp": "22:37:39"
+    },
+    {
+        "id": "P001279",
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 8,
+        "timestamp": "22:39:51"
+    },
+    {
+        "id": "P002001",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "22:35:45"
+    },
+    {
+        "id": "P002089",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "22:36:44"
+    },
+    {
+        "id": "P002462",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 6,
+        "timestamp": "22:36:25"
+    },
+    {
+        "id": "P002681",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 5,
+        "timestamp": "22:39:16"
+    },
+    {
+        "id": "P002801",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Jadavpur",
+        "count": 10,
+        "timestamp": "22:36:27"
+    }
+]

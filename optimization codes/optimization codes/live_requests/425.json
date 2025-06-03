@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000309",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 2,
+        "timestamp": "7:06:02"
+    },
+    {
+        "id": "P000891",
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Airport",
+        "count": 9,
+        "timestamp": "7:05:15"
+    },
+    {
+        "id": "P000970",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "7:08:23"
+    },
+    {
+        "id": "P001019",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Rashbehari",
+        "count": 10,
+        "timestamp": "7:08:27"
+    },
+    {
+        "id": "P001061",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "7:09:30"
+    },
+    {
+        "id": "P002117",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "7:09:39"
+    },
+    {
+        "id": "P002495",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "7:09:30"
+    },
+    {
+        "id": "P002667",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Park Circus",
+        "count": 7,
+        "timestamp": "7:08:54"
+    },
+    {
+        "id": "P002823",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "7:08:14"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000413",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 9,
+        "timestamp": "14:12:59"
+    },
+    {
+        "id": "P000459",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 6,
+        "timestamp": "14:14:00"
+    },
+    {
+        "id": "P000696",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "14:14:40"
+    },
+    {
+        "id": "P000740",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 1,
+        "timestamp": "14:12:12"
+    },
+    {
+        "id": "P001277",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Lalbazar",
+        "count": 2,
+        "timestamp": "14:14:32"
+    },
+    {
+        "id": "P002612",
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 6,
+        "timestamp": "14:14:19"
+    }
+]

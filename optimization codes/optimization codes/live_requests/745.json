@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000190",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Sector V",
+        "count": 4,
+        "timestamp": "12:25:26"
+    },
+    {
+        "id": "P000742",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 1,
+        "timestamp": "12:29:09"
+    },
+    {
+        "id": "P000777",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 4,
+        "timestamp": "12:25:38"
+    },
+    {
+        "id": "P001015",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Ruby",
+        "count": 2,
+        "timestamp": "12:29:51"
+    },
+    {
+        "id": "P001970",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "12:28:11"
+    },
+    {
+        "id": "P002197",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 1,
+        "timestamp": "12:28:15"
+    },
+    {
+        "id": "P002224",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Patuli",
+        "count": 5,
+        "timestamp": "12:26:57"
+    },
+    {
+        "id": "P002279",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba",
+        "count": 6,
+        "timestamp": "12:26:57"
+    },
+    {
+        "id": "P002605",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 7,
+        "timestamp": "12:28:19"
+    }
+]

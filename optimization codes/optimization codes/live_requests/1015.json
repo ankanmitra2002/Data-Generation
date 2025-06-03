@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000266",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "16:58:56"
+    },
+    {
+        "id": "P000739",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 9,
+        "timestamp": "16:57:02"
+    },
+    {
+        "id": "P001325",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 1,
+        "timestamp": "16:59:47"
+    },
+    {
+        "id": "P001647",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 8,
+        "timestamp": "16:59:45"
+    },
+    {
+        "id": "P001825",
+        "source": [
+            "Sinthee",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Street",
+        "count": 5,
+        "timestamp": "16:56:09"
+    },
+    {
+        "id": "P002012",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 10,
+        "timestamp": "16:56:56"
+    },
+    {
+        "id": "P002412",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Ballygunge",
+        "count": 10,
+        "timestamp": "16:57:27"
+    },
+    {
+        "id": "P002476",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "16:56:18"
+    },
+    {
+        "id": "P002503",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 9,
+        "timestamp": "16:57:48"
+    },
+    {
+        "id": "P002573",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge",
+        "count": 1,
+        "timestamp": "16:56:27"
+    }
+]

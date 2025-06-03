@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000086",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 9,
+        "timestamp": "6:06:12"
+    },
+    {
+        "id": "P000838",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Narendrapur",
+        "count": 4,
+        "timestamp": "6:05:29"
+    },
+    {
+        "id": "P001072",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "6:08:34"
+    },
+    {
+        "id": "P001341",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 4,
+        "timestamp": "6:06:40"
+    },
+    {
+        "id": "P001613",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "6:05:04"
+    },
+    {
+        "id": "P002025",
+        "source": [
+            "Shyambazar",
+            "Sinthee More",
+            "Baranagar"
+        ],
+        "destination": "BT Road",
+        "count": 6,
+        "timestamp": "6:08:27"
+    },
+    {
+        "id": "P002268",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 7,
+        "timestamp": "6:05:15"
+    },
+    {
+        "id": "P002654",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 2,
+        "timestamp": "6:06:14"
+    }
+]

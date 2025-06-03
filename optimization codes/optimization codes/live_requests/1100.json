@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000276",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 4,
+        "timestamp": "18:23:38"
+    },
+    {
+        "id": "P000616",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Narendrapur",
+        "count": 8,
+        "timestamp": "18:21:15"
+    },
+    {
+        "id": "P000945",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 5,
+        "timestamp": "18:23:44"
+    },
+    {
+        "id": "P001686",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "18:24:55"
+    },
+    {
+        "id": "P001788",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 6,
+        "timestamp": "18:24:07"
+    },
+    {
+        "id": "P001898",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "18:20:04"
+    },
+    {
+        "id": "P002506",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 1,
+        "timestamp": "18:20:47"
+    },
+    {
+        "id": "P002516",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "18:22:25"
+    },
+    {
+        "id": "P002541",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 7,
+        "timestamp": "18:20:17"
+    },
+    {
+        "id": "P002642",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 8,
+        "timestamp": "18:22:59"
+    },
+    {
+        "id": "P002869",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "18:24:11"
+    }
+]

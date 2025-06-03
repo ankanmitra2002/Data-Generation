@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000202",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 8,
+        "timestamp": "13:10:52"
+    },
+    {
+        "id": "P000386",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 6,
+        "timestamp": "13:13:41"
+    },
+    {
+        "id": "P001016",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "13:14:21"
+    },
+    {
+        "id": "P001121",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "13:14:33"
+    },
+    {
+        "id": "P001430",
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka",
+        "count": 1,
+        "timestamp": "13:14:47"
+    },
+    {
+        "id": "P001690",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "13:14:40"
+    },
+    {
+        "id": "P001810",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 2,
+        "timestamp": "13:12:35"
+    },
+    {
+        "id": "P001940",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "13:12:28"
+    },
+    {
+        "id": "P002213",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 9,
+        "timestamp": "13:11:44"
+    },
+    {
+        "id": "P002252",
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka",
+        "count": 5,
+        "timestamp": "13:14:07"
+    },
+    {
+        "id": "P002559",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 4,
+        "timestamp": "13:13:59"
+    },
+    {
+        "id": "P002819",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 3,
+        "timestamp": "13:11:33"
+    }
+]

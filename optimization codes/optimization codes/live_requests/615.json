@@ -1,0 +1,189 @@
+[
+    {
+        "id": "P000076",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "10:19:54"
+    },
+    {
+        "id": "P000440",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "10:18:53"
+    },
+    {
+        "id": "P000494",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 8,
+        "timestamp": "10:17:31"
+    },
+    {
+        "id": "P000769",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 1,
+        "timestamp": "10:16:38"
+    },
+    {
+        "id": "P001044",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 5,
+        "timestamp": "10:18:12"
+    },
+    {
+        "id": "P001084",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Patuli",
+        "count": 3,
+        "timestamp": "10:15:43"
+    },
+    {
+        "id": "P001287",
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore",
+        "count": 5,
+        "timestamp": "10:15:04"
+    },
+    {
+        "id": "P001393",
+        "source": [
+            "Garia",
+            "Kamalgazi",
+            "Narendrapur"
+        ],
+        "destination": "Sonarpur",
+        "count": 5,
+        "timestamp": "10:18:10"
+    },
+    {
+        "id": "P001495",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 9,
+        "timestamp": "10:19:47"
+    },
+    {
+        "id": "P001817",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "10:17:37"
+    },
+    {
+        "id": "P001914",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby",
+        "count": 2,
+        "timestamp": "10:18:06"
+    },
+    {
+        "id": "P002007",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 5,
+        "timestamp": "10:17:49"
+    },
+    {
+        "id": "P002233",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 7,
+        "timestamp": "10:19:28"
+    },
+    {
+        "id": "P002248",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 8,
+        "timestamp": "10:16:23"
+    },
+    {
+        "id": "P002405",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Ultadanga",
+        "count": 5,
+        "timestamp": "10:16:56"
+    },
+    {
+        "id": "P002425",
+        "source": [
+            "Esplanade",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 5,
+        "timestamp": "10:18:14"
+    },
+    {
+        "id": "P002878",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "10:15:01"
+    }
+]

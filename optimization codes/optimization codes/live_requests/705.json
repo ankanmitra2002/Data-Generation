@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000015",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "Tollygunge"
+        ],
+        "destination": "Hazra",
+        "count": 4,
+        "timestamp": "11:46:49"
+    },
+    {
+        "id": "P001252",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 6,
+        "timestamp": "11:48:31"
+    },
+    {
+        "id": "P001299",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "11:49:07"
+    },
+    {
+        "id": "P001442",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 1,
+        "timestamp": "11:45:20"
+    },
+    {
+        "id": "P001526",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 7,
+        "timestamp": "11:45:21"
+    },
+    {
+        "id": "P001605",
+        "source": [
+            "Jadavpur",
+            "Ballygunge",
+            "Sealdah"
+        ],
+        "destination": "MG Road",
+        "count": 3,
+        "timestamp": "11:49:35"
+    },
+    {
+        "id": "P001736",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "11:49:27"
+    },
+    {
+        "id": "P002126",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 1,
+        "timestamp": "11:47:13"
+    },
+    {
+        "id": "P002316",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Narendrapur",
+        "count": 1,
+        "timestamp": "11:46:43"
+    },
+    {
+        "id": "P002592",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 2,
+        "timestamp": "11:45:45"
+    }
+]

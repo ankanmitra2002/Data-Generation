@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000044",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 6,
+        "timestamp": "7:41:19"
+    },
+    {
+        "id": "P001263",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 1,
+        "timestamp": "7:43:19"
+    },
+    {
+        "id": "P001265",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "New Alipore",
+        "count": 10,
+        "timestamp": "7:42:06"
+    },
+    {
+        "id": "P001365",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "7:40:41"
+    },
+    {
+        "id": "P001374",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 7,
+        "timestamp": "7:40:06"
+    },
+    {
+        "id": "P001838",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "7:42:01"
+    },
+    {
+        "id": "P001868",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Hazra",
+        "count": 3,
+        "timestamp": "7:41:18"
+    },
+    {
+        "id": "P002162",
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "7:43:57"
+    },
+    {
+        "id": "P002558",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 9,
+        "timestamp": "7:41:29"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000273",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "12:14:41"
+    },
+    {
+        "id": "P000305",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 8,
+        "timestamp": "12:13:02"
+    },
+    {
+        "id": "P000681",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 4,
+        "timestamp": "12:13:45"
+    },
+    {
+        "id": "P000726",
+        "source": [
+            "Garia",
+            "Kamalgazi",
+            "Narendrapur"
+        ],
+        "destination": "Garia Station Road",
+        "count": 4,
+        "timestamp": "12:11:08"
+    },
+    {
+        "id": "P000874",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 1,
+        "timestamp": "12:13:34"
+    },
+    {
+        "id": "P001255",
+        "source": [
+            "Dumdum",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "12:14:42"
+    },
+    {
+        "id": "P001262",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 9,
+        "timestamp": "12:13:13"
+    },
+    {
+        "id": "P001576",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "12:11:06"
+    },
+    {
+        "id": "P001707",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 9,
+        "timestamp": "12:12:59"
+    },
+    {
+        "id": "P002073",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "12:11:37"
+    },
+    {
+        "id": "P002207",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "12:10:58"
+    },
+    {
+        "id": "P002356",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 3,
+        "timestamp": "12:13:46"
+    },
+    {
+        "id": "P002757",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Ruby",
+        "count": 6,
+        "timestamp": "12:13:33"
+    }
+]

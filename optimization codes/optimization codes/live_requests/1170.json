@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P001356",
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 10,
+        "timestamp": "19:32:54"
+    },
+    {
+        "id": "P001649",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 9,
+        "timestamp": "19:31:14"
+    },
+    {
+        "id": "P002563",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Rashbehari",
+        "count": 6,
+        "timestamp": "19:34:43"
+    },
+    {
+        "id": "P002641",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Circus",
+        "count": 6,
+        "timestamp": "19:30:11"
+    }
+]

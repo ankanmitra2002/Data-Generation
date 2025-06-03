@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000178",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "7:58:15"
+    },
+    {
+        "id": "P000545",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 9,
+        "timestamp": "7:55:44"
+    },
+    {
+        "id": "P001060",
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Chinar Park",
+        "count": 2,
+        "timestamp": "7:56:37"
+    },
+    {
+        "id": "P001771",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "7:58:22"
+    },
+    {
+        "id": "P002391",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Sonarpur",
+        "count": 5,
+        "timestamp": "7:58:17"
+    },
+    {
+        "id": "P002629",
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City",
+        "count": 4,
+        "timestamp": "7:58:53"
+    }
+]

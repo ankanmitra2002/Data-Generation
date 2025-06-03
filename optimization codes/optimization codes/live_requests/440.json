@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000056",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "7:21:49"
+    },
+    {
+        "id": "P000205",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 7,
+        "timestamp": "7:24:49"
+    },
+    {
+        "id": "P000253",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "7:22:02"
+    },
+    {
+        "id": "P000487",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Maidan",
+        "count": 10,
+        "timestamp": "7:21:58"
+    },
+    {
+        "id": "P000580",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "7:22:07"
+    },
+    {
+        "id": "P001025",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge",
+        "count": 1,
+        "timestamp": "7:22:53"
+    },
+    {
+        "id": "P001337",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "7:21:09"
+    },
+    {
+        "id": "P001344",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 9,
+        "timestamp": "7:21:35"
+    },
+    {
+        "id": "P001435",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 2,
+        "timestamp": "7:20:07"
+    },
+    {
+        "id": "P001701",
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "Shyambazar",
+        "count": 1,
+        "timestamp": "7:21:26"
+    },
+    {
+        "id": "P001808",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "7:24:47"
+    },
+    {
+        "id": "P002490",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park",
+        "count": 5,
+        "timestamp": "7:24:42"
+    }
+]

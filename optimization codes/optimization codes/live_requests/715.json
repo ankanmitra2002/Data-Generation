@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000325",
+        "source": [
+            "College More",
+            "New Town",
+            "Unitech"
+        ],
+        "destination": "Eco Space",
+        "count": 6,
+        "timestamp": "11:56:02"
+    },
+    {
+        "id": "P000389",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 6,
+        "timestamp": "11:56:42"
+    },
+    {
+        "id": "P000708",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 5,
+        "timestamp": "11:56:55"
+    },
+    {
+        "id": "P001007",
+        "source": [
+            "Sinthee",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "11:56:26"
+    },
+    {
+        "id": "P001507",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 1,
+        "timestamp": "11:55:44"
+    },
+    {
+        "id": "P001645",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 8,
+        "timestamp": "11:56:17"
+    },
+    {
+        "id": "P001660",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee",
+        "count": 10,
+        "timestamp": "11:57:46"
+    },
+    {
+        "id": "P001951",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "11:57:41"
+    },
+    {
+        "id": "P002554",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 10,
+        "timestamp": "11:59:47"
+    }
+]

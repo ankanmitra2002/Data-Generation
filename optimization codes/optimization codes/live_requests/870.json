@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000047",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Rashbehari",
+        "count": 2,
+        "timestamp": "14:30:15"
+    },
+    {
+        "id": "P000075",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Unitech",
+        "count": 8,
+        "timestamp": "14:32:21"
+    },
+    {
+        "id": "P000399",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 2,
+        "timestamp": "14:33:33"
+    },
+    {
+        "id": "P000432",
+        "source": [
+            "Eco Space",
+            "Aliah University",
+            "Daber More"
+        ],
+        "destination": "ECO Park",
+        "count": 4,
+        "timestamp": "14:32:49"
+    },
+    {
+        "id": "P001165",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 5,
+        "timestamp": "14:31:32"
+    },
+    {
+        "id": "P002399",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 3,
+        "timestamp": "14:33:12"
+    },
+    {
+        "id": "P002422",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Phoolbagan",
+        "count": 3,
+        "timestamp": "14:32:46"
+    },
+    {
+        "id": "P002788",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town",
+        "count": 5,
+        "timestamp": "14:31:46"
+    }
+]

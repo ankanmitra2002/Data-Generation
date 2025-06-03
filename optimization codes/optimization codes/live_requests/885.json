@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000071",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 9,
+        "timestamp": "14:46:52"
+    },
+    {
+        "id": "P000324",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "14:48:31"
+    },
+    {
+        "id": "P000367",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 8,
+        "timestamp": "14:45:05"
+    },
+    {
+        "id": "P000458",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 2,
+        "timestamp": "14:45:37"
+    },
+    {
+        "id": "P000615",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah",
+        "count": 8,
+        "timestamp": "14:45:50"
+    },
+    {
+        "id": "P001040",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 1,
+        "timestamp": "14:49:28"
+    },
+    {
+        "id": "P001206",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "14:45:54"
+    },
+    {
+        "id": "P001490",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "14:47:20"
+    },
+    {
+        "id": "P002154",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "14:48:14"
+    },
+    {
+        "id": "P002877",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "14:49:18"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000284",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 7,
+        "timestamp": "1:28:12"
+    },
+    {
+        "id": "P000352",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 9,
+        "timestamp": "1:27:21"
+    },
+    {
+        "id": "P000787",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 6,
+        "timestamp": "1:26:12"
+    },
+    {
+        "id": "P001092",
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "1:27:53"
+    },
+    {
+        "id": "P001161",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "1:25:52"
+    },
+    {
+        "id": "P001336",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 10,
+        "timestamp": "1:26:42"
+    },
+    {
+        "id": "P001429",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "1:27:28"
+    },
+    {
+        "id": "P001451",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "1:26:27"
+    },
+    {
+        "id": "P001537",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Howrah Station",
+        "count": 1,
+        "timestamp": "1:29:03"
+    },
+    {
+        "id": "P001662",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "1:27:56"
+    },
+    {
+        "id": "P001941",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 6,
+        "timestamp": "1:27:41"
+    },
+    {
+        "id": "P001954",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 5,
+        "timestamp": "1:25:06"
+    }
+]

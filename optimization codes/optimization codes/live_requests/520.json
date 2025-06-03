@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000049",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 10,
+        "timestamp": "8:42:15"
+    },
+    {
+        "id": "P000279",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 4,
+        "timestamp": "8:41:38"
+    },
+    {
+        "id": "P000314",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Minto Park",
+        "count": 9,
+        "timestamp": "8:40:08"
+    },
+    {
+        "id": "P000557",
+        "source": [
+            "Marquis Street",
+            "SN Banerjee",
+            "MG Road"
+        ],
+        "destination": "Baranagar",
+        "count": 6,
+        "timestamp": "8:43:40"
+    },
+    {
+        "id": "P002571",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 10,
+        "timestamp": "8:44:18"
+    },
+    {
+        "id": "P002730",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "8:40:09"
+    }
+]

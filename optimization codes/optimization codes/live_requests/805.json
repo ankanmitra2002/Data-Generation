@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000221",
+        "source": [
+            "Bosepukur",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kalighat",
+        "count": 10,
+        "timestamp": "13:27:53"
+    },
+    {
+        "id": "P000636",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Gariahat",
+        "count": 3,
+        "timestamp": "13:28:56"
+    },
+    {
+        "id": "P000772",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Hazra",
+        "count": 3,
+        "timestamp": "13:28:56"
+    },
+    {
+        "id": "P000794",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Barasat",
+        "count": 9,
+        "timestamp": "13:28:05"
+    },
+    {
+        "id": "P000942",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 2,
+        "timestamp": "13:28:07"
+    },
+    {
+        "id": "P001641",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Unitech",
+        "count": 4,
+        "timestamp": "13:29:00"
+    },
+    {
+        "id": "P002115",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Park Street",
+        "count": 9,
+        "timestamp": "13:29:13"
+    },
+    {
+        "id": "P002363",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "13:27:31"
+    },
+    {
+        "id": "P002431",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Eco Space",
+        "count": 3,
+        "timestamp": "13:25:50"
+    }
+]

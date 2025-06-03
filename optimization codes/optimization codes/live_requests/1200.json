@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000684",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "20:04:23"
+    },
+    {
+        "id": "P001283",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop",
+        "count": 3,
+        "timestamp": "20:00:04"
+    },
+    {
+        "id": "P001290",
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur",
+        "count": 1,
+        "timestamp": "20:02:09"
+    },
+    {
+        "id": "P001310",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 9,
+        "timestamp": "20:00:45"
+    },
+    {
+        "id": "P001552",
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Park Circus",
+        "count": 2,
+        "timestamp": "20:01:32"
+    },
+    {
+        "id": "P001703",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 4,
+        "timestamp": "20:03:21"
+    },
+    {
+        "id": "P001839",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "20:04:43"
+    },
+    {
+        "id": "P001872",
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "MG Road",
+        "count": 3,
+        "timestamp": "20:02:05"
+    },
+    {
+        "id": "P002306",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 3,
+        "timestamp": "20:00:20"
+    },
+    {
+        "id": "P002394",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kasba",
+        "count": 4,
+        "timestamp": "20:00:22"
+    },
+    {
+        "id": "P002510",
+        "source": [
+            "Marquis Street",
+            "SN Banerjee",
+            "MG Road"
+        ],
+        "destination": "Tobin Road",
+        "count": 6,
+        "timestamp": "20:04:01"
+    },
+    {
+        "id": "P002679",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 1,
+        "timestamp": "20:03:35"
+    }
+]

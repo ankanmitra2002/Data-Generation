@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000300",
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "11:31:28"
+    },
+    {
+        "id": "P001051",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Garia",
+        "count": 9,
+        "timestamp": "11:32:12"
+    },
+    {
+        "id": "P001622",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Lalbazar",
+        "count": 7,
+        "timestamp": "11:34:37"
+    },
+    {
+        "id": "P001754",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town",
+        "count": 3,
+        "timestamp": "11:33:15"
+    },
+    {
+        "id": "P002238",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 6,
+        "timestamp": "11:30:26"
+    },
+    {
+        "id": "P002386",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 6,
+        "timestamp": "11:33:48"
+    },
+    {
+        "id": "P002758",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "11:34:54"
+    }
+]

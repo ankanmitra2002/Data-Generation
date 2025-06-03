@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000183",
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City",
+        "count": 10,
+        "timestamp": "14:36:06"
+    },
+    {
+        "id": "P000338",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba",
+        "count": 8,
+        "timestamp": "14:37:40"
+    },
+    {
+        "id": "P000950",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 9,
+        "timestamp": "14:37:08"
+    },
+    {
+        "id": "P001168",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Salt Lake",
+        "count": 9,
+        "timestamp": "14:35:49"
+    },
+    {
+        "id": "P001380",
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "14:36:12"
+    },
+    {
+        "id": "P001471",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 8,
+        "timestamp": "14:37:24"
+    },
+    {
+        "id": "P001516",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Sonarpur",
+        "count": 6,
+        "timestamp": "14:39:32"
+    },
+    {
+        "id": "P001585",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 4,
+        "timestamp": "14:35:12"
+    },
+    {
+        "id": "P001857",
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Minto Park"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "14:36:47"
+    },
+    {
+        "id": "P001949",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "14:37:21"
+    },
+    {
+        "id": "P002301",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "14:35:19"
+    },
+    {
+        "id": "P002395",
+        "source": [
+            "Gariahat",
+            "Ultadanga",
+            "VIP Road"
+        ],
+        "destination": "Barasat",
+        "count": 4,
+        "timestamp": "14:37:05"
+    },
+    {
+        "id": "P002552",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 10,
+        "timestamp": "14:37:23"
+    }
+]

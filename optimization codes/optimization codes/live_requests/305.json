@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000089",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Park Street",
+        "count": 3,
+        "timestamp": "5:09:15"
+    },
+    {
+        "id": "P000826",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 5,
+        "timestamp": "5:08:12"
+    },
+    {
+        "id": "P000857",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 3,
+        "timestamp": "5:06:31"
+    },
+    {
+        "id": "P001208",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Narendrapur",
+        "count": 6,
+        "timestamp": "5:08:10"
+    },
+    {
+        "id": "P001608",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "5:08:02"
+    },
+    {
+        "id": "P001616",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar",
+        "count": 8,
+        "timestamp": "5:05:31"
+    },
+    {
+        "id": "P001621",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 2,
+        "timestamp": "5:08:43"
+    },
+    {
+        "id": "P002018",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 9,
+        "timestamp": "5:05:33"
+    },
+    {
+        "id": "P002215",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Sonarpur",
+        "count": 5,
+        "timestamp": "5:06:21"
+    }
+]

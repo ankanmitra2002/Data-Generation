@@ -1,0 +1,145 @@
+[
+    {
+        "id": "P000504",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Kasba",
+        "count": 4,
+        "timestamp": "16:21:58"
+    },
+    {
+        "id": "P000532",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge",
+        "count": 9,
+        "timestamp": "16:23:24"
+    },
+    {
+        "id": "P000893",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 5,
+        "timestamp": "16:21:10"
+    },
+    {
+        "id": "P001013",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "16:24:01"
+    },
+    {
+        "id": "P001109",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Park Street",
+        "count": 3,
+        "timestamp": "16:24:55"
+    },
+    {
+        "id": "P001227",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 5,
+        "timestamp": "16:24:34"
+    },
+    {
+        "id": "P001230",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Maidan",
+        "count": 7,
+        "timestamp": "16:21:24"
+    },
+    {
+        "id": "P001508",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 1,
+        "timestamp": "16:23:31"
+    },
+    {
+        "id": "P001779",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 6,
+        "timestamp": "16:24:19"
+    },
+    {
+        "id": "P001942",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "16:21:39"
+    },
+    {
+        "id": "P002022",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 10,
+        "timestamp": "16:20:05"
+    },
+    {
+        "id": "P002190",
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "16:21:05"
+    },
+    {
+        "id": "P002515",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 1,
+        "timestamp": "16:22:54"
+    }
+]

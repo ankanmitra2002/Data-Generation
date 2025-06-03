@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P000231",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 5,
+        "timestamp": "22:18:10"
+    },
+    {
+        "id": "P001420",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 4,
+        "timestamp": "22:19:01"
+    },
+    {
+        "id": "P001501",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "22:17:41"
+    },
+    {
+        "id": "P002762",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "22:17:22"
+    }
+]

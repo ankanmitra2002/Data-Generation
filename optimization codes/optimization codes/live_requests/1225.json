@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000414",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 7,
+        "timestamp": "20:28:46"
+    },
+    {
+        "id": "P000760",
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake",
+        "count": 2,
+        "timestamp": "20:28:52"
+    },
+    {
+        "id": "P000878",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 8,
+        "timestamp": "20:27:07"
+    },
+    {
+        "id": "P001171",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 1,
+        "timestamp": "20:29:50"
+    },
+    {
+        "id": "P001639",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 3,
+        "timestamp": "20:28:04"
+    },
+    {
+        "id": "P002479",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Rashbehari",
+        "count": 8,
+        "timestamp": "20:25:08"
+    },
+    {
+        "id": "P002618",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 1,
+        "timestamp": "20:26:59"
+    },
+    {
+        "id": "P002652",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake",
+        "count": 7,
+        "timestamp": "20:28:09"
+    }
+]

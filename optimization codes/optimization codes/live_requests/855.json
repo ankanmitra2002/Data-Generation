@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000184",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "14:15:21"
+    },
+    {
+        "id": "P000285",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 2,
+        "timestamp": "14:18:10"
+    },
+    {
+        "id": "P000584",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 9,
+        "timestamp": "14:17:23"
+    },
+    {
+        "id": "P000985",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 10,
+        "timestamp": "14:18:42"
+    },
+    {
+        "id": "P001055",
+        "source": [
+            "Ultadanga",
+            "VIP Road",
+            "Airport Gate No. 1"
+        ],
+        "destination": "Barasat",
+        "count": 3,
+        "timestamp": "14:16:07"
+    },
+    {
+        "id": "P001180",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 3,
+        "timestamp": "14:16:36"
+    },
+    {
+        "id": "P001595",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur",
+        "count": 2,
+        "timestamp": "14:15:57"
+    },
+    {
+        "id": "P001830",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 9,
+        "timestamp": "14:15:28"
+    },
+    {
+        "id": "P002076",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 3,
+        "timestamp": "14:19:00"
+    },
+    {
+        "id": "P002217",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 7,
+        "timestamp": "14:18:20"
+    },
+    {
+        "id": "P002434",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 7,
+        "timestamp": "14:15:21"
+    },
+    {
+        "id": "P002719",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "14:18:22"
+    }
+]

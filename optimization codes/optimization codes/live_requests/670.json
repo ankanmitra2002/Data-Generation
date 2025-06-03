@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000350",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 3,
+        "timestamp": "11:13:12"
+    },
+    {
+        "id": "P000430",
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "Park Street",
+        "count": 4,
+        "timestamp": "11:12:37"
+    },
+    {
+        "id": "P000506",
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Bhowanipore",
+        "count": 1,
+        "timestamp": "11:12:44"
+    },
+    {
+        "id": "P000564",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "11:11:36"
+    },
+    {
+        "id": "P000639",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 1,
+        "timestamp": "11:13:50"
+    },
+    {
+        "id": "P001093",
+        "source": [
+            "Phoolbagan",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Eco Park",
+        "count": 6,
+        "timestamp": "11:10:40"
+    },
+    {
+        "id": "P001370",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "VIP Road",
+        "count": 8,
+        "timestamp": "11:10:55"
+    },
+    {
+        "id": "P002023",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 1,
+        "timestamp": "11:13:34"
+    },
+    {
+        "id": "P002702",
+        "source": [
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Titagarh",
+        "count": 7,
+        "timestamp": "11:12:45"
+    }
+]

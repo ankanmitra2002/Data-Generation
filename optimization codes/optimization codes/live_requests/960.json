@@ -1,0 +1,57 @@
+[
+    {
+        "id": "P000259",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "16:04:40"
+    },
+    {
+        "id": "P000556",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 7,
+        "timestamp": "16:02:09"
+    },
+    {
+        "id": "P001358",
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "16:03:28"
+    },
+    {
+        "id": "P002142",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Barasat",
+        "count": 4,
+        "timestamp": "16:01:26"
+    },
+    {
+        "id": "P002575",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Chinar Park",
+        "count": 3,
+        "timestamp": "16:00:19"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "id": "P000090",
+        "source": [
+            "Howrah",
+            "Lalbazar",
+            "Esplanade"
+        ],
+        "destination": "Gariahat",
+        "count": 3,
+        "timestamp": "22:10:34"
+    },
+    {
+        "id": "P000292",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Patuli",
+        "count": 5,
+        "timestamp": "22:11:19"
+    },
+    {
+        "id": "P000320",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 9,
+        "timestamp": "22:13:18"
+    },
+    {
+        "id": "P000607",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "22:10:27"
+    },
+    {
+        "id": "P000678",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 7,
+        "timestamp": "22:13:44"
+    },
+    {
+        "id": "P000744",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 3,
+        "timestamp": "22:13:45"
+    },
+    {
+        "id": "P000749",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Hazra",
+        "count": 8,
+        "timestamp": "22:11:31"
+    },
+    {
+        "id": "P000853",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 2,
+        "timestamp": "22:12:37"
+    },
+    {
+        "id": "P000972",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Sealdah",
+        "count": 6,
+        "timestamp": "22:13:22"
+    },
+    {
+        "id": "P001212",
+        "source": [
+            "Garia",
+            "Ruby",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "22:14:16"
+    },
+    {
+        "id": "P001417",
+        "source": [
+            "Unitech",
+            "Eco Space",
+            "Aliah University"
+        ],
+        "destination": "Daber More",
+        "count": 4,
+        "timestamp": "22:14:49"
+    },
+    {
+        "id": "P001601",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Salt Lake",
+        "count": 8,
+        "timestamp": "22:11:10"
+    },
+    {
+        "id": "P002031",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Kankurgachi"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "22:10:11"
+    },
+    {
+        "id": "P002122",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "22:12:27"
+    },
+    {
+        "id": "P002285",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "New Town",
+        "count": 9,
+        "timestamp": "22:12:51"
+    },
+    {
+        "id": "P002809",
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Kalighat",
+        "count": 2,
+        "timestamp": "22:11:30"
+    }
+]

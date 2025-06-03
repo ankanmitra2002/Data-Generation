@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000366",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 9,
+        "timestamp": "21:06:39"
+    },
+    {
+        "id": "P000375",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 9,
+        "timestamp": "21:05:54"
+    },
+    {
+        "id": "P000916",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "21:08:04"
+    },
+    {
+        "id": "P000967",
+        "source": [
+            "Dunlop",
+            "BT Road",
+            "Tobin Road"
+        ],
+        "destination": "Titagarh",
+        "count": 5,
+        "timestamp": "21:09:10"
+    },
+    {
+        "id": "P001311",
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 7,
+        "timestamp": "21:05:38"
+    },
+    {
+        "id": "P001345",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 6,
+        "timestamp": "21:07:04"
+    },
+    {
+        "id": "P002010",
+        "source": [
+            "Marquis Street",
+            "SN Banerjee",
+            "MG Road"
+        ],
+        "destination": "Sinthee More",
+        "count": 1,
+        "timestamp": "21:08:03"
+    },
+    {
+        "id": "P002188",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Kalighat",
+        "count": 5,
+        "timestamp": "21:06:10"
+    },
+    {
+        "id": "P002871",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "21:08:13"
+    }
+]

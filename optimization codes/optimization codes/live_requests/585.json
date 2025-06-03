@@ -1,0 +1,57 @@
+[
+    {
+        "id": "P000068",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "9:49:00"
+    },
+    {
+        "id": "P000255",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 10,
+        "timestamp": "9:49:47"
+    },
+    {
+        "id": "P000628",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 2,
+        "timestamp": "9:47:33"
+    },
+    {
+        "id": "P001765",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "9:47:21"
+    },
+    {
+        "id": "P002770",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "9:49:07"
+    }
+]

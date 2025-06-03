@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000262",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 1,
+        "timestamp": "20:10:33"
+    },
+    {
+        "id": "P000560",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "20:12:19"
+    },
+    {
+        "id": "P000664",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 3,
+        "timestamp": "20:14:29"
+    },
+    {
+        "id": "P001233",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 3,
+        "timestamp": "20:10:16"
+    },
+    {
+        "id": "P001989",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 8,
+        "timestamp": "20:12:19"
+    },
+    {
+        "id": "P002332",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 10,
+        "timestamp": "20:10:24"
+    },
+    {
+        "id": "P002337",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 6,
+        "timestamp": "20:12:47"
+    },
+    {
+        "id": "P002430",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 10,
+        "timestamp": "20:11:00"
+    },
+    {
+        "id": "P002750",
+        "source": [
+            "Phoolbagan",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 10,
+        "timestamp": "20:10:41"
+    }
+]

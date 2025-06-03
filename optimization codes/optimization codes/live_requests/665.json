@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000121",
+        "source": [
+            "Baranagar",
+            "Sinthee",
+            "Shyambazar"
+        ],
+        "destination": "MG Road",
+        "count": 9,
+        "timestamp": "11:09:37"
+    },
+    {
+        "id": "P000792",
+        "source": [
+            "Kalighat",
+            "Esplanade",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 7,
+        "timestamp": "11:07:01"
+    },
+    {
+        "id": "P000816",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Kankurgachi",
+        "count": 4,
+        "timestamp": "11:09:30"
+    },
+    {
+        "id": "P001318",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "11:07:29"
+    },
+    {
+        "id": "P001680",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "11:05:30"
+    },
+    {
+        "id": "P002086",
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Ruby",
+        "count": 2,
+        "timestamp": "11:07:09"
+    },
+    {
+        "id": "P002275",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "11:09:08"
+    },
+    {
+        "id": "P002317",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Gariahat",
+        "count": 8,
+        "timestamp": "11:09:02"
+    },
+    {
+        "id": "P002585",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "11:06:42"
+    },
+    {
+        "id": "P002594",
+        "source": [
+            "Newtown",
+            "Salt Lake",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 6,
+        "timestamp": "11:09:48"
+    },
+    {
+        "id": "P002602",
+        "source": [
+            "BT Road",
+            "Tobin Road",
+            "Khardah"
+        ],
+        "destination": "Barrackpore",
+        "count": 3,
+        "timestamp": "11:08:56"
+    },
+    {
+        "id": "P002650",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 9,
+        "timestamp": "11:05:42"
+    }
+]

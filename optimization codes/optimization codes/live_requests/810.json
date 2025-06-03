@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000085",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 2,
+        "timestamp": "13:33:44"
+    },
+    {
+        "id": "P000518",
+        "source": [
+            "Phoolbagan",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Eco Park",
+        "count": 7,
+        "timestamp": "13:31:39"
+    },
+    {
+        "id": "P000734",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 4,
+        "timestamp": "13:34:26"
+    },
+    {
+        "id": "P000836",
+        "source": [
+            "Baranagar",
+            "Shyambazar",
+            "MG Road"
+        ],
+        "destination": "Ruby",
+        "count": 2,
+        "timestamp": "13:34:39"
+    },
+    {
+        "id": "P001433",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 4,
+        "timestamp": "13:33:43"
+    },
+    {
+        "id": "P001758",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 4,
+        "timestamp": "13:33:04"
+    },
+    {
+        "id": "P002623",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 4,
+        "timestamp": "13:31:56"
+    }
+]

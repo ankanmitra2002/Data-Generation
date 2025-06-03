@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000165",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 3,
+        "timestamp": "16:35:47"
+    },
+    {
+        "id": "P000416",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 9,
+        "timestamp": "16:37:07"
+    },
+    {
+        "id": "P000561",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Street",
+        "count": 10,
+        "timestamp": "16:35:12"
+    },
+    {
+        "id": "P000662",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "16:39:11"
+    },
+    {
+        "id": "P001403",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 2,
+        "timestamp": "16:36:18"
+    },
+    {
+        "id": "P002187",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "16:36:21"
+    },
+    {
+        "id": "P002350",
+        "source": [
+            "Park Street",
+            "Sealdah",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 9,
+        "timestamp": "16:36:51"
+    },
+    {
+        "id": "P002531",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Ruby",
+        "count": 10,
+        "timestamp": "16:36:09"
+    },
+    {
+        "id": "P002808",
+        "source": [
+            "Aliah University",
+            "Daber More",
+            "ECO Park"
+        ],
+        "destination": "City",
+        "count": 9,
+        "timestamp": "16:37:58"
+    }
+]

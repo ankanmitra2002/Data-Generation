@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000171",
+        "source": [
+            "Kamalgazi",
+            "Narendrapur",
+            "Sonarpur"
+        ],
+        "destination": "Garia Station Road",
+        "count": 1,
+        "timestamp": "23:32:45"
+    },
+    {
+        "id": "P000713",
+        "source": [
+            "Lalbazar",
+            "Esplanade",
+            "Rashbehari"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "23:32:36"
+    },
+    {
+        "id": "P001070",
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Chinar Park",
+        "count": 4,
+        "timestamp": "23:33:44"
+    },
+    {
+        "id": "P001205",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "23:31:26"
+    },
+    {
+        "id": "P001980",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 10,
+        "timestamp": "23:32:57"
+    },
+    {
+        "id": "P002016",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 8,
+        "timestamp": "23:34:02"
+    },
+    {
+        "id": "P002376",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park",
+        "count": 7,
+        "timestamp": "23:33:22"
+    },
+    {
+        "id": "P002766",
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station",
+        "count": 8,
+        "timestamp": "23:30:10"
+    }
+]

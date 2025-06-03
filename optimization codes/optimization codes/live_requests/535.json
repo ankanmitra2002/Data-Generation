@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P001737",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 10,
+        "timestamp": "8:59:53"
+    },
+    {
+        "id": "P001846",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 4,
+        "timestamp": "8:56:29"
+    },
+    {
+        "id": "P001901",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 4,
+        "timestamp": "8:55:43"
+    },
+    {
+        "id": "P002114",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 10,
+        "timestamp": "8:55:09"
+    },
+    {
+        "id": "P002482",
+        "source": [
+            "Kalighat",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 1,
+        "timestamp": "8:57:32"
+    },
+    {
+        "id": "P002693",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar",
+        "count": 5,
+        "timestamp": "8:55:07"
+    },
+    {
+        "id": "P002824",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Ruby",
+        "count": 6,
+        "timestamp": "8:56:43"
+    }
+]

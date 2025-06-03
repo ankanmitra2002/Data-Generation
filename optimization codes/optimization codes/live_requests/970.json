@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000011",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 8,
+        "timestamp": "16:12:20"
+    },
+    {
+        "id": "P000012",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 3,
+        "timestamp": "16:10:53"
+    },
+    {
+        "id": "P000029",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 2,
+        "timestamp": "16:14:48"
+    },
+    {
+        "id": "P000774",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Chinar Park",
+        "count": 9,
+        "timestamp": "16:10:40"
+    },
+    {
+        "id": "P001457",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "16:10:19"
+    },
+    {
+        "id": "P001570",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station",
+        "count": 2,
+        "timestamp": "16:11:06"
+    },
+    {
+        "id": "P001644",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 3,
+        "timestamp": "16:10:21"
+    },
+    {
+        "id": "P001945",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "16:10:58"
+    },
+    {
+        "id": "P002077",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur",
+        "count": 10,
+        "timestamp": "16:10:37"
+    },
+    {
+        "id": "P002087",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah",
+        "count": 1,
+        "timestamp": "16:12:03"
+    },
+    {
+        "id": "P002649",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 6,
+        "timestamp": "16:10:19"
+    }
+]

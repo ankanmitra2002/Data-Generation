@@ -1,0 +1,57 @@
+[
+    {
+        "id": "P001023",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Eco Park",
+        "count": 10,
+        "timestamp": "20:58:18"
+    },
+    {
+        "id": "P001081",
+        "source": [
+            "Rajarhat",
+            "Newtown",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "20:55:59"
+    },
+    {
+        "id": "P002096",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "20:57:54"
+    },
+    {
+        "id": "P002201",
+        "source": [
+            "Esplanade",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 8,
+        "timestamp": "20:57:38"
+    },
+    {
+        "id": "P002438",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 2,
+        "timestamp": "20:57:34"
+    }
+]

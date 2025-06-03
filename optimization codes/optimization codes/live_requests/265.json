@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000508",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "4:28:24"
+    },
+    {
+        "id": "P000516",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 7,
+        "timestamp": "4:29:09"
+    },
+    {
+        "id": "P000573",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "4:25:38"
+    },
+    {
+        "id": "P000840",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "4:28:45"
+    },
+    {
+        "id": "P000900",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "4:29:30"
+    },
+    {
+        "id": "P001058",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "4:25:13"
+    },
+    {
+        "id": "P002148",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 1,
+        "timestamp": "4:28:03"
+    },
+    {
+        "id": "P002407",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Minto Park"
+        ],
+        "destination": "Patuli",
+        "count": 9,
+        "timestamp": "4:27:38"
+    },
+    {
+        "id": "P002465",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop",
+        "count": 4,
+        "timestamp": "4:26:20"
+    },
+    {
+        "id": "P002797",
+        "source": [
+            "Esplanade",
+            "Park Street",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 5,
+        "timestamp": "4:28:15"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000400",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 4,
+        "timestamp": "22:25:09"
+    },
+    {
+        "id": "P000711",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Titagarh",
+        "count": 7,
+        "timestamp": "22:29:45"
+    },
+    {
+        "id": "P000859",
+        "source": [
+            "Sealdah",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "22:27:32"
+    },
+    {
+        "id": "P001106",
+        "source": [
+            "Belgachia",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Joka",
+        "count": 4,
+        "timestamp": "22:29:01"
+    },
+    {
+        "id": "P001334",
+        "source": [
+            "Minto Park",
+            "Gariahat",
+            "Ruby Hospital"
+        ],
+        "destination": "Patuli",
+        "count": 3,
+        "timestamp": "22:29:13"
+    },
+    {
+        "id": "P002230",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 6,
+        "timestamp": "22:29:39"
+    },
+    {
+        "id": "P002773",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Rashbehari",
+        "count": 8,
+        "timestamp": "22:28:25"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000379",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kasba"
+        ],
+        "destination": "Ruby",
+        "count": 1,
+        "timestamp": "9:02:23"
+    },
+    {
+        "id": "P000563",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "9:00:45"
+    },
+    {
+        "id": "P000717",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 8,
+        "timestamp": "9:02:32"
+    },
+    {
+        "id": "P001554",
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur",
+        "count": 8,
+        "timestamp": "9:01:47"
+    },
+    {
+        "id": "P002026",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Narendrapur",
+        "count": 5,
+        "timestamp": "9:04:13"
+    },
+    {
+        "id": "P002338",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "Eco Space",
+        "count": 10,
+        "timestamp": "9:01:31"
+    },
+    {
+        "id": "P002525",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Karunamoyee"
+        ],
+        "destination": "New Town",
+        "count": 5,
+        "timestamp": "9:04:54"
+    }
+]

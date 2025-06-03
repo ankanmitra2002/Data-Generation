@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000006",
+        "source": [
+            "Gariahat",
+            "Golpark",
+            "Bosepukur"
+        ],
+        "destination": "Kasba",
+        "count": 7,
+        "timestamp": "0:53:58"
+    },
+    {
+        "id": "P000612",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 5,
+        "timestamp": "0:52:15"
+    },
+    {
+        "id": "P000940",
+        "source": [
+            "Ultadanga",
+            "Karunamoyee",
+            "New Town"
+        ],
+        "destination": "Eco Space",
+        "count": 2,
+        "timestamp": "0:54:44"
+    },
+    {
+        "id": "P001513",
+        "source": [
+            "BT Road",
+            "Baranagar",
+            "Sinthee"
+        ],
+        "destination": "Park Street",
+        "count": 9,
+        "timestamp": "0:54:02"
+    },
+    {
+        "id": "P001575",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "MG Road",
+        "count": 6,
+        "timestamp": "0:53:42"
+    },
+    {
+        "id": "P001654",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Ballygunge",
+        "count": 6,
+        "timestamp": "0:50:42"
+    },
+    {
+        "id": "P002160",
+        "source": [
+            "Gariahat",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 1,
+        "timestamp": "0:54:58"
+    }
+]

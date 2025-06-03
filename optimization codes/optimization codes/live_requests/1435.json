@@ -1,0 +1,57 @@
+[
+    {
+        "id": "P000039",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 10,
+        "timestamp": "23:59:00"
+    },
+    {
+        "id": "P000132",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 8,
+        "timestamp": "23:58:33"
+    },
+    {
+        "id": "P000182",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 3,
+        "timestamp": "23:56:39"
+    },
+    {
+        "id": "P000331",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Tollygunge",
+        "count": 5,
+        "timestamp": "23:57:59"
+    },
+    {
+        "id": "P001033",
+        "source": [
+            "Sealdah",
+            "Moulali",
+            "Park Circus"
+        ],
+        "destination": "Ballygunge",
+        "count": 3,
+        "timestamp": "23:57:18"
+    }
+]

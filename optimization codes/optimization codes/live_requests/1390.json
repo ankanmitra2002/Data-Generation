@@ -1,0 +1,112 @@
+[
+    {
+        "id": "P000108",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 7,
+        "timestamp": "23:13:50"
+    },
+    {
+        "id": "P000348",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 2,
+        "timestamp": "23:13:24"
+    },
+    {
+        "id": "P000520",
+        "source": [
+            "Ultadanga",
+            "Kankurgachi",
+            "Sealdah"
+        ],
+        "destination": "Park Street",
+        "count": 1,
+        "timestamp": "23:13:57"
+    },
+    {
+        "id": "P000895",
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 10,
+        "timestamp": "23:14:05"
+    },
+    {
+        "id": "P000991",
+        "source": [
+            "Minto Park",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 6,
+        "timestamp": "23:13:51"
+    },
+    {
+        "id": "P001159",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 9,
+        "timestamp": "23:14:51"
+    },
+    {
+        "id": "P001389",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore",
+        "count": 5,
+        "timestamp": "23:13:15"
+    },
+    {
+        "id": "P001691",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Sinthee More"
+        ],
+        "destination": "Khardah",
+        "count": 8,
+        "timestamp": "23:12:10"
+    },
+    {
+        "id": "P002390",
+        "source": [
+            "SN Banerjee",
+            "MG Road",
+            "Shyambazar"
+        ],
+        "destination": "Barrackpore",
+        "count": 7,
+        "timestamp": "23:14:31"
+    },
+    {
+        "id": "P002548",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "23:14:44"
+    }
+]

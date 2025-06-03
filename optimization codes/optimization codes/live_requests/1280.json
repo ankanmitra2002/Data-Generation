@@ -1,0 +1,35 @@
+[
+    {
+        "id": "P001001",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "21:23:39"
+    },
+    {
+        "id": "P002387",
+        "source": [
+            "Ruby",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 7,
+        "timestamp": "21:22:52"
+    },
+    {
+        "id": "P002832",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "21:22:02"
+    }
+]

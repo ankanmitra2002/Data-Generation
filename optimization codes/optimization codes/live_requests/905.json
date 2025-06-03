@@ -1,0 +1,123 @@
+[
+    {
+        "id": "P000042",
+        "source": [
+            "Tollygunge",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Park Circus",
+        "count": 9,
+        "timestamp": "15:07:11"
+    },
+    {
+        "id": "P000337",
+        "source": [
+            "Esplanade",
+            "Rashbehari",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 10,
+        "timestamp": "15:08:28"
+    },
+    {
+        "id": "P000469",
+        "source": [
+            "Golpark",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "15:06:41"
+    },
+    {
+        "id": "P001209",
+        "source": [
+            "Park Street",
+            "Maidan",
+            "Rabindra Sadan"
+        ],
+        "destination": "Bhowanipore",
+        "count": 3,
+        "timestamp": "15:09:44"
+    },
+    {
+        "id": "P001629",
+        "source": [
+            "Howrah Station",
+            "Esplanade",
+            "Kalighat"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "15:06:12"
+    },
+    {
+        "id": "P001863",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "15:09:15"
+    },
+    {
+        "id": "P001924",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Chinar Park",
+        "count": 1,
+        "timestamp": "15:05:52"
+    },
+    {
+        "id": "P002349",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "15:08:50"
+    },
+    {
+        "id": "P002457",
+        "source": [
+            "Dunlop",
+            "BT Road",
+            "Tobin Road"
+        ],
+        "destination": "Barrackpore",
+        "count": 8,
+        "timestamp": "15:06:31"
+    },
+    {
+        "id": "P002565",
+        "source": [
+            "Maidan",
+            "Rabindra Sadan",
+            "Bhowanipore"
+        ],
+        "destination": "Kalighat",
+        "count": 4,
+        "timestamp": "15:06:08"
+    },
+    {
+        "id": "P002680",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 7,
+        "timestamp": "15:05:34"
+    }
+]

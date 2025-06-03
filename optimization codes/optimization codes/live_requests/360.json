@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000172",
+        "source": [
+            "Kalighat",
+            "Hazra",
+            "Gariahat"
+        ],
+        "destination": "Ultadanga",
+        "count": 8,
+        "timestamp": "6:03:41"
+    },
+    {
+        "id": "P000344",
+        "source": [
+            "Ruby",
+            "Gariahat",
+            "Ultadanga"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 9,
+        "timestamp": "6:00:11"
+    },
+    {
+        "id": "P000593",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 1,
+        "timestamp": "6:02:52"
+    },
+    {
+        "id": "P000764",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Patuli",
+        "count": 6,
+        "timestamp": "6:02:59"
+    },
+    {
+        "id": "P000807",
+        "source": [
+            "Jadavpur",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "6:00:27"
+    },
+    {
+        "id": "P001915",
+        "source": [
+            "Tobin Road",
+            "Khardah",
+            "Titagarh"
+        ],
+        "destination": "Barrackpore",
+        "count": 7,
+        "timestamp": "6:03:41"
+    },
+    {
+        "id": "P002370",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 5,
+        "timestamp": "6:00:52"
+    },
+    {
+        "id": "P002821",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Jadavpur",
+        "count": 7,
+        "timestamp": "6:02:18"
+    }
+]

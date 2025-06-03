@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000778",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Sealdah"
+        ],
+        "destination": "Park Circus",
+        "count": 3,
+        "timestamp": "5:45:16"
+    },
+    {
+        "id": "P000907",
+        "source": [
+            "Howrah",
+            "Sealdah",
+            "Park Circus"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "5:47:38"
+    },
+    {
+        "id": "P001018",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Kankurgachi",
+        "count": 3,
+        "timestamp": "5:49:03"
+    },
+    {
+        "id": "P001179",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 5,
+        "timestamp": "5:49:05"
+    },
+    {
+        "id": "P001498",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 2,
+        "timestamp": "5:47:02"
+    },
+    {
+        "id": "P001549",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 2,
+        "timestamp": "5:48:40"
+    },
+    {
+        "id": "P001716",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 1,
+        "timestamp": "5:47:19"
+    },
+    {
+        "id": "P002093",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "SN Banerjee"
+        ],
+        "destination": "Esplanade",
+        "count": 8,
+        "timestamp": "5:49:36"
+    },
+    {
+        "id": "P002239",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "5:47:04"
+    },
+    {
+        "id": "P002380",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "5:46:41"
+    },
+    {
+        "id": "P002577",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "5:49:44"
+    },
+    {
+        "id": "P002711",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 4,
+        "timestamp": "5:49:03"
+    }
+]

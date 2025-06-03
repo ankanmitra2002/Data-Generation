@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000103",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 1,
+        "timestamp": "21:33:30"
+    },
+    {
+        "id": "P000843",
+        "source": [
+            "Narendrapur",
+            "Sonarpur",
+            "Garia Station Road"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 3,
+        "timestamp": "21:30:36"
+    },
+    {
+        "id": "P000947",
+        "source": [
+            "Howrah",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "21:32:53"
+    },
+    {
+        "id": "P001363",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 1,
+        "timestamp": "21:34:02"
+    },
+    {
+        "id": "P002104",
+        "source": [
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 6,
+        "timestamp": "21:34:31"
+    },
+    {
+        "id": "P002645",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "21:31:54"
+    }
+]

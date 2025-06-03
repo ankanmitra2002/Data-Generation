@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000542",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar",
+        "count": 3,
+        "timestamp": "1:13:40"
+    },
+    {
+        "id": "P000800",
+        "source": [
+            "Kalighat",
+            "Jadavpur",
+            "Garia"
+        ],
+        "destination": "Narendrapur",
+        "count": 9,
+        "timestamp": "1:11:20"
+    },
+    {
+        "id": "P001301",
+        "source": [
+            "Hazra",
+            "Kalighat",
+            "Minto Park"
+        ],
+        "destination": "Esplanade",
+        "count": 1,
+        "timestamp": "1:10:20"
+    },
+    {
+        "id": "P001372",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "New Town",
+        "count": 3,
+        "timestamp": "1:14:55"
+    },
+    {
+        "id": "P001669",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 9,
+        "timestamp": "1:10:57"
+    },
+    {
+        "id": "P001848",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 7,
+        "timestamp": "1:12:14"
+    },
+    {
+        "id": "P002078",
+        "source": [
+            "Jadavpur",
+            "Kasba",
+            "Bosepukur"
+        ],
+        "destination": "Ruby",
+        "count": 5,
+        "timestamp": "1:11:36"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000097",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "13:57:52"
+    },
+    {
+        "id": "P000330",
+        "source": [
+            "New Town",
+            "Unitech",
+            "Eco Space"
+        ],
+        "destination": "Daber More",
+        "count": 2,
+        "timestamp": "13:56:40"
+    },
+    {
+        "id": "P001666",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 8,
+        "timestamp": "13:59:55"
+    },
+    {
+        "id": "P001937",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 9,
+        "timestamp": "13:55:53"
+    },
+    {
+        "id": "P001979",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 2,
+        "timestamp": "13:55:09"
+    },
+    {
+        "id": "P002061",
+        "source": [
+            "SN Banerjee",
+            "Esplanade",
+            "Park Street"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 6,
+        "timestamp": "13:59:30"
+    },
+    {
+        "id": "P002068",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 10,
+        "timestamp": "13:55:27"
+    },
+    {
+        "id": "P002118",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "13:58:19"
+    },
+    {
+        "id": "P002433",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 4,
+        "timestamp": "13:58:07"
+    }
+]

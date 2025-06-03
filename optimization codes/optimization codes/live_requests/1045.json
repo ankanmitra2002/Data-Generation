@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000217",
+        "source": [
+            "Moulali",
+            "Park Circus",
+            "Ballygunge"
+        ],
+        "destination": "Tollygunge",
+        "count": 7,
+        "timestamp": "17:28:31"
+    },
+    {
+        "id": "P000383",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Phoolbagan"
+        ],
+        "destination": "Sector V",
+        "count": 2,
+        "timestamp": "17:28:21"
+    },
+    {
+        "id": "P000803",
+        "source": [
+            "Eco Space",
+            "Aliah University",
+            "Daber More"
+        ],
+        "destination": "ECO Park",
+        "count": 10,
+        "timestamp": "17:28:52"
+    },
+    {
+        "id": "P002294",
+        "source": [
+            "Park Circus",
+            "Ripon Street",
+            "SN Banerjee"
+        ],
+        "destination": "Lalbazar",
+        "count": 2,
+        "timestamp": "17:25:51"
+    },
+    {
+        "id": "P002716",
+        "source": [
+            "VIP Road",
+            "Ultadanga",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 9,
+        "timestamp": "17:25:02"
+    },
+    {
+        "id": "P002811",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Minto Park",
+        "count": 8,
+        "timestamp": "17:25:22"
+    }
+]

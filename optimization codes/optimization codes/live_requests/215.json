@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000061",
+        "source": [
+            "Park Circus",
+            "Ruby",
+            "Garia"
+        ],
+        "destination": "Sonarpur",
+        "count": 10,
+        "timestamp": "3:35:53"
+    },
+    {
+        "id": "P000493",
+        "source": [
+            "Dumdum",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "3:39:22"
+    },
+    {
+        "id": "P000737",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Tollygunge"
+        ],
+        "destination": "Joka",
+        "count": 6,
+        "timestamp": "3:39:38"
+    },
+    {
+        "id": "P001216",
+        "source": [
+            "Salt Lake",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Esplanade",
+        "count": 4,
+        "timestamp": "3:37:35"
+    },
+    {
+        "id": "P001832",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "3:37:13"
+    },
+    {
+        "id": "P002517",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Eco Park",
+        "count": 10,
+        "timestamp": "3:39:21"
+    },
+    {
+        "id": "P002803",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "Shyambazar"
+        ],
+        "destination": "Esplanade",
+        "count": 6,
+        "timestamp": "3:38:03"
+    },
+    {
+        "id": "P002830",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Baranagar"
+        ],
+        "destination": "Dunlop",
+        "count": 6,
+        "timestamp": "3:39:18"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000051",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 7,
+        "timestamp": "12:35:20"
+    },
+    {
+        "id": "P000187",
+        "source": [
+            "Lalbazar",
+            "Minto Park",
+            "Kalighat"
+        ],
+        "destination": "Garia",
+        "count": 9,
+        "timestamp": "12:36:07"
+    },
+    {
+        "id": "P000490",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
+        ],
+        "destination": "Airport",
+        "count": 7,
+        "timestamp": "12:35:14"
+    },
+    {
+        "id": "P001395",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Maidan"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 9,
+        "timestamp": "12:39:34"
+    },
+    {
+        "id": "P001623",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "12:37:57"
+    },
+    {
+        "id": "P001711",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 2,
+        "timestamp": "12:35:35"
+    },
+    {
+        "id": "P001887",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan",
+        "count": 2,
+        "timestamp": "12:39:38"
+    },
+    {
+        "id": "P001960",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 7,
+        "timestamp": "12:39:40"
+    },
+    {
+        "id": "P002113",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Beleghata"
+        ],
+        "destination": "Salt Lake",
+        "count": 5,
+        "timestamp": "12:38:40"
+    },
+    {
+        "id": "P002366",
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Chinar Park",
+        "count": 10,
+        "timestamp": "12:37:31"
+    },
+    {
+        "id": "P002528",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Garia",
+        "count": 10,
+        "timestamp": "12:36:17"
+    },
+    {
+        "id": "P002639",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Sakherbazar"
+        ],
+        "destination": "Alipore",
+        "count": 9,
+        "timestamp": "12:35:03"
+    }
+]

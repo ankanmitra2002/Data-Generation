@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000036",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "17:12:38"
+    },
+    {
+        "id": "P000427",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 5,
+        "timestamp": "17:11:46"
+    },
+    {
+        "id": "P001275",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Chinar Park",
+        "count": 6,
+        "timestamp": "17:13:52"
+    },
+    {
+        "id": "P001702",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Phoolbagan",
+        "count": 5,
+        "timestamp": "17:10:35"
+    },
+    {
+        "id": "P001918",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 2,
+        "timestamp": "17:13:29"
+    },
+    {
+        "id": "P002307",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 2,
+        "timestamp": "17:11:00"
+    },
+    {
+        "id": "P002346",
+        "source": [
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
+        ],
+        "destination": "Minto Park",
+        "count": 5,
+        "timestamp": "17:14:46"
+    },
+    {
+        "id": "P002534",
+        "source": [
+            "Kasba",
+            "Gariahat",
+            "Phoolbagan"
+        ],
+        "destination": "Dumdum",
+        "count": 5,
+        "timestamp": "17:11:46"
+    },
+    {
+        "id": "P002660",
+        "source": [
+            "Howrah Station",
+            "Shibpur",
+            "Alipore"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "17:11:24"
+    }
+]

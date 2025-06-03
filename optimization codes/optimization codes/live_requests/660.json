@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000656",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 1,
+        "timestamp": "11:00:31"
+    },
+    {
+        "id": "P000960",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 10,
+        "timestamp": "11:01:30"
+    },
+    {
+        "id": "P001469",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "New Town",
+        "count": 7,
+        "timestamp": "11:04:07"
+    },
+    {
+        "id": "P001524",
+        "source": [
+            "Ballygunge",
+            "Park Circus",
+            "VIP Road"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 7,
+        "timestamp": "11:02:36"
+    },
+    {
+        "id": "P001802",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "11:03:00"
+    },
+    {
+        "id": "P002564",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "11:01:41"
+    },
+    {
+        "id": "P002609",
+        "source": [
+            "Shyambazar",
+            "MG Road",
+            "Sealdah"
+        ],
+        "destination": "Ruby",
+        "count": 9,
+        "timestamp": "11:00:24"
+    }
+]

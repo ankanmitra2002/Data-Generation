@@ -1,0 +1,101 @@
+[
+    {
+        "id": "P000220",
+        "source": [
+            "Shibpur",
+            "Alipore",
+            "Tollygunge"
+        ],
+        "destination": "Garia",
+        "count": 1,
+        "timestamp": "21:41:23"
+    },
+    {
+        "id": "P000264",
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Esplanade",
+        "count": 4,
+        "timestamp": "21:41:24"
+    },
+    {
+        "id": "P000699",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Ballygunge"
+        ],
+        "destination": "MG Road",
+        "count": 4,
+        "timestamp": "21:42:29"
+    },
+    {
+        "id": "P000775",
+        "source": [
+            "Phoolbagan",
+            "Park Circus",
+            "Ruby"
+        ],
+        "destination": "Garia",
+        "count": 7,
+        "timestamp": "21:42:06"
+    },
+    {
+        "id": "P001048",
+        "source": [
+            "Park Circus",
+            "Ballygunge",
+            "Rashbehari"
+        ],
+        "destination": "Tollygunge",
+        "count": 9,
+        "timestamp": "21:44:06"
+    },
+    {
+        "id": "P001419",
+        "source": [
+            "Salt Lake Sector V",
+            "Karunamoyee",
+            "Ultadanga"
+        ],
+        "destination": "Sealdah",
+        "count": 9,
+        "timestamp": "21:42:21"
+    },
+    {
+        "id": "P001494",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Esplanade"
+        ],
+        "destination": "Howrah Station",
+        "count": 4,
+        "timestamp": "21:41:55"
+    },
+    {
+        "id": "P001652",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 4,
+        "timestamp": "21:44:47"
+    },
+    {
+        "id": "P002439",
+        "source": [
+            "MG Road",
+            "Shyambazar",
+            "Sinthee More"
+        ],
+        "destination": "Baranagar",
+        "count": 1,
+        "timestamp": "21:43:24"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": "P000783",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 3,
+        "timestamp": "8:11:51"
+    },
+    {
+        "id": "P001355",
+        "source": [
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
+        ],
+        "destination": "Esplanade",
+        "count": 9,
+        "timestamp": "8:10:10"
+    },
+    {
+        "id": "P002045",
+        "source": [
+            "MG Road",
+            "SN Banerjee",
+            "Esplanade"
+        ],
+        "destination": "Rabindra Sadan",
+        "count": 10,
+        "timestamp": "8:10:07"
+    },
+    {
+        "id": "P002406",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 4,
+        "timestamp": "8:12:45"
+    }
+]

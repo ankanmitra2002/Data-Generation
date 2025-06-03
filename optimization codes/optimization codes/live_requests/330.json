@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000232",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 2,
+        "timestamp": "5:31:56"
+    },
+    {
+        "id": "P000501",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Patuli",
+        "count": 10,
+        "timestamp": "5:30:25"
+    },
+    {
+        "id": "P001200",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Phoolbagan",
+        "count": 9,
+        "timestamp": "5:33:29"
+    },
+    {
+        "id": "P001581",
+        "source": [
+            "Esplanade",
+            "Minto Park",
+            "Gariahat"
+        ],
+        "destination": "Patuli",
+        "count": 1,
+        "timestamp": "5:30:40"
+    },
+    {
+        "id": "P001586",
+        "source": [
+            "Tollygunge",
+            "Hazra",
+            "Kalighat"
+        ],
+        "destination": "New Town",
+        "count": 10,
+        "timestamp": "5:30:57"
+    },
+    {
+        "id": "P002227",
+        "source": [
+            "Karunamoyee",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Sealdah",
+        "count": 3,
+        "timestamp": "5:32:28"
+    },
+    {
+        "id": "P002315",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 1,
+        "timestamp": "5:30:27"
+    },
+    {
+        "id": "P002879",
+        "source": [
+            "Thakurpukur",
+            "Behala",
+            "Tollygunge"
+        ],
+        "destination": "Hazra",
+        "count": 6,
+        "timestamp": "5:33:27"
+    }
+]

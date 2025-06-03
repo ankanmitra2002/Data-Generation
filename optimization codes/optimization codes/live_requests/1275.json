@@ -1,0 +1,134 @@
+[
+    {
+        "id": "P000519",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "21:18:55"
+    },
+    {
+        "id": "P000796",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 5,
+        "timestamp": "21:18:52"
+    },
+    {
+        "id": "P001418",
+        "source": [
+            "Barasat",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Phoolbagan",
+        "count": 2,
+        "timestamp": "21:18:00"
+    },
+    {
+        "id": "P001440",
+        "source": [
+            "Shyambazar",
+            "Esplanade",
+            "Park Circus"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 1,
+        "timestamp": "21:18:23"
+    },
+    {
+        "id": "P001681",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Sealdah",
+        "count": 10,
+        "timestamp": "21:18:08"
+    },
+    {
+        "id": "P001835",
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Ultadanga",
+        "count": 2,
+        "timestamp": "21:17:14"
+    },
+    {
+        "id": "P001855",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake Sector V",
+        "count": 9,
+        "timestamp": "21:17:26"
+    },
+    {
+        "id": "P001919",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Karunamoyee",
+        "count": 10,
+        "timestamp": "21:18:13"
+    },
+    {
+        "id": "P001948",
+        "source": [
+            "Gariahat",
+            "Ballygunge",
+            "Park Circus"
+        ],
+        "destination": "Airport Gate No. 1",
+        "count": 1,
+        "timestamp": "21:19:12"
+    },
+    {
+        "id": "P002375",
+        "source": [
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "21:18:56"
+    },
+    {
+        "id": "P002560",
+        "source": [
+            "Ripon Street",
+            "SN Banerjee",
+            "Lalbazar"
+        ],
+        "destination": "Howrah Station",
+        "count": 9,
+        "timestamp": "21:18:04"
+    },
+    {
+        "id": "P002718",
+        "source": [
+            "Barasat",
+            "Dumdum",
+            "VIP Road"
+        ],
+        "destination": "Garia",
+        "count": 4,
+        "timestamp": "21:17:24"
+    }
+]

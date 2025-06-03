@@ -1,0 +1,79 @@
+[
+    {
+        "id": "P000030",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 10,
+        "timestamp": "12:44:31"
+    },
+    {
+        "id": "P000328",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "Sector V"
+        ],
+        "destination": "New Town",
+        "count": 2,
+        "timestamp": "12:42:28"
+    },
+    {
+        "id": "P000453",
+        "source": [
+            "Ultadanga",
+            "Phoolbagan",
+            "Park Circus"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "12:44:43"
+    },
+    {
+        "id": "P001210",
+        "source": [
+            "Dumdum",
+            "Airport Gate No. 1",
+            "VIP Road"
+        ],
+        "destination": "Eco Park",
+        "count": 2,
+        "timestamp": "12:40:15"
+    },
+    {
+        "id": "P001972",
+        "source": [
+            "Sakherbazar",
+            "New Alipore",
+            "Alipore"
+        ],
+        "destination": "Minto Park",
+        "count": 6,
+        "timestamp": "12:41:22"
+    },
+    {
+        "id": "P002385",
+        "source": [
+            "New Town",
+            "Eco Park",
+            "Eco Space"
+        ],
+        "destination": "Unitech",
+        "count": 4,
+        "timestamp": "12:42:12"
+    },
+    {
+        "id": "P002747",
+        "source": [
+            "Minto Park",
+            "Esplanade",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 4,
+        "timestamp": "12:43:37"
+    }
+]

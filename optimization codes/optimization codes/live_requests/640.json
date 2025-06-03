@@ -1,0 +1,90 @@
+[
+    {
+        "id": "P000588",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 5,
+        "timestamp": "10:43:19"
+    },
+    {
+        "id": "P000631",
+        "source": [
+            "Sealdah",
+            "Phoolbagan",
+            "Ultadanga"
+        ],
+        "destination": "Dumdum",
+        "count": 3,
+        "timestamp": "10:43:13"
+    },
+    {
+        "id": "P000660",
+        "source": [
+            "Esplanade",
+            "Kalighat",
+            "Jadavpur"
+        ],
+        "destination": "Narendrapur",
+        "count": 7,
+        "timestamp": "10:41:32"
+    },
+    {
+        "id": "P000935",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 1,
+        "timestamp": "10:42:29"
+    },
+    {
+        "id": "P001304",
+        "source": [
+            "Rashbehari",
+            "Gariahat",
+            "Ballygunge"
+        ],
+        "destination": "Sealdah",
+        "count": 4,
+        "timestamp": "10:42:24"
+    },
+    {
+        "id": "P001543",
+        "source": [
+            "Ballygunge",
+            "Sealdah",
+            "MG Road"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
+        "timestamp": "10:42:02"
+    },
+    {
+        "id": "P001725",
+        "source": [
+            "Behala",
+            "Tollygunge",
+            "Hazra"
+        ],
+        "destination": "Howrah Station",
+        "count": 10,
+        "timestamp": "10:43:56"
+    },
+    {
+        "id": "P001809",
+        "source": [
+            "Salt Lake",
+            "Ultadanga",
+            "Phoolbagan"
+        ],
+        "destination": "Park Circus",
+        "count": 1,
+        "timestamp": "10:42:22"
+    }
+]

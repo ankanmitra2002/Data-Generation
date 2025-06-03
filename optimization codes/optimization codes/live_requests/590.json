@@ -1,0 +1,68 @@
+[
+    {
+        "id": "P000007",
+        "source": [
+            "Howrah Station",
+            "Lalbazar",
+            "Minto Park"
+        ],
+        "destination": "Garia",
+        "count": 5,
+        "timestamp": "9:50:58"
+    },
+    {
+        "id": "P000095",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 2,
+        "timestamp": "9:53:30"
+    },
+    {
+        "id": "P001235",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
+        ],
+        "destination": "Rajarhat",
+        "count": 2,
+        "timestamp": "9:50:05"
+    },
+    {
+        "id": "P001445",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 7,
+        "timestamp": "9:50:34"
+    },
+    {
+        "id": "P001969",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 10,
+        "timestamp": "9:52:37"
+    },
+    {
+        "id": "P002471",
+        "source": [
+            "Eco Space",
+            "Aliah University",
+            "Daber More"
+        ],
+        "destination": "City",
+        "count": 3,
+        "timestamp": "9:51:19"
+    }
+]

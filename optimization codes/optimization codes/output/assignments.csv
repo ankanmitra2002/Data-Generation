@@ -1,1548 +1,1113 @@
 passenger_id,route,bus,start_time,end_time,count,stops
-P000162,r7,bus045,15,20,10,Salt Lake -> Karunamoyee
-P000523,r7,bus045,15,20,8,Salt Lake -> Karunamoyee
-P000261,r38,bus027,5,25,10,Minto Park -> Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P001413,r0,bus029,10,25,10,Unitech -> Eco Space -> Aliah University -> Daber More
-P000074,r3,bus207,10,15,9,Kalighat -> Minto Park
-P000712,r5,bus060,5,20,9,Behala -> Tollygunge -> Hazra -> Esplanade
-P002453,r7,bus045,5,20,9,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P002352,r1,bus009,10,50,9,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P001425,r3,bus207,5,20,5,Hazra -> Kalighat -> Minto Park -> Esplanade
-P001786,r23,bus016,5,15,5,Dumdum -> VIP Road -> Ultadanga
-P001415,r12,bus094,5,25,7,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P002199,r46,bus025,10,25,7,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000355,r12,bus094,10,25,5,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001916,r16,bus007,5,20,3,Shibpur -> Alipore -> Tollygunge -> Garia
-P001384,r40,bus080,10,20,1,Kalighat -> Jadavpur -> Garia
-P001834,r17,bus031,10,25,2,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002446,r8,bus015,10,25,2,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P001343,r3,bus207,10,25,10,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P000356,r24,bus003,15,20,10,Sealdah -> Park Circus
-P000017,r3,bus207,15,25,8,Minto Park -> Esplanade -> Ultadanga
-P000666,r26,bus026,10,15,9,Salt Lake -> New Town
-P002378,r1,bus009,10,30,10,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop
-P000467,r3,bus207,25,30,5,Ultadanga -> Salt Lake
-P001653,r6,bus228,5,10,4,Bosepukur -> Gariahat
-P002815,r52,bus049,10,20,9,Maidan -> Rabindra Sadan -> Bhowanipore
-P001515,r11,bus217,15,25,8,Esplanade -> Maidan -> Rabindra Sadan
-P002373,r3,bus207,25,30,2,Ultadanga -> Salt Lake
-P000374,r39,bus024,10,20,6,SN Banerjee -> Esplanade -> Park Street
-P001721,r52,bus049,10,25,7,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P000484,r51,bus100,10,20,4,Esplanade -> Rashbehari -> Gariahat
-P001437,r2,bus050,10,15,1,Park Circus -> Ruby
-P001726,r22,bus176,10,25,1,Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P001214,r7,bus045,15,20,9,Salt Lake -> Karunamoyee
-P001651,r7,bus054,15,20,9,Salt Lake -> Karunamoyee
-P002222,r2,bus050,10,20,10,Park Circus -> Ruby -> Garia
-P001131,r6,bus228,25,30,7,Kalighat -> Esplanade
-P002080,r19,bus010,15,25,8,Park Circus -> Ruby -> Garia
-P001460,r21,bus011,15,20,4,Gariahat -> Ultadanga
-P000624,r11,bus217,15,25,6,Esplanade -> Maidan -> Rabindra Sadan
-P000887,r55,bus004,15,25,8,Bosepukur -> Gariahat -> Ruby
-P000650,r29,bus040,15,25,5,Salt Lake -> New Town -> Eco Park
-P000830,r14,bus297,15,25,5,Ballygunge -> Park Circus -> Sealdah
-P001535,r12,bus094,15,25,6,Ultadanga -> Phoolbagan -> Sealdah
-P002593,r57,bus042,15,20,4,Eco Park -> Chinar Park
-P000754,r28,bus141,10,20,3,Phoolbagan -> Ultadanga -> Dumdum
-P000373,r57,bus042,15,25,1,Eco Park -> Chinar Park -> Airport
-P000226,r6,bus228,25,30,10,Kalighat -> Esplanade
-P002053,r39,bus024,20,25,10,Park Street -> Rabindra Sadan
-P001983,r16,bus007,15,20,10,Tollygunge -> Garia
-P000521,r5,bus060,20,25,4,Esplanade -> Howrah Station
-P002152,r57,bus042,15,25,1,Eco Park -> Chinar Park -> Airport
-P000936,r1,bus009,15,45,1,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah
-P002234,r6,bus228,25,30,9,Kalighat -> Esplanade
-P000924,r26,bus026,95,100,10,Ultadanga -> Salt Lake
-P002067,r33,bus033,95,110,8,Gariahat -> Phoolbagan -> Ultadanga -> Dumdum
-P000663,r4,bus102,95,100,3,Jadavpur -> Kalighat
-P002759,r32,bus001,90,105,4,Gariahat -> Ballygunge -> Park Circus -> VIP Road
-P001590,r32,bus001,90,110,5,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000800,r46,bus025,100,110,9,Garia -> Kamalgazi -> Narendrapur
-P001669,r32,bus001,95,110,9,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001848,r36,bus020,100,115,7,Behala -> Tollygunge -> Kalighat -> Esplanade
-P001301,r4,bus102,100,105,1,Kalighat -> Esplanade
-P001372,r20,bus051,90,105,3,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town
-P000542,r50,bus114,100,120,3,Dumdum -> Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P002440,r37,bus019,100,115,10,Park Circus -> MG Road -> Shyambazar -> Baranagar
-P001761,r57,bus042,100,120,10,Ultadanga -> Salt Lake -> New Town -> Eco Park -> Chinar Park
-P001424,r11,bus217,100,125,9,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P002009,r30,bus021,100,120,8,Ruby -> Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P002551,r28,bus141,95,110,8,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P001144,r15,bus083,95,110,5,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P000603,r16,bus007,95,110,1,Shibpur -> Alipore -> Tollygunge -> Garia
-P001769,r6,bus228,110,115,10,Kasba -> Bosepukur
-P000578,r38,bus027,100,105,8,Alipore -> Minto Park
-P000955,r26,bus026,90,105,9,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P001207,r15,bus083,90,110,10,Bagbazar -> Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P000268,r6,bus228,110,115,1,Kasba -> Bosepukur
-P000360,r46,bus025,105,125,8,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000477,r15,bus083,95,110,4,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P002610,r45,bus006,105,120,1,Behala -> Sakherbazar -> New Alipore -> Alipore
-P001336,r3,bus207,115,130,10,Hazra -> Kalighat -> Minto Park -> Esplanade
-P000352,r57,bus042,110,125,9,New Town -> Eco Park -> Chinar Park -> Airport
-P001092,r44,bus055,110,125,9,Eco Park -> Eco Space -> Unitech -> Salt Lake
-P001429,r12,bus094,110,125,7,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001662,r12,bus094,115,125,7,Ultadanga -> Phoolbagan -> Sealdah
-P000284,r17,bus031,110,125,7,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001161,r3,bus207,115,135,1,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001954,r26,bus026,95,110,5,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P000787,r53,bus030,110,125,6,Gariahat -> Golpark -> Bosepukur -> Kasba
-P001941,r6,bus228,110,140,6,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
-P001451,r8,bus015,100,125,5,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P001537,r5,bus060,105,125,1,Behala -> Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P002596,r11,bus217,115,125,10,Esplanade -> Maidan -> Rabindra Sadan
-P001054,r20,bus051,95,105,4,Airport Gate No. 1 -> VIP Road -> New Town
-P001181,r27,bus095,100,105,10,Ultadanga -> Salt Lake
-P000072,r14,bus297,100,115,7,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge
-P001177,r4,bus102,100,110,8,Kalighat -> Esplanade -> Howrah Station
-P000888,r3,bus207,120,130,3,Kalighat -> Minto Park -> Esplanade
-P001604,r28,bus141,100,105,2,Phoolbagan -> Ultadanga
-P001925,r4,bus102,105,110,3,Esplanade -> Howrah Station
-P000123,r40,bus080,110,120,1,Kalighat -> Jadavpur -> Garia
-P000855,r6,bus228,115,130,1,Bosepukur -> Gariahat -> Golpark -> Hazra
-P001062,r37,bus019,105,125,3,MG Road -> Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P002835,r20,bus051,105,110,10,New Town -> Eco Park
-P000204,r30,bus021,110,125,10,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P000574,r47,bus002,105,115,7,Karunamoyee -> Ultadanga -> Kankurgachi
-P001192,r30,bus021,105,125,8,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P000973,r7,bus045,100,105,1,Beleghata -> Salt Lake
-P000979,r10,bus068,105,125,5,Belgachia -> Shyambazar -> Esplanade -> Tollygunge -> Joka
-P002266,r40,bus080,105,115,1,Esplanade -> Kalighat -> Jadavpur
-P001462,r17,bus031,110,125,2,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001075,r15,bus083,105,110,10,Park Circus -> Ruby Hospital
-P000014,r54,bus084,110,125,10,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001664,r42,bus048,115,135,6,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P001841,r2,bus050,110,120,9,Park Circus -> Ruby -> Garia
-P000437,r52,bus049,110,120,8,Maidan -> Rabindra Sadan -> Bhowanipore
-P001330,r0,bus029,130,150,9,Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park
-P000630,r29,bus040,110,120,2,Ultadanga -> Salt Lake -> New Town
-P000250,r38,bus027,110,125,6,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P002262,r40,bus080,110,120,4,Kalighat -> Jadavpur -> Garia
-P002796,r8,bus015,110,120,1,Salt Lake -> Ultadanga -> Esplanade
-P002219,r3,bus207,115,120,8,Hazra -> Kalighat
-P002103,r3,bus207,120,135,7,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001036,r0,bus029,140,155,9,Aliah University -> Daber More -> ECO Park -> City
-P002741,r3,bus207,120,130,2,Kalighat -> Minto Park -> Esplanade
-P001412,r37,bus019,120,125,10,Dunlop -> Titagarh
-P000340,r14,bus297,120,125,8,Park Circus -> Sealdah
-P002444,r3,bus207,120,135,7,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P002442,r2,bus050,120,125,2,Garia -> Sonarpur
-P001037,r5,bus060,120,125,2,Esplanade -> Howrah Station
-P001697,r3,bus207,120,140,1,Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P001291,r3,bus207,135,140,7,Ultadanga -> Salt Lake
-P002643,r3,bus207,130,140,3,Esplanade -> Ultadanga -> Salt Lake
-P001313,r19,bus010,120,125,6,Ruby -> Garia
-P000169,r42,bus048,120,140,3,Tollygunge -> Kalighat -> Hazra -> Minto Park -> Esplanade
-P002765,r12,bus094,120,125,2,Phoolbagan -> Sealdah
-P002240,r34,bus005,135,140,2,New Town -> Rajarhat
-P001195,r34,bus005,135,140,2,New Town -> Rajarhat
-P002402,r33,bus033,180,185,1,Kasba -> Gariahat
-P000875,r1,bus009,175,215,10,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh -> Barrackpore
-P001550,r28,bus141,180,200,8,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002463,r15,bus083,180,195,9,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
-P002413,r15,bus083,185,200,8,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P000514,r26,bus026,185,195,4,Ultadanga -> Salt Lake -> New Town
-P001528,r16,bus007,185,200,6,Shibpur -> Alipore -> Tollygunge -> Garia
-P000252,r32,bus001,180,200,3,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001504,r15,bus083,185,200,3,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P002580,r26,bus026,180,190,10,Esplanade -> Ultadanga -> Salt Lake
-P000028,r21,bus011,180,190,8,Tollygunge -> Kalighat -> Hazra
-P001491,r32,bus001,180,200,10,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000966,r28,bus141,190,195,2,Phoolbagan -> Ultadanga
-P002868,r15,bus083,180,195,3,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
-P000441,r4,bus102,190,195,8,Kalighat -> Esplanade
-P000058,r21,bus011,185,200,6,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000984,r4,bus102,190,195,5,Kalighat -> Esplanade
-P000897,r21,bus011,195,200,3,Gariahat -> Ultadanga
-P000114,r32,bus001,185,200,4,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000140,r4,bus102,190,195,5,Kalighat -> Esplanade
-P002205,r47,bus002,200,225,6,Salt Lake -> Karunamoyee -> Ultadanga -> Kankurgachi -> Sealdah -> Park Street
-P002630,r35,bus090,185,200,3,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P001202,r26,bus026,185,190,2,Ultadanga -> Salt Lake
-P000676,r39,bus024,205,220,1,MG Road -> SN Banerjee -> Esplanade -> Park Street
-P000497,r23,bus016,200,225,8,Barasat -> Dumdum -> VIP Road -> Ultadanga -> Ruby -> Garia
-P001938,r26,bus026,180,200,7,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001687,r45,bus006,200,220,4,Thakurpukur -> Behala -> Sakherbazar -> New Alipore -> Alipore
-P000107,r12,bus094,200,220,2,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P002193,r26,bus026,185,195,10,Ultadanga -> Salt Lake -> New Town
-P002228,r8,bus015,200,210,7,Rajarhat -> Newtown -> Salt Lake
-P001801,r11,bus217,205,225,8,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P002774,r55,bus004,210,225,9,Kasba -> Bosepukur -> Gariahat -> Ruby
-P000701,r2,bus050,210,220,8,Park Circus -> Ruby -> Garia
-P000983,r2,bus050,200,215,7,Howrah -> Sealdah -> Park Circus -> Ruby
-P000716,r23,bus016,200,225,7,Barasat -> Dumdum -> VIP Road -> Ultadanga -> Ruby -> Garia
-P000329,r2,bus050,210,220,3,Park Circus -> Ruby -> Garia
-P000719,r8,bus015,205,225,4,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P000913,r1,bus009,185,210,1,Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P001017,r20,bus051,190,195,10,VIP Road -> New Town
-P001399,r39,bus024,200,205,3,Shyambazar -> MG Road
-P000680,r12,bus094,205,220,5,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P000465,r57,bus042,205,220,6,Salt Lake -> New Town -> Eco Park -> Chinar Park
-P000201,r2,bus050,205,215,4,Sealdah -> Park Circus -> Ruby
-P001273,r2,bus050,210,220,5,Park Circus -> Ruby -> Garia
-P002733,r26,bus026,185,200,5,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P002191,r50,bus114,205,220,3,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P002705,r30,bus021,215,220,3,VIP Road -> Airport Gate No. 1
-P001910,r55,bus004,210,225,4,Kasba -> Bosepukur -> Gariahat -> Ruby
-P000155,r7,bus045,195,200,9,Salt Lake -> Karunamoyee
-P000635,r39,bus024,200,205,7,Shyambazar -> MG Road
-P001034,r46,bus025,205,225,9,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000685,r54,bus084,210,225,7,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001050,r12,bus094,200,215,2,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
-P001332,r29,bus040,210,220,1,Ultadanga -> Salt Lake -> New Town
-P001689,r16,bus007,195,200,5,Tollygunge -> Garia
-P002153,r52,bus049,205,225,6,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P000781,r41,bus023,215,220,4,Salt Lake -> Sector V
-P001022,r4,bus102,195,200,4,Esplanade -> Howrah Station
-P000198,r14,bus297,200,225,2,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P000272,r36,bus020,220,225,10,Salt Lake -> Karunamoyee
-P001009,r8,bus015,210,215,9,Salt Lake -> Ultadanga
-P002303,r30,bus021,205,220,10,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P002599,r36,bus020,205,225,8,Tollygunge -> Kalighat -> Esplanade -> Salt Lake -> Karunamoyee
-P001913,r8,bus015,210,215,4,Salt Lake -> Ultadanga
-P002212,r2,bus050,205,210,7,Sealdah -> Park Circus
-P000951,r37,bus019,200,220,8,Park Circus -> MG Road -> Shyambazar -> Baranagar -> Dunlop
-P000491,r8,bus015,205,225,8,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P000554,r3,bus207,225,240,5,Hazra -> Kalighat -> Minto Park -> Esplanade
-P000576,r11,bus217,205,220,1,Dumdum -> Shyambazar -> Esplanade -> Maidan
-P001237,r8,bus015,200,220,6,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade
-P002598,r17,bus031,210,225,6,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P000135,r6,bus228,225,250,5,Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
-P002786,r54,bus084,210,225,5,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001596,r42,bus048,225,245,8,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P000043,r5,bus060,205,225,10,Behala -> Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P001452,r23,bus016,205,225,8,Dumdum -> VIP Road -> Ultadanga -> Ruby -> Garia
-P001097,r12,bus094,205,215,3,Airport Gate No. 1 -> VIP Road -> Ultadanga
-P000361,r12,bus094,210,225,6,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001620,r46,bus025,205,220,4,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
-P002258,r22,bus176,205,220,4,Jadavpur -> Ballygunge -> Sealdah -> MG Road
-P000424,r52,bus049,205,225,5,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P002754,r50,bus114,205,220,2,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P002839,r2,bus067,210,225,10,Park Circus -> Ruby -> Garia -> Sonarpur
-P001226,r2,bus067,210,220,10,Park Circus -> Ruby -> Garia
-P001130,r50,bus114,210,225,10,Bangur -> Ultadanga -> Bidhannagar -> Salt Lake
-P002753,r50,bus114,210,225,10,Bangur -> Ultadanga -> Bidhannagar -> Salt Lake
-P001439,r29,bus040,210,220,8,Ultadanga -> Salt Lake -> New Town
-P001557,r29,bus040,210,220,6,Ultadanga -> Salt Lake -> New Town
-P001486,r38,bus027,215,220,5,Ultadanga -> Karunamoyee
-P002250,r37,bus019,210,225,8,Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P001360,r11,bus217,215,225,5,Esplanade -> Maidan -> Rabindra Sadan
-P001220,r2,bus067,210,225,7,Park Circus -> Ruby -> Garia -> Sonarpur
-P002223,r54,bus084,205,220,6,Moulali -> Park Circus -> Ballygunge -> Rashbehari
-P002467,r30,bus021,215,220,6,VIP Road -> Airport Gate No. 1
-P001624,r12,bus094,210,225,5,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P002867,r52,bus049,205,220,4,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
-P000693,r18,bus135,205,225,5,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital -> Patuli
-P002369,r17,bus031,210,225,4,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002724,r18,bus135,210,220,2,Minto Park -> Gariahat -> Ruby Hospital
-P001656,r10,bus068,210,220,1,Shyambazar -> Esplanade -> Tollygunge
-P001379,r25,bus008,230,235,8,Salt Lake -> Karunamoyee
-P002450,r30,bus021,215,220,10,VIP Road -> Airport Gate No. 1
-P001800,r25,bus008,225,245,9,ECO Park -> Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
-P000990,r8,bus015,210,215,2,Salt Lake -> Ultadanga
-P001443,r56,bus014,210,225,8,Sinthee -> Shyambazar -> MG Road -> Park Street
-P002085,r3,bus207,230,240,4,Kalighat -> Minto Park -> Esplanade
-P000586,r29,bus040,210,225,1,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P002318,r56,bus014,215,225,4,Shyambazar -> MG Road -> Park Street
-P000304,r51,bus100,210,215,1,Esplanade -> Rashbehari
-P001245,r49,bus066,215,220,1,Phoolbagan -> Salt Lake
-P002517,r29,bus040,220,225,10,New Town -> Eco Park
-P000061,r2,bus050,215,225,10,Ruby -> Garia -> Sonarpur
-P001832,r25,bus008,220,230,1,New Town -> ECO Park -> Salt Lake
-P000737,r10,bus068,220,225,6,Tollygunge -> Joka
-P001216,r25,bus008,230,245,4,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
-P002722,r3,bus207,235,250,10,Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P000287,r11,bus217,220,225,10,Maidan -> Rabindra Sadan
-P000876,r34,bus005,240,245,1,Salt Lake -> New Town
-P001727,r58,bus018,220,225,5,Jadavpur -> Garia
-P001493,r0,bus029,250,270,2,Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park
-P000533,r25,bus008,245,250,10,Esplanade -> Howrah Station
-P000914,r0,bus029,245,260,6,New Town -> Unitech -> Eco Space -> Aliah University
-P002091,r25,bus008,235,250,2,Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P000808,r3,bus207,245,250,10,Ultadanga -> Salt Lake
-P000326,r16,bus007,270,285,10,Howrah Station -> Shibpur -> Alipore -> Tollygunge
-P001240,r3,bus207,245,250,1,Ultadanga -> Salt Lake
-P000209,r34,bus005,240,245,4,Salt Lake -> New Town
-P001899,r32,bus001,270,285,1,Gariahat -> Ballygunge -> Park Circus -> VIP Road
-P001218,r33,bus033,270,275,6,Kasba -> Gariahat
-P000419,r7,bus045,275,290,4,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P001908,r21,bus011,270,290,9,Tollygunge -> Kalighat -> Hazra -> Gariahat -> Ultadanga
-P001477,r6,bus228,245,250,6,Kalighat -> Esplanade
-P000821,r28,bus141,275,290,1,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P000241,r26,bus026,275,285,10,Ultadanga -> Salt Lake -> New Town
-P000536,r16,bus007,270,290,10,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
-P000423,r33,bus033,270,275,5,Kasba -> Gariahat
-P000447,r15,bus083,275,285,7,Shyambazar -> Esplanade -> Park Circus
-P000870,r26,bus026,270,280,5,Esplanade -> Ultadanga -> Salt Lake
-P002218,r4,bus102,285,290,7,Esplanade -> Howrah Station
-P001139,r32,bus001,270,290,4,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P002574,r4,bus102,285,290,4,Esplanade -> Howrah Station
-P001668,r4,bus102,280,285,4,Kalighat -> Esplanade
-P001058,r26,bus026,270,275,8,Esplanade -> Ultadanga
-P000840,r4,bus102,285,290,10,Esplanade -> Howrah Station
-P002148,r7,bus045,275,290,1,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P000516,r32,bus001,270,290,7,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000976,r28,bus141,280,290,9,Phoolbagan -> Ultadanga -> Dumdum
-P001489,r57,bus042,300,320,9,Ultadanga -> Salt Lake -> New Town -> Eco Park -> Chinar Park
-P000589,r24,bus003,275,285,8,Shyambazar -> Esplanade -> Sealdah
-P002333,r10,bus068,300,315,6,Dumdum -> Belgachia -> Shyambazar -> Esplanade
-P002200,r51,bus100,300,320,7,Howrah -> Lalbazar -> Esplanade -> Rashbehari -> Gariahat
-P000748,r28,bus141,280,290,7,Phoolbagan -> Ultadanga -> Dumdum
-P002177,r28,bus141,275,285,3,Sealdah -> Phoolbagan -> Ultadanga
-P002772,r4,bus102,280,285,4,Kalighat -> Esplanade
-P000125,r28,bus141,280,290,5,Phoolbagan -> Ultadanga -> Dumdum
-P000786,r12,bus094,300,320,1,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P002246,r16,bus007,280,290,9,Alipore -> Tollygunge -> Garia
-P000919,r52,bus049,300,315,8,Esplanade -> Park Street -> Maidan -> Rabindra Sadan
-P001250,r4,bus102,280,285,8,Kalighat -> Esplanade
-P002081,r26,bus026,275,280,2,Ultadanga -> Salt Lake
-P002133,r44,bus055,305,320,6,New Town -> Eco Park -> Eco Space -> Unitech
-P000358,r39,bus024,300,320,7,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P001107,r41,bus023,305,320,7,VIP Road -> Ultadanga -> Salt Lake -> Sector V
-P002164,r4,bus102,280,285,2,Kalighat -> Esplanade
-P002289,r28,bus141,275,290,4,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P000083,r4,bus118,285,290,10,Esplanade -> Howrah Station
-P000602,r38,bus027,300,305,6,Alipore -> Minto Park
-P002311,r29,bus040,310,320,8,Ultadanga -> Salt Lake -> New Town
-P000791,r4,bus118,285,290,9,Esplanade -> Howrah Station
-P000941,r18,bus135,305,315,8,Esplanade -> Minto Park -> Gariahat
-P001056,r35,bus090,285,290,8,New Town -> Eco Space
-P001394,r29,bus040,310,320,4,Ultadanga -> Salt Lake -> New Town
-P002813,r17,bus031,305,320,6,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah
-P000723,r41,bus023,300,320,9,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Salt Lake -> Sector V
-P001966,r5,bus060,310,320,8,Tollygunge -> Hazra -> Esplanade
-P002244,r38,bus027,315,320,2,Ultadanga -> Karunamoyee
-P002648,r53,bus030,300,325,1,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur -> Kasba
-P000111,r11,bus217,315,325,3,Esplanade -> Maidan -> Rabindra Sadan
-P000655,r10,bus068,310,325,1,Shyambazar -> Esplanade -> Tollygunge -> Joka
-P000403,r2,bus050,320,325,10,Garia -> Sonarpur
-P000127,r54,bus084,300,320,10,Sealdah -> Moulali -> Park Circus -> Ballygunge -> Rashbehari
-P000594,r9,bus017,300,310,7,Jadavpur -> Dhakuria -> Gariahat
-P000958,r30,bus021,300,320,10,Ruby -> Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P000335,r5,bus060,315,320,9,Hazra -> Esplanade
-P000847,r9,bus017,300,310,3,Jadavpur -> Dhakuria -> Gariahat
-P001221,r29,bus040,310,315,3,Ultadanga -> Salt Lake
-P000296,r2,bus050,310,320,8,Park Circus -> Ruby -> Garia
-P002295,r40,bus080,300,315,6,Howrah Station -> Esplanade -> Kalighat -> Jadavpur
-P001349,r10,bus068,300,320,7,Dumdum -> Belgachia -> Shyambazar -> Esplanade -> Tollygunge
-P000420,r9,bus017,305,325,7,Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P000289,r37,bus019,305,320,10,MG Road -> Shyambazar -> Baranagar -> Dunlop
-P001831,r9,bus017,310,325,9,Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P002712,r29,bus040,310,325,8,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P002810,r36,bus020,320,325,4,Salt Lake -> Karunamoyee
-P002269,r44,bus055,305,325,1,New Town -> Eco Park -> Eco Space -> Unitech -> Salt Lake
-P002686,r11,bus217,305,320,1,Dumdum -> Shyambazar -> Esplanade -> Maidan
-P002783,r49,bus066,300,320,4,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake
-P001982,r2,bus050,305,315,3,Sealdah -> Park Circus -> Ruby
-P000449,r18,bus135,305,315,2,Esplanade -> Minto Park -> Gariahat
-P001183,r8,bus015,300,325,1,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P002849,r29,bus040,320,325,7,New Town -> Eco Park
-P000592,r51,bus100,310,325,8,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P000203,r49,bus066,305,325,4,Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P001562,r17,bus031,305,325,2,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002018,r53,bus030,305,320,9,Dhakuria -> Gariahat -> Golpark -> Bosepukur
-P001616,r50,bus114,305,320,8,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P001208,r40,bus080,310,325,6,Kalighat -> Jadavpur -> Garia -> Narendrapur
-P002215,r2,bus050,310,325,5,Park Circus -> Ruby -> Garia -> Sonarpur
-P000089,r17,bus031,310,325,3,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P000857,r53,bus030,310,325,3,Gariahat -> Golpark -> Bosepukur -> Kasba
-P001608,r5,bus060,310,325,2,Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P001621,r17,bus031,310,325,2,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002690,r25,bus008,340,345,10,Salt Lake -> Karunamoyee
-P001607,r50,bus114,315,320,10,Ultadanga -> Bidhannagar
-P000834,r53,bus030,315,325,10,Golpark -> Bosepukur -> Kasba
-P000901,r43,bus079,315,320,7,Sealdah -> Park Circus
-P001073,r2,bus050,315,320,9,Ruby -> Garia
-P000898,r49,bus066,310,325,9,Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P001732,r25,bus008,330,340,5,New Town -> ECO Park -> Salt Lake
-P002237,r1,bus009,340,375,2,Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh -> Barrackpore
-P000382,r50,bus114,315,325,2,Ultadanga -> Bidhannagar -> Salt Lake
-P002622,r34,bus005,345,355,6,Esplanade -> Salt Lake -> New Town
-P000558,r34,bus005,345,355,2,Esplanade -> Salt Lake -> New Town
-P001892,r25,bus008,340,355,1,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
-P002696,r6,bus228,335,360,1,Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
-P002726,r34,bus005,345,355,2,Esplanade -> Salt Lake -> New Town
-P002083,r25,bus008,355,360,9,Esplanade -> Howrah Station
-P002296,r3,bus207,330,360,7,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P001586,r34,bus005,330,355,10,Tollygunge -> Hazra -> Kalighat -> Esplanade -> Salt Lake -> New Town
-P002879,r21,bus011,360,370,6,Tollygunge -> Kalighat -> Hazra
-P000232,r35,bus090,360,370,2,Esplanade -> Ultadanga -> Karunamoyee
-P002315,r32,bus001,360,380,1,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P002789,r26,bus026,360,375,9,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P002845,r26,bus026,360,375,9,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000705,r3,bus207,355,360,6,Ultadanga -> Salt Lake
-P002335,r4,bus102,365,380,9,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002817,r7,bus045,360,380,9,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P000869,r3,bus207,340,350,6,Kalighat -> Minto Park -> Esplanade
-P000378,r26,bus026,365,375,1,Ultadanga -> Salt Lake -> New Town
-P001496,r4,bus102,360,380,6,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P001111,r42,bus048,335,355,5,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P000443,r7,bus045,360,375,9,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
-P000728,r25,bus008,340,345,1,Salt Lake -> Karunamoyee
-P001057,r32,bus001,360,375,7,Gariahat -> Ballygunge -> Park Circus -> VIP Road
-P002542,r20,bus051,360,380,5,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P002093,r15,bus083,365,370,8,Shyambazar -> Esplanade
-P002711,r7,bus045,365,380,4,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P002380,r21,bus011,375,380,4,Gariahat -> Ultadanga
-P000778,r15,bus083,365,375,3,Shyambazar -> Esplanade -> Park Circus
-P001408,r35,bus090,360,370,10,Esplanade -> Ultadanga -> Karunamoyee
-P002257,r7,bus045,360,375,9,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
-P002513,r32,bus001,360,380,9,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001511,r3,bus207,355,360,2,Ultadanga -> Salt Lake
-P002134,r32,bus001,365,380,3,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000909,r26,bus026,365,370,8,Ultadanga -> Salt Lake
-P001223,r35,bus090,360,380,10,Esplanade -> Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P000866,r4,bus102,370,375,4,Kalighat -> Esplanade
-P000952,r4,bus102,370,375,4,Kalighat -> Esplanade
-P000088,r26,bus026,365,380,1,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P000172,r21,bus011,365,380,8,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000344,r32,bus001,360,380,9,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000807,r4,bus102,365,380,7,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002370,r15,bus083,360,375,5,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
-P001915,r1,bus009,365,375,7,Khardah -> Titagarh -> Barrackpore
-P000086,r28,bus141,370,380,9,Phoolbagan -> Ultadanga -> Dumdum
-P002268,r15,bus083,365,375,7,Shyambazar -> Esplanade -> Park Circus
-P001072,r24,bus003,370,375,7,Esplanade -> Sealdah
-P002654,r4,bus102,370,375,2,Kalighat -> Esplanade
-P000240,r53,bus030,400,420,8,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur
-P002170,r21,bus011,375,380,9,Gariahat -> Ultadanga
-P001712,r31,bus169,375,380,8,Salt Lake -> New Town
-P002220,r21,bus011,375,380,7,Gariahat -> Ultadanga
-P000397,r28,bus141,375,380,7,Ultadanga -> Dumdum
-P001783,r43,bus079,400,405,9,Baranagar -> Shyambazar
-P002698,r12,bus094,400,415,9,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
-P002611,r41,bus023,400,420,8,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Salt Lake -> Sector V
-P001008,r17,bus031,405,420,2,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah
-P001090,r19,bus010,400,425,1,Salt Lake -> Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P001099,r30,bus021,410,425,10,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P000398,r2,bus050,410,420,9,Park Circus -> Ruby -> Garia
-P001274,r52,bus049,405,420,6,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
-P002278,r19,bus010,405,425,6,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P001768,r39,bus024,405,425,2,MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
-P001781,r37,bus019,405,415,9,MG Road -> Shyambazar -> Baranagar
-P001473,r8,bus015,410,415,2,Salt Lake -> Ultadanga
-P002555,r37,bus019,410,425,8,Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P001229,r44,bus055,405,410,4,New Town -> Eco Park
-P000466,r2,bus050,405,415,2,Sealdah -> Park Circus -> Ruby
-P001882,r8,bus015,410,425,4,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P001147,r9,bus017,405,425,3,Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P002330,r17,bus031,410,425,2,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001730,r22,bus176,410,425,9,Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P001961,r46,bus025,410,425,9,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000758,r39,bus024,405,420,1,MG Road -> SN Banerjee -> Esplanade -> Park Street
-P001296,r37,bus019,405,425,8,MG Road -> Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P002441,r30,bus021,405,410,5,Gariahat -> Ultadanga
-P002742,r18,bus135,400,420,7,Howrah Station -> Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P001292,r43,bus079,400,420,2,Baranagar -> Shyambazar -> MG Road -> Sealdah -> Park Circus
-P001903,r5,bus060,410,420,1,Tollygunge -> Hazra -> Esplanade
-P000503,r54,bus084,400,420,3,Sealdah -> Moulali -> Park Circus -> Ballygunge -> Rashbehari
-P000346,r37,bus019,420,425,3,Dunlop -> Titagarh
-P002017,r36,bus020,420,425,10,Salt Lake -> Karunamoyee
-P000880,r29,bus040,410,415,8,Ultadanga -> Salt Lake
-P001249,r29,bus040,410,415,8,Ultadanga -> Salt Lake
-P002062,r38,bus027,415,420,3,Ultadanga -> Karunamoyee
-P002367,r9,bus017,410,420,3,Gariahat -> Rashbehari -> Kalighat
-P001870,r57,bus042,405,425,7,Salt Lake -> New Town -> Eco Park -> Chinar Park -> Airport
-P002299,r40,bus080,400,410,1,Howrah Station -> Esplanade -> Kalighat
-P000633,r49,bus066,400,420,3,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake
-P001642,r55,bus004,405,425,6,Jadavpur -> Kasba -> Bosepukur -> Gariahat -> Ruby
-P002836,r56,bus014,400,425,5,BT Road -> Baranagar -> Sinthee -> Shyambazar -> MG Road -> Park Street
-P001198,r46,bus025,405,420,3,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
-P001544,r17,bus031,405,425,10,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001011,r36,bus020,420,425,3,Salt Lake -> Karunamoyee
-P001684,r2,bus050,405,415,8,Sealdah -> Park Circus -> Ruby
-P000867,r44,bus055,405,415,7,New Town -> Eco Park -> Eco Space
-P002393,r18,bus135,405,415,7,Esplanade -> Minto Park -> Gariahat
-P000582,r40,bus080,410,420,5,Kalighat -> Jadavpur -> Garia
-P001215,r30,bus021,415,420,5,VIP Road -> Airport Gate No. 1
-P001584,r38,bus027,405,415,2,Minto Park -> Esplanade -> Ultadanga
-P001709,r19,bus010,405,425,5,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P002008,r52,bus049,405,420,1,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
-P001222,r17,bus031,405,425,1,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002261,r52,bus049,410,425,1,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P000157,r29,bus040,410,425,10,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P001617,r45,bus006,410,420,8,Sakherbazar -> New Alipore -> Alipore
-P002706,r45,bus006,410,425,6,Sakherbazar -> New Alipore -> Alipore -> Minto Park
-P000002,r9,bus017,410,415,3,Gariahat -> Rashbehari
-P001851,r53,bus030,410,425,6,Gariahat -> Golpark -> Bosepukur -> Kasba
-P001160,r50,bus114,410,420,4,Bangur -> Ultadanga -> Bidhannagar
-P002046,r2,bus050,410,420,4,Park Circus -> Ruby -> Garia
-P000345,r10,bus068,410,425,2,Shyambazar -> Esplanade -> Tollygunge -> Joka
-P001578,r3,bus207,440,465,9,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P002709,r11,bus217,415,425,8,Esplanade -> Maidan -> Rabindra Sadan
-P000811,r29,bus040,415,425,5,Salt Lake -> New Town -> Eco Park
-P000736,r9,bus017,415,425,3,Rashbehari -> Kalighat -> Esplanade
-P002253,r5,bus060,420,425,3,Esplanade -> Howrah Station
-P001157,r49,bus066,420,425,6,Salt Lake -> Sector V
-P001005,r41,bus023,420,425,2,Sector V -> New Town
-P002586,r49,bus066,415,420,1,Phoolbagan -> Salt Lake
-P000890,r18,bus135,420,425,1,Ruby Hospital -> Patuli
-P000336,r51,bus100,420,425,5,Gariahat -> Ruby
-P001134,r7,bus045,450,470,2,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P002823,r3,bus207,455,470,10,Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P002667,r32,bus001,450,460,7,Gariahat -> Ballygunge -> Park Circus
-P001061,r3,bus207,445,460,7,Hazra -> Kalighat -> Minto Park -> Esplanade
-P000309,r28,bus141,450,470,2,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P001774,r4,bus102,455,470,9,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P001411,r25,bus008,450,470,9,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P000116,r3,bus207,450,465,1,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P002591,r3,bus207,440,465,4,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001964,r35,bus090,450,460,7,Esplanade -> Ultadanga -> Karunamoyee
-P000056,r3,bus221,450,470,10,Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P001344,r7,bus045,455,470,9,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P000205,r26,bus026,450,465,7,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P001337,r7,bus045,455,465,8,Shyambazar -> Beleghata -> Salt Lake
-P002490,r3,bus207,450,455,5,Kalighat -> Minto Park
-P000253,r7,bus045,450,470,5,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P001025,r16,bus007,450,465,1,Howrah Station -> Shibpur -> Alipore -> Tollygunge
-P001808,r3,bus207,450,465,2,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001113,r4,bus102,450,470,9,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P000425,r20,bus051,460,465,7,VIP Road -> New Town
-P000406,r3,bus221,455,470,3,Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P002604,r26,bus026,450,465,6,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000115,r3,bus207,450,455,1,Kalighat -> Minto Park
-P001776,r26,bus026,455,470,3,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001142,r15,bus083,455,465,10,Shyambazar -> Esplanade -> Park Circus
-P000087,r3,bus207,465,470,8,Ultadanga -> Salt Lake
-P000889,r21,bus011,455,470,2,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P002501,r25,bus008,455,470,2,Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P001744,r28,bus141,460,470,10,Phoolbagan -> Ultadanga -> Dumdum
-P001219,r32,bus001,460,470,9,Park Circus -> VIP Road -> Airport Gate No. 1
-P001682,r16,bus007,460,465,8,Alipore -> Tollygunge
-P000691,r15,bus083,460,465,5,Esplanade -> Park Circus
-P001365,r4,bus102,460,465,7,Kalighat -> Esplanade
-P001374,r15,bus083,460,465,7,Esplanade -> Park Circus
-P001293,r1,bus009,490,505,10,MG Road -> Shyambazar -> Sinthee More -> Baranagar
-P000351,r14,bus297,500,515,10,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge
-P002292,r57,bus042,500,505,4,Ultadanga -> Salt Lake
-P000178,r38,bus027,505,510,9,Minto Park -> Esplanade
-P000545,r22,bus176,500,515,9,Garia -> Jadavpur -> Ballygunge -> Sealdah
-P001771,r5,bus060,505,520,9,Behala -> Tollygunge -> Hazra -> Esplanade
-P002391,r2,bus050,500,525,5,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
-P001060,r57,bus042,505,520,2,Salt Lake -> New Town -> Eco Park -> Chinar Park
-P002629,r0,bus029,500,515,4,Aliah University -> Daber More -> ECO Park -> City
-P002259,r2,bus050,510,520,9,Park Circus -> Ruby -> Garia
-P001271,r5,bus060,500,515,4,Thakurpukur -> Behala -> Tollygunge -> Hazra
-P002006,r29,bus040,510,520,6,Ultadanga -> Salt Lake -> New Town
-P001468,r5,bus060,505,525,6,Behala -> Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P001028,r9,bus017,510,520,2,Gariahat -> Rashbehari -> Kalighat
-P000393,r17,bus031,505,520,1,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah
-P002744,r5,bus060,505,520,10,Behala -> Tollygunge -> Hazra -> Esplanade
-P001470,r44,bus055,505,525,5,New Town -> Eco Park -> Eco Space -> Unitech -> Salt Lake
-P000934,r18,bus135,500,525,8,Howrah Station -> Esplanade -> Minto Park -> Gariahat -> Ruby Hospital -> Patuli
-P001708,r5,bus060,510,520,6,Tollygunge -> Hazra -> Esplanade
-P000021,r2,bus050,510,520,7,Park Circus -> Ruby -> Garia
-P002538,r5,bus060,500,520,5,Thakurpukur -> Behala -> Tollygunge -> Hazra -> Esplanade
-P002556,r36,bus020,505,525,2,Tollygunge -> Kalighat -> Esplanade -> Salt Lake -> Karunamoyee
-P002214,r39,bus024,500,520,6,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P002371,r9,bus017,505,525,7,Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P000470,r52,bus049,505,525,6,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P002579,r40,bus080,505,525,6,Esplanade -> Kalighat -> Jadavpur -> Garia -> Narendrapur
-P002677,r17,bus031,505,525,4,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002045,r11,bus217,515,525,10,Esplanade -> Maidan -> Rabindra Sadan
-P001355,r9,bus017,500,525,9,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P002406,r18,bus135,505,520,4,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P000783,r18,bus135,505,520,3,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P000831,r46,bus025,500,520,10,Garia -> Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
-P002171,r29,bus040,510,520,9,Ultadanga -> Salt Lake -> New Town
-P002536,r29,bus040,505,510,9,Phoolbagan -> Ultadanga
-P002561,r43,bus079,500,510,6,Baranagar -> Shyambazar -> MG Road
-P001150,r30,bus021,505,510,2,Gariahat -> Ultadanga
-P001174,r5,bus119,520,525,5,Esplanade -> Howrah Station
-P002054,r45,bus006,505,520,1,Behala -> Sakherbazar -> New Alipore -> Alipore
-P002271,r9,bus017,505,525,10,Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P000946,r12,bus094,515,520,1,Ultadanga -> Phoolbagan
-P001722,r57,bus042,510,525,3,New Town -> Eco Park -> Chinar Park -> Airport
-P000540,r29,bus040,510,515,5,Ultadanga -> Salt Lake
-P002287,r36,bus020,510,525,3,Kalighat -> Esplanade -> Salt Lake -> Karunamoyee
-P000767,r29,bus040,510,525,4,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P001427,r51,bus100,520,525,7,Gariahat -> Ruby
-P001843,r12,bus094,510,515,1,VIP Road -> Ultadanga
-P000918,r38,bus027,510,525,6,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P001615,r12,bus094,510,525,4,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001816,r55,bus004,505,525,2,Jadavpur -> Kasba -> Bosepukur -> Gariahat -> Ruby
-P002752,r21,bus011,540,555,10,Tollygunge -> Kalighat -> Hazra -> Gariahat
-P001859,r21,bus011,540,560,9,Tollygunge -> Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000709,r2,bus050,515,520,8,Ruby -> Garia
-P002414,r58,bus018,515,520,7,Kalighat -> Jadavpur
-P001188,r23,bus016,515,525,8,Ultadanga -> Ruby -> Garia
-P001820,r24,bus003,540,555,6,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P002181,r14,bus297,515,525,5,Ballygunge -> Park Circus -> Sealdah
-P000243,r26,bus026,540,550,1,Esplanade -> Ultadanga -> Salt Lake
-P002382,r14,bus297,515,525,3,Ballygunge -> Park Circus -> Sealdah
-P002216,r20,bus051,540,560,4,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P001985,r17,bus031,520,525,4,Sealdah -> Park Street
-P002247,r45,bus006,520,525,9,Alipore -> Minto Park
-P001166,r4,bus102,540,560,9,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002226,r35,bus090,545,560,8,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P000353,r28,bus141,540,560,8,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002452,r15,bus083,545,555,6,Shyambazar -> Esplanade -> Park Circus
-P001416,r27,bus095,540,560,5,Garia -> Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P000376,r15,bus083,545,560,7,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P001510,r12,bus094,520,525,4,Phoolbagan -> Sealdah
-P001674,r32,bus001,540,560,4,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000428,r37,bus019,520,525,4,Dunlop -> Titagarh
-P002571,r26,bus026,540,555,10,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000049,r15,bus083,540,555,10,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
-P000314,r42,bus048,550,575,9,Behala -> Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P002730,r5,bus060,520,525,5,Esplanade -> Howrah Station
-P000279,r15,bus083,545,560,4,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P001306,r26,bus026,545,550,8,Ultadanga -> Salt Lake
-P001012,r24,bus003,540,555,9,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P001454,r35,bus090,545,560,8,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P000229,r4,bus102,555,560,7,Esplanade -> Howrah Station
-P001182,r4,bus102,550,555,5,Kalighat -> Esplanade
-P002615,r4,bus102,555,560,2,Esplanade -> Howrah Station
-P000896,r6,bus228,550,555,2,Kasba -> Bosepukur
-P002787,r26,bus026,540,555,4,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P002047,r26,bus026,540,555,3,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P001409,r25,bus008,560,580,4,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P002090,r28,bus141,550,560,3,Phoolbagan -> Ultadanga -> Dumdum
-P002816,r32,bus001,545,560,2,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001737,r26,bus026,545,550,10,Ultadanga -> Salt Lake
-P002482,r3,bus207,560,575,1,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001901,r26,bus026,545,560,4,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001846,r42,bus048,550,575,4,Behala -> Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P002338,r35,bus090,545,560,10,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P000717,r32,bus001,545,560,8,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P002525,r26,bus035,545,555,5,Ultadanga -> Salt Lake -> New Town
-P000396,r25,bus008,550,555,9,New Town -> ECO Park
-P000965,r35,bus090,555,560,9,New Town -> Eco Space
-P002156,r25,bus008,560,570,4,Salt Lake -> Karunamoyee -> Ultadanga
-P000780,r7,bus045,550,560,8,Beleghata -> Salt Lake -> Karunamoyee
-P000953,r25,bus008,550,560,5,New Town -> ECO Park -> Salt Lake
-P001105,r3,bus207,550,580,7,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P000535,r20,bus051,550,555,2,VIP Road -> New Town
-P002185,r20,bus051,550,555,3,VIP Road -> New Town
-P000139,r32,bus001,550,560,1,Park Circus -> VIP Road -> Airport Gate No. 1
-P001450,r4,bus102,555,560,7,Esplanade -> Howrah Station
-P000158,r20,bus051,555,560,3,New Town -> Eco Park
-P000310,r16,bus007,555,560,5,Tollygunge -> Garia
-P000339,r3,bus207,560,575,9,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001957,r42,bus048,560,570,1,Tollygunge -> Kalighat -> Hazra
-P000128,r6,bus228,575,580,8,Kalighat -> Esplanade
-P002875,r25,bus008,565,580,5,Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P000020,r25,bus008,570,580,2,Ultadanga -> Esplanade -> Howrah Station
-P001167,r3,bus207,575,580,8,Ultadanga -> Salt Lake
-P000978,r3,bus207,575,580,6,Ultadanga -> Salt Lake
-P001244,r49,bus066,600,620,10,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake
-P002656,r9,bus017,600,615,9,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari
-P001385,r3,bus207,575,580,4,Ultadanga -> Salt Lake
-P002189,r5,bus060,600,620,4,Thakurpukur -> Behala -> Tollygunge -> Hazra -> Esplanade
-P001401,r22,bus176,605,625,10,Jadavpur -> Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P000886,r57,bus042,605,625,10,Salt Lake -> New Town -> Eco Park -> Chinar Park -> Airport
-P002581,r6,bus228,575,580,4,Kalighat -> Esplanade
-P002734,r2,bus050,605,610,4,Sealdah -> Park Circus
-P000318,r19,bus010,605,625,1,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P000894,r14,bus297,600,620,9,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P002729,r49,bus066,610,625,10,Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P002043,r10,bus068,610,615,5,Shyambazar -> Esplanade
-P002671,r11,bus217,605,620,5,Dumdum -> Shyambazar -> Esplanade -> Maidan
-P000101,r23,bus016,605,615,6,Dumdum -> VIP Road -> Ultadanga
-P002557,r29,bus040,605,625,3,Phoolbagan -> Ultadanga -> Salt Lake -> New Town -> Eco Park
-P002846,r30,bus021,600,620,5,Ruby -> Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P000046,r49,bus066,600,615,1,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan
-P001824,r22,bus176,605,625,2,Jadavpur -> Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P000213,r30,bus021,600,625,1,Ruby -> Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P000255,r40,bus080,610,625,10,Kalighat -> Jadavpur -> Garia -> Narendrapur
-P002770,r29,bus040,600,610,8,Sealdah -> Phoolbagan -> Ultadanga
-P000068,r5,bus060,610,620,7,Tollygunge -> Hazra -> Esplanade
-P001765,r23,bus016,600,620,5,Barasat -> Dumdum -> VIP Road -> Ultadanga -> Ruby
-P000628,r40,bus080,610,620,2,Kalighat -> Jadavpur -> Garia
-P001969,r41,bus023,615,620,10,Salt Lake -> Sector V
-P000095,r29,bus040,610,615,2,Ultadanga -> Salt Lake
-P001445,r43,bus079,605,620,7,Shyambazar -> MG Road -> Sealdah -> Park Circus
-P000007,r40,bus080,600,620,5,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
-P002471,r0,bus029,615,635,3,Eco Space -> Aliah University -> Daber More -> ECO Park -> City
-P000456,r11,bus217,605,625,10,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P002052,r29,bus040,610,615,8,Ultadanga -> Salt Lake
-P000480,r18,bus135,610,625,9,Minto Park -> Gariahat -> Ruby Hospital -> Patuli
-P002211,r8,bus015,610,620,8,Salt Lake -> Ultadanga -> Esplanade
-P000626,r30,bus021,605,615,3,Gariahat -> Ultadanga -> VIP Road
-P000502,r5,bus060,610,620,1,Tollygunge -> Hazra -> Esplanade
-P002340,r51,bus100,610,625,5,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P001225,r52,bus049,610,625,3,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P002225,r22,bus176,610,625,3,Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P002725,r30,bus021,610,625,9,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P001324,r30,bus021,605,610,6,Gariahat -> Ultadanga
-P000937,r30,bus021,610,625,8,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P001678,r9,bus017,610,620,4,Gariahat -> Rashbehari -> Kalighat
-P002415,r11,bus217,610,625,4,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P001186,r46,bus025,605,625,6,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000141,r45,bus006,600,625,4,Thakurpukur -> Behala -> Sakherbazar -> New Alipore -> Alipore -> Minto Park
-P002749,r57,bus042,605,625,4,Salt Lake -> New Town -> Eco Park -> Chinar Park -> Airport
-P000206,r35,bus090,630,650,1,Esplanade -> Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P001447,r8,bus015,605,625,1,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P001665,r26,bus026,630,635,3,Esplanade -> Ultadanga
-P002146,r7,bus045,630,650,9,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P002424,r56,bus014,610,625,9,Sinthee -> Shyambazar -> MG Road -> Park Street
-P001095,r52,bus049,610,625,9,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P001821,r5,bus060,605,615,1,Behala -> Tollygunge -> Hazra
-P002761,r53,bus030,610,625,6,Gariahat -> Golpark -> Bosepukur -> Kasba
-P001897,r14,bus297,610,625,2,Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P002155,r41,bus023,615,620,4,Salt Lake -> Sector V
-P000629,r10,bus068,610,620,1,Shyambazar -> Esplanade -> Tollygunge
-P002136,r57,bus042,610,620,1,New Town -> Eco Park -> Chinar Park
-P000161,r16,bus007,635,650,10,Shibpur -> Alipore -> Tollygunge -> Garia
-P002837,r4,bus102,635,650,9,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002458,r26,bus026,635,640,2,Ultadanga -> Salt Lake
-P000943,r14,bus297,615,620,6,Ballygunge -> Park Circus
-P002297,r15,bus083,635,640,5,Shyambazar -> Esplanade
-P002469,r29,bus040,610,625,5,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P000265,r2,bus050,615,625,6,Ruby -> Garia -> Sonarpur
-P001561,r20,bus051,630,645,6,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town
-P002172,r4,bus102,635,650,7,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002098,r8,bus015,615,625,6,Ultadanga -> Esplanade -> Howrah Station
-P000553,r28,bus141,640,650,4,Phoolbagan -> Ultadanga -> Dumdum
-P000665,r26,bus026,635,650,3,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001593,r40,bus080,615,620,2,Jadavpur -> Garia
-P000440,r4,bus102,640,645,8,Kalighat -> Esplanade
-P001495,r15,bus083,640,650,9,Esplanade -> Park Circus -> Ruby Hospital
-P001817,r7,bus045,645,650,5,Salt Lake -> Karunamoyee
-P000494,r37,bus019,620,625,8,Dunlop -> Titagarh
-P002248,r52,bus049,620,625,8,Bhowanipore -> Kalighat
-P001393,r2,bus050,620,625,5,Garia -> Sonarpur
-P002007,r39,bus024,620,625,5,Park Street -> Rabindra Sadan
-P000769,r21,bus011,630,645,1,Tollygunge -> Kalighat -> Hazra -> Gariahat
-P001044,r28,bus141,635,650,5,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002425,r26,bus026,630,650,5,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P002878,r4,bus102,645,650,4,Esplanade -> Howrah Station
-P001348,r4,bus102,645,650,10,Esplanade -> Howrah Station
-P002286,r32,bus001,630,645,8,Gariahat -> Ballygunge -> Park Circus -> VIP Road
-P000251,r32,bus001,630,640,3,Gariahat -> Ballygunge -> Park Circus
-P001187,r26,bus026,635,640,5,Ultadanga -> Salt Lake
-P000473,r32,bus001,630,650,8,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001112,r26,bus026,630,645,3,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000528,r15,bus083,630,645,5,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
-P000825,r1,bus009,655,680,6,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road
-P002800,r35,bus090,635,650,9,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P002704,r4,bus118,645,650,9,Esplanade -> Howrah Station
-P000964,r15,bus083,635,650,7,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P002158,r4,bus118,645,650,7,Esplanade -> Howrah Station
-P002321,r3,bus207,660,680,5,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
-P001506,r3,bus207,660,665,10,Tollygunge -> Hazra
-P002497,r28,bus141,640,645,10,Phoolbagan -> Ultadanga
-P000920,r28,bus141,640,650,9,Phoolbagan -> Ultadanga -> Dumdum
-P001950,r20,bus051,645,650,3,New Town -> Eco Park
-P001302,r24,bus003,640,645,5,Esplanade -> Sealdah
-P001847,r1,bus009,655,690,6,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P001184,r32,bus001,640,650,4,Park Circus -> VIP Road -> Airport Gate No. 1
-P001773,r3,bus207,665,690,4,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P000631,r28,bus141,645,650,3,Ultadanga -> Dumdum
-P002827,r25,bus008,675,690,4,Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P002763,r25,bus008,670,690,4,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P000411,r34,bus005,660,690,2,Tollygunge -> Hazra -> Kalighat -> Esplanade -> Salt Lake -> New Town -> Rajarhat
-P000743,r25,bus008,670,690,1,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P000600,r3,bus207,675,690,9,Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P000954,r25,bus008,670,675,8,Salt Lake -> Karunamoyee
-P001091,r25,bus008,670,690,4,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P001469,r34,bus005,675,685,7,Esplanade -> Salt Lake -> New Town
-P002564,r3,bus207,670,685,3,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P000792,r25,bus008,670,675,7,Salt Lake -> Karunamoyee
-P002275,r3,bus207,670,680,1,Kalighat -> Minto Park -> Esplanade
-P002594,r25,bus008,670,685,6,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
-P002602,r1,bus009,675,695,3,BT Road -> Tobin Road -> Khardah -> Titagarh -> Barrackpore
-P000564,r3,bus207,675,685,9,Minto Park -> Esplanade -> Ultadanga
-P001370,r30,bus021,700,715,8,Ruby -> Gariahat -> Ultadanga -> VIP Road
-P001093,r57,bus042,700,715,6,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P002702,r37,bus019,700,725,7,Park Circus -> MG Road -> Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P000430,r56,bus014,700,725,4,BT Road -> Baranagar -> Sinthee -> Shyambazar -> MG Road -> Park Street
-P000506,r52,bus049,700,720,1,Esplanade -> Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
-P002023,r34,bus005,680,690,1,Salt Lake -> New Town -> Rajarhat
-P002683,r9,bus017,700,710,10,Jadavpur -> Dhakuria -> Gariahat
-P000235,r37,bus019,705,720,10,MG Road -> Shyambazar -> Baranagar -> Dunlop
-P001777,r46,bus025,700,710,9,Garia -> Kamalgazi -> Narendrapur
-P002828,r44,bus055,705,710,9,New Town -> Eco Park
-P000016,r3,bus207,685,690,5,Ultadanga -> Salt Lake
-P002309,r6,bus228,685,690,7,Kalighat -> Esplanade
-P000286,r29,bus040,700,720,6,Sealdah -> Phoolbagan -> Ultadanga -> Salt Lake -> New Town
-P001361,r41,bus023,700,725,6,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Salt Lake -> Sector V -> New Town
-P000738,r49,bus066,700,725,8,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P001068,r41,bus023,700,725,6,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Salt Lake -> Sector V -> New Town
-P001881,r49,bus066,705,725,8,Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P002804,r57,bus042,700,710,3,Ultadanga -> Salt Lake -> New Town
-P001049,r8,bus015,705,725,7,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P002119,r22,bus176,705,725,6,Jadavpur -> Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P000828,r39,bus024,700,725,2,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
-P001885,r19,bus010,705,725,2,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P001352,r47,bus002,700,705,6,Salt Lake -> Karunamoyee
-P001522,r8,bus015,710,715,6,Salt Lake -> Ultadanga
-P002631,r8,bus015,705,720,9,Newtown -> Salt Lake -> Ultadanga -> Esplanade
-P000407,r3,bus207,685,690,2,Ultadanga -> Salt Lake
-P002195,r40,bus080,700,710,3,Howrah Station -> Esplanade -> Kalighat
-P002410,r46,bus025,705,720,6,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
-P000257,r46,bus025,700,715,4,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
-P001137,r39,bus024,700,720,3,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P001485,r12,bus094,705,720,10,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P001814,r36,bus020,710,725,9,Kalighat -> Esplanade -> Salt Lake -> Karunamoyee
-P000170,r46,bus025,705,725,10,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000274,r12,bus094,700,715,6,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
-P000106,r36,bus020,715,725,4,Esplanade -> Salt Lake -> Karunamoyee
-P001483,r2,bus050,710,720,6,Park Circus -> Ruby -> Garia
-P000730,r18,bus135,705,720,5,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P000925,r11,bus217,705,725,3,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P001428,r17,bus031,705,725,6,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P000077,r45,bus006,705,725,5,Behala -> Sakherbazar -> New Alipore -> Alipore -> Minto Park
-P001351,r2,bus050,705,720,3,Sealdah -> Park Circus -> Ruby -> Garia
-P001051,r19,bus010,700,725,9,Salt Lake -> Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P002758,r27,bus095,720,735,3,Garia -> Ruby -> Ultadanga -> Salt Lake
-P000300,r8,bus015,710,715,2,Salt Lake -> Ultadanga
-P002386,r44,bus055,705,715,6,New Town -> Eco Park -> Eco Space
-P002238,r11,bus217,700,725,6,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P001754,r20,bus051,720,735,3,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town
-P001994,r27,bus095,720,725,6,Garia -> Ruby
-P002163,r50,bus114,700,720,9,Dumdum -> Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P002348,r33,bus033,725,740,9,Gariahat -> Phoolbagan -> Ultadanga -> Dumdum
-P000230,r21,bus011,720,725,4,Tollygunge -> Kalighat
-P001829,r53,bus030,700,725,7,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur -> Kasba
-P002235,r29,bus040,710,725,4,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P002360,r16,bus007,720,740,7,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
-P002377,r24,bus003,720,735,6,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P000214,r4,bus102,725,730,3,Jadavpur -> Kalighat
-P000391,r18,bus135,700,720,5,Howrah Station -> Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P002210,r19,bus010,705,720,5,Ultadanga -> Phoolbagan -> Park Circus -> Ruby
-P001487,r39,bus024,700,720,4,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P001431,r26,bus026,725,740,1,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001780,r57,bus042,710,725,1,New Town -> Eco Park -> Chinar Park -> Airport
-P001850,r11,bus217,715,725,10,Esplanade -> Maidan -> Rabindra Sadan
-P002099,r26,bus026,725,730,6,Ultadanga -> Salt Lake
-P000627,r27,bus095,725,740,1,Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P002861,r26,bus026,720,735,6,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P002685,r40,bus080,710,715,4,Kalighat -> Jadavpur
-P001555,r14,bus297,710,725,3,Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P001884,r26,bus026,725,740,5,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P000057,r40,bus080,710,720,4,Kalighat -> Jadavpur -> Garia
-P000015,r5,bus060,710,715,4,Tollygunge -> Hazra
-P001526,r18,bus135,710,725,7,Minto Park -> Gariahat -> Ruby Hospital -> Patuli
-P001736,r4,bus102,730,735,5,Kalighat -> Esplanade
-P001442,r7,bus045,735,740,1,Salt Lake -> Karunamoyee
-P001252,r21,bus011,720,740,6,Tollygunge -> Kalighat -> Hazra -> Gariahat -> Ultadanga
-P001299,r7,bus045,720,740,5,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P001605,r22,bus176,710,720,3,Ballygunge -> Sealdah -> MG Road
-P002126,r12,bus094,710,725,1,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P002592,r37,bus019,710,725,2,Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P002316,r40,bus080,710,725,1,Kalighat -> Jadavpur -> Garia -> Narendrapur
-P001266,r20,bus051,735,740,10,New Town -> Eco Park
-P000365,r21,bus011,725,740,8,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P001902,r4,bus102,735,740,10,Esplanade -> Howrah Station
-P000583,r26,bus026,720,735,8,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P001406,r26,bus026,725,730,4,Ultadanga -> Salt Lake
-P002049,r12,bus094,710,715,7,VIP Road -> Ultadanga
-P000362,r8,bus015,715,720,8,Ultadanga -> Esplanade
-P000513,r11,bus217,715,720,3,Esplanade -> Maidan
-P002419,r52,bus049,715,725,7,Rabindra Sadan -> Bhowanipore -> Kalighat
-P002841,r28,bus141,725,740,6,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002358,r57,bus042,710,725,4,New Town -> Eco Park -> Chinar Park -> Airport
-P001660,r7,bus045,720,740,10,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P002554,r17,bus031,720,725,10,Sealdah -> Park Street
-P000389,r20,bus051,725,740,6,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P001951,r4,bus102,725,735,7,Jadavpur -> Kalighat -> Esplanade
-P000325,r0,bus029,720,735,6,College More -> New Town -> Unitech -> Eco Space
-P000708,r37,bus019,720,725,5,Dunlop -> Titagarh
-P001007,r56,bus014,720,725,1,MG Road -> Park Street
-P001507,r12,bus094,715,725,1,Ultadanga -> Phoolbagan -> Sealdah
-P001856,r4,bus102,730,735,5,Kalighat -> Esplanade
-P000065,r26,bus026,725,735,2,Ultadanga -> Salt Lake -> New Town
-P000498,r26,bus026,725,740,6,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001053,r21,bus011,725,740,2,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000997,r15,bus083,725,740,1,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P001432,r27,bus095,730,735,9,Ultadanga -> Salt Lake
-P001837,r35,bus090,730,740,10,Karunamoyee -> New Town -> Eco Space
-P000822,r32,bus001,725,740,10,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P002627,r32,bus001,730,740,10,Park Circus -> VIP Road -> Airport Gate No. 1
-P002843,r21,bus011,730,735,9,Hazra -> Gariahat
-P002625,r27,bus095,730,735,3,Ultadanga -> Salt Lake
-P002342,r28,bus141,730,740,6,Phoolbagan -> Ultadanga -> Dumdum
-P000883,r4,bus102,730,740,3,Kalighat -> Esplanade -> Howrah Station
-P002110,r4,bus102,735,740,2,Esplanade -> Howrah Station
-P002073,r21,bus011,735,740,9,Gariahat -> Ultadanga
-P000273,r16,bus007,735,740,5,Tollygunge -> Garia
-P002356,r26,bus026,735,740,3,New Town -> Rajarhat
-P000874,r15,bus083,735,740,1,Park Circus -> Ruby Hospital
-P002460,r21,bus011,735,740,6,Gariahat -> Ultadanga
-P001148,r20,bus051,735,740,1,New Town -> Eco Park
-P002833,r3,bus207,770,790,4,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
-P000018,r3,bus207,770,790,7,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
-P000051,r25,bus008,780,785,7,Salt Lake -> Karunamoyee
-P001623,r3,bus207,770,790,9,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
-P001972,r42,bus048,775,795,6,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P002747,r3,bus207,785,800,4,Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P000328,r34,bus005,790,795,2,Salt Lake -> New Town
-P001204,r25,bus008,780,785,10,Salt Lake -> Karunamoyee
-P002666,r25,bus008,780,785,5,Salt Lake -> Karunamoyee
-P001224,r6,bus228,770,780,4,Kasba -> Bosepukur -> Gariahat
-P001643,r25,bus008,785,800,7,Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P000762,r25,bus008,795,800,4,Esplanade -> Howrah Station
-P002411,r3,bus207,780,790,8,Kalighat -> Minto Park -> Esplanade
-P002661,r3,bus207,780,790,2,Kalighat -> Minto Park -> Esplanade
-P001474,r25,bus008,780,795,1,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
-P001020,r58,bus018,805,825,9,Lalbazar -> Minto Park -> Kalighat -> Jadavpur -> Garia
-P000143,r3,bus207,785,795,4,Minto Park -> Esplanade -> Ultadanga
-P001376,r44,bus055,800,820,7,Rajarhat -> New Town -> Eco Park -> Eco Space -> Unitech
-P000805,r53,bus030,800,820,7,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur
-P002665,r1,bus009,805,855,9,SN Banerjee -> MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh -> Barrackpore
-P001479,r8,bus015,805,825,7,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P001518,r5,bus060,800,820,5,Thakurpukur -> Behala -> Tollygunge -> Hazra -> Esplanade
-P000412,r29,bus040,805,810,2,Phoolbagan -> Ultadanga
-P001276,r6,bus228,780,790,6,Gariahat -> Golpark -> Hazra
-P001155,r49,bus066,800,815,1,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan
-P002507,r39,bus024,800,820,2,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P000824,r39,bus024,800,820,1,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P000659,r5,bus060,810,815,10,Tollygunge -> Hazra
-P001536,r29,bus040,810,820,10,Ultadanga -> Salt Lake -> New Town
-P002108,r26,bus026,810,825,5,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P002141,r27,bus095,810,830,5,Garia -> Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P001789,r40,bus080,800,810,4,Howrah Station -> Esplanade -> Kalighat
-P002822,r1,bus009,810,830,5,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop
-P001173,r2,bus050,805,825,5,Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
-P002388,r38,bus027,800,805,9,Alipore -> Minto Park
-P002277,r11,bus217,815,825,10,Esplanade -> Maidan -> Rabindra Sadan
-P001026,r3,bus221,790,800,7,Esplanade -> Ultadanga -> Salt Lake
-P001396,r4,bus102,815,830,10,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P000755,r11,bus217,815,825,6,Esplanade -> Maidan -> Rabindra Sadan
-P001527,r54,bus084,805,825,8,Moulali -> Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001728,r8,bus015,800,820,7,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade
-P001525,r40,bus080,805,810,2,Esplanade -> Kalighat
-P002568,r38,bus027,805,825,7,Minto Park -> Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P002408,r18,bus135,805,815,1,Esplanade -> Minto Park -> Gariahat
-P000634,r26,bus026,815,830,3,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P000476,r26,bus026,810,830,1,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001016,r3,bus207,795,800,9,Ultadanga -> Salt Lake
-P001690,r5,bus060,810,825,10,Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P002213,r15,bus083,810,830,9,Bagbazar -> Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P000386,r20,bus051,815,825,6,Airport Gate No. 1 -> VIP Road -> New Town
-P000202,r28,bus141,810,830,8,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P001810,r40,bus080,810,825,2,Kalighat -> Jadavpur -> Garia -> Narendrapur
-P001940,r20,bus051,810,825,4,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town
-P002252,r10,bus068,805,825,5,Belgachia -> Shyambazar -> Esplanade -> Tollygunge -> Joka
-P002819,r41,bus023,815,820,3,Salt Lake -> Sector V
-P002559,r38,bus027,810,825,4,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P001121,r28,bus141,820,830,1,Phoolbagan -> Ultadanga -> Dumdum
-P001430,r10,bus068,805,825,1,Belgachia -> Shyambazar -> Esplanade -> Tollygunge -> Joka
-P000797,r16,bus007,815,830,10,Shibpur -> Alipore -> Tollygunge -> Garia
-P002130,r2,bus050,805,810,9,Sealdah -> Park Circus
-P001242,r12,bus094,815,825,9,Ultadanga -> Phoolbagan -> Sealdah
-P000193,r5,bus060,805,820,8,Behala -> Tollygunge -> Hazra -> Esplanade
-P002485,r14,bus297,800,820,5,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P000949,r4,bus102,820,825,4,Kalighat -> Esplanade
-P000001,r44,bus055,810,825,8,Eco Park -> Eco Space -> Unitech -> Salt Lake
-P000256,r15,bus083,815,830,6,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P000931,r46,bus025,800,825,4,Garia -> Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000982,r45,bus006,805,820,2,Behala -> Sakherbazar -> New Alipore -> Alipore
-P002603,r51,bus100,810,825,3,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P002483,r4,bus102,810,825,7,Garia -> Jadavpur -> Kalighat -> Esplanade
-P002059,r4,bus102,825,830,7,Esplanade -> Howrah Station
-P000566,r57,bus042,805,820,6,Salt Lake -> New Town -> Eco Park -> Chinar Park
-P000038,r19,bus010,805,825,6,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P000899,r16,bus007,815,830,3,Shibpur -> Alipore -> Tollygunge -> Garia
-P001677,r4,bus102,825,830,1,Esplanade -> Howrah Station
-P000221,r9,bus017,810,820,10,Gariahat -> Rashbehari -> Kalighat
-P002363,r26,bus026,810,820,6,Esplanade -> Ultadanga -> Salt Lake
-P000772,r5,bus060,810,815,3,Tollygunge -> Hazra
-P000794,r30,bus021,810,825,9,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P002115,r17,bus031,810,825,9,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001641,r44,bus055,810,820,4,Eco Park -> Eco Space -> Unitech
-P000636,r18,bus135,810,815,3,Minto Park -> Gariahat
-P002431,r35,bus090,825,830,3,New Town -> Eco Space
-P000942,r16,bus007,815,830,2,Shibpur -> Alipore -> Tollygunge -> Garia
-P000518,r29,bus040,815,825,7,Salt Lake -> New Town -> Eco Park
-P002623,r4,bus102,815,825,4,Jadavpur -> Kalighat -> Esplanade
-P000734,r20,bus051,815,830,4,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P001433,r41,bus023,815,820,4,Salt Lake -> Sector V
-P001758,r15,bus083,815,830,4,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P000085,r9,bus017,815,820,2,Rashbehari -> Kalighat
-P002498,r7,bus045,825,830,7,Salt Lake -> Karunamoyee
-P000657,r32,bus001,820,830,8,Park Circus -> VIP Road -> Airport Gate No. 1
-P001793,r56,bus014,820,825,8,MG Road -> Park Street
-P002251,r57,bus042,820,825,8,Chinar Park -> Airport
-P000392,r28,bus141,820,830,7,Phoolbagan -> Ultadanga -> Dumdum
-P000354,r19,bus010,820,825,6,Ruby -> Garia
-P002699,r2,bus050,815,820,1,Ruby -> Garia
-P001731,r7,bus045,825,830,7,Salt Lake -> Karunamoyee
-P001818,r4,bus118,825,830,10,Esplanade -> Howrah Station
-P002633,r21,bus011,820,825,9,Hazra -> Gariahat
-P002659,r26,bus026,825,830,2,New Town -> Rajarhat
-P002165,r18,bus135,820,825,3,Ruby Hospital -> Patuli
-P002470,r15,bus083,820,830,1,Esplanade -> Park Circus -> Ruby Hospital
-P000330,r0,bus029,845,865,2,New Town -> Unitech -> Eco Space -> Aliah University -> Daber More
-P002612,r25,bus008,880,895,6,New Town -> ECO Park -> Salt Lake -> Karunamoyee
-P000696,r3,bus207,880,910,1,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P002034,r25,bus008,890,910,8,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P001042,r6,bus228,880,890,1,Kasba -> Bosepukur -> Gariahat
-P002264,r25,bus008,880,890,1,New Town -> ECO Park -> Salt Lake
-P002620,r3,bus207,890,900,2,Kalighat -> Minto Park -> Esplanade
-P000410,r34,bus005,895,910,2,Esplanade -> Salt Lake -> New Town -> Rajarhat
-P000075,r44,bus055,900,920,8,Rajarhat -> New Town -> Eco Park -> Eco Space -> Unitech
-P002788,r20,bus051,900,915,5,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town
-P000047,r9,bus017,900,915,2,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari
-P002399,r6,bus228,890,905,3,Gariahat -> Golpark -> Hazra -> Kalighat
-P002422,r12,bus094,900,920,3,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P002552,r39,bus024,900,905,10,Shyambazar -> MG Road
-P000950,r27,bus095,900,920,9,Garia -> Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P001168,r8,bus015,900,910,9,Rajarhat -> Newtown -> Salt Lake
-P001949,r2,bus050,900,920,10,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia
-P001471,r26,bus026,900,915,8,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000338,r53,bus030,905,925,8,Dhakuria -> Gariahat -> Golpark -> Bosepukur -> Kasba
-P001857,r3,bus207,885,905,4,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001516,r2,bus050,900,925,6,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
-P001585,r53,bus030,905,920,4,Dhakuria -> Gariahat -> Golpark -> Bosepukur
-P002395,r30,bus021,905,925,4,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P002301,r55,bus004,905,925,1,Jadavpur -> Kasba -> Bosepukur -> Gariahat -> Ruby
-P000850,r14,bus297,905,920,9,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P002005,r28,bus141,900,920,10,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002793,r3,bus207,890,900,9,Kalighat -> Minto Park -> Esplanade
-P000902,r35,bus090,905,920,8,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P002396,r16,bus007,905,920,8,Shibpur -> Alipore -> Tollygunge -> Garia
-P001912,r14,bus297,905,920,3,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P001077,r44,bus055,900,920,1,Rajarhat -> New Town -> Eco Park -> Eco Space -> Unitech
-P000146,r49,bus066,910,925,5,Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P000731,r30,bus021,900,925,5,Ruby -> Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P000597,r26,bus026,900,920,3,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001238,r28,bus141,905,920,1,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P000380,r6,bus228,885,910,1,Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
-P000071,r40,bus080,910,925,9,Kalighat -> Jadavpur -> Garia -> Narendrapur
-P001206,r26,bus026,900,915,9,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000615,r24,bus003,900,915,8,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P000367,r4,bus102,905,920,8,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P001490,r2,bus050,910,920,7,Park Circus -> Ruby -> Garia
-P000324,r23,bus016,905,915,4,Dumdum -> VIP Road -> Ultadanga
-P002877,r3,bus207,890,900,1,Kalighat -> Minto Park -> Esplanade
-P002154,r23,bus016,905,915,2,Dumdum -> VIP Road -> Ultadanga
-P000458,r6,bus228,885,905,2,Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat
-P001040,r52,bus049,910,925,1,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P002322,r4,bus102,905,915,10,Jadavpur -> Kalighat -> Esplanade
-P000842,r14,bus297,900,910,8,Tollygunge -> Rashbehari -> Gariahat
-P002723,r7,bus045,915,920,2,Salt Lake -> Karunamoyee
-P001482,r51,bus100,910,925,8,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P002362,r20,bus051,905,920,3,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P000463,r30,bus021,910,925,7,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P000062,r4,bus102,910,915,2,Kalighat -> Esplanade
-P001405,r4,bus102,905,920,4,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P001583,r45,bus006,900,925,5,Thakurpukur -> Behala -> Sakherbazar -> New Alipore -> Alipore -> Minto Park
-P002756,r7,bus045,915,920,10,Salt Lake -> Karunamoyee
-P001029,r3,bus207,905,910,7,Ultadanga -> Salt Lake
-P002436,r39,bus024,900,920,8,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P002473,r24,bus003,900,915,6,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P001135,r20,bus051,900,920,6,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P001900,r40,bus080,910,920,5,Kalighat -> Jadavpur -> Garia
-P001176,r45,bus006,905,920,4,Behala -> Sakherbazar -> New Alipore -> Alipore
-P002204,r36,bus020,905,920,1,Tollygunge -> Kalighat -> Esplanade -> Salt Lake
-P000724,r3,bus207,900,910,7,Esplanade -> Ultadanga -> Salt Lake
-P001775,r28,bus141,905,920,9,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002688,r21,bus011,905,920,8,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000993,r28,bus141,905,920,4,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P001929,r8,bus015,910,920,4,Salt Lake -> Ultadanga -> Esplanade
-P001619,r5,bus060,905,920,1,Behala -> Tollygunge -> Hazra -> Esplanade
-P001378,r52,bus049,905,925,2,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P000042,r14,bus297,910,920,9,Gariahat -> Ballygunge -> Park Circus
-P001629,r40,bus080,910,920,10,Kalighat -> Jadavpur -> Garia
-P000337,r51,bus100,910,925,10,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P000469,r4,bus102,910,915,8,Kalighat -> Esplanade
-P002680,r11,bus217,915,925,7,Esplanade -> Maidan -> Rabindra Sadan
-P001863,r21,bus011,910,920,4,Hazra -> Gariahat -> Ultadanga
-P002349,r5,bus060,910,925,7,Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P001209,r52,bus049,910,920,3,Maidan -> Rabindra Sadan -> Bhowanipore
-P002565,r52,bus049,910,925,4,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P001924,r57,bus042,905,920,1,Salt Lake -> New Town -> Eco Park -> Chinar Park
-P001695,r38,bus027,910,915,7,Esplanade -> Ultadanga
-P002304,r26,bus026,910,915,9,Salt Lake -> New Town
-P001799,r8,bus015,910,915,3,Salt Lake -> Ultadanga
-P001319,r29,bus040,915,920,6,Salt Lake -> New Town
-P000812,r54,bus084,915,925,8,Ballygunge -> Rashbehari -> Tollygunge
-P001083,r35,bus090,915,920,5,New Town -> Eco Space
-P001426,r19,bus010,915,920,5,Park Circus -> Ruby
-P001340,r9,bus017,915,925,3,Rashbehari -> Kalighat -> Esplanade
-P002336,r4,bus102,915,920,3,Esplanade -> Howrah Station
-P000604,r20,bus051,915,920,8,New Town -> Eco Park
-P002576,r41,bus023,920,925,8,Sector V -> New Town
-P002111,r21,bus011,915,920,6,Gariahat -> Ultadanga
-P000025,r41,bus023,920,925,5,Sector V -> New Town
-P002206,r56,bus014,915,925,7,Shyambazar -> MG Road -> Park Street
-P001715,r35,bus090,915,920,6,New Town -> Eco Space
-P001873,r9,bus017,920,925,3,Kalighat -> Esplanade
-P001030,r5,bus060,920,925,1,Esplanade -> Howrah Station
-P000776,r0,bus029,965,975,6,New Town -> Unitech -> Eco Space
-P001752,r1,bus009,965,1015,7,SN Banerjee -> MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh -> Barrackpore
-P000642,r0,bus029,975,990,1,Eco Space -> Aliah University -> Daber More -> ECO Park
-P000069,r0,bus029,965,990,9,New Town -> Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park
-P000259,r7,bus045,990,1005,6,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
-P001448,r27,bus095,995,1010,4,Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P002533,r1,bus009,975,1010,8,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P000390,r3,bus207,995,1010,4,Hazra -> Kalighat -> Minto Park -> Esplanade
-P000774,r57,bus042,1000,1020,9,Ultadanga -> Salt Lake -> New Town -> Eco Park -> Chinar Park
-P001457,r26,bus026,995,1000,1,Ultadanga -> Salt Lake
-P001644,r39,bus024,1000,1025,3,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
-P000029,r52,bus049,1000,1015,2,Esplanade -> Park Street -> Maidan -> Rabindra Sadan
-P001945,r3,bus207,990,1015,4,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P002087,r24,bus003,990,1005,1,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P001570,r4,bus102,990,1010,2,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P001692,r30,bus021,1005,1020,10,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P000559,r26,bus026,995,1000,6,Ultadanga -> Salt Lake
-P001492,r51,bus100,1005,1025,9,Lalbazar -> Esplanade -> Rashbehari -> Gariahat -> Ruby
-P001772,r26,bus026,990,1005,6,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P001087,r3,bus207,990,1005,1,Tollygunge -> Hazra -> Kalighat -> Minto Park
-P001879,r17,bus031,1005,1020,2,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah
-P002022,r17,bus031,1010,1025,10,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P000532,r54,bus084,1005,1025,9,Moulali -> Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001013,r3,bus207,1005,1015,1,Minto Park -> Esplanade -> Ultadanga
-P001779,r35,bus090,995,1010,6,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P001230,r11,bus217,1000,1020,7,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan
-P001508,r26,bus026,995,1005,1,Ultadanga -> Salt Lake -> New Town
-P001227,r28,bus141,1000,1010,5,Phoolbagan -> Ultadanga -> Dumdum
-P002190,r8,bus015,1010,1025,6,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P000893,r17,bus031,1010,1025,5,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001109,r39,bus024,1000,1020,3,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
-P000504,r53,bus030,1005,1025,4,Dhakuria -> Gariahat -> Golpark -> Bosepukur -> Kasba
-P001942,r28,bus141,995,1010,1,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002515,r4,bus102,990,1010,1,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P000832,r40,bus080,1000,1010,10,Howrah Station -> Esplanade -> Kalighat
-P001589,r35,bus090,995,1010,10,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P002033,r2,bus050,1005,1010,9,Sealdah -> Park Circus
-P000269,r46,bus025,1000,1015,9,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
-P000649,r25,bus008,990,995,1,New Town -> ECO Park
-P001268,r35,bus090,995,1010,3,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P002011,r40,bus080,1010,1015,1,Kalighat -> Jadavpur
-P001579,r3,bus207,1000,1010,10,Kalighat -> Minto Park -> Esplanade
-P001285,r11,bus217,1005,1020,8,Dumdum -> Shyambazar -> Esplanade -> Maidan
-P001512,r14,bus297,1000,1010,8,Tollygunge -> Rashbehari -> Gariahat
-P001314,r52,bus049,1005,1020,8,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
-P002858,r46,bus025,1005,1020,8,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
-P001866,r3,bus207,995,1000,4,Hazra -> Kalighat
-P000862,r26,bus026,995,1005,2,Ultadanga -> Salt Lake -> New Town
-P001594,r2,bus050,1010,1020,6,Park Circus -> Ruby -> Garia
-P001563,r17,bus031,1000,1025,6,Salt Lake Sector V -> Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P000524,r15,bus083,1000,1010,1,Esplanade -> Park Circus -> Ruby Hospital
-P000394,r42,bus048,995,1015,2,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
-P002531,r2,bus050,1010,1015,10,Park Circus -> Ruby
-P002350,r28,bus141,1000,1005,9,Phoolbagan -> Ultadanga
-P000561,r17,bus031,1005,1025,10,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002187,r3,bus207,1000,1015,8,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P000416,r26,bus026,1000,1010,9,Salt Lake -> New Town -> Rajarhat
-P000165,r3,bus207,1000,1010,3,Kalighat -> Minto Park -> Esplanade
-P000662,r49,bus066,1000,1025,6,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P001403,r20,bus051,1000,1010,2,VIP Road -> New Town -> Eco Park
-P000317,r43,bus079,1005,1020,10,Shyambazar -> MG Road -> Sealdah -> Park Circus
-P000555,r29,bus040,1010,1020,4,Ultadanga -> Salt Lake -> New Town
-P002381,r50,bus114,1005,1020,7,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P001718,r12,bus094,1015,1025,4,Ultadanga -> Phoolbagan -> Sealdah
-P002848,r36,bus020,1010,1025,9,Kalighat -> Esplanade -> Salt Lake -> Karunamoyee
-P001531,r12,bus094,1015,1025,10,Ultadanga -> Phoolbagan -> Sealdah
-P001027,r29,bus040,1010,1020,5,Ultadanga -> Salt Lake -> New Town
-P002339,r10,bus068,1010,1015,5,Shyambazar -> Esplanade
-P002842,r37,bus019,1010,1025,8,Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P002840,r14,bus297,1005,1020,3,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P002651,r52,bus049,1010,1025,7,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P000930,r5,bus060,1010,1020,1,Tollygunge -> Hazra -> Esplanade
-P002070,r54,bus084,1010,1025,5,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P002094,r50,bus114,1010,1025,4,Bangur -> Ultadanga -> Bidhannagar -> Salt Lake
-P001705,r14,bus297,1010,1025,10,Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P000572,r14,bus297,1015,1025,9,Ballygunge -> Park Circus -> Sealdah
-P000293,r5,bus060,1020,1025,9,Esplanade -> Howrah Station
-P002790,r58,bus018,1015,1025,8,Kalighat -> Jadavpur -> Garia
-P002530,r22,bus176,1015,1025,2,Sealdah -> MG Road -> Howrah Station
-P000266,r50,bus114,1020,1025,9,Bidhannagar -> Salt Lake
-P001647,r36,bus020,1020,1025,8,Salt Lake -> Karunamoyee
-P002012,r12,bus094,1020,1025,10,Phoolbagan -> Sealdah
-P000739,r49,bus066,1020,1025,9,Salt Lake -> Sector V
-P002503,r53,bus030,1020,1025,9,Bosepukur -> Kasba
-P001825,r56,bus014,1020,1025,5,MG Road -> Park Street
-P000621,r5,bus060,1020,1025,4,Esplanade -> Howrah Station
-P000145,r7,bus045,1080,1095,9,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
-P002523,r26,bus026,1080,1095,8,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000421,r35,bus090,1080,1090,2,Esplanade -> Ultadanga -> Karunamoyee
-P002567,r28,bus141,1080,1100,4,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P001346,r21,bus011,1080,1100,8,Tollygunge -> Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000746,r32,bus001,1080,1100,4,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001553,r27,bus095,1085,1100,10,Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P000249,r26,bus026,1080,1100,9,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P001232,r28,bus141,1090,1100,8,Phoolbagan -> Ultadanga -> Dumdum
-P001366,r16,bus007,1080,1095,7,Howrah Station -> Shibpur -> Alipore -> Tollygunge
-P002437,r32,bus001,1080,1100,3,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000152,r32,bus001,1085,1100,2,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P000959,r0,bus029,1085,1090,10,New Town -> Unitech
-P000933,r3,bus207,1100,1120,9,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
-P000562,r2,bus050,1100,1115,8,Howrah -> Sealdah -> Park Circus -> Ruby
-P001038,r38,bus027,1100,1105,1,Alipore -> Minto Park
-P001540,r46,bus025,1100,1115,6,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
-P002063,r27,bus095,1080,1100,1,Garia -> Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P002095,r26,bus026,1080,1095,10,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000219,r37,bus019,1105,1120,8,MG Road -> Shyambazar -> Baranagar -> Dunlop
-P000727,r3,bus207,1100,1115,5,Tollygunge -> Hazra -> Kalighat -> Minto Park
-P001100,r26,bus026,1080,1095,2,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P001763,r28,bus141,1080,1100,4,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P001993,r37,bus019,1100,1120,1,Park Circus -> MG Road -> Shyambazar -> Baranagar -> Dunlop
-P002812,r3,bus207,1105,1120,9,Hazra -> Kalighat -> Minto Park -> Esplanade
-P000179,r37,bus019,1110,1120,7,Shyambazar -> Baranagar -> Dunlop
-P001600,r49,bus066,1110,1125,7,Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P001717,r29,bus040,1100,1125,5,Sealdah -> Phoolbagan -> Ultadanga -> Salt Lake -> New Town -> Eco Park
-P000258,r3,bus207,1105,1120,1,Hazra -> Kalighat -> Minto Park -> Esplanade
-P002540,r54,bus084,1110,1125,5,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P000585,r11,bus217,1110,1125,1,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P000651,r28,bus141,1085,1100,3,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002435,r40,bus080,1100,1120,1,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
-P000462,r26,bus026,1085,1095,9,Ultadanga -> Salt Lake -> New Town
-P001342,r51,bus100,1110,1125,10,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P002420,r29,bus040,1105,1125,9,Phoolbagan -> Ultadanga -> Salt Lake -> New Town -> Eco Park
-P000915,r7,bus045,1095,1100,1,Salt Lake -> Karunamoyee
-P001529,r46,bus025,1110,1125,9,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P000263,r28,bus141,1090,1100,6,Phoolbagan -> Ultadanga -> Dumdum
-P002448,r12,bus094,1100,1120,6,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P002854,r2,bus050,1105,1110,1,Sealdah -> Park Circus
-P002182,r4,bus102,1090,1100,2,Kalighat -> Esplanade -> Howrah Station
-P000291,r29,bus040,1110,1115,9,Ultadanga -> Salt Lake
-P001671,r7,bus045,1095,1100,5,Salt Lake -> Karunamoyee
-P001316,r53,bus030,1100,1125,9,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur -> Kasba
-P000327,r45,bus006,1100,1115,8,Thakurpukur -> Behala -> Sakherbazar -> New Alipore
-P001965,r38,bus027,1100,1105,2,Alipore -> Minto Park
-P001904,r53,bus030,1110,1125,9,Gariahat -> Golpark -> Bosepukur -> Kasba
-P001566,r44,bus055,1105,1120,5,New Town -> Eco Park -> Eco Space -> Unitech
-P000027,r49,bus066,1100,1120,6,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake
-P000673,r5,bus060,1120,1125,7,Esplanade -> Howrah Station
-P001199,r34,bus005,1100,1130,8,Tollygunge -> Hazra -> Kalighat -> Esplanade -> Salt Lake -> New Town -> Rajarhat
-P002674,r2,bus050,1105,1110,2,Sealdah -> Park Circus
-P000093,r18,bus135,1100,1120,5,Howrah Station -> Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P001133,r49,bus066,1100,1125,5,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P000223,r37,bus019,1110,1125,4,Shyambazar -> Baranagar -> Dunlop -> Titagarh
-P001952,r40,bus080,1100,1120,1,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
-P002079,r40,bus080,1100,1120,1,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
-P001256,r14,bus297,1100,1125,2,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P000975,r22,bus176,1110,1125,1,Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P002869,r29,bus040,1110,1120,9,Ultadanga -> Salt Lake -> New Town
-P001898,r3,bus207,1110,1125,8,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P002541,r14,bus297,1100,1110,7,Tollygunge -> Rashbehari -> Gariahat
-P001788,r29,bus040,1120,1125,6,New Town -> Eco Park
-P000616,r40,bus080,1105,1125,8,Esplanade -> Kalighat -> Jadavpur -> Garia -> Narendrapur
-P002642,r5,bus060,1105,1125,8,Behala -> Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P000276,r11,bus217,1105,1125,4,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P002506,r43,bus079,1105,1120,1,Shyambazar -> MG Road -> Sealdah -> Park Circus
-P001632,r3,bus207,1120,1130,9,Esplanade -> Ultadanga -> Salt Lake
-P001185,r38,bus027,1115,1120,7,Ultadanga -> Karunamoyee
-P000332,r44,bus055,1110,1120,3,Eco Park -> Eco Space -> Unitech
-P001573,r23,bus016,1110,1125,7,VIP Road -> Ultadanga -> Ruby -> Garia
-P002791,r2,bus050,1110,1115,4,Park Circus -> Ruby
-P001031,r6,bus228,1110,1125,5,Gariahat -> Golpark -> Hazra -> Kalighat
-P000308,r49,bus066,1110,1125,5,Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P002857,r18,bus135,1110,1125,5,Minto Park -> Gariahat -> Ruby Hospital -> Patuli
-P002543,r8,bus015,1110,1120,3,Salt Lake -> Ultadanga -> Esplanade
-P002368,r51,bus100,1110,1125,2,Esplanade -> Rashbehari -> Gariahat -> Ruby
-P000496,r1,bus009,1135,1160,7,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road
-P000771,r5,bus060,1115,1120,5,Hazra -> Esplanade
-P002120,r44,bus055,1115,1120,1,Eco Space -> Unitech
-P001637,r58,bus018,1110,1120,2,Minto Park -> Kalighat -> Jadavpur
-P000073,r11,bus217,1110,1125,4,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P001197,r41,bus023,1115,1120,1,Salt Lake -> Sector V
-P001999,r29,bus040,1120,1125,9,New Town -> Eco Park
-P001973,r36,bus020,1120,1125,7,Salt Lake -> Karunamoyee
-P001734,r43,bus079,1115,1120,1,Sealdah -> Park Circus
-P000570,r25,bus008,1120,1130,4,Ultadanga -> Esplanade -> Howrah Station
-P001143,r25,bus008,1125,1130,5,Esplanade -> Howrah Station
-P000871,r3,bus207,1125,1130,9,Ultadanga -> Salt Lake
-P001239,r6,bus228,1125,1130,7,Kalighat -> Esplanade
-P002550,r6,bus228,1125,1130,3,Kalighat -> Esplanade
-P002283,r1,bus009,1135,1170,9,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P002065,r26,bus026,1170,1190,8,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P000333,r33,bus033,1170,1175,3,Kasba -> Gariahat
-P000674,r24,bus003,1170,1185,10,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P002728,r21,bus011,1170,1185,6,Tollygunge -> Kalighat -> Hazra -> Gariahat
-P000450,r24,bus003,1170,1185,1,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
-P000881,r16,bus007,1175,1190,2,Shibpur -> Alipore -> Tollygunge -> Garia
-P001350,r1,bus009,1150,1170,2,Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P002487,r26,bus026,1170,1180,4,Esplanade -> Ultadanga -> Salt Lake
-P001580,r15,bus083,1175,1190,7,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P001625,r4,bus102,1180,1185,2,Kalighat -> Esplanade
-P000022,r20,bus051,1185,1190,9,New Town -> Eco Park
-P000457,r28,bus141,1175,1190,10,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P000517,r35,bus090,1175,1190,9,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P000254,r4,bus102,1175,1190,4,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P000233,r21,bus011,1170,1190,1,Tollygunge -> Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000938,r28,bus141,1180,1190,1,Phoolbagan -> Ultadanga -> Dumdum
-P001146,r32,bus001,1175,1190,1,Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001953,r7,bus045,1175,1185,10,Shyambazar -> Beleghata -> Salt Lake
-P001125,r28,bus141,1175,1190,9,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P000189,r4,bus102,1180,1185,7,Kalighat -> Esplanade
-P002798,r28,bus141,1175,1190,8,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P000591,r21,bus011,1170,1185,2,Tollygunge -> Kalighat -> Hazra -> Gariahat
-P000238,r15,bus083,1170,1190,4,Bagbazar -> Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P001548,r15,bus083,1175,1190,10,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
-P002776,r35,bus090,1185,1190,9,New Town -> Eco Space
-P000045,r35,bus090,1175,1190,4,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P002641,r19,bus010,1200,1215,6,Salt Lake -> Ultadanga -> Phoolbagan -> Park Circus
-P000160,r16,bus007,1180,1190,9,Alipore -> Tollygunge -> Garia
-P001461,r20,bus051,1175,1190,7,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P000112,r20,bus051,1180,1185,5,VIP Road -> New Town
-P001658,r19,bus010,1205,1225,6,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P000806,r15,bus083,1180,1185,4,Esplanade -> Park Circus
-P002607,r4,bus102,1180,1185,3,Kalighat -> Esplanade
-P001193,r29,bus040,1200,1225,2,Sealdah -> Phoolbagan -> Ultadanga -> Salt Lake -> New Town -> Eco Park
-P001791,r11,bus217,1200,1220,1,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan
-P001383,r29,bus040,1210,1220,10,Ultadanga -> Salt Lake -> New Town
-P002000,r10,bus068,1210,1215,10,Shyambazar -> Esplanade
-P000417,r14,bus297,1205,1225,10,Rashbehari -> Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P002139,r49,bus066,1200,1220,10,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake
-P001603,r7,bus045,1185,1190,5,Salt Lake -> Karunamoyee
-P000059,r40,bus080,1200,1220,9,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
-P000156,r21,bus011,1185,1190,7,Gariahat -> Ultadanga
-P002740,r9,bus017,1210,1220,7,Gariahat -> Rashbehari -> Kalighat
-P000288,r3,bus207,1210,1240,8,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P001852,r22,bus176,1200,1225,5,Garia -> Jadavpur -> Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P000927,r14,bus297,1210,1225,1,Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P002400,r7,bus045,1180,1185,1,Beleghata -> Salt Lake
-P002640,r55,bus004,1205,1225,5,Jadavpur -> Kasba -> Bosepukur -> Gariahat -> Ruby
-P000009,r4,bus102,1185,1190,1,Esplanade -> Howrah Station
-P002100,r29,bus040,1210,1215,6,Ultadanga -> Salt Lake
-P000753,r22,bus176,1200,1225,5,Garia -> Jadavpur -> Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P000033,r40,bus080,1210,1220,4,Kalighat -> Jadavpur -> Garia
-P000388,r2,bus050,1215,1220,3,Ruby -> Garia
-P000472,r19,bus010,1205,1225,3,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
-P000222,r12,bus094,1215,1220,10,Ultadanga -> Phoolbagan
-P001010,r39,bus024,1205,1220,8,MG Road -> SN Banerjee -> Esplanade -> Park Street
-P001289,r2,bus050,1205,1210,4,Sealdah -> Park Circus
-P001997,r40,bus080,1210,1220,7,Kalighat -> Jadavpur -> Garia
-P002760,r18,bus135,1205,1220,7,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P000793,r29,bus040,1205,1215,5,Phoolbagan -> Ultadanga -> Salt Lake
-P001281,r2,bus050,1210,1225,3,Park Circus -> Ruby -> Garia -> Sonarpur
-P001353,r3,bus207,1215,1235,2,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P001338,r8,bus015,1210,1215,10,Salt Lake -> Ultadanga
-P002852,r6,bus228,1220,1235,6,Gariahat -> Golpark -> Hazra -> Kalighat
-P002144,r30,bus021,1205,1220,8,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P001323,r3,bus207,1210,1240,7,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P001917,r8,bus015,1200,1220,7,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade
-P001335,r41,bus023,1215,1220,6,Salt Lake -> Sector V
-P002429,r43,bus079,1205,1220,1,Shyambazar -> MG Road -> Sealdah -> Park Circus
-P001310,r6,bus228,1220,1235,9,Gariahat -> Golpark -> Hazra -> Kalighat
-P002394,r53,bus030,1200,1225,4,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur -> Kasba
-P001872,r56,bus014,1205,1220,3,Baranagar -> Sinthee -> Shyambazar -> MG Road
-P001552,r14,bus297,1205,1220,2,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P000684,r12,bus094,1210,1225,4,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001703,r6,bus228,1210,1235,4,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat
-P001290,r2,bus050,1210,1225,1,Park Circus -> Ruby -> Garia -> Sonarpur
-P001283,r37,bus019,1205,1220,3,MG Road -> Shyambazar -> Baranagar -> Dunlop
-P002306,r18,bus135,1205,1220,3,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P002679,r34,bus005,1225,1240,1,Esplanade -> Salt Lake -> New Town -> Rajarhat
-P002829,r46,bus025,1210,1220,9,Narendrapur -> Sonarpur -> Garia Station Road
-P001400,r14,bus297,1205,1215,4,Rashbehari -> Gariahat -> Ballygunge
-P002626,r29,bus040,1210,1220,7,Ultadanga -> Salt Lake -> New Town
-P000282,r17,bus031,1210,1225,8,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002282,r44,bus055,1210,1220,5,Eco Park -> Eco Space -> Unitech
-P002383,r0,bus029,1210,1230,8,Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park
-P001796,r18,bus135,1210,1225,6,Minto Park -> Gariahat -> Ruby Hospital -> Patuli
-P001988,r17,bus031,1210,1225,5,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P001849,r2,bus050,1210,1220,3,Park Circus -> Ruby -> Garia
-P002409,r51,bus100,1220,1225,1,Gariahat -> Ruby
-P002332,r3,bus207,1220,1235,10,Kalighat -> Minto Park -> Esplanade -> Ultadanga
-P002430,r29,bus040,1215,1220,10,Salt Lake -> New Town
-P002750,r29,bus057,1210,1220,10,Ultadanga -> Salt Lake -> New Town
-P002337,r11,bus217,1215,1225,6,Esplanade -> Maidan -> Rabindra Sadan
-P001233,r41,bus023,1210,1220,3,Ultadanga -> Salt Lake -> Sector V
-P000664,r10,bus068,1215,1225,3,Esplanade -> Tollygunge -> Joka
-P000544,r56,bus014,1220,1225,8,MG Road -> Park Street
-P000998,r5,bus060,1220,1225,2,Esplanade -> Howrah Station
-P002229,r3,bus207,1230,1240,6,Esplanade -> Ultadanga -> Salt Lake
-P000511,r42,bus048,1230,1235,4,Hazra -> Minto Park
-P001968,r4,bus102,1265,1270,9,Jadavpur -> Kalighat
-P001322,r15,bus083,1265,1275,1,Shyambazar -> Esplanade -> Park Circus
-P000700,r26,bus026,1265,1275,7,Ultadanga -> Salt Lake -> New Town
-P000613,r15,bus083,1270,1280,7,Esplanade -> Park Circus -> Ruby Hospital
-P002736,r33,bus033,1260,1265,9,Kasba -> Gariahat
-P001094,r4,bus102,1265,1280,9,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P001303,r35,bus090,1275,1280,1,New Town -> Eco Space
-P002784,r15,bus083,1265,1270,9,Shyambazar -> Esplanade
-P001519,r32,bus001,1260,1275,8,Gariahat -> Ballygunge -> Park Circus -> VIP Road
-P002149,r21,bus011,1265,1280,7,Kalighat -> Hazra -> Gariahat -> Ultadanga
-P000192,r26,bus026,1260,1270,4,Esplanade -> Ultadanga -> Salt Lake
-P002398,r15,bus083,1265,1270,2,Shyambazar -> Esplanade
-P002493,r15,bus083,1270,1280,3,Esplanade -> Park Circus -> Ruby Hospital
-P000486,r15,bus083,1270,1280,2,Esplanade -> Park Circus -> Ruby Hospital
-P001862,r28,bus141,1260,1280,2,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
-P002647,r16,bus007,1260,1280,2,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
-P002201,r26,bus026,1260,1280,8,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P002096,r15,bus083,1265,1270,1,Shyambazar -> Esplanade
-P001875,r32,bus001,1260,1280,10,Gariahat -> Ballygunge -> Park Circus -> VIP Road -> Airport Gate No. 1
-P001326,r26,bus026,1260,1270,4,Esplanade -> Ultadanga -> Salt Lake
-P000837,r4,bus102,1265,1280,7,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002782,r1,bus009,1290,1305,5,MG Road -> Shyambazar -> Sinthee More -> Baranagar
-P001481,r26,bus026,1265,1275,1,Ultadanga -> Salt Lake -> New Town
-P000375,r20,bus051,1265,1280,9,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
-P000916,r21,bus011,1270,1280,8,Hazra -> Gariahat -> Ultadanga
-P001345,r7,bus045,1270,1280,6,Beleghata -> Salt Lake -> Karunamoyee
-P002010,r1,bus009,1280,1300,1,Marquis Street -> SN Banerjee -> MG Road -> Shyambazar -> Sinthee More
-P001673,r2,bus050,1300,1320,10,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia
-P000698,r39,bus024,1300,1305,6,Shyambazar -> MG Road
-P002389,r26,bus026,1275,1280,9,New Town -> Rajarhat
-P002355,r57,bus042,1300,1310,4,Ultadanga -> Salt Lake -> New Town
-P001919,r38,bus027,1305,1320,10,Minto Park -> Esplanade -> Ultadanga -> Karunamoyee
-P001681,r43,bus079,1305,1315,10,Shyambazar -> MG Road -> Sealdah
-P001835,r17,bus031,1305,1310,2,Karunamoyee -> Ultadanga
-P001855,r38,bus027,1305,1325,9,Minto Park -> Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P000796,r18,bus135,1305,1320,5,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P002718,r23,bus016,1300,1325,4,Barasat -> Dumdum -> VIP Road -> Ultadanga -> Ruby -> Garia
-P001418,r12,bus094,1300,1320,2,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
-P001440,r18,bus135,1305,1320,1,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P001948,r30,bus021,1305,1320,1,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P002387,r47,bus002,1300,1305,7,Salt Lake -> Karunamoyee
-P001001,r8,bus015,1310,1325,9,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P002832,r22,bus176,1300,1325,7,Garia -> Jadavpur -> Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P001577,r36,bus020,1310,1320,10,Kalighat -> Esplanade -> Salt Lake
-P001756,r14,bus297,1305,1320,10,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
-P001455,r11,bus217,1305,1325,10,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P002619,r5,bus060,1300,1320,10,Thakurpukur -> Behala -> Tollygunge -> Hazra -> Esplanade
-P001755,r1,bus009,1295,1330,10,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
-P000041,r29,bus040,1315,1320,7,Salt Lake -> New Town
-P000702,r49,bus066,1305,1325,8,Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
-P001398,r30,bus021,1305,1325,7,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
-P002324,r5,bus060,1315,1320,2,Hazra -> Esplanade
-P000722,r2,bus050,1305,1325,4,Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
-P001500,r12,bus094,1315,1325,2,Ultadanga -> Phoolbagan -> Sealdah
-P000947,r29,bus040,1310,1315,3,Ultadanga -> Salt Lake
-P002104,r6,bus228,1320,1350,6,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
-P000103,r40,bus080,1310,1325,1,Kalighat -> Jadavpur -> Garia -> Narendrapur
-P000843,r46,bus025,1310,1325,3,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P001363,r30,bus021,1305,1320,1,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
-P002645,r40,bus080,1305,1320,1,Esplanade -> Kalighat -> Jadavpur -> Garia
-P000401,r10,bus068,1300,1315,10,Dumdum -> Belgachia -> Shyambazar -> Esplanade
-P002280,r53,bus030,1300,1315,8,Jadavpur -> Dhakuria -> Gariahat -> Golpark
-P002273,r12,bus094,1300,1315,5,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
-P000154,r14,bus297,1305,1325,6,Rashbehari -> Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P001046,r10,bus068,1310,1325,8,Shyambazar -> Esplanade -> Tollygunge -> Joka
-P001421,r10,bus068,1310,1325,8,Shyambazar -> Esplanade -> Tollygunge -> Joka
-P000060,r36,bus020,1315,1325,3,Esplanade -> Salt Lake -> Karunamoyee
-P001104,r9,bus017,1300,1325,2,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P001927,r3,bus207,1320,1335,2,Tollygunge -> Hazra -> Kalighat -> Minto Park
-P001387,r30,bus021,1315,1320,4,VIP Road -> Airport Gate No. 1
-P002535,r45,bus006,1300,1315,1,Thakurpukur -> Behala -> Sakherbazar -> New Alipore
-P000384,r38,bus027,1305,1325,4,Minto Park -> Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P001419,r12,bus094,1315,1325,9,Ultadanga -> Phoolbagan -> Sealdah
-P001048,r54,bus084,1310,1325,9,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001652,r25,bus008,1330,1335,4,Salt Lake -> Karunamoyee
-P000775,r2,bus050,1310,1320,7,Park Circus -> Ruby -> Garia
-P000264,r8,bus015,1310,1320,4,Salt Lake -> Ultadanga -> Esplanade
-P000699,r22,bus176,1305,1320,4,Jadavpur -> Ballygunge -> Sealdah -> MG Road
-P001494,r5,bus060,1310,1325,4,Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P002439,r37,bus019,1305,1315,1,MG Road -> Shyambazar -> Baranagar
-P002202,r34,bus005,1320,1345,10,Tollygunge -> Hazra -> Kalighat -> Esplanade -> Salt Lake -> New Town
-P000658,r29,bus040,1310,1325,6,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P001720,r54,bus084,1310,1325,9,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
-P001556,r3,bus207,1320,1350,8,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
-P002657,r29,bus040,1310,1325,6,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P001896,r10,bus068,1310,1325,6,Shyambazar -> Esplanade -> Tollygunge -> Joka
-P000565,r54,bus084,1310,1320,3,Park Circus -> Ballygunge -> Rashbehari
-P002445,r5,bus060,1320,1325,3,Esplanade -> Howrah Station
-P002678,r6,bus228,1330,1345,3,Gariahat -> Golpark -> Hazra -> Kalighat
-P002492,r30,bus021,1315,1325,9,VIP Road -> Airport Gate No. 1 -> Barasat
-P000142,r3,bus207,1320,1340,7,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
-P000810,r3,bus207,1330,1340,1,Kalighat -> Minto Park -> Esplanade
-P000829,r22,bus176,1310,1325,6,Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P002491,r34,bus005,1335,1345,10,Esplanade -> Salt Lake -> New Town
-P002002,r3,bus207,1345,1350,7,Ultadanga -> Salt Lake
-P002583,r0,bus029,1325,1335,7,New Town -> Unitech -> Eco Space
-P000138,r17,bus031,1320,1325,6,Sealdah -> Park Street
-P000575,r19,bus010,1315,1320,1,Park Circus -> Ruby
-P002050,r34,bus005,1340,1345,10,Salt Lake -> New Town
-P001936,r33,bus033,1350,1365,9,Kasba -> Gariahat -> Phoolbagan -> Ultadanga
-P000227,r26,bus026,1350,1365,3,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P000495,r4,bus102,1350,1370,7,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P000549,r26,bus026,1355,1365,8,Ultadanga -> Salt Lake -> New Town
-P000986,r3,bus207,1340,1350,4,Esplanade -> Ultadanga -> Salt Lake
-P002285,r20,bus051,1355,1365,9,Airport Gate No. 1 -> VIP Road -> New Town
-P001212,r27,bus095,1350,1370,5,Garia -> Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
-P000744,r26,bus026,1355,1365,3,Ultadanga -> Salt Lake -> New Town
-P000607,r25,bus008,1330,1350,4,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
-P001417,r0,bus029,1335,1345,4,Eco Space -> Aliah University -> Daber More
-P001501,r3,bus207,1340,1345,9,Esplanade -> Ultadanga
-P001420,r20,bus051,1360,1365,4,VIP Road -> New Town
-P001102,r32,bus001,1350,1365,9,Gariahat -> Ballygunge -> Park Circus -> VIP Road
-P000099,r7,bus045,1355,1370,2,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
-P000194,r32,bus001,1350,1360,3,Gariahat -> Ballygunge -> Park Circus
-P002876,r26,bus026,1355,1370,6,Ultadanga -> Salt Lake -> New Town -> Rajarhat
-P000400,r28,bus141,1360,1370,4,Phoolbagan -> Ultadanga -> Dumdum
-P002454,r15,bus083,1355,1365,8,Shyambazar -> Esplanade -> Park Circus
-P000804,r32,bus001,1355,1360,6,Ballygunge -> Park Circus
-P001558,r26,bus026,1350,1365,2,Esplanade -> Ultadanga -> Salt Lake -> New Town
-P002328,r4,bus102,1360,1365,2,Kalighat -> Esplanade
-P000789,r4,bus102,1355,1370,3,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
-P002089,r21,bus011,1360,1370,6,Hazra -> Gariahat -> Ultadanga
-P000031,r35,bus090,1355,1370,3,Ultadanga -> Karunamoyee -> New Town -> Eco Space
-P002001,r21,bus011,1360,1370,1,Hazra -> Gariahat -> Ultadanga
-P002865,r7,bus045,1365,1370,6,Salt Lake -> Karunamoyee
-P000707,r35,bus090,1365,1370,7,New Town -> Eco Space
-P001714,r31,bus169,1365,1370,7,Salt Lake -> New Town
-P002056,r9,bus017,1400,1425,10,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P000732,r40,bus080,1400,1415,9,Howrah Station -> Esplanade -> Kalighat -> Jadavpur
-P000752,r41,bus023,1400,1420,8,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Salt Lake -> Sector V
-P000224,r8,bus015,1400,1425,1,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P000882,r44,bus055,1405,1410,10,New Town -> Eco Park
-P002721,r11,bus217,1405,1425,10,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
-P002421,r2,bus050,1400,1415,8,Howrah -> Sealdah -> Park Circus -> Ruby
-P001723,r44,bus055,1405,1410,4,New Town -> Eco Park
-P000438,r38,bus027,1400,1420,2,Alipore -> Minto Park -> Esplanade -> Ultadanga -> Karunamoyee
-P001149,r5,bus060,1410,1420,10,Tollygunge -> Hazra -> Esplanade
-P002037,r50,bus114,1405,1420,10,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P002866,r46,bus025,1405,1420,10,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
-P001375,r18,bus135,1405,1415,8,Esplanade -> Minto Park -> Gariahat
-P001930,r29,bus040,1410,1425,2,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P000359,r18,bus135,1405,1420,6,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P000529,r18,bus135,1405,1420,6,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P001295,r38,bus027,1410,1425,7,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
-P002826,r18,bus135,1405,1420,6,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P000922,r10,bus068,1400,1420,5,Dumdum -> Belgachia -> Shyambazar -> Esplanade -> Tollygunge
-P000082,r52,bus049,1400,1415,1,Esplanade -> Park Street -> Maidan -> Rabindra Sadan
-P000611,r2,bus050,1405,1420,2,Sealdah -> Park Circus -> Ruby -> Garia
-P001845,r43,bus079,1405,1415,10,Shyambazar -> MG Road -> Sealdah
-P001391,r18,bus135,1405,1420,10,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
-P001297,r29,bus040,1400,1415,6,Sealdah -> Phoolbagan -> Ultadanga -> Salt Lake
-P001634,r44,bus055,1410,1425,10,Eco Park -> Eco Space -> Unitech -> Salt Lake
-P000191,r2,bus050,1405,1415,6,Sealdah -> Park Circus -> Ruby
-P000531,r52,bus049,1410,1425,8,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
-P000063,r44,bus055,1405,1410,2,New Town -> Eco Park
-P000785,r29,bus040,1405,1420,1,Phoolbagan -> Ultadanga -> Salt Lake -> New Town
-P002658,r37,bus019,1400,1415,1,Park Circus -> MG Road -> Shyambazar -> Baranagar
-P002135,r8,bus015,1405,1425,4,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
-P001116,r12,bus094,1415,1425,1,Ultadanga -> Phoolbagan -> Sealdah
-P001778,r53,bus030,1405,1420,1,Dhakuria -> Gariahat -> Golpark -> Bosepukur
-P002183,r12,bus094,1400,1425,3,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P000895,r38,bus027,1400,1405,10,Alipore -> Minto Park
-P001159,r29,bus040,1410,1425,9,Ultadanga -> Salt Lake -> New Town -> Eco Park
-P002548,r36,bus020,1405,1420,4,Tollygunge -> Kalighat -> Esplanade -> Salt Lake
-P000991,r40,bus080,1410,1420,6,Kalighat -> Jadavpur -> Garia
-P001389,r45,bus006,1405,1420,5,Behala -> Sakherbazar -> New Alipore -> Alipore
-P000520,r17,bus031,1410,1425,1,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002459,r2,bus050,1405,1425,10,Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
-P001039,r40,bus080,1400,1410,8,Howrah Station -> Esplanade -> Kalighat
-P001626,r41,bus023,1415,1420,9,Salt Lake -> Sector V
-P002029,r36,bus020,1400,1420,7,Behala -> Tollygunge -> Kalighat -> Esplanade -> Salt Lake
-P001530,r44,bus055,1405,1415,3,New Town -> Eco Park -> Eco Space
-P000905,r37,bus019,1405,1420,4,MG Road -> Shyambazar -> Baranagar -> Dunlop
-P001926,r5,bus060,1410,1425,2,Tollygunge -> Hazra -> Esplanade -> Howrah Station
-P002157,r9,bus017,1405,1425,2,Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P000879,r8,bus015,1410,1415,10,Salt Lake -> Ultadanga
-P001264,r12,bus094,1405,1415,10,Airport Gate No. 1 -> VIP Road -> Ultadanga
-P001288,r29,bus040,1410,1415,8,Ultadanga -> Salt Lake
-P000729,r12,bus094,1410,1425,10,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001213,r9,bus017,1405,1420,10,Dhakuria -> Gariahat -> Rashbehari -> Kalighat
-P001120,r38,bus027,1400,1405,1,Alipore -> Minto Park
-P001475,r54,bus084,1405,1420,5,Moulali -> Park Circus -> Ballygunge -> Rashbehari
-P000439,r17,bus031,1405,1425,6,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
-P002732,r50,bus114,1405,1420,2,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
-P001402,r36,bus020,1420,1425,10,Salt Lake -> Karunamoyee
-P000185,r9,bus017,1410,1425,9,Gariahat -> Rashbehari -> Kalighat -> Esplanade
-P000311,r44,bus055,1410,1425,8,Eco Park -> Eco Space -> Unitech -> Salt Lake
-P001141,r36,bus020,1420,1425,1,Salt Lake -> Karunamoyee
-P000242,r43,bus079,1405,1420,7,Shyambazar -> MG Road -> Sealdah -> Park Circus
-P001052,r12,bus094,1410,1415,4,VIP Road -> Ultadanga
-P002343,r5,bus060,1415,1420,6,Hazra -> Esplanade
-P001947,r36,bus020,1415,1425,2,Esplanade -> Salt Lake -> Karunamoyee
-P000801,r14,bus297,1410,1425,6,Gariahat -> Ballygunge -> Park Circus -> Sealdah
-P002799,r47,bus002,1410,1415,2,Ultadanga -> Kankurgachi
-P000452,r46,bus025,1410,1425,5,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
-P001974,r5,bus060,1420,1425,3,Esplanade -> Howrah Station
-P001646,r12,bus094,1410,1425,2,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
-P001980,r29,bus040,1415,1425,10,Salt Lake -> New Town -> Eco Park
-P002766,r22,bus176,1410,1425,8,Ballygunge -> Sealdah -> MG Road -> Howrah Station
-P001070,r57,bus042,1415,1420,4,Eco Park -> Chinar Park
-P001205,r12,bus094,1415,1425,4,Ultadanga -> Phoolbagan -> Sealdah
-P000171,r46,bus025,1415,1420,1,Sonarpur -> Garia Station Road
-P000713,r51,bus100,1415,1425,1,Rashbehari -> Gariahat -> Ruby
-P002527,r5,bus060,1420,1425,9,Esplanade -> Howrah Station
-P000372,r49,bus066,1420,1425,5,Salt Lake -> Sector V
-P001922,r53,bus030,1415,1425,5,Golpark -> Bosepukur -> Kasba
-P001539,r38,bus027,1420,1425,4,Karunamoyee -> Salt Lake Sector V
+P000009,r20,bus019,370,375,6,VIP Road -> New Town
+P000004,r14,bus074,375,385,6,Ballygunge -> Park Circus -> Sealdah
+P000001,r1,bus077,370,410,6,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P000005,r30,bus027,365,385,5,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000007,r48,bus166,365,380,4,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P000000,r15,bus066,360,375,2,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
+P000002,r3,bus049,370,375,1,Kalighat -> Minto Park
+P000006,r3,bus049,370,380,1,Kalighat -> Minto Park -> Esplanade
+P000008,r40,bus035,365,385,3,Esplanade -> Kalighat -> Jadavpur -> Garia -> Narendrapur
+P000014,r2,bus109,365,375,6,Sealdah -> Park Circus -> Ruby
+P000011,r28,bus008,370,380,6,Phoolbagan -> Ultadanga -> Dumdum
+P000012,r3,bus049,370,390,6,Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
+P000018,r2,bus109,370,375,4,Park Circus -> Ruby
+P000019,r44,bus071,370,385,2,Eco Park -> Eco Space -> Unitech -> Salt Lake
+P000013,r10,bus053,370,375,1,Shyambazar -> Esplanade
+P000017,r3,bus049,370,375,3,Kalighat -> Minto Park
+P000015,r15,bus066,370,380,3,Esplanade -> Park Circus -> Ruby Hospital
+P000010,r12,bus025,375,385,2,Ultadanga -> Phoolbagan -> Sealdah
+P000016,r57,bus047,370,385,1,New Town -> Eco Park -> Chinar Park -> Airport
+P000020,r7,bus248,375,380,5,Salt Lake -> Karunamoyee
+P000021,r21,bus018,375,380,6,Gariahat -> Ultadanga
+P000024,r22,bus046,375,385,6,Sealdah -> MG Road -> Howrah Station
+P000025,r14,bus074,375,385,5,Ballygunge -> Park Circus -> Sealdah
+P000022,r29,bus009,375,380,1,Salt Lake -> New Town
+P000023,r8,bus017,370,385,3,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
+P000039,r34,bus054,380,385,6,Salt Lake -> New Town
+P000027,r56,bus004,380,385,3,MG Road -> Park Street
+P000035,r34,bus054,380,385,5,Salt Lake -> New Town
+P000030,r6,bus118,385,390,5,Kalighat -> Esplanade
+P000036,r29,bus009,380,385,4,New Town -> Eco Park
+P000033,r54,bus075,380,385,1,Rashbehari -> Tollygunge
+P000040,r13,bus098,395,405,6,Esplanade -> Ballygunge -> Garia
+P000067,r30,bus027,410,425,6,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
+P000069,r52,bus026,410,435,1,Kalighat -> Bhowanipore -> Rabindra Sadan -> Maidan -> Park Street -> Esplanade
+P000059,r28,bus008,410,425,4,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000063,r44,bus071,410,435,2,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town -> Rajarhat
+P000073,r44,bus071,410,430,3,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town
+P000072,r14,bus074,410,415,2,Sealdah -> Park Circus
+P000074,r28,bus008,410,425,1,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000083,r8,bus017,415,425,5,Esplanade -> Ultadanga -> Salt Lake
+P000086,r8,bus017,420,435,4,Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P000080,r12,bus025,420,435,4,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000087,r27,bus052,410,425,3,Salt Lake -> Ultadanga -> Ruby -> Garia
+P000094,r40,bus035,415,430,5,Garia -> Jadavpur -> Kalighat -> Esplanade
+P000098,r25,bus001,420,445,5,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P000097,r12,bus025,420,435,6,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000093,r25,bus001,425,445,3,Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P000089,r8,bus017,415,425,1,Esplanade -> Ultadanga -> Salt Lake
+P000096,r27,bus052,415,425,4,Ultadanga -> Ruby -> Garia
+P000095,r28,bus008,410,425,3,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000104,r27,bus052,420,425,5,Ruby -> Garia
+P000110,r12,bus025,420,435,5,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000105,r10,bus053,415,420,2,Tollygunge -> Esplanade
+P000106,r58,bus016,430,435,3,Lalbazar -> Howrah Station
+P000112,r8,bus017,415,435,3,Esplanade -> Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P000101,r2,bus109,425,430,1,Park Circus -> Sealdah
+P000122,r37,bus033,425,435,5,Shyambazar -> MG Road -> Park Circus
+P000125,r29,bus009,425,430,4,Ultadanga -> Phoolbagan
+P000127,r8,bus017,420,425,1,Ultadanga -> Salt Lake
+P000124,r18,bus146,430,435,5,Esplanade -> Howrah Station
+P000129,r17,bus012,420,425,2,Phoolbagan -> Ultadanga
+P000113,r25,bus001,425,445,1,Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P000121,r12,bus025,420,435,4,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000120,r4,bus007,420,425,3,Jadavpur -> Garia
+P000123,r29,bus009,425,435,1,Ultadanga -> Phoolbagan -> Sealdah
+P000117,r14,bus074,420,435,2,Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P000114,r57,bus047,420,430,1,Eco Park -> New Town -> Salt Lake
+P000116,r14,bus074,420,435,1,Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P000131,r19,bus028,430,435,3,Ultadanga -> Salt Lake
+P000134,r8,bus017,425,435,6,Salt Lake -> Newtown -> Rajarhat
+P000132,r37,bus033,425,435,3,Shyambazar -> MG Road -> Park Circus
+P000135,r3,bus049,425,445,2,Esplanade -> Minto Park -> Kalighat -> Hazra -> Tollygunge
+P000138,r30,bus027,425,435,1,Ultadanga -> Gariahat -> Ruby
+P000144,r6,bus118,435,440,3,Gariahat -> Bosepukur
+P000151,r6,bus118,435,445,5,Gariahat -> Bosepukur -> Kasba
+P000154,r48,bus166,450,470,2,Park Circus -> Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P000157,r27,bus052,455,470,5,Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
+P000163,r15,bus066,455,460,6,Shyambazar -> Esplanade
+P000164,r26,bus003,450,460,5,Esplanade -> Ultadanga -> Salt Lake
+P000159,r20,bus019,450,470,5,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
+P000170,r16,bus101,450,470,4,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
+P000175,r4,bus007,460,465,4,Kalighat -> Esplanade
+P000178,r7,bus248,455,465,5,Shyambazar -> Beleghata -> Salt Lake
+P000174,r54,bus075,460,485,4,Sealdah -> Moulali -> Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
+P000173,r28,bus008,450,470,2,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
+P000176,r6,bus118,440,445,1,Bosepukur -> Kasba
+P000182,r7,bus248,455,470,4,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P000181,r26,bus003,450,470,6,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P000185,r21,bus018,465,470,5,Gariahat -> Ultadanga
+P000183,r35,bus034,450,460,2,Esplanade -> Ultadanga -> Karunamoyee
+P000180,r18,bus146,465,485,3,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital -> Patuli
+P000184,r48,bus166,455,470,2,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P000187,r25,bus001,470,475,6,New Town -> ECO Park
+P000191,r26,bus003,455,465,5,Ultadanga -> Salt Lake -> New Town
+P000192,r10,bus053,465,485,6,Belgachia -> Shyambazar -> Esplanade -> Tollygunge -> Joka
+P000195,r14,bus074,465,480,3,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
+P000190,r30,bus027,460,475,4,Ruby -> Gariahat -> Ultadanga -> VIP Road
+P000188,r50,bus021,460,480,4,Dumdum -> Lake Town -> Bangur -> Ultadanga -> Bidhannagar
+P000189,r2,bus109,470,475,3,Park Circus -> Ruby
+P000193,r21,bus018,455,470,1,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P000198,r4,bus007,455,470,4,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P000199,r4,bus007,460,465,1,Kalighat -> Esplanade
+P000186,r30,bus027,465,480,3,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
+P000197,r8,bus017,470,480,2,Salt Lake -> Ultadanga -> Esplanade
+P000194,r17,bus012,465,485,1,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000196,r57,bus047,470,485,1,New Town -> Eco Park -> Chinar Park -> Airport
+P000203,r25,bus001,470,475,2,New Town -> ECO Park
+P000205,r55,bus076,465,485,6,Jadavpur -> Kasba -> Bosepukur -> Gariahat -> Ruby
+P000207,r37,bus033,470,485,6,Shyambazar -> Baranagar -> Dunlop -> Titagarh
+P000208,r57,bus047,460,485,5,Ultadanga -> Salt Lake -> New Town -> Eco Park -> Chinar Park -> Airport
+P000200,r4,bus007,460,470,4,Kalighat -> Esplanade -> Howrah Station
+P000202,r53,bus011,460,480,1,Jadavpur -> Dhakuria -> Gariahat -> Golpark -> Bosepukur
+P000206,r2,bus109,475,480,1,Ruby -> Garia
+P000201,r49,bus100,465,485,2,Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
+P000204,r18,bus146,460,485,2,Howrah Station -> Esplanade -> Minto Park -> Gariahat -> Ruby Hospital -> Patuli
+P000210,r7,bus248,465,470,5,Salt Lake -> Karunamoyee
+P000211,r19,bus028,460,475,5,Salt Lake -> Ultadanga -> Phoolbagan -> Park Circus
+P000213,r2,bus109,470,485,2,Park Circus -> Ruby -> Garia -> Sonarpur
+P000216,r51,bus082,465,485,3,Lalbazar -> Esplanade -> Rashbehari -> Gariahat -> Ruby
+P000212,r2,bus109,470,480,1,Park Circus -> Ruby -> Garia
+P000214,r50,bus021,465,485,2,Lake Town -> Bangur -> Ultadanga -> Bidhannagar -> Salt Lake
+P000209,r53,bus011,470,485,1,Gariahat -> Golpark -> Bosepukur -> Kasba
+P000220,r15,bus066,465,470,6,Park Circus -> Ruby Hospital
+P000219,r37,bus033,470,485,6,Shyambazar -> Baranagar -> Dunlop -> Titagarh
+P000225,r2,bus109,470,485,5,Park Circus -> Ruby -> Garia -> Sonarpur
+P000218,r3,bus049,470,495,5,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P000222,r22,bus046,470,485,5,Ballygunge -> Sealdah -> MG Road -> Howrah Station
+P000217,r3,bus049,480,490,1,Kalighat -> Minto Park -> Esplanade
+P000223,r39,bus010,470,480,4,SN Banerjee -> Esplanade -> Park Street
+P000224,r6,bus118,470,490,2,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra
+P000227,r58,bus016,475,485,6,Kalighat -> Jadavpur -> Garia
+P000228,r42,bus093,475,485,2,Sakherbazar -> Tollygunge -> Kalighat
+P000226,r30,bus027,475,480,5,VIP Road -> Airport Gate No. 1
+P000232,r17,bus012,480,485,3,Sealdah -> Park Street
+P000231,r0,bus002,480,515,4,College More -> New Town -> Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park -> City
+P000233,r34,bus054,480,495,1,Kalighat -> Esplanade -> Salt Lake -> New Town
+P000234,r43,bus014,480,485,1,Park Circus -> Ruby
+P000236,r14,bus074,480,485,1,Park Circus -> Sealdah
+P000247,r3,bus049,485,490,3,Minto Park -> Esplanade
+P000241,r25,bus001,490,500,4,Ultadanga -> Esplanade -> Howrah Station
+P000248,r6,bus118,495,500,2,Kalighat -> Esplanade
+P000246,r58,bus016,480,485,3,Jadavpur -> Garia
+P000237,r4,bus007,500,515,2,Esplanade -> Kalighat -> Jadavpur -> Garia
+P000239,r21,bus018,500,510,1,Gariahat -> Hazra -> Kalighat
+P000242,r28,bus008,500,515,1,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000255,r16,bus101,500,515,3,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P000263,r4,bus007,495,505,5,Howrah Station -> Esplanade -> Kalighat
+P000259,r27,bus052,505,515,5,Ultadanga -> Ruby -> Garia
+P000264,r16,bus101,500,515,4,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P000262,r29,bus009,510,520,4,Eco Park -> New Town -> Salt Lake
+P000271,r9,bus089,510,520,6,Esplanade -> Kalighat -> Rashbehari
+P000270,r16,bus101,500,515,3,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P000277,r22,bus046,515,520,5,MG Road -> Sealdah
+P000278,r10,bus053,515,520,5,Tollygunge -> Esplanade
+P000274,r44,bus071,510,525,2,Salt Lake -> Unitech -> Eco Space -> Eco Park
+P000273,r22,bus046,520,535,4,Sealdah -> Ballygunge -> Jadavpur -> Garia
+P000282,r10,bus053,515,520,5,Tollygunge -> Esplanade
+P000284,r44,bus071,510,530,4,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town
+P000279,r21,bus018,505,510,2,Hazra -> Kalighat
+P000286,r28,bus008,510,515,5,Sealdah -> Park Street
+P000287,r29,bus009,525,535,4,Ultadanga -> Phoolbagan -> Sealdah
+P000283,r19,bus028,525,535,1,Phoolbagan -> Ultadanga -> Salt Lake
+P000294,r2,bus109,515,530,4,Garia -> Ruby -> Park Circus -> Sealdah
+P000295,r12,bus025,525,530,2,VIP Road -> Airport Gate No. 1
+P000299,r40,bus035,520,530,5,Jadavpur -> Kalighat -> Esplanade
+P000300,r40,bus035,515,530,4,Garia -> Jadavpur -> Kalighat -> Esplanade
+P000301,r10,bus053,515,520,1,Tollygunge -> Esplanade
+P000297,r22,bus046,520,535,2,Sealdah -> Ballygunge -> Jadavpur -> Garia
+P000310,r3,bus049,525,530,5,Salt Lake -> Ultadanga
+P000302,r37,bus033,525,535,1,Shyambazar -> MG Road -> Park Circus
+P000308,r16,bus101,540,560,4,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
+P000309,r22,bus046,530,535,2,Jadavpur -> Garia
+P000313,r28,bus008,545,560,3,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
+P000321,r28,bus008,540,560,5,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
+P000327,r14,bus074,530,535,5,Rashbehari -> Tollygunge
+P000322,r32,bus005,540,555,4,Gariahat -> Ballygunge -> Park Circus -> VIP Road
+P000326,r24,bus037,540,555,4,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
+P000328,r25,bus001,535,540,3,Ultadanga -> Karunamoyee
+P000319,r4,bus007,550,555,3,Kalighat -> Esplanade
+P000320,r24,bus037,540,555,3,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
+P000324,r28,bus008,550,560,2,Phoolbagan -> Ultadanga -> Dumdum
+P000325,r48,bus166,545,560,1,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P000333,r20,bus019,555,560,5,New Town -> Eco Park
+P000337,r1,bus077,550,570,6,Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P000340,r15,bus066,545,555,5,Shyambazar -> Esplanade -> Park Circus
+P000338,r25,bus001,545,555,1,Salt Lake -> ECO Park -> New Town
+P000341,r15,bus066,540,555,2,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
+P000329,r28,bus008,550,560,3,Phoolbagan -> Ultadanga -> Dumdum
+P000334,r1,bus077,545,570,3,Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P000339,r6,bus118,545,555,2,Gariahat -> Bosepukur -> Kasba
+P000350,r26,bus003,545,550,4,Ultadanga -> Salt Lake
+P000354,r4,bus007,550,555,6,Kalighat -> Esplanade
+P000345,r7,bus248,545,560,1,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P000349,r46,bus111,560,570,2,Garia -> Kamalgazi -> Narendrapur
+P000347,r15,bus066,545,560,4,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P000348,r17,bus012,560,580,4,Salt Lake Sector V -> Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah
+P000355,r6,bus118,545,550,4,Gariahat -> Bosepukur
+P000344,r26,bus003,550,560,1,Salt Lake -> New Town -> Rajarhat
+P000360,r4,bus007,550,555,6,Kalighat -> Esplanade
+P000356,r39,bus010,565,580,3,MG Road -> SN Banerjee -> Esplanade -> Park Street
+P000362,r51,bus082,565,585,6,Lalbazar -> Esplanade -> Rashbehari -> Gariahat -> Ruby
+P000357,r9,bus089,565,585,5,Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
+P000361,r19,bus028,565,585,4,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
+P000358,r16,bus101,550,560,1,Alipore -> Tollygunge -> Garia
+P000359,r57,bus047,560,580,1,Ultadanga -> Salt Lake -> New Town -> Eco Park -> Chinar Park
+P000363,r11,bus015,565,585,6,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P000368,r7,bus248,550,560,4,Beleghata -> Salt Lake -> Karunamoyee
+P000370,r29,bus009,570,575,4,Ultadanga -> Salt Lake
+P000364,r4,bus007,550,555,5,Kalighat -> Esplanade
+P000366,r8,bus017,560,575,2,Rajarhat -> Newtown -> Salt Lake -> Ultadanga
+P000367,r20,bus019,555,560,1,New Town -> Eco Park
+P000365,r49,bus100,560,575,2,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan
+P000369,r1,bus077,555,575,5,BT Road -> Tobin Road -> Khardah -> Titagarh -> Barrackpore
+P000371,r40,bus035,565,570,6,Esplanade -> Kalighat
+P000374,r2,bus109,565,570,6,Sealdah -> Park Circus
+P000375,r11,bus015,570,585,6,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P000376,r46,bus111,560,580,6,Garia -> Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
+P000377,r29,bus009,570,580,4,Ultadanga -> Salt Lake -> New Town
+P000372,r2,bus109,570,580,5,Park Circus -> Ruby -> Garia
+P000373,r2,bus109,565,570,1,Sealdah -> Park Circus
+P000384,r44,bus071,560,575,6,Rajarhat -> New Town -> Eco Park -> Eco Space
+P000385,r2,bus109,560,575,6,Howrah -> Sealdah -> Park Circus -> Ruby
+P000378,r29,bus009,565,575,5,Phoolbagan -> Ultadanga -> Salt Lake
+P000379,r29,bus009,570,575,1,Ultadanga -> Salt Lake
+P000380,r2,bus109,565,575,4,Sealdah -> Park Circus -> Ruby
+P000383,r17,bus012,570,585,3,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000382,r1,bus077,565,575,2,Khardah -> Titagarh -> Barrackpore
+P000389,r2,bus109,570,575,6,Park Circus -> Ruby
+P000388,r29,bus009,570,585,4,Ultadanga -> Salt Lake -> New Town -> Eco Park
+P000393,r38,bus073,575,580,4,Ultadanga -> Karunamoyee
+P000392,r8,bus017,570,585,5,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
+P000391,r6,bus118,580,610,4,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
+P000386,r3,bus049,580,610,3,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
+P000387,r43,bus014,565,580,1,Shyambazar -> MG Road -> Sealdah -> Park Circus
+P000390,r11,bus015,570,585,1,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P000395,r9,bus089,570,585,1,Gariahat -> Rashbehari -> Kalighat -> Esplanade
+P000394,r46,bus111,570,585,1,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
+P000400,r43,bus014,575,580,6,Sealdah -> Park Circus
+P000396,r51,bus082,580,585,5,Gariahat -> Ruby
+P000399,r18,bus146,575,585,4,Gariahat -> Ruby Hospital -> Patuli
+P000401,r3,bus049,580,595,2,Tollygunge -> Hazra -> Kalighat -> Minto Park
+P000402,r5,bus006,580,585,1,Esplanade -> Howrah Station
+P000407,r34,bus054,595,605,6,Esplanade -> Salt Lake -> New Town
+P000405,r42,bus093,585,605,3,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
+P000408,r55,bus076,575,585,6,Bosepukur -> Gariahat -> Ruby
+P000403,r34,bus054,580,605,5,Tollygunge -> Hazra -> Kalighat -> Esplanade -> Salt Lake -> New Town
+P000406,r55,bus076,575,585,4,Bosepukur -> Gariahat -> Ruby
+P000410,r38,bus073,575,585,2,Ultadanga -> Karunamoyee -> Salt Lake Sector V
+P000404,r17,bus012,580,585,1,Sealdah -> Park Street
+P000417,r25,bus001,590,595,3,Salt Lake -> Karunamoyee
+P000412,r37,bus033,580,585,6,Dunlop -> Titagarh
+P000413,r16,bus101,590,605,4,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P000415,r42,bus093,585,605,2,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
+P000424,r34,bus054,595,605,4,Esplanade -> Salt Lake -> New Town
+P000428,r28,bus008,590,605,5,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000420,r28,bus008,590,600,2,Ultadanga -> Phoolbagan -> Sealdah
+P000423,r25,bus001,590,610,2,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P000430,r54,bus075,610,625,6,Tollygunge -> Rashbehari -> Ballygunge -> Park Circus
+P000432,r34,bus054,600,610,6,Salt Lake -> New Town -> Rajarhat
+P000431,r0,bus002,605,610,1,New Town -> Unitech
+P000446,r0,bus002,615,635,6,Eco Space -> Aliah University -> Daber More -> ECO Park -> City
+P000439,r6,bus118,600,610,3,Hazra -> Kalighat -> Esplanade
+P000447,r12,bus025,610,620,4,Sealdah -> Phoolbagan -> Ultadanga
+P000450,r44,bus071,610,630,4,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town
+P000454,r9,bus089,610,625,1,Esplanade -> Kalighat -> Rashbehari -> Gariahat
+P000452,r6,bus118,600,610,1,Hazra -> Kalighat -> Esplanade
+P000451,r25,bus001,605,610,2,Esplanade -> Howrah Station
+P000460,r29,bus009,620,625,6,Salt Lake -> Ultadanga
+P000456,r12,bus025,620,635,4,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000461,r14,bus074,610,635,4,Sealdah -> Park Circus -> Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P000458,r12,bus025,620,635,3,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000471,r26,bus003,630,645,5,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P000467,r18,bus146,625,630,4,Minto Park -> Esplanade
+P000470,r15,bus066,630,645,4,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
+P000469,r14,bus074,615,635,4,Park Circus -> Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P000463,r55,bus076,610,635,3,Ruby -> Gariahat -> Bosepukur -> Kasba -> Jadavpur -> Garia
+P000466,r16,bus101,630,645,2,Howrah Station -> Shibpur -> Alipore -> Tollygunge
+P000464,r48,bus166,630,645,1,Park Circus -> Ripon Street -> SN Banerjee -> Lalbazar
+P000473,r7,bus248,635,650,5,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P000475,r33,bus045,630,635,4,Kasba -> Gariahat
+P000476,r48,bus166,630,645,6,Park Circus -> Ripon Street -> SN Banerjee -> Lalbazar
+P000477,r0,bus002,620,635,5,Aliah University -> Daber More -> ECO Park -> City
+P000474,r15,bus066,635,650,1,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P000481,r4,bus007,630,650,5,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P000480,r2,bus109,625,630,3,Park Circus -> Sealdah
+P000479,r29,bus009,625,635,2,Ultadanga -> Phoolbagan -> Sealdah
+P000487,r28,bus008,630,650,6,Park Street -> Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
+P000488,r4,bus007,640,645,2,Kalighat -> Esplanade
+P000486,r4,bus007,645,650,4,Esplanade -> Howrah Station
+P000489,r28,bus008,640,650,1,Phoolbagan -> Ultadanga -> Dumdum
+P000495,r20,bus019,635,650,6,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
+P000490,r25,bus001,645,665,5,Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P000497,r20,bus019,635,650,3,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
+P000509,r25,bus001,645,655,6,Ultadanga -> Karunamoyee -> Salt Lake
+P000504,r7,bus248,640,650,3,Beleghata -> Salt Lake -> Karunamoyee
+P000505,r25,bus001,645,655,3,Ultadanga -> Karunamoyee -> Salt Lake
+P000506,r25,bus001,640,650,5,Esplanade -> Ultadanga -> Karunamoyee
+P000503,r4,bus007,640,645,5,Kalighat -> Esplanade
+P000510,r4,bus007,640,645,5,Kalighat -> Esplanade
+P000507,r15,bus066,640,650,5,Esplanade -> Park Circus -> Ruby Hospital
+P000508,r4,bus007,635,650,5,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P000511,r26,bus003,640,650,3,Salt Lake -> New Town -> Rajarhat
+P000512,r15,bus066,640,645,1,Esplanade -> Park Circus
+P000519,r46,bus111,660,675,5,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
+P000515,r4,bus007,645,650,5,Esplanade -> Howrah Station
+P000516,r46,bus111,660,670,3,Garia -> Kamalgazi -> Narendrapur
+P000518,r16,bus101,640,645,2,Alipore -> Tollygunge
+P000514,r49,bus100,660,685,3,Bagbazar -> Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
+P000529,r8,bus017,670,675,5,Salt Lake -> Ultadanga
+P000528,r54,bus075,665,680,5,Moulali -> Park Circus -> Ballygunge -> Rashbehari
+P000526,r44,bus071,665,670,2,New Town -> Eco Park
+P000523,r30,bus027,665,685,2,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000527,r17,bus012,665,685,1,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000542,r23,bus038,665,675,6,Dumdum -> VIP Road -> Ultadanga
+P000539,r38,bus073,675,680,2,Ultadanga -> Karunamoyee
+P000540,r5,bus006,665,680,4,Behala -> Tollygunge -> Hazra -> Esplanade
+P000536,r29,bus009,670,680,1,Ultadanga -> Salt Lake -> New Town
+P000535,r30,bus027,670,685,4,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000538,r5,bus006,665,680,2,Behala -> Tollygunge -> Hazra -> Esplanade
+P000543,r5,bus006,665,680,2,Behala -> Tollygunge -> Hazra -> Esplanade
+P000537,r11,bus015,660,680,3,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan
+P000533,r17,bus012,670,685,3,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000547,r5,bus006,665,680,6,Behala -> Tollygunge -> Hazra -> Esplanade
+P000546,r18,bus146,665,680,6,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
+P000544,r38,bus073,675,680,2,Ultadanga -> Karunamoyee
+P000545,r18,bus146,660,680,4,Howrah Station -> Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
+P000549,r2,bus109,665,670,1,Sealdah -> Park Circus
+P000550,r9,bus089,660,675,1,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari
+P000560,r36,bus056,680,685,4,Salt Lake -> Karunamoyee
+P000554,r36,bus056,680,685,3,Salt Lake -> Karunamoyee
+P000551,r5,bus006,670,680,5,Tollygunge -> Hazra -> Esplanade
+P000553,r36,bus056,680,685,1,Salt Lake -> Karunamoyee
+P000555,r2,bus109,665,675,5,Sealdah -> Park Circus -> Ruby
+P000557,r5,bus006,680,685,5,Esplanade -> Howrah Station
+P000562,r22,bus046,670,685,5,Ballygunge -> Sealdah -> MG Road -> Howrah Station
+P000556,r50,bus021,670,680,4,Bangur -> Ultadanga -> Bidhannagar
+P000552,r56,bus004,670,685,3,Sinthee -> Shyambazar -> MG Road -> Park Street
+P000561,r19,bus028,665,680,2,Ultadanga -> Phoolbagan -> Park Circus -> Ruby
+P000559,r2,bus109,670,680,1,Park Circus -> Ruby -> Garia
+P000558,r8,bus017,670,685,1,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
+P000567,r9,bus089,680,685,5,Kalighat -> Esplanade
+P000564,r17,bus012,680,685,6,Sealdah -> Park Street
+P000566,r5,bus006,675,685,6,Hazra -> Esplanade -> Howrah Station
+P000568,r3,bus049,690,710,5,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
+P000571,r21,bus018,680,690,4,Gariahat -> Hazra -> Kalighat
+P000570,r3,bus049,690,715,2,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P000574,r44,bus071,680,685,3,Unitech -> Salt Lake
+P000577,r25,bus001,690,720,3,New Town -> ECO Park -> Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P000578,r1,bus077,695,730,2,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P000592,r22,bus046,680,685,4,MG Road -> Howrah Station
+P000583,r28,bus008,685,695,1,Phoolbagan -> Sealdah -> Park Street
+P000586,r33,bus045,690,695,1,Gariahat -> Kasba
+P000603,r25,bus001,700,705,6,Salt Lake -> Karunamoyee
+P000596,r34,bus054,705,715,3,Esplanade -> Salt Lake -> New Town
+P000599,r6,bus118,695,715,1,Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat
+P000607,r6,bus118,695,715,1,Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat
+P000618,r3,bus049,700,710,6,Kalighat -> Minto Park -> Esplanade
+P000614,r34,bus054,710,715,5,Salt Lake -> New Town
+P000617,r9,bus089,710,725,5,Esplanade -> Kalighat -> Rashbehari -> Gariahat
+P000619,r3,bus049,695,715,5,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P000612,r6,bus118,700,715,3,Gariahat -> Golpark -> Hazra -> Kalighat
+P000615,r12,bus025,710,720,3,Sealdah -> Phoolbagan -> Ultadanga
+P000613,r34,bus054,705,715,1,Esplanade -> Salt Lake -> New Town
+P000620,r25,bus001,715,720,3,Esplanade -> Howrah Station
+P000622,r3,bus049,715,720,5,Ultadanga -> Salt Lake
+P000624,r55,bus076,710,735,6,Ruby -> Gariahat -> Bosepukur -> Kasba -> Jadavpur -> Garia
+P000623,r6,bus118,705,720,5,Golpark -> Hazra -> Kalighat -> Esplanade
+P000621,r15,bus066,720,735,1,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
+P000629,r3,bus049,710,720,6,Esplanade -> Ultadanga -> Salt Lake
+P000626,r6,bus118,715,720,6,Kalighat -> Esplanade
+P000628,r15,bus066,720,735,6,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
+P000627,r3,bus049,715,720,3,Ultadanga -> Salt Lake
+P000630,r0,bus002,720,745,6,College More -> New Town -> Unitech -> Eco Space -> Aliah University -> Daber More
+P000625,r4,bus007,725,740,4,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P000632,r0,bus002,720,740,6,College More -> New Town -> Unitech -> Eco Space -> Aliah University
+P000635,r3,bus049,715,720,3,Ultadanga -> Salt Lake
+P000634,r21,bus018,725,740,3,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P000638,r8,bus017,720,725,4,Ultadanga -> Salt Lake
+P000640,r30,bus027,730,735,6,Gariahat -> Ruby
+P000642,r17,bus012,720,725,4,Phoolbagan -> Ultadanga
+P000646,r4,bus007,735,740,5,Esplanade -> Howrah Station
+P000648,r22,bus046,730,735,5,Jadavpur -> Garia
+P000647,r26,bus003,720,735,2,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P000645,r29,bus009,725,735,2,Ultadanga -> Phoolbagan -> Sealdah
+P000649,r29,bus009,725,735,2,Ultadanga -> Phoolbagan -> Sealdah
+P000650,r12,bus025,720,730,2,Ultadanga -> VIP Road -> Airport Gate No. 1
+P000637,r12,bus025,720,735,1,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000663,r19,bus028,730,735,5,Ultadanga -> Salt Lake
+P000664,r8,bus017,720,725,5,Ultadanga -> Salt Lake
+P000660,r4,bus007,725,740,6,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P000653,r21,bus018,725,740,1,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P000651,r22,bus046,730,735,5,Jadavpur -> Garia
+P000654,r0,bus002,725,735,4,New Town -> Unitech -> Eco Space
+P000658,r4,bus007,730,735,4,Kalighat -> Esplanade
+P000656,r21,bus018,725,740,1,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P000671,r24,bus037,735,740,6,Sealdah -> Park Circus
+P000674,r32,bus005,730,740,6,Park Circus -> VIP Road -> Airport Gate No. 1
+P000670,r26,bus003,730,735,4,Salt Lake -> New Town
+P000665,r15,bus066,730,735,3,Esplanade -> Park Circus
+P000672,r17,bus012,730,735,4,Karunamoyee -> Salt Lake Sector V
+P000668,r16,bus101,730,740,2,Alipore -> Tollygunge -> Garia
+P000679,r32,bus005,735,740,6,VIP Road -> Airport Gate No. 1
+P000681,r25,bus001,750,760,1,Esplanade -> Ultadanga -> Karunamoyee
+P000677,r6,bus118,745,765,2,Esplanade -> Kalighat -> Hazra -> Golpark -> Gariahat
+P000706,r25,bus001,755,765,6,Ultadanga -> Karunamoyee -> Salt Lake
+P000703,r54,bus075,760,785,4,Sealdah -> Moulali -> Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
+P000700,r39,bus010,760,785,1,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
+P000709,r44,bus071,765,780,6,New Town -> Eco Park -> Eco Space -> Unitech
+P000716,r9,bus089,760,785,6,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
+P000711,r11,bus015,760,780,6,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan
+P000710,r5,bus006,760,775,2,Thakurpukur -> Behala -> Tollygunge -> Hazra
+P000714,r25,bus001,750,765,2,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake
+P000712,r46,bus111,760,775,1,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
+P000713,r11,bus015,765,785,1,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P000721,r29,bus009,770,785,6,Ultadanga -> Salt Lake -> New Town -> Eco Park
+P000735,r44,bus071,765,780,6,New Town -> Eco Park -> Eco Space -> Unitech
+P000731,r44,bus071,765,775,6,New Town -> Eco Park -> Eco Space
+P000720,r49,bus100,770,785,6,Beleghata -> Phoolbagan -> Salt Lake -> Sector V
+P000727,r9,bus089,760,770,3,Jadavpur -> Dhakuria -> Gariahat
+P000724,r25,bus001,755,775,2,Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P000729,r6,bus118,765,770,4,Gariahat -> Bosepukur
+P000730,r37,bus033,765,780,4,MG Road -> Shyambazar -> Baranagar -> Dunlop
+P000728,r44,bus071,770,785,4,Eco Park -> Eco Space -> Unitech -> Salt Lake
+P000732,r54,bus075,760,785,4,Sealdah -> Moulali -> Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
+P000733,r36,bus056,770,775,1,Kalighat -> Esplanade
+P000718,r4,bus007,765,785,2,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
+P000734,r9,bus089,765,780,2,Dhakuria -> Gariahat -> Rashbehari -> Kalighat
+P000719,r18,bus146,765,785,2,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital -> Patuli
+P000722,r44,bus071,770,785,1,Eco Park -> Eco Space -> Unitech -> Salt Lake
+P000740,r26,bus003,770,775,6,New Town -> Salt Lake
+P000736,r20,bus019,775,780,6,VIP Road -> Airport Gate No. 1
+P000737,r25,bus001,765,775,4,Salt Lake -> ECO Park -> New Town
+P000738,r3,bus049,760,765,2,Minto Park -> Kalighat
+P000745,r51,bus082,770,785,5,Esplanade -> Rashbehari -> Gariahat -> Ruby
+P000744,r4,bus007,765,785,4,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
+P000747,r44,bus071,765,770,1,New Town -> Eco Park
+P000739,r57,bus047,760,785,4,Ultadanga -> Salt Lake -> New Town -> Eco Park -> Chinar Park -> Airport
+P000741,r37,bus033,770,785,1,Shyambazar -> Baranagar -> Dunlop -> Titagarh
+P000750,r4,bus007,765,780,6,Howrah Station -> Esplanade -> Kalighat -> Jadavpur
+P000748,r14,bus074,765,780,3,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
+P000749,r11,bus015,775,785,4,Esplanade -> Maidan -> Rabindra Sadan
+P000751,r52,bus026,765,780,3,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
+P000752,r12,bus025,770,785,2,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
+P000753,r11,bus015,770,785,1,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P000758,r30,bus027,765,770,4,Gariahat -> Ultadanga
+P000754,r44,bus071,770,780,3,Eco Park -> Eco Space -> Unitech
+P000756,r29,bus009,770,775,1,Ultadanga -> Salt Lake
+P000757,r30,bus027,765,780,3,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1
+P000771,r29,bus009,780,785,6,New Town -> Eco Park
+P000760,r36,bus056,775,785,2,Esplanade -> Salt Lake -> Karunamoyee
+P000764,r5,bus006,770,785,5,Tollygunge -> Hazra -> Esplanade -> Howrah Station
+P000765,r14,bus074,775,785,4,Ballygunge -> Park Circus -> Sealdah
+P000759,r5,bus006,780,785,4,Esplanade -> Howrah Station
+P000769,r12,bus025,775,785,4,Ultadanga -> Phoolbagan -> Sealdah
+P000762,r46,bus111,770,785,3,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
+P000763,r22,bus046,770,780,2,Ballygunge -> Sealdah -> MG Road
+P000772,r43,bus014,775,785,5,Sealdah -> Park Circus -> Ruby
+P000777,r12,bus025,780,785,4,Phoolbagan -> Sealdah
+P000789,r3,bus049,800,810,5,Tollygunge -> Hazra -> Kalighat
+P000788,r6,bus118,800,830,2,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
+P000795,r3,bus049,800,820,6,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
+P000798,r3,bus049,805,830,4,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
+P000805,r26,bus003,810,825,5,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P000803,r25,bus001,800,815,2,New Town -> ECO Park -> Salt Lake -> Karunamoyee
+P000804,r19,bus028,810,815,1,Garia -> Ruby
+P000807,r14,bus074,810,815,4,Sealdah -> Park Circus
+P000806,r44,bus071,810,830,1,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town
+P000808,r6,bus118,800,830,4,Kasba -> Bosepukur -> Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
+P000809,r25,bus001,810,825,3,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
+P000813,r44,bus071,810,835,1,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town -> Rajarhat
+P000815,r8,bus017,815,825,5,Esplanade -> Ultadanga -> Salt Lake
+P000823,r6,bus118,800,810,5,Kasba -> Bosepukur -> Gariahat
+P000817,r20,bus019,810,825,5,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town
+P000818,r14,bus074,810,815,4,Sealdah -> Park Circus
+P000816,r25,bus001,815,830,4,Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P000820,r48,bus166,810,830,4,Park Circus -> Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P000825,r44,bus071,810,825,6,Salt Lake -> Unitech -> Eco Space -> Eco Park
+P000827,r5,bus006,815,825,5,Esplanade -> Hazra -> Tollygunge
+P000831,r7,bus248,810,825,1,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
+P000826,r25,bus001,810,830,3,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P000835,r26,bus003,810,825,6,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P000837,r43,bus014,815,835,6,Park Circus -> Sealdah -> MG Road -> Shyambazar -> Baranagar
+P000832,r26,bus003,810,825,2,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P000833,r12,bus025,820,835,4,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000847,r17,bus012,825,830,5,Ultadanga -> Karunamoyee
+P000840,r35,bus034,825,830,3,New Town -> Eco Space
+P000842,r7,bus248,815,830,4,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P000844,r6,bus118,815,830,3,Golpark -> Hazra -> Kalighat -> Esplanade
+P000848,r30,bus027,825,835,3,Ultadanga -> Gariahat -> Ruby
+P000845,r14,bus074,815,835,4,Park Circus -> Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P000839,r23,bus038,820,830,2,Ultadanga -> VIP Road -> Dumdum
+P000843,r15,bus066,820,830,1,Esplanade -> Park Circus -> Ruby Hospital
+P000849,r3,bus049,825,830,3,Ultadanga -> Salt Lake
+P000858,r17,bus012,825,835,6,Ultadanga -> Karunamoyee -> Salt Lake Sector V
+P000851,r26,bus003,815,825,3,Ultadanga -> Salt Lake -> New Town
+P000850,r4,bus007,820,825,1,Kalighat -> Esplanade
+P000856,r35,bus034,815,830,1,Ultadanga -> Karunamoyee -> New Town -> Eco Space
+P000853,r4,bus007,825,830,2,Esplanade -> Howrah Station
+P000854,r14,bus074,820,835,2,Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P000862,r6,bus118,825,830,4,Kalighat -> Esplanade
+P000864,r6,bus118,825,830,3,Kalighat -> Esplanade
+P000860,r35,bus034,825,830,2,New Town -> Eco Space
+P000861,r6,bus118,825,830,1,Kalighat -> Esplanade
+P000868,r35,bus034,825,830,1,New Town -> Eco Space
+P000874,r31,bus124,825,830,3,Salt Lake -> New Town
+P000900,r3,bus049,855,860,3,Salt Lake -> Ultadanga
+P000904,r3,bus049,855,865,3,Salt Lake -> Ultadanga -> Esplanade
+P000910,r45,bus067,860,880,6,Thakurpukur -> Behala -> Sakherbazar -> New Alipore -> Alipore
+P000907,r36,bus056,860,875,5,Behala -> Tollygunge -> Kalighat -> Esplanade
+P000911,r0,bus002,845,855,4,New Town -> Unitech -> Eco Space
+P000906,r23,bus038,860,880,3,Barasat -> Dumdum -> VIP Road -> Ultadanga -> Ruby
+P000916,r55,bus076,860,885,3,Garia -> Jadavpur -> Kasba -> Bosepukur -> Gariahat -> Ruby
+P000922,r39,bus010,865,885,4,MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
+P000925,r39,bus010,860,880,4,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
+P000927,r18,bus146,865,880,4,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
+P000919,r43,bus014,865,880,3,Shyambazar -> MG Road -> Sealdah -> Park Circus
+P000921,r52,bus026,865,880,2,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
+P000917,r46,bus111,860,880,1,Garia -> Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road
+P000926,r2,bus109,860,885,2,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
+P000932,r52,bus026,865,880,6,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore
+P000933,r12,bus025,870,885,5,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
+P000928,r39,bus010,870,885,4,SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
+P000929,r6,bus118,855,875,1,Esplanade -> Kalighat -> Hazra -> Golpark -> Gariahat
+P000935,r2,bus109,870,875,3,Park Circus -> Ruby
+P000930,r10,bus053,860,885,4,Dumdum -> Belgachia -> Shyambazar -> Esplanade -> Tollygunge -> Joka
+P000931,r1,bus077,850,870,3,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop
+P000934,r4,bus007,860,875,2,Esplanade -> Kalighat -> Jadavpur -> Garia
+P000939,r9,bus089,860,885,6,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari -> Kalighat -> Esplanade
+P000940,r44,bus071,865,870,3,New Town -> Eco Park
+P000937,r41,bus092,860,880,4,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Salt Lake -> Sector V
+P000938,r20,bus019,865,870,3,VIP Road -> Airport Gate No. 1
+P000936,r2,bus109,870,880,1,Park Circus -> Ruby -> Garia
+P000946,r25,bus001,865,875,4,Ultadanga -> Karunamoyee -> Salt Lake
+P000942,r45,bus067,870,885,3,Sakherbazar -> New Alipore -> Alipore -> Minto Park
+P000945,r30,bus027,865,885,6,Gariahat -> Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000944,r56,bus004,865,880,4,Baranagar -> Sinthee -> Shyambazar -> MG Road
+P000941,r46,bus111,870,885,5,Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
+P000943,r17,bus012,870,885,5,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000950,r8,bus017,865,885,5,Newtown -> Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
+P000956,r19,bus028,870,875,6,Phoolbagan -> Park Circus
+P000953,r5,bus006,880,885,6,Esplanade -> Howrah Station
+P000954,r44,bus071,870,880,5,Eco Park -> Eco Space -> Unitech
+P000957,r29,bus009,870,880,3,Ultadanga -> Salt Lake -> New Town
+P000951,r30,bus027,870,885,3,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P000952,r39,bus010,865,880,2,MG Road -> SN Banerjee -> Esplanade -> Park Street
+P000955,r17,bus012,870,885,3,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P000958,r9,bus089,870,885,2,Gariahat -> Rashbehari -> Kalighat -> Esplanade
+P000966,r36,bus056,875,880,6,Esplanade -> Salt Lake
+P000962,r52,bus026,875,880,6,Rabindra Sadan -> Bhowanipore
+P000961,r29,bus009,880,885,3,New Town -> Eco Park
+P000967,r40,bus035,875,885,1,Jadavpur -> Garia -> Narendrapur
+P000968,r51,bus082,880,885,4,Gariahat -> Ruby
+P000969,r29,bus009,875,885,2,Salt Lake -> New Town -> Eco Park
+P000963,r19,bus028,875,885,1,Park Circus -> Ruby -> Garia
+P000974,r9,bus089,880,885,1,Kalighat -> Esplanade
+P000978,r18,bus146,875,885,4,Gariahat -> Ruby Hospital -> Patuli
+P000986,r21,bus018,905,920,6,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P000989,r26,bus003,900,915,5,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P000992,r21,bus018,900,905,3,Tollygunge -> Kalighat
+P000997,r4,bus007,905,920,5,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P000991,r26,bus003,905,915,1,Ultadanga -> Salt Lake -> New Town
+P000993,r7,bus248,900,915,2,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
+P000995,r26,bus003,900,920,2,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P000985,r20,bus019,900,920,1,Dumdum -> Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
+P001001,r25,bus001,910,915,6,New Town -> ECO Park
+P000999,r26,bus003,900,910,1,Esplanade -> Ultadanga -> Salt Lake
+P001002,r4,bus007,905,920,1,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P001008,r6,bus118,910,920,4,Kasba -> Bosepukur -> Gariahat
+P001006,r26,bus003,900,915,4,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P001010,r8,bus017,915,935,3,Esplanade -> Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P001007,r3,bus049,910,930,1,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
+P001009,r55,bus076,910,935,2,Ruby -> Gariahat -> Bosepukur -> Kasba -> Jadavpur -> Garia
+P001013,r7,bus248,905,920,5,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P001020,r15,bus066,905,910,6,Shyambazar -> Esplanade
+P001018,r42,bus093,915,935,4,Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
+P001024,r24,bus037,905,915,5,Shyambazar -> Esplanade -> Sealdah
+P001021,r8,bus017,920,935,5,Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P001014,r29,bus009,910,920,5,Eco Park -> New Town -> Salt Lake
+P001022,r15,bus066,905,920,1,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P001017,r42,bus093,910,935,1,Behala -> Sakherbazar -> Tollygunge -> Kalighat -> Hazra -> Minto Park
+P001030,r7,bus248,910,915,6,Beleghata -> Salt Lake
+P001026,r6,bus118,910,920,2,Kasba -> Bosepukur -> Gariahat
+P001028,r7,bus248,910,920,2,Beleghata -> Salt Lake -> Karunamoyee
+P001025,r55,bus076,915,920,4,Gariahat -> Bosepukur
+P001029,r7,bus248,910,920,4,Beleghata -> Salt Lake -> Karunamoyee
+P001031,r24,bus037,910,915,2,Esplanade -> Sealdah
+P001027,r55,bus076,915,925,3,Gariahat -> Bosepukur -> Kasba
+P001039,r7,bus248,915,920,6,Salt Lake -> Karunamoyee
+P001042,r42,bus093,915,930,3,Sakherbazar -> Tollygunge -> Kalighat -> Hazra
+P001035,r7,bus248,915,920,2,Salt Lake -> Karunamoyee
+P001036,r30,bus027,930,935,5,Gariahat -> Ruby
+P001038,r24,bus037,915,920,2,Sealdah -> Park Circus
+P001041,r55,bus076,915,925,5,Gariahat -> Bosepukur -> Kasba
+P001037,r30,bus027,930,935,4,Gariahat -> Ruby
+P001034,r6,bus118,915,930,3,Bosepukur -> Gariahat -> Golpark -> Hazra
+P001047,r37,bus033,920,935,6,Baranagar -> Shyambazar -> MG Road -> Park Circus
+P001050,r34,bus054,925,935,2,Esplanade -> Salt Lake -> New Town
+P001049,r22,bus046,930,935,4,Jadavpur -> Garia
+P001045,r12,bus025,925,930,2,VIP Road -> Airport Gate No. 1
+P001051,r25,bus001,920,940,1,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P001061,r19,bus028,925,930,6,Phoolbagan -> Ultadanga
+P001063,r18,bus146,930,935,6,Esplanade -> Howrah Station
+P001062,r6,bus118,920,940,5,Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
+P001054,r18,bus146,930,935,1,Esplanade -> Howrah Station
+P001070,r18,bus146,930,935,3,Esplanade -> Howrah Station
+P001078,r4,bus007,945,960,5,Howrah Station -> Esplanade -> Kalighat -> Jadavpur
+P001077,r34,bus054,935,940,5,New Town -> Rajarhat
+P001089,r57,bus047,960,970,5,Ultadanga -> Salt Lake -> New Town
+P001091,r57,bus047,960,965,1,Ultadanga -> Salt Lake
+P001090,r2,bus109,960,975,2,Howrah -> Sealdah -> Park Circus -> Ruby
+P001092,r28,bus008,945,950,2,Dumdum -> Ultadanga
+P001098,r2,bus109,965,980,6,Sealdah -> Park Circus -> Ruby -> Garia
+P001097,r26,bus003,950,955,4,New Town -> Salt Lake
+P001096,r33,bus045,960,965,5,Gariahat -> Kasba
+P001093,r11,bus015,965,985,3,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P001100,r39,bus010,960,985,3,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
+P001094,r46,bus111,960,975,1,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
+P001104,r40,bus035,960,985,5,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia -> Narendrapur
+P001108,r17,bus012,970,985,5,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001109,r38,bus073,960,965,1,Alipore -> Minto Park
+P001102,r44,bus071,965,970,1,New Town -> Eco Park
+P001110,r8,bus017,970,985,4,Salt Lake -> Ultadanga -> Esplanade -> Howrah Station
+P001105,r20,bus019,955,960,3,VIP Road -> Airport Gate No. 1
+P001106,r19,bus028,965,985,3,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
+P001103,r36,bus056,970,975,1,Kalighat -> Esplanade
+P001107,r39,bus010,960,980,1,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
+P001113,r25,bus001,970,985,5,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake
+P001121,r25,bus001,970,985,5,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake
+P001118,r5,bus006,970,975,4,Tollygunge -> Hazra
+P001122,r9,bus089,960,970,2,Jadavpur -> Dhakuria -> Gariahat
+P001119,r40,bus035,970,985,4,Kalighat -> Jadavpur -> Garia -> Narendrapur
+P001117,r29,bus009,970,985,1,Ultadanga -> Salt Lake -> New Town -> Eco Park
+P001120,r14,bus074,970,985,2,Gariahat -> Ballygunge -> Park Circus -> Sealdah
+P001115,r14,bus074,970,985,1,Gariahat -> Ballygunge -> Park Circus -> Sealdah
+P001112,r40,bus035,960,985,3,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia -> Narendrapur
+P001123,r40,bus035,960,980,2,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
+P001131,r12,bus025,975,985,6,Ultadanga -> Phoolbagan -> Sealdah
+P001125,r25,bus001,970,985,2,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake
+P001128,r30,bus027,965,970,4,Gariahat -> Ultadanga
+P001124,r0,bus002,965,970,3,New Town -> Unitech
+P001133,r43,bus014,965,980,2,Shyambazar -> MG Road -> Sealdah -> Park Circus
+P001126,r5,bus006,980,985,1,Esplanade -> Howrah Station
+P001127,r49,bus100,965,985,2,Shyambazar -> Beleghata -> Phoolbagan -> Salt Lake -> Sector V
+P001130,r19,bus028,965,985,2,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
+P001132,r0,bus002,965,995,3,New Town -> Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park -> City
+P001145,r45,bus067,970,985,6,Sakherbazar -> New Alipore -> Alipore -> Minto Park
+P001136,r56,bus004,970,975,3,Sinthee -> Shyambazar
+P001138,r2,bus109,970,980,6,Park Circus -> Ruby -> Garia
+P001144,r10,bus053,970,985,6,Shyambazar -> Esplanade -> Tollygunge -> Joka
+P001148,r12,bus025,970,975,3,VIP Road -> Ultadanga
+P001143,r9,bus089,970,980,2,Gariahat -> Rashbehari -> Kalighat
+P001142,r14,bus074,970,985,3,Gariahat -> Ballygunge -> Park Circus -> Sealdah
+P001147,r0,bus002,965,970,1,New Town -> Unitech
+P001139,r45,bus067,965,980,2,Behala -> Sakherbazar -> New Alipore -> Alipore
+P001156,r25,bus001,975,995,6,Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001157,r43,bus014,975,980,5,Sealdah -> Park Circus
+P001150,r46,bus111,975,985,6,Sonarpur -> Garia Station Road -> Ruby Hospital
+P001155,r35,bus034,990,1000,2,Esplanade -> Ultadanga -> Karunamoyee
+P001158,r25,bus001,970,985,2,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake
+P001152,r25,bus001,970,980,2,Esplanade -> Ultadanga -> Karunamoyee
+P001151,r12,bus025,975,985,3,Ultadanga -> Phoolbagan -> Sealdah
+P001162,r7,bus248,995,1010,6,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P001166,r15,bus066,995,1010,6,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P001169,r49,bus100,980,985,6,Salt Lake -> Sector V
+P001161,r7,bus248,990,1005,5,Bagbazar -> Shyambazar -> Beleghata -> Salt Lake
+P001165,r32,bus005,990,1005,4,Gariahat -> Ballygunge -> Park Circus -> VIP Road
+P001167,r10,bus053,980,985,4,Tollygunge -> Joka
+P001160,r16,bus101,995,1010,3,Shibpur -> Alipore -> Tollygunge -> Garia
+P001168,r18,bus146,975,985,1,Gariahat -> Ruby Hospital -> Patuli
+P001180,r7,bus248,995,1010,6,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P001181,r20,bus019,995,1010,6,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
+P001177,r26,bus003,995,1000,4,Ultadanga -> Salt Lake
+P001182,r2,bus109,980,985,6,Garia -> Sonarpur
+P001176,r15,bus066,995,1010,6,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P001183,r48,bus166,995,1010,6,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P001175,r26,bus003,995,1010,4,Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P001179,r24,bus037,990,1005,1,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
+P001188,r7,bus248,1005,1010,5,Salt Lake -> Karunamoyee
+P001191,r15,bus066,990,1010,4,Bagbazar -> Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P001184,r48,bus166,995,1010,3,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P001187,r16,bus101,990,1010,1,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
+P001192,r6,bus118,985,995,2,Gariahat -> Bosepukur -> Kasba
+P001194,r20,bus019,1000,1005,6,VIP Road -> New Town
+P001198,r26,bus003,990,1005,1,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P001197,r35,bus034,995,1010,2,Ultadanga -> Karunamoyee -> New Town -> Eco Space
+P001196,r28,bus008,1000,1010,3,Phoolbagan -> Ultadanga -> Dumdum
+P001199,r26,bus003,995,1010,2,Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P001208,r20,bus019,1005,1010,4,New Town -> Eco Park
+P001211,r1,bus077,1015,1050,5,Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P001212,r20,bus019,1000,1010,2,VIP Road -> New Town -> Eco Park
+P001203,r32,bus005,1000,1010,1,Park Circus -> VIP Road -> Airport Gate No. 1
+P001205,r4,bus007,1000,1010,1,Kalighat -> Esplanade -> Howrah Station
+P001226,r7,bus248,1005,1010,6,Salt Lake -> Karunamoyee
+P001223,r7,bus248,1005,1010,4,Salt Lake -> Karunamoyee
+P001220,r55,bus076,1010,1035,6,Ruby -> Gariahat -> Bosepukur -> Kasba -> Jadavpur -> Garia
+P001218,r8,bus017,1015,1025,4,Esplanade -> Ultadanga -> Salt Lake
+P001213,r9,bus089,1010,1025,1,Esplanade -> Kalighat -> Rashbehari -> Gariahat
+P001217,r16,bus101,1005,1010,3,Tollygunge -> Garia
+P001224,r1,bus077,1010,1040,2,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road
+P001236,r14,bus074,1025,1030,6,Gariahat -> Rashbehari
+P001234,r37,bus033,1020,1030,3,Baranagar -> Shyambazar -> MG Road
+P001230,r55,bus076,1015,1025,1,Gariahat -> Bosepukur -> Kasba
+P001235,r55,bus076,1015,1025,1,Gariahat -> Bosepukur -> Kasba
+P001238,r3,bus049,1030,1040,6,Kalighat -> Minto Park -> Esplanade
+P001246,r9,bus089,1015,1035,5,Kalighat -> Rashbehari -> Gariahat -> Dhakuria -> Jadavpur
+P001239,r9,bus089,1020,1025,2,Rashbehari -> Gariahat
+P001244,r29,bus009,1025,1030,2,Ultadanga -> Phoolbagan
+P001241,r18,bus146,1030,1035,4,Esplanade -> Howrah Station
+P001242,r2,bus109,1025,1030,1,Park Circus -> Sealdah
+P001243,r25,bus001,1030,1050,2,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P001248,r37,bus033,1025,1035,6,Shyambazar -> MG Road -> Park Circus
+P001250,r23,bus038,1020,1030,6,Ultadanga -> VIP Road -> Dumdum
+P001253,r17,bus012,1020,1025,3,Phoolbagan -> Ultadanga
+P001247,r36,bus056,1020,1030,4,Esplanade -> Kalighat -> Tollygunge
+P001254,r3,bus049,1030,1045,1,Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P001251,r8,bus017,1025,1035,3,Salt Lake -> Newtown -> Rajarhat
+P001252,r1,bus077,1025,1030,3,Baranagar -> Dunlop
+P001255,r12,bus025,1020,1035,1,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P001257,r17,bus012,1025,1035,1,Ultadanga -> Karunamoyee -> Salt Lake Sector V
+P001264,r17,bus012,1025,1030,6,Ultadanga -> Karunamoyee
+P001261,r25,bus001,1030,1035,1,Salt Lake -> Karunamoyee
+P001266,r8,bus017,1020,1025,1,Ultadanga -> Salt Lake
+P001267,r37,bus033,1025,1035,4,Shyambazar -> MG Road -> Park Circus
+P001263,r30,bus027,1030,1035,2,Gariahat -> Ruby
+P001269,r25,bus001,1030,1050,2,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P001270,r18,bus146,1030,1035,4,Esplanade -> Howrah Station
+P001276,r3,bus049,1035,1045,4,Minto Park -> Esplanade -> Ultadanga
+P001287,r26,bus003,1045,1050,3,Salt Lake -> Ultadanga
+P001291,r25,bus001,1045,1050,5,Esplanade -> Howrah Station
+P001292,r6,bus118,1040,1050,3,Hazra -> Kalighat -> Esplanade
+P001298,r57,bus047,1060,1070,6,Ultadanga -> Salt Lake -> New Town
+P001297,r19,bus028,1060,1065,4,Salt Lake -> Ultadanga
+P001294,r12,bus025,1060,1075,4,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
+P001300,r8,bus017,1060,1070,3,Rajarhat -> Newtown -> Salt Lake
+P001295,r25,bus001,1045,1050,1,Esplanade -> Howrah Station
+P001308,r50,bus021,1065,1080,4,Lake Town -> Bangur -> Ultadanga -> Bidhannagar
+P001307,r43,bus014,1060,1085,3,Baranagar -> Shyambazar -> MG Road -> Sealdah -> Park Circus -> Ruby
+P001302,r5,bus006,1065,1085,2,Behala -> Tollygunge -> Hazra -> Esplanade -> Howrah Station
+P001306,r25,bus001,1045,1050,1,Esplanade -> Howrah Station
+P001310,r2,bus109,1065,1070,5,Sealdah -> Park Circus
+P001311,r14,bus074,1060,1070,5,Tollygunge -> Rashbehari -> Gariahat
+P001315,r12,bus025,1060,1075,5,Barasat -> Airport Gate No. 1 -> VIP Road -> Ultadanga
+P001316,r54,bus075,1060,1085,6,Sealdah -> Moulali -> Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
+P001317,r5,bus006,1060,1080,5,Thakurpukur -> Behala -> Tollygunge -> Hazra -> Esplanade
+P001312,r29,bus009,1070,1080,3,Ultadanga -> Salt Lake -> New Town
+P001313,r18,bus146,1065,1080,5,Esplanade -> Minto Park -> Gariahat -> Ruby Hospital
+P001322,r29,bus009,1060,1070,6,Sealdah -> Phoolbagan -> Ultadanga
+P001326,r29,bus009,1070,1075,4,Ultadanga -> Salt Lake
+P001329,r29,bus009,1070,1075,4,Ultadanga -> Salt Lake
+P001328,r11,bus015,1070,1085,4,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P001318,r44,bus071,1070,1085,5,Eco Park -> Eco Space -> Unitech -> Salt Lake
+P001324,r36,bus056,1075,1085,2,Esplanade -> Salt Lake -> Karunamoyee
+P001319,r10,bus053,1070,1085,3,Shyambazar -> Esplanade -> Tollygunge -> Joka
+P001325,r10,bus053,1070,1085,3,Shyambazar -> Esplanade -> Tollygunge -> Joka
+P001321,r23,bus038,1060,1085,2,Barasat -> Dumdum -> VIP Road -> Ultadanga -> Ruby -> Garia
+P001339,r11,bus015,1075,1085,6,Esplanade -> Maidan -> Rabindra Sadan
+P001334,r3,bus049,1075,1085,6,Salt Lake -> Ultadanga -> Esplanade
+P001332,r29,bus009,1080,1085,4,New Town -> Eco Park
+P001336,r41,bus092,1075,1080,4,Salt Lake -> Sector V
+P001337,r24,bus037,1080,1095,3,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
+P001331,r40,bus035,1060,1075,2,Howrah Station -> Esplanade -> Kalighat -> Jadavpur
+P001333,r22,bus046,1065,1080,3,Jadavpur -> Ballygunge -> Sealdah -> MG Road
+P001330,r44,bus071,1065,1075,1,New Town -> Eco Park -> Eco Space
+P001335,r40,bus035,1070,1075,1,Kalighat -> Jadavpur
+P001338,r15,bus066,1080,1095,1,Bagbazar -> Shyambazar -> Esplanade -> Park Circus
+P001340,r29,bus009,1070,1085,6,Ultadanga -> Salt Lake -> New Town -> Eco Park
+P001349,r25,bus001,1080,1090,5,Esplanade -> Ultadanga -> Karunamoyee
+P001347,r6,bus118,1075,1095,6,Esplanade -> Kalighat -> Hazra -> Golpark -> Gariahat
+P001341,r23,bus038,1070,1080,6,VIP Road -> Ultadanga -> Ruby
+P001342,r58,bus016,1070,1080,5,Minto Park -> Kalighat -> Jadavpur
+P001344,r37,bus033,1070,1080,5,Shyambazar -> Baranagar -> Dunlop
+P001345,r21,bus018,1085,1100,2,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P001346,r28,bus008,1080,1095,2,Park Street -> Sealdah -> Phoolbagan -> Ultadanga
+P001343,r0,bus002,1085,1095,3,New Town -> Unitech -> Eco Space
+P001348,r51,bus082,1070,1075,2,Esplanade -> Rashbehari
+P001356,r25,bus001,1080,1105,6,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001355,r50,bus021,1075,1080,6,Ultadanga -> Bidhannagar
+P001352,r6,bus118,1090,1105,6,Golpark -> Gariahat -> Bosepukur -> Kasba
+P001351,r4,bus007,1085,1100,5,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P001350,r57,bus047,1075,1085,5,Eco Park -> Chinar Park -> Airport
+P001357,r4,bus007,1090,1095,1,Kalighat -> Esplanade
+P001354,r2,bus109,1075,1080,2,Ruby -> Garia
+P001362,r28,bus008,1080,1095,5,Park Street -> Sealdah -> Phoolbagan -> Ultadanga
+P001359,r57,bus047,1080,1085,5,Chinar Park -> Airport
+P001360,r49,bus100,1080,1085,4,Salt Lake -> Sector V
+P001363,r16,bus101,1080,1095,1,Howrah Station -> Shibpur -> Alipore -> Tollygunge
+P001381,r32,bus005,1085,1090,6,Ballygunge -> Park Circus
+P001365,r31,bus124,1085,1095,3,Esplanade -> Ultadanga -> Salt Lake
+P001373,r4,bus007,1095,1100,5,Esplanade -> Howrah Station
+P001382,r48,bus166,1085,1095,4,Ripon Street -> SN Banerjee -> Lalbazar
+P001377,r20,bus019,1085,1100,2,Airport Gate No. 1 -> VIP Road -> New Town -> Eco Park
+P001378,r46,bus111,1080,1085,5,Garia Station Road -> Ruby Hospital
+P001374,r4,bus007,1085,1095,1,Jadavpur -> Kalighat -> Esplanade
+P001379,r4,bus007,1095,1100,2,Esplanade -> Howrah Station
+P001387,r7,bus248,1095,1100,4,Salt Lake -> Karunamoyee
+P001388,r25,bus001,1085,1090,3,Ultadanga -> Karunamoyee
+P001394,r1,bus077,1100,1125,5,BT Road -> Dunlop -> Baranagar -> Sinthee More -> Shyambazar -> MG Road
+P001398,r52,bus026,1110,1135,4,Kalighat -> Bhowanipore -> Rabindra Sadan -> Maidan -> Park Street -> Esplanade
+P001397,r54,bus075,1110,1125,1,Tollygunge -> Rashbehari -> Ballygunge -> Park Circus
+P001392,r0,bus002,1095,1110,1,Eco Space -> Aliah University -> Daber More -> ECO Park
+P001400,r54,bus075,1110,1125,6,Tollygunge -> Rashbehari -> Ballygunge -> Park Circus
+P001403,r12,bus025,1120,1135,5,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P001410,r36,bus056,1115,1120,2,Salt Lake -> Esplanade
+P001408,r23,bus038,1120,1130,1,Ultadanga -> VIP Road -> Dumdum
+P001413,r8,bus017,1115,1120,1,Esplanade -> Ultadanga
+P001415,r44,bus071,1110,1130,2,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town
+P001414,r8,bus017,1115,1135,1,Esplanade -> Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P001419,r14,bus074,1115,1135,1,Park Circus -> Ballygunge -> Gariahat -> Rashbehari -> Tollygunge
+P001421,r8,bus017,1120,1125,6,Ultadanga -> Salt Lake
+P001423,r23,bus038,1120,1130,6,Ultadanga -> VIP Road -> Dumdum
+P001422,r30,bus027,1130,1135,6,Gariahat -> Ruby
+P001427,r37,bus033,1125,1135,3,Shyambazar -> MG Road -> Park Circus
+P001426,r3,bus049,1130,1150,4,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
+P001437,r27,bus052,1130,1145,5,Salt Lake -> Ultadanga -> Ruby -> Garia
+P001432,r43,bus014,1120,1125,4,Sealdah -> MG Road
+P001436,r6,bus118,1135,1150,4,Bosepukur -> Gariahat -> Golpark -> Hazra
+P001430,r28,bus008,1130,1145,4,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001435,r2,bus109,1125,1130,2,Park Circus -> Sealdah
+P001446,r27,bus052,1140,1145,5,Ruby -> Garia
+P001438,r19,bus028,1125,1135,4,Phoolbagan -> Ultadanga -> Salt Lake
+P001449,r37,bus033,1125,1135,4,Shyambazar -> MG Road -> Park Circus
+P001445,r16,bus101,1130,1145,5,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P001450,r27,bus052,1135,1145,4,Ultadanga -> Ruby -> Garia
+P001441,r4,bus007,1135,1145,2,Kalighat -> Jadavpur -> Garia
+P001451,r27,bus052,1135,1145,1,Ultadanga -> Ruby -> Garia
+P001452,r3,bus049,1130,1160,6,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga -> Salt Lake
+P001456,r3,bus049,1130,1150,6,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
+P001458,r27,bus052,1135,1140,6,Ultadanga -> Ruby
+P001457,r28,bus008,1130,1145,6,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001461,r25,bus001,1140,1160,6,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P001463,r3,bus049,1130,1150,5,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade
+P001462,r20,bus019,1135,1140,3,VIP Road -> Airport Gate No. 1
+P001469,r25,bus001,1140,1155,4,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
+P001472,r3,bus049,1140,1150,6,Kalighat -> Minto Park -> Esplanade
+P001476,r6,bus118,1140,1155,4,Gariahat -> Golpark -> Hazra -> Kalighat
+P001478,r3,bus049,1140,1145,3,Kalighat -> Minto Park
+P001475,r6,bus118,1140,1160,1,Gariahat -> Golpark -> Hazra -> Kalighat -> Esplanade
+P001487,r46,bus111,1160,1175,6,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
+P001489,r52,bus026,1160,1175,5,Esplanade -> Park Street -> Maidan -> Rabindra Sadan
+P001486,r9,bus089,1160,1180,2,Jadavpur -> Dhakuria -> Gariahat -> Rashbehari -> Kalighat
+P001481,r34,bus054,1145,1155,1,Esplanade -> Salt Lake -> New Town
+P001483,r40,bus035,1160,1175,3,Howrah Station -> Esplanade -> Kalighat -> Jadavpur
+P001480,r2,bus109,1160,1180,2,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia
+P001490,r3,bus049,1155,1160,3,Ultadanga -> Salt Lake
+P001492,r14,bus074,1165,1180,5,Rashbehari -> Gariahat -> Ballygunge -> Park Circus
+P001495,r53,bus011,1165,1180,6,Dhakuria -> Gariahat -> Golpark -> Bosepukur
+P001494,r43,bus014,1165,1180,1,Shyambazar -> MG Road -> Sealdah -> Park Circus
+P001497,r35,bus034,1170,1180,5,Esplanade -> Ultadanga -> Karunamoyee
+P001499,r19,bus028,1165,1185,6,Ultadanga -> Phoolbagan -> Park Circus -> Ruby -> Garia
+P001501,r8,bus017,1170,1175,2,Salt Lake -> Ultadanga
+P001503,r52,bus026,1165,1185,6,Park Street -> Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
+P001498,r6,bus118,1155,1160,4,Kalighat -> Esplanade
+P001504,r28,bus008,1170,1185,3,Park Street -> Sealdah -> Phoolbagan -> Ultadanga
+P001502,r17,bus012,1165,1185,2,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001496,r17,bus012,1170,1185,1,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001500,r38,bus073,1170,1185,1,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
+P001508,r5,bus006,1165,1180,4,Behala -> Tollygunge -> Hazra -> Esplanade
+P001507,r48,bus166,1170,1185,3,Park Circus -> Ripon Street -> SN Banerjee -> Lalbazar
+P001509,r11,bus015,1160,1180,2,Barasat -> Dumdum -> Shyambazar -> Esplanade -> Maidan
+P001511,r11,bus015,1170,1185,6,Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P001515,r11,bus015,1165,1185,6,Dumdum -> Shyambazar -> Esplanade -> Maidan -> Rabindra Sadan
+P001517,r30,bus027,1165,1175,6,Gariahat -> Ultadanga -> VIP Road
+P001514,r51,bus082,1165,1175,5,Lalbazar -> Esplanade -> Rashbehari
+P001512,r4,bus007,1180,1185,3,Kalighat -> Esplanade
+P001513,r46,bus111,1165,1185,4,Kamalgazi -> Narendrapur -> Sonarpur -> Garia Station Road -> Ruby Hospital
+P001510,r8,bus017,1160,1180,2,Rajarhat -> Newtown -> Salt Lake -> Ultadanga -> Esplanade
+P001518,r15,bus066,1175,1190,1,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P001526,r14,bus074,1170,1180,6,Gariahat -> Ballygunge -> Park Circus
+P001527,r44,bus071,1170,1180,4,Eco Park -> Eco Space -> Unitech
+P001525,r15,bus066,1175,1190,5,Shyambazar -> Esplanade -> Park Circus -> Ruby Hospital
+P001521,r12,bus025,1170,1180,2,VIP Road -> Ultadanga -> Phoolbagan
+P001522,r2,bus109,1170,1185,5,Park Circus -> Ruby -> Garia -> Sonarpur
+P001523,r54,bus075,1170,1185,5,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
+P001524,r21,bus018,1175,1190,1,Kalighat -> Hazra -> Gariahat -> Ultadanga
+P001528,r4,bus007,1180,1185,3,Kalighat -> Esplanade
+P001529,r57,bus047,1170,1185,2,New Town -> Eco Park -> Chinar Park -> Airport
+P001519,r1,bus077,1170,1210,1,MG Road -> Shyambazar -> Sinthee More -> Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P001520,r17,bus012,1170,1185,1,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001531,r26,bus003,1175,1180,6,Ultadanga -> Salt Lake
+P001533,r56,bus004,1170,1175,4,Sinthee -> Shyambazar
+P001530,r48,bus166,1175,1190,6,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P001535,r25,bus001,1190,1215,4,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001536,r15,bus066,1175,1185,4,Shyambazar -> Esplanade -> Park Circus
+P001532,r45,bus067,1175,1180,3,New Alipore -> Alipore
+P001537,r51,bus082,1175,1185,2,Rashbehari -> Gariahat -> Ruby
+P001539,r45,bus067,1180,1185,2,Alipore -> Minto Park
+P001544,r7,bus248,1180,1190,1,Beleghata -> Salt Lake -> Karunamoyee
+P001546,r7,bus248,1175,1190,1,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P001538,r7,bus248,1180,1185,2,Beleghata -> Salt Lake
+P001540,r39,bus010,1180,1185,2,Park Street -> Rabindra Sadan
+P001542,r4,bus007,1185,1190,2,Esplanade -> Howrah Station
+P001545,r26,bus003,1175,1190,1,Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P001548,r3,bus049,1195,1205,6,Esplanade -> Minto Park -> Kalighat
+P001556,r7,bus248,1185,1190,4,Salt Lake -> Karunamoyee
+P001558,r3,bus049,1185,1195,6,Salt Lake -> Ultadanga -> Esplanade
+P001557,r35,bus034,1185,1190,5,New Town -> Eco Space
+P001550,r28,bus008,1180,1190,4,Phoolbagan -> Ultadanga -> Dumdum
+P001571,r7,bus248,1185,1190,3,Salt Lake -> Karunamoyee
+P001570,r25,bus001,1190,1215,3,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001560,r25,bus001,1190,1215,1,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001574,r44,bus071,1210,1235,5,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town -> Rajarhat
+P001573,r22,bus046,1210,1235,4,Howrah Station -> MG Road -> Sealdah -> Ballygunge -> Jadavpur -> Garia
+P001582,r6,bus118,1205,1210,2,Gariahat -> Bosepukur
+P001591,r0,bus002,1205,1215,6,New Town -> Unitech -> Eco Space
+P001587,r0,bus002,1200,1230,2,College More -> New Town -> Unitech -> Eco Space -> Aliah University -> Daber More -> ECO Park
+P001589,r1,bus077,1195,1210,5,BT Road -> Tobin Road -> Khardah -> Titagarh
+P001586,r58,bus016,1215,1235,4,Jadavpur -> Kalighat -> Minto Park -> Lalbazar -> Howrah Station
+P001599,r8,bus017,1215,1235,6,Esplanade -> Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P001596,r12,bus025,1220,1235,6,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P001601,r16,bus101,1220,1235,4,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P001609,r37,bus033,1225,1235,5,Shyambazar -> MG Road -> Park Circus
+P001605,r21,bus018,1220,1230,1,Gariahat -> Hazra -> Kalighat
+P001615,r37,bus033,1225,1235,5,Shyambazar -> MG Road -> Park Circus
+P001614,r54,bus075,1215,1235,5,Rashbehari -> Ballygunge -> Park Circus -> Moulali -> Sealdah
+P001610,r8,bus017,1215,1225,3,Esplanade -> Ultadanga -> Salt Lake
+P001611,r21,bus018,1220,1230,2,Gariahat -> Hazra -> Kalighat
+P001617,r37,bus033,1225,1235,4,Shyambazar -> MG Road -> Park Circus
+P001622,r40,bus035,1225,1230,5,Kalighat -> Esplanade
+P001619,r2,bus109,1225,1230,4,Park Circus -> Sealdah
+P001620,r23,bus038,1220,1230,2,Ultadanga -> VIP Road -> Dumdum
+P001621,r23,bus038,1220,1230,2,Ultadanga -> VIP Road -> Dumdum
+P001618,r28,bus008,1220,1230,1,Ultadanga -> Phoolbagan -> Sealdah
+P001631,r19,bus028,1230,1235,3,Ultadanga -> Salt Lake
+P001629,r0,bus002,1220,1235,6,Aliah University -> Daber More -> ECO Park -> City
+P001624,r28,bus008,1225,1235,5,Phoolbagan -> Sealdah -> Park Street
+P001637,r19,bus028,1230,1235,4,Ultadanga -> Salt Lake
+P001647,r25,bus001,1240,1250,6,New Town -> ECO Park -> Salt Lake
+P001644,r25,bus001,1240,1250,4,New Town -> ECO Park -> Salt Lake
+P001649,r3,bus049,1250,1265,1,Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P001661,r25,bus001,1245,1265,3,ECO Park -> Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
+P001673,r28,bus008,1260,1275,6,Park Street -> Sealdah -> Phoolbagan -> Ultadanga
+P001668,r25,bus001,1250,1255,3,Salt Lake -> Karunamoyee
+P001670,r57,bus047,1260,1275,2,Ultadanga -> Salt Lake -> New Town -> Eco Park
+P001671,r10,bus053,1260,1275,2,Dumdum -> Belgachia -> Shyambazar -> Esplanade
+P001682,r12,bus025,1265,1280,6,Airport Gate No. 1 -> VIP Road -> Ultadanga -> Phoolbagan
+P001675,r29,bus009,1260,1285,5,Sealdah -> Phoolbagan -> Ultadanga -> Salt Lake -> New Town -> Eco Park
+P001680,r3,bus049,1250,1260,4,Kalighat -> Minto Park -> Esplanade
+P001683,r4,bus007,1260,1280,5,Garia -> Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P001681,r35,bus034,1260,1280,3,Esplanade -> Ultadanga -> Karunamoyee -> New Town -> Eco Space
+P001677,r39,bus010,1260,1280,2,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street
+P001679,r45,bus067,1265,1280,2,Behala -> Sakherbazar -> New Alipore -> Alipore
+P001678,r45,bus067,1265,1280,1,Behala -> Sakherbazar -> New Alipore -> Alipore
+P001688,r3,bus049,1250,1260,6,Kalighat -> Minto Park -> Esplanade
+P001687,r27,bus052,1265,1280,3,Ruby -> Ultadanga -> Salt Lake -> Karunamoyee
+P001686,r52,bus026,1270,1285,6,Maidan -> Rabindra Sadan -> Bhowanipore -> Kalighat
+P001684,r2,bus109,1265,1280,2,Sealdah -> Park Circus -> Ruby -> Garia
+P001685,r40,bus035,1270,1280,1,Kalighat -> Jadavpur -> Garia
+P001692,r30,bus027,1260,1275,5,Ruby -> Gariahat -> Ultadanga -> VIP Road
+P001690,r40,bus035,1265,1280,5,Esplanade -> Kalighat -> Jadavpur -> Garia
+P001691,r17,bus012,1265,1285,5,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001694,r7,bus248,1265,1275,4,Shyambazar -> Beleghata -> Salt Lake
+P001693,r28,bus008,1265,1280,4,Sealdah -> Phoolbagan -> Ultadanga -> Dumdum
+P001695,r14,bus074,1265,1285,1,Rashbehari -> Gariahat -> Ballygunge -> Park Circus -> Sealdah
+P001702,r4,bus007,1270,1275,6,Kalighat -> Esplanade
+P001697,r45,bus067,1270,1285,2,Sakherbazar -> New Alipore -> Alipore -> Minto Park
+P001700,r26,bus003,1265,1275,4,Ultadanga -> Salt Lake -> New Town
+P001696,r2,bus109,1265,1270,3,Sealdah -> Park Circus
+P001703,r18,bus146,1265,1275,4,Esplanade -> Minto Park -> Gariahat
+P001705,r30,bus027,1265,1275,3,Gariahat -> Ultadanga -> VIP Road
+P001704,r41,bus092,1275,1280,3,Salt Lake -> Sector V
+P001698,r28,bus008,1270,1280,2,Phoolbagan -> Ultadanga -> Dumdum
+P001699,r40,bus035,1265,1285,3,Esplanade -> Kalighat -> Jadavpur -> Garia -> Narendrapur
+P001701,r48,bus166,1265,1280,2,Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P001706,r4,bus007,1275,1280,1,Esplanade -> Howrah Station
+P001709,r11,bus015,1270,1280,3,Shyambazar -> Esplanade -> Maidan
+P001711,r7,bus248,1265,1280,1,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P001712,r28,bus008,1270,1280,4,Phoolbagan -> Ultadanga -> Dumdum
+P001710,r15,bus066,1270,1275,3,Esplanade -> Park Circus
+P001708,r48,bus166,1270,1280,3,SN Banerjee -> Lalbazar -> Howrah Station
+P001716,r14,bus074,1275,1285,6,Ballygunge -> Park Circus -> Sealdah
+P001714,r4,bus007,1275,1280,5,Esplanade -> Howrah Station
+P001720,r29,bus009,1275,1280,3,Salt Lake -> New Town
+P001722,r29,bus009,1275,1280,3,Salt Lake -> New Town
+P001717,r12,bus025,1275,1285,4,Ultadanga -> Phoolbagan -> Sealdah
+P001719,r43,bus014,1275,1285,2,Sealdah -> Park Circus -> Ruby
+P001713,r18,bus146,1275,1285,2,Gariahat -> Ruby Hospital -> Patuli
+P001728,r5,bus006,1280,1285,6,Esplanade -> Howrah Station
+P001733,r50,bus021,1275,1285,3,Ultadanga -> Bidhannagar -> Salt Lake
+P001724,r3,bus049,1295,1305,5,Salt Lake -> Ultadanga -> Esplanade
+P001726,r10,bus053,1280,1285,5,Tollygunge -> Joka
+P001732,r18,bus146,1280,1285,4,Ruby Hospital -> Patuli
+P001746,r25,bus001,1300,1325,4,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001747,r24,bus037,1305,1310,3,Park Circus -> Sealdah
+P001754,r52,bus026,1310,1335,5,Kalighat -> Bhowanipore -> Rabindra Sadan -> Maidan -> Park Street -> Esplanade
+P001759,r25,bus001,1305,1310,1,Ultadanga -> Karunamoyee
+P001758,r4,bus007,1305,1325,5,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
+P001750,r44,bus071,1310,1325,2,Salt Lake -> Unitech -> Eco Space -> Eco Park
+P001755,r4,bus007,1305,1325,3,Howrah Station -> Esplanade -> Kalighat -> Jadavpur -> Garia
+P001761,r3,bus049,1300,1305,6,Ultadanga -> Esplanade
+P001762,r21,bus018,1310,1320,6,Gariahat -> Hazra -> Kalighat
+P001773,r8,bus017,1315,1335,6,Esplanade -> Ultadanga -> Salt Lake -> Newtown -> Rajarhat
+P001770,r54,bus075,1310,1335,6,Tollygunge -> Rashbehari -> Ballygunge -> Park Circus -> Moulali -> Sealdah
+P001763,r44,bus071,1310,1335,5,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town -> Rajarhat
+P001771,r25,bus001,1300,1325,2,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001767,r16,bus101,1310,1325,4,Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P001768,r22,bus046,1315,1320,2,MG Road -> Sealdah
+P001780,r37,bus033,1320,1330,4,Baranagar -> Shyambazar -> MG Road
+P001778,r25,bus001,1305,1325,3,Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001782,r44,bus071,1310,1325,4,Salt Lake -> Unitech -> Eco Space -> Eco Park
+P001783,r40,bus035,1320,1335,4,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P001787,r16,bus101,1305,1325,4,Garia -> Tollygunge -> Alipore -> Shibpur -> Howrah Station
+P001790,r0,bus002,1325,1335,3,New Town -> Unitech -> Eco Space
+P001786,r6,bus118,1315,1325,3,Gariahat -> Bosepukur -> Kasba
+P001797,r17,bus012,1325,1330,4,Ultadanga -> Karunamoyee
+P001792,r37,bus033,1325,1335,5,Shyambazar -> MG Road -> Park Circus
+P001796,r4,bus007,1315,1325,3,Kalighat -> Jadavpur -> Garia
+P001798,r29,bus009,1320,1335,2,Salt Lake -> Ultadanga -> Phoolbagan -> Sealdah
+P001800,r12,bus025,1320,1335,3,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P001803,r18,bus146,1330,1335,2,Esplanade -> Howrah Station
+P001805,r0,bus002,1325,1335,1,New Town -> Unitech -> Eco Space
+P001813,r22,bus046,1330,1335,5,Jadavpur -> Garia
+P001808,r41,bus092,1325,1335,3,Ultadanga -> VIP Road -> Airport Gate No. 1
+P001814,r8,bus017,1325,1335,1,Salt Lake -> Newtown -> Rajarhat
+P001812,r30,bus027,1330,1335,2,Gariahat -> Ruby
+P001817,r12,bus025,1325,1335,2,VIP Road -> Airport Gate No. 1 -> Barasat
+P001822,r58,bus016,1330,1335,2,Lalbazar -> Howrah Station
+P001828,r25,bus001,1350,1375,5,New Town -> ECO Park -> Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade
+P001829,r12,bus025,1330,1335,5,Airport Gate No. 1 -> Barasat
+P001832,r3,bus049,1350,1375,2,Tollygunge -> Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P001833,r26,bus003,1355,1365,4,Ultadanga -> Salt Lake -> New Town
+P001846,r4,bus007,1350,1365,4,Garia -> Jadavpur -> Kalighat -> Esplanade
+P001839,r3,bus049,1355,1375,3,Hazra -> Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P001842,r26,bus003,1350,1365,2,Esplanade -> Ultadanga -> Salt Lake -> New Town
+P001835,r4,bus007,1355,1370,3,Jadavpur -> Kalighat -> Esplanade -> Howrah Station
+P001840,r35,bus034,1350,1370,3,Esplanade -> Ultadanga -> Karunamoyee -> New Town -> Eco Space
+P001841,r16,bus101,1350,1370,3,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
+P001845,r16,bus101,1350,1370,3,Howrah Station -> Shibpur -> Alipore -> Tollygunge -> Garia
+P001847,r25,bus001,1360,1380,6,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P001848,r24,bus037,1350,1365,5,Bagbazar -> Shyambazar -> Esplanade -> Sealdah
+P001850,r1,bus077,1345,1370,5,Baranagar -> Dunlop -> BT Road -> Tobin Road -> Khardah -> Titagarh
+P001849,r15,bus066,1355,1365,1,Shyambazar -> Esplanade -> Park Circus
+P001852,r2,bus109,1360,1385,3,Howrah -> Sealdah -> Park Circus -> Ruby -> Garia -> Sonarpur
+P001851,r25,bus001,1360,1380,1,Salt Lake -> Karunamoyee -> Ultadanga -> Esplanade -> Howrah Station
+P001856,r7,bus248,1365,1370,6,Salt Lake -> Karunamoyee
+P001860,r39,bus010,1360,1385,6,Shyambazar -> MG Road -> SN Banerjee -> Esplanade -> Park Street -> Rabindra Sadan
+P001854,r48,bus166,1350,1370,5,Park Circus -> Ripon Street -> SN Banerjee -> Lalbazar -> Howrah Station
+P001858,r2,bus109,1365,1375,4,Sealdah -> Park Circus -> Ruby
+P001859,r26,bus003,1350,1370,4,Esplanade -> Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P001857,r3,bus049,1355,1370,1,Hazra -> Kalighat -> Minto Park -> Esplanade
+P001861,r35,bus034,1355,1370,1,Ultadanga -> Karunamoyee -> New Town -> Eco Space
+P001855,r4,bus007,1365,1370,2,Esplanade -> Howrah Station
+P001867,r7,bus248,1355,1370,3,Shyambazar -> Beleghata -> Salt Lake -> Karunamoyee
+P001871,r8,bus017,1365,1380,6,Newtown -> Salt Lake -> Ultadanga -> Esplanade
+P001873,r16,bus101,1355,1370,6,Shibpur -> Alipore -> Tollygunge -> Garia
+P001863,r20,bus019,1360,1365,4,VIP Road -> New Town
+P001866,r5,bus006,1360,1375,1,Thakurpukur -> Behala -> Tollygunge -> Hazra
+P001862,r18,bus146,1370,1385,5,Minto Park -> Gariahat -> Ruby Hospital -> Patuli
+P001868,r3,bus049,1355,1360,2,Hazra -> Kalighat
+P001870,r26,bus003,1355,1370,4,Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P001865,r26,bus003,1355,1370,3,Ultadanga -> Salt Lake -> New Town -> Rajarhat
+P001872,r15,bus066,1355,1365,1,Shyambazar -> Esplanade -> Park Circus
+P001864,r38,bus073,1365,1385,2,Minto Park -> Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake Sector V
+P001869,r57,bus047,1365,1385,1,Salt Lake -> New Town -> Eco Park -> Chinar Park -> Airport
+P001878,r38,bus073,1360,1365,4,Alipore -> Minto Park
+P001881,r40,bus035,1370,1380,6,Kalighat -> Jadavpur -> Garia
+P001883,r14,bus074,1365,1370,5,Rashbehari -> Gariahat
+P001879,r44,bus071,1365,1385,4,New Town -> Eco Park -> Eco Space -> Unitech -> Salt Lake
+P001880,r14,bus074,1360,1380,2,Tollygunge -> Rashbehari -> Gariahat -> Ballygunge -> Park Circus
+P001876,r46,bus111,1360,1375,3,Garia -> Kamalgazi -> Narendrapur -> Sonarpur
+P001874,r34,bus054,1360,1375,2,Kalighat -> Esplanade -> Salt Lake -> New Town
+P001882,r7,bus248,1355,1365,1,Shyambazar -> Beleghata -> Salt Lake
+P001877,r3,bus049,1360,1375,1,Kalighat -> Minto Park -> Esplanade -> Ultadanga
+P001884,r17,bus012,1365,1385,6,Karunamoyee -> Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001888,r3,bus049,1375,1380,1,Ultadanga -> Salt Lake
+P001885,r30,bus027,1375,1380,5,VIP Road -> Airport Gate No. 1
+P001886,r19,bus028,1365,1380,5,Ultadanga -> Phoolbagan -> Park Circus -> Ruby
+P001891,r57,bus047,1365,1380,5,Salt Lake -> New Town -> Eco Park -> Chinar Park
+P001887,r29,bus009,1370,1380,1,Ultadanga -> Salt Lake -> New Town
+P001890,r54,bus075,1360,1375,3,Sealdah -> Moulali -> Park Circus -> Ballygunge
+P001889,r37,bus033,1365,1380,3,MG Road -> Shyambazar -> Baranagar -> Dunlop
+P001898,r12,bus025,1370,1385,5,VIP Road -> Ultadanga -> Phoolbagan -> Sealdah
+P001901,r34,bus054,1370,1380,4,Salt Lake -> New Town -> Rajarhat
+P001893,r23,bus038,1370,1385,4,VIP Road -> Ultadanga -> Ruby -> Garia
+P001895,r22,bus046,1365,1380,3,Jadavpur -> Ballygunge -> Sealdah -> MG Road
+P001897,r41,bus092,1375,1380,3,Salt Lake -> Sector V
+P001892,r30,bus027,1375,1380,2,VIP Road -> Airport Gate No. 1
+P001896,r10,bus053,1370,1380,2,Shyambazar -> Esplanade -> Tollygunge
+P001899,r54,bus075,1370,1385,3,Park Circus -> Ballygunge -> Rashbehari -> Tollygunge
+P001904,r39,bus010,1375,1380,3,Esplanade -> Park Street
+P001905,r56,bus004,1375,1385,5,Shyambazar -> MG Road -> Park Street
+P001909,r9,bus089,1375,1380,4,Rashbehari -> Kalighat
+P001908,r5,bus006,1380,1385,3,Esplanade -> Howrah Station
+P001903,r34,bus054,1375,1380,1,New Town -> Rajarhat
+P001907,r37,bus033,1375,1385,1,Baranagar -> Dunlop -> Titagarh
+P001911,r52,bus026,1375,1385,1,Rabindra Sadan -> Bhowanipore -> Kalighat
+P001918,r5,bus006,1375,1380,4,Hazra -> Esplanade
+P001919,r18,bus146,1380,1385,3,Ruby Hospital -> Patuli
+P001916,r54,bus075,1375,1380,1,Ballygunge -> Rashbehari
+P001913,r38,bus073,1380,1385,2,Karunamoyee -> Salt Lake Sector V
+P001924,r21,bus018,1400,1405,1,Gariahat -> Hazra
+P001928,r28,bus008,1400,1415,6,Ultadanga -> Phoolbagan -> Sealdah -> Park Street
+P001944,r28,bus008,1395,1400,6,Dumdum -> Ultadanga
+P001940,r42,bus093,1405,1425,4,Esplanade -> Minto Park -> Hazra -> Kalighat -> Tollygunge
+P001948,r44,bus071,1410,1435,1,Salt Lake -> Unitech -> Eco Space -> Eco Park -> New Town -> Rajarhat
+P001954,r54,bus075,1415,1425,1,Rashbehari -> Ballygunge -> Park Circus
+P001955,r25,bus001,1410,1435,1,Esplanade -> Ultadanga -> Karunamoyee -> Salt Lake -> ECO Park -> New Town
+P001962,r18,bus146,1425,1430,5,Minto Park -> Esplanade
+P001958,r14,bus074,1410,1415,4,Sealdah -> Park Circus
+P001972,r54,bus075,1415,1435,2,Rashbehari -> Ballygunge -> Park Circus -> Moulali -> Sealdah
+P001968,r58,bus016,1430,1435,3,Lalbazar -> Howrah Station
+P001970,r6,bus118,1425,1435,2,Gariahat -> Bosepukur -> Kasba
+P001985,r8,bus017,1420,1425,5,Ultadanga -> Salt Lake
+P001983,r8,bus017,1420,1425,3,Ultadanga -> Salt Lake
+P001980,r30,bus027,1420,1425,4,VIP Road -> Ultadanga
+P001989,r40,bus035,1425,1430,5,Kalighat -> Esplanade
+P001979,r10,bus053,1415,1420,3,Tollygunge -> Esplanade
+P001984,r12,bus025,1420,1435,3,Ultadanga -> VIP Road -> Airport Gate No. 1 -> Barasat
+P001988,r30,bus027,1420,1435,1,VIP Road -> Ultadanga -> Gariahat -> Ruby
+P001991,r14,bus074,1430,1435,5,Rashbehari -> Tollygunge
+P001994,r37,bus033,1425,1435,3,Shyambazar -> MG Road -> Park Circus
+P001993,r29,bus009,1425,1435,2,Ultadanga -> Phoolbagan -> Sealdah
+P001997,r44,bus071,1430,1435,2,New Town -> Rajarhat

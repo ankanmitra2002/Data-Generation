@@ -1,123 +1,68 @@
 [
     {
-        "id": "P000450",
+        "id": "P001490",
         "source": [
-            "Bagbazar",
-            "Shyambazar",
-            "Esplanade"
+            "Garia",
+            "Ruby",
+            "Ultadanga"
         ],
-        "destination": "Sealdah",
-        "count": 1,
-        "timestamp": "19:06:25"
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "19:07:58"
     },
     {
-        "id": "P000674",
-        "source": [
-            "Bagbazar",
-            "Shyambazar",
-            "Esplanade"
-        ],
-        "destination": "Sealdah",
-        "count": 10,
-        "timestamp": "19:07:51"
-    },
-    {
-        "id": "P000881",
-        "source": [
-            "Shibpur",
-            "Alipore",
-            "Tollygunge"
-        ],
-        "destination": "Garia",
-        "count": 2,
-        "timestamp": "19:09:10"
-    },
-    {
-        "id": "P001350",
+        "id": "P001491",
         "source": [
             "Shyambazar",
             "Baranagar",
             "Dunlop"
         ],
         "destination": "Titagarh",
-        "count": 2,
-        "timestamp": "19:07:30"
+        "count": 4,
+        "timestamp": "19:06:35"
     },
     {
-        "id": "P001354",
+        "id": "P001492",
         "source": [
-            "Alipore",
-            "Minto Park",
-            "Esplanade"
-        ],
-        "destination": "Salt Lake Sector V",
-        "count": 7,
-        "timestamp": "19:05:38"
-    },
-    {
-        "id": "P001446",
-        "source": [
-            "Garia",
-            "Jadavpur",
+            "Rashbehari",
+            "Gariahat",
             "Ballygunge"
         ],
-        "destination": "MG Road",
-        "count": 3,
-        "timestamp": "19:09:24"
-    },
-    {
-        "id": "P001568",
-        "source": [
-            "Narendrapur",
-            "Sonarpur",
-            "Garia Station Road"
-        ],
-        "destination": "Ruby Hospital",
-        "count": 7,
-        "timestamp": "19:08:40"
-    },
-    {
-        "id": "P001750",
-        "source": [
-            "Kamalgazi",
-            "Narendrapur",
-            "Sonarpur"
-        ],
-        "destination": "Garia Station Road",
+        "destination": "Park Circus",
         "count": 5,
-        "timestamp": "19:09:41"
+        "timestamp": "19:08:11"
     },
     {
-        "id": "P001760",
+        "id": "P001493",
         "source": [
-            "Thakurpukur",
-            "Behala",
-            "Sakherbazar"
+            "ECO Park",
+            "Salt Lake",
+            "Karunamoyee"
         ],
-        "destination": "Alipore",
-        "count": 1,
-        "timestamp": "19:05:36"
-    },
-    {
-        "id": "P002522",
-        "source": [
-            "Shyambazar",
-            "Esplanade",
-            "Maidan"
-        ],
-        "destination": "Rabindra Sadan",
-        "count": 2,
-        "timestamp": "19:06:45"
-    },
-    {
-        "id": "P002728",
-        "source": [
-            "Tollygunge",
-            "Kalighat",
-            "Hazra"
-        ],
-        "destination": "Gariahat",
+        "destination": "Howrah Station",
         "count": 6,
-        "timestamp": "19:07:37"
+        "timestamp": "19:08:51"
+    },
+    {
+        "id": "P001494",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 1,
+        "timestamp": "19:05:58"
+    },
+    {
+        "id": "P001495",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Golpark"
+        ],
+        "destination": "Bosepukur",
+        "count": 6,
+        "timestamp": "19:09:04"
     }
 ]

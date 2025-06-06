@@ -1,101 +1,35 @@
 [
     {
-        "id": "P000370",
+        "id": "P000520",
         "source": [
-            "Kamalgazi",
-            "Narendrapur",
-            "Sonarpur"
+            "New Town",
+            "Eco Park",
+            "Chinar Park"
         ],
-        "destination": "Ruby Hospital",
-        "count": 4,
-        "timestamp": "10:48:18"
+        "destination": "Airport",
+        "count": 5,
+        "timestamp": "10:47:45"
     },
     {
-        "id": "P000411",
+        "id": "P000521",
         "source": [
-            "Tollygunge",
-            "Hazra",
-            "Kalighat"
+            "Kasba",
+            "Bosepukur",
+            "Gariahat"
+        ],
+        "destination": "Ruby",
+        "count": 4,
+        "timestamp": "10:49:07"
+    },
+    {
+        "id": "P000522",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
         ],
         "destination": "Rajarhat",
-        "count": 2,
-        "timestamp": "10:46:28"
-    },
-    {
-        "id": "P001127",
-        "source": [
-            "Garia",
-            "Kamalgazi",
-            "Narendrapur"
-        ],
-        "destination": "Sonarpur",
-        "count": 6,
-        "timestamp": "10:47:00"
-    },
-    {
-        "id": "P002302",
-        "source": [
-            "Kalighat",
-            "Jadavpur",
-            "Garia"
-        ],
-        "destination": "Narendrapur",
-        "count": 5,
-        "timestamp": "10:48:01"
-    },
-    {
-        "id": "P002353",
-        "source": [
-            "Park Street",
-            "Sealdah",
-            "Phoolbagan"
-        ],
-        "destination": "Ultadanga",
-        "count": 5,
-        "timestamp": "10:47:38"
-    },
-    {
-        "id": "P002608",
-        "source": [
-            "Sealdah",
-            "Phoolbagan",
-            "Ultadanga"
-        ],
-        "destination": "Dumdum",
-        "count": 3,
-        "timestamp": "10:47:47"
-    },
-    {
-        "id": "P002763",
-        "source": [
-            "Newtown",
-            "Salt Lake",
-            "Ultadanga"
-        ],
-        "destination": "Howrah Station",
-        "count": 4,
-        "timestamp": "10:47:50"
-    },
-    {
-        "id": "P002827",
-        "source": [
-            "Karunamoyee",
-            "Ultadanga",
-            "Esplanade"
-        ],
-        "destination": "Howrah Station",
-        "count": 4,
-        "timestamp": "10:49:31"
-    },
-    {
-        "id": "P002862",
-        "source": [
-            "Gariahat",
-            "Phoolbagan",
-            "Ultadanga"
-        ],
-        "destination": "Dumdum",
-        "count": 8,
-        "timestamp": "10:49:28"
+        "count": 1,
+        "timestamp": "10:47:02"
     }
 ]

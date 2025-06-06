@@ -1,134 +1,57 @@
 [
     {
-        "id": "P000146",
+        "id": "P000980",
         "source": [
-            "Beleghata",
-            "Phoolbagan",
+            "Rajarhat",
+            "Newtown",
             "Salt Lake"
-        ],
-        "destination": "Sector V",
-        "count": 5,
-        "timestamp": "14:40:52"
-    },
-    {
-        "id": "P000380",
-        "source": [
-            "Bosepukur",
-            "Gariahat",
-            "Golpark"
         ],
         "destination": "Esplanade",
         "count": 1,
-        "timestamp": "14:41:42"
+        "timestamp": "14:40:05"
     },
     {
-        "id": "P000597",
+        "id": "P000981",
         "source": [
-            "Esplanade",
+            "Bangur",
             "Ultadanga",
-            "Salt Lake"
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "14:41:08"
+    },
+    {
+        "id": "P000982",
+        "source": [
+            "Ultadanga",
+            "Salt Lake",
+            "New Town"
         ],
         "destination": "Rajarhat",
         "count": 3,
-        "timestamp": "14:40:40"
+        "timestamp": "14:44:12"
     },
     {
-        "id": "P000731",
+        "id": "P000983",
         "source": [
-            "Ruby",
-            "Gariahat",
-            "Ultadanga"
-        ],
-        "destination": "Barasat",
-        "count": 5,
-        "timestamp": "14:41:20"
-    },
-    {
-        "id": "P000850",
-        "source": [
-            "Rashbehari",
-            "Gariahat",
-            "Ballygunge"
-        ],
-        "destination": "Park Circus",
-        "count": 9,
-        "timestamp": "14:43:14"
-    },
-    {
-        "id": "P000902",
-        "source": [
-            "Ultadanga",
-            "Karunamoyee",
-            "New Town"
-        ],
-        "destination": "Eco Space",
-        "count": 8,
-        "timestamp": "14:44:53"
-    },
-    {
-        "id": "P001077",
-        "source": [
-            "Rajarhat",
-            "New Town",
-            "Eco Park"
-        ],
-        "destination": "Unitech",
-        "count": 1,
-        "timestamp": "14:43:58"
-    },
-    {
-        "id": "P001238",
-        "source": [
-            "Sealdah",
-            "Phoolbagan",
-            "Ultadanga"
-        ],
-        "destination": "Dumdum",
-        "count": 1,
-        "timestamp": "14:41:30"
-    },
-    {
-        "id": "P001912",
-        "source": [
-            "Rashbehari",
-            "Gariahat",
-            "Ballygunge"
-        ],
-        "destination": "Park Circus",
-        "count": 3,
-        "timestamp": "14:40:17"
-    },
-    {
-        "id": "P002005",
-        "source": [
-            "Park Street",
-            "Sealdah",
-            "Phoolbagan"
-        ],
-        "destination": "Dumdum",
-        "count": 10,
-        "timestamp": "14:42:02"
-    },
-    {
-        "id": "P002396",
-        "source": [
-            "Shibpur",
             "Alipore",
-            "Tollygunge"
+            "Minto Park",
+            "Esplanade"
         ],
-        "destination": "Garia",
-        "count": 8,
-        "timestamp": "14:44:39"
+        "destination": "Salt Lake Sector V",
+        "count": 1,
+        "timestamp": "14:40:00"
     },
     {
-        "id": "P002793",
+        "id": "P000984",
         "source": [
-            "Garia",
-            "Jadavpur",
-            "Kalighat"
+            "Park Circus",
+            "MG Road",
+            "Shyambazar"
         ],
-        "destination": "Esplanade",
-        "count": 9,
-        "timestamp": "14:42:39"
+        "destination": "Titagarh",
+        "count": 6,
+        "timestamp": "14:42:35"
     }
 ]

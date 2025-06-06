@@ -1,189 +1,123 @@
 [
     {
-        "id": "P000016",
+        "id": "P000569",
         "source": [
-            "Garia",
-            "Ruby",
-            "Ultadanga"
-        ],
-        "destination": "Salt Lake",
-        "count": 5,
-        "timestamp": "11:15:43"
-    },
-    {
-        "id": "P000235",
-        "source": [
-            "MG Road",
-            "Shyambazar",
-            "Baranagar"
-        ],
-        "destination": "Dunlop",
-        "count": 10,
-        "timestamp": "11:18:41"
-    },
-    {
-        "id": "P000286",
-        "source": [
-            "Sealdah",
-            "Phoolbagan",
-            "Ultadanga"
-        ],
-        "destination": "New Town",
-        "count": 6,
-        "timestamp": "11:19:46"
-    },
-    {
-        "id": "P000738",
-        "source": [
-            "Bagbazar",
-            "Shyambazar",
-            "Beleghata"
-        ],
-        "destination": "Sector V",
-        "count": 8,
-        "timestamp": "11:17:39"
-    },
-    {
-        "id": "P000828",
-        "source": [
-            "Shyambazar",
+            "Minto Park",
             "Esplanade",
-            "Maidan"
-        ],
-        "destination": "Rabindra Sadan",
-        "count": 2,
-        "timestamp": "11:16:17"
-    },
-    {
-        "id": "P001049",
-        "source": [
-            "Newtown",
-            "Salt Lake",
             "Ultadanga"
         ],
-        "destination": "Howrah Station",
-        "count": 7,
-        "timestamp": "11:15:03"
+        "destination": "Karunamoyee",
+        "count": 3,
+        "timestamp": "11:18:09"
     },
     {
-        "id": "P001068",
-        "source": [
-            "Dumdum",
-            "Airport Gate No. 1",
-            "VIP Road"
-        ],
-        "destination": "New Town",
-        "count": 6,
-        "timestamp": "11:17:06"
-    },
-    {
-        "id": "P001361",
-        "source": [
-            "Airport Gate No. 1",
-            "VIP Road",
-            "Ultadanga"
-        ],
-        "destination": "New Town",
-        "count": 6,
-        "timestamp": "11:19:58"
-    },
-    {
-        "id": "P001465",
+        "id": "P000570",
         "source": [
             "Tollygunge",
-            "Kalighat",
-            "Hazra"
+            "Hazra",
+            "Kalighat"
         ],
         "destination": "Ultadanga",
-        "count": 8,
-        "timestamp": "11:15:56"
-    },
-    {
-        "id": "P001777",
-        "source": [
-            "Kalighat",
-            "Jadavpur",
-            "Garia"
-        ],
-        "destination": "Narendrapur",
-        "count": 9,
-        "timestamp": "11:16:45"
-    },
-    {
-        "id": "P001881",
-        "source": [
-            "Shyambazar",
-            "Beleghata",
-            "Phoolbagan"
-        ],
-        "destination": "Sector V",
-        "count": 8,
-        "timestamp": "11:19:12"
-    },
-    {
-        "id": "P001885",
-        "source": [
-            "VIP Road",
-            "Ultadanga",
-            "Ruby"
-        ],
-        "destination": "Garia",
         "count": 2,
-        "timestamp": "11:16:39"
+        "timestamp": "11:19:25"
     },
     {
-        "id": "P002119",
+        "id": "P000571",
+        "source": [
+            "Dhakuria",
+            "Gariahat",
+            "Rashbehari"
+        ],
+        "destination": "Kalighat",
+        "count": 4,
+        "timestamp": "11:18:58"
+    },
+    {
+        "id": "P000572",
+        "source": [
+            "Behala",
+            "Sakherbazar",
+            "New Alipore"
+        ],
+        "destination": "Alipore",
+        "count": 3,
+        "timestamp": "11:18:44"
+    },
+    {
+        "id": "P000573",
+        "source": [
+            "Salt Lake",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Chinar Park",
+        "count": 5,
+        "timestamp": "11:19:39"
+    },
+    {
+        "id": "P000574",
+        "source": [
+            "Eco Park",
+            "Eco Space",
+            "Unitech"
+        ],
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "11:18:08"
+    },
+    {
+        "id": "P000575",
         "source": [
             "Jadavpur",
             "Ballygunge",
             "Sealdah"
         ],
-        "destination": "Howrah Station",
-        "count": 6,
-        "timestamp": "11:15:17"
+        "destination": "MG Road",
+        "count": 4,
+        "timestamp": "11:16:16"
     },
     {
-        "id": "P002309",
+        "id": "P000576",
         "source": [
-            "Garia",
-            "Jadavpur",
-            "Kalighat"
-        ],
-        "destination": "Esplanade",
-        "count": 7,
-        "timestamp": "11:16:22"
-    },
-    {
-        "id": "P002683",
-        "source": [
-            "Garia",
-            "Jadavpur",
-            "Kasba"
-        ],
-        "destination": "Gariahat",
-        "count": 10,
-        "timestamp": "11:16:59"
-    },
-    {
-        "id": "P002804",
-        "source": [
-            "Esplanade",
+            "Phoolbagan",
             "Ultadanga",
-            "Karunamoyee"
-        ],
-        "destination": "New Town",
-        "count": 3,
-        "timestamp": "11:18:10"
-    },
-    {
-        "id": "P002828",
-        "source": [
-            "Airport Gate No. 1",
-            "VIP Road",
-            "New Town"
+            "Salt Lake"
         ],
         "destination": "Eco Park",
-        "count": 9,
-        "timestamp": "11:15:44"
+        "count": 6,
+        "timestamp": "11:19:42"
+    },
+    {
+        "id": "P000577",
+        "source": [
+            "New Town",
+            "ECO Park",
+            "Salt Lake"
+        ],
+        "destination": "Howrah Station",
+        "count": 3,
+        "timestamp": "11:19:11"
+    },
+    {
+        "id": "P000578",
+        "source": [
+            "Shyambazar",
+            "Baranagar",
+            "Dunlop"
+        ],
+        "destination": "Titagarh",
+        "count": 2,
+        "timestamp": "11:15:07"
+    },
+    {
+        "id": "P000579",
+        "source": [
+            "Alipore",
+            "Minto Park",
+            "Esplanade"
+        ],
+        "destination": "Ultadanga",
+        "count": 3,
+        "timestamp": "11:18:34"
     }
 ]

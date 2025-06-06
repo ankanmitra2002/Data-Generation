@@ -1,167 +1,123 @@
 [
     {
-        "id": "P000294",
-        "source": [
-            "Park Circus",
-            "Ruby",
-            "Garia"
-        ],
-        "destination": "Sonarpur",
-        "count": 8,
-        "timestamp": "10:37:26"
-    },
-    {
-        "id": "P000387",
-        "source": [
-            "Airport Gate No. 1",
-            "VIP Road",
-            "Ultadanga"
-        ],
-        "destination": "Sealdah",
-        "count": 4,
-        "timestamp": "10:35:40"
-    },
-    {
-        "id": "P000647",
-        "source": [
-            "Esplanade",
-            "Ultadanga",
-            "Karunamoyee"
-        ],
-        "destination": "Salt Lake Sector V",
-        "count": 7,
-        "timestamp": "10:38:15"
-    },
-    {
-        "id": "P000920",
-        "source": [
-            "Sealdah",
-            "Phoolbagan",
-            "Ultadanga"
-        ],
-        "destination": "Dumdum",
-        "count": 9,
-        "timestamp": "10:38:16"
-    },
-    {
-        "id": "P001184",
-        "source": [
-            "Gariahat",
-            "Ballygunge",
-            "Park Circus"
-        ],
-        "destination": "Airport Gate No. 1",
-        "count": 4,
-        "timestamp": "10:39:29"
-    },
-    {
-        "id": "P001302",
-        "source": [
-            "Bagbazar",
-            "Shyambazar",
-            "Esplanade"
-        ],
-        "destination": "Sealdah",
-        "count": 5,
-        "timestamp": "10:36:00"
-    },
-    {
-        "id": "P001371",
-        "source": [
-            "Beleghata",
-            "Phoolbagan",
-            "Salt Lake"
-        ],
-        "destination": "Sector V",
-        "count": 10,
-        "timestamp": "10:38:36"
-    },
-    {
-        "id": "P001506",
-        "source": [
-            "Behala",
-            "Sakherbazar",
-            "Tollygunge"
-        ],
-        "destination": "Hazra",
-        "count": 10,
-        "timestamp": "10:37:01"
-    },
-    {
-        "id": "P001532",
-        "source": [
-            "Ultadanga",
-            "Kankurgachi",
-            "Sealdah"
-        ],
-        "destination": "Park Street",
-        "count": 8,
-        "timestamp": "10:35:37"
-    },
-    {
-        "id": "P001773",
-        "source": [
-            "Hazra",
-            "Kalighat",
-            "Minto Park"
-        ],
-        "destination": "Salt Lake",
-        "count": 4,
-        "timestamp": "10:37:08"
-    },
-    {
-        "id": "P001847",
-        "source": [
-            "Shyambazar",
-            "Baranagar",
-            "Dunlop"
-        ],
-        "destination": "Titagarh",
-        "count": 6,
-        "timestamp": "10:39:21"
-    },
-    {
-        "id": "P001950",
-        "source": [
-            "Ultadanga",
-            "Salt Lake",
-            "New Town"
-        ],
-        "destination": "Eco Park",
-        "count": 3,
-        "timestamp": "10:38:00"
-    },
-    {
-        "id": "P002167",
-        "source": [
-            "Ultadanga",
-            "VIP Road",
-            "Airport Gate No. 1"
-        ],
-        "destination": "Barasat",
-        "count": 8,
-        "timestamp": "10:38:10"
-    },
-    {
-        "id": "P002497",
-        "source": [
-            "Park Street",
-            "Sealdah",
-            "Phoolbagan"
-        ],
-        "destination": "Ultadanga",
-        "count": 10,
-        "timestamp": "10:36:54"
-    },
-    {
-        "id": "P002785",
+        "id": "P000502",
         "source": [
             "Tollygunge",
             "Rashbehari",
             "Gariahat"
         ],
-        "destination": "Ballygunge",
+        "destination": "Park Circus",
         "count": 1,
+        "timestamp": "10:38:52"
+    },
+    {
+        "id": "P000503",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "10:39:08"
+    },
+    {
+        "id": "P000504",
+        "source": [
+            "Shyambazar",
+            "Beleghata",
+            "Salt Lake"
+        ],
+        "destination": "Karunamoyee",
+        "count": 3,
+        "timestamp": "10:37:35"
+    },
+    {
+        "id": "P000505",
+        "source": [
+            "Airport Gate No. 1",
+            "VIP Road",
+            "Ultadanga"
+        ],
+        "destination": "Salt Lake",
+        "count": 3,
+        "timestamp": "10:39:34"
+    },
+    {
+        "id": "P000506",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Esplanade"
+        ],
+        "destination": "Karunamoyee",
+        "count": 5,
+        "timestamp": "10:37:44"
+    },
+    {
+        "id": "P000507",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Ruby Hospital",
+        "count": 5,
+        "timestamp": "10:39:20"
+    },
+    {
+        "id": "P000508",
+        "source": [
+            "Garia",
+            "Jadavpur",
+            "Kalighat"
+        ],
+        "destination": "Howrah Station",
+        "count": 5,
         "timestamp": "10:35:24"
+    },
+    {
+        "id": "P000509",
+        "source": [
+            "Bangur",
+            "Ultadanga",
+            "Bidhannagar"
+        ],
+        "destination": "Salt Lake",
+        "count": 6,
+        "timestamp": "10:36:33"
+    },
+    {
+        "id": "P000510",
+        "source": [
+            "Gariahat",
+            "Rashbehari",
+            "Kalighat"
+        ],
+        "destination": "Esplanade",
+        "count": 5,
+        "timestamp": "10:36:04"
+    },
+    {
+        "id": "P000511",
+        "source": [
+            "Esplanade",
+            "Ultadanga",
+            "Salt Lake"
+        ],
+        "destination": "Rajarhat",
+        "count": 3,
+        "timestamp": "10:36:23"
+    },
+    {
+        "id": "P000512",
+        "source": [
+            "Bagbazar",
+            "Shyambazar",
+            "Esplanade"
+        ],
+        "destination": "Park Circus",
+        "count": 1,
+        "timestamp": "10:37:47"
     }
 ]

@@ -1,134 +1,57 @@
 [
     {
-        "id": "P000363",
+        "id": "P000754",
+        "source": [
+            "Rajarhat",
+            "New Town",
+            "Eco Park"
+        ],
+        "destination": "Unitech",
+        "count": 3,
+        "timestamp": "12:46:39"
+    },
+    {
+        "id": "P000755",
+        "source": [
+            "Tollygunge",
+            "Kalighat",
+            "Hazra"
+        ],
+        "destination": "Gariahat",
+        "count": 1,
+        "timestamp": "12:45:36"
+    },
+    {
+        "id": "P000756",
         "source": [
             "Sealdah",
             "Phoolbagan",
             "Ultadanga"
         ],
-        "destination": "Dumdum",
-        "count": 8,
-        "timestamp": "12:46:16"
+        "destination": "Salt Lake",
+        "count": 1,
+        "timestamp": "12:47:33"
     },
     {
-        "id": "P000733",
-        "source": [
-            "Lalbazar",
-            "Esplanade",
-            "Rashbehari"
-        ],
-        "destination": "Ruby",
-        "count": 2,
-        "timestamp": "12:47:13"
-    },
-    {
-        "id": "P000762",
-        "source": [
-            "Tollygunge",
-            "Hazra",
-            "Esplanade"
-        ],
-        "destination": "Howrah Station",
-        "count": 4,
-        "timestamp": "12:48:33"
-    },
-    {
-        "id": "P000928",
-        "source": [
-            "Esplanade",
-            "Ultadanga",
-            "Karunamoyee"
-        ],
-        "destination": "Salt Lake Sector V",
-        "count": 6,
-        "timestamp": "12:47:47"
-    },
-    {
-        "id": "P001204",
+        "id": "P000757",
         "source": [
             "Ruby",
-            "Ultadanga",
-            "Salt Lake"
+            "Gariahat",
+            "Ultadanga"
         ],
-        "destination": "Karunamoyee",
-        "count": 10,
-        "timestamp": "12:45:48"
+        "destination": "Airport Gate No. 1",
+        "count": 3,
+        "timestamp": "12:45:13"
     },
     {
-        "id": "P001224",
+        "id": "P000758",
         "source": [
-            "Garia",
-            "Jadavpur",
-            "Kasba"
-        ],
-        "destination": "Gariahat",
-        "count": 4,
-        "timestamp": "12:47:49"
-    },
-    {
-        "id": "P001467",
-        "source": [
-            "Howrah",
-            "Lalbazar",
-            "Esplanade"
-        ],
-        "destination": "Rashbehari",
-        "count": 9,
-        "timestamp": "12:45:52"
-    },
-    {
-        "id": "P001643",
-        "source": [
-            "Karunamoyee",
-            "Ultadanga",
-            "Esplanade"
-        ],
-        "destination": "Howrah Station",
-        "count": 7,
-        "timestamp": "12:49:27"
-    },
-    {
-        "id": "P002048",
-        "source": [
-            "Kasba",
-            "Bosepukur",
+            "Kalighat",
+            "Hazra",
             "Gariahat"
         ],
-        "destination": "Ruby",
-        "count": 7,
-        "timestamp": "12:45:00"
-    },
-    {
-        "id": "P002512",
-        "source": [
-            "Ultadanga",
-            "Salt Lake",
-            "New Town"
-        ],
-        "destination": "Eco Park",
-        "count": 9,
-        "timestamp": "12:47:35"
-    },
-    {
-        "id": "P002666",
-        "source": [
-            "Shyambazar",
-            "Beleghata",
-            "Salt Lake"
-        ],
-        "destination": "Karunamoyee",
-        "count": 5,
-        "timestamp": "12:49:58"
-    },
-    {
-        "id": "P002708",
-        "source": [
-            "Ripon Street",
-            "SN Banerjee",
-            "Lalbazar"
-        ],
-        "destination": "Howrah Station",
-        "count": 10,
-        "timestamp": "12:47:09"
+        "destination": "Ultadanga",
+        "count": 4,
+        "timestamp": "12:45:46"
     }
 ]

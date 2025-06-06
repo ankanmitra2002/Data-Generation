@@ -1,4 +1,5 @@
 import json
+import pandas as pd
 
 def time_to_minutes(tstr):
     """Converts 'HH:MM' or 'HH:MM:SS' to total minutes since 00:00."""
@@ -63,4 +64,23 @@ def find_feasible_routes(p, routes):
                     break  
 
     return feasible_routes
+def calculate_lambda_ratio():
+    
+    with open("../heuristic_mix.json") as f:
+        mix_data = json.load(f)
+        total_individuals = mix_data["total_individuals"]
 
+    # Step 2: Load comparison_results.csv
+    df = pd.read_csv("../comparison_results.csv")
+
+    # Step 3: Calculate average of heuristic_mix column
+    avg_heuristic_mix = df["heuristic_mix"].mean()
+
+    # Step 4: Calculate ratio
+    ratio = avg_heuristic_mix / total_individuals
+
+    # Step 5: Print results
+    print(f"Total Individuals in heuristic_mix.json: {total_individuals}")
+    print(f"Average Assigned Individuals from comparison_results.csv (heuristic_mix): {avg_heuristic_mix:.2f}")
+    print(f"Ratio (Avg Assigned / Total): {ratio:.4f}")
+    return ratio

@@ -1,134 +1,68 @@
 [
     {
-        "id": "P000096",
-        "source": [
-            "Salt Lake",
-            "Ultadanga",
-            "Phoolbagan"
-        ],
-        "destination": "Garia",
-        "count": 3,
-        "timestamp": "15:33:55"
-    },
-    {
-        "id": "P000159",
+        "id": "P001077",
         "source": [
             "Esplanade",
-            "Kalighat",
-            "Jadavpur"
+            "Salt Lake",
+            "New Town"
         ],
-        "destination": "Narendrapur",
-        "count": 3,
-        "timestamp": "15:31:17"
+        "destination": "Rajarhat",
+        "count": 5,
+        "timestamp": "15:31:16"
     },
     {
-        "id": "P000474",
-        "source": [
-            "Kamalgazi",
-            "Narendrapur",
-            "Sonarpur"
-        ],
-        "destination": "Garia Station Road",
-        "count": 6,
-        "timestamp": "15:32:37"
-    },
-    {
-        "id": "P000548",
-        "source": [
-            "Behala",
-            "Sakherbazar",
-            "New Alipore"
-        ],
-        "destination": "Minto Park",
-        "count": 3,
-        "timestamp": "15:32:00"
-    },
-    {
-        "id": "P000567",
-        "source": [
-            "Gariahat",
-            "Phoolbagan",
-            "Ultadanga"
-        ],
-        "destination": "Dumdum",
-        "count": 2,
-        "timestamp": "15:34:25"
-    },
-    {
-        "id": "P000846",
-        "source": [
-            "Sakherbazar",
-            "Tollygunge",
-            "Kalighat"
-        ],
-        "destination": "Hazra",
-        "count": 10,
-        "timestamp": "15:30:59"
-    },
-    {
-        "id": "P001476",
-        "source": [
-            "Bagbazar",
-            "Shyambazar",
-            "Esplanade"
-        ],
-        "destination": "Park Circus",
-        "count": 3,
-        "timestamp": "15:30:17"
-    },
-    {
-        "id": "P001497",
-        "source": [
-            "Rashbehari",
-            "Gariahat",
-            "Ballygunge"
-        ],
-        "destination": "Park Circus",
-        "count": 4,
-        "timestamp": "15:33:39"
-    },
-    {
-        "id": "P001627",
-        "source": [
-            "Park Circus",
-            "MG Road",
-            "Shyambazar"
-        ],
-        "destination": "Dunlop",
-        "count": 8,
-        "timestamp": "15:30:44"
-    },
-    {
-        "id": "P002673",
+        "id": "P001078",
         "source": [
             "Howrah Station",
             "Esplanade",
             "Kalighat"
         ],
         "destination": "Jadavpur",
-        "count": 4,
-        "timestamp": "15:33:29"
+        "count": 5,
+        "timestamp": "15:31:59"
     },
     {
-        "id": "P002735",
+        "id": "P001079",
         "source": [
-            "Baranagar",
-            "Sinthee",
-            "Shyambazar"
+            "Jadavpur",
+            "Dhakuria",
+            "Gariahat"
         ],
-        "destination": "MG Road",
-        "count": 8,
-        "timestamp": "15:33:38"
+        "destination": "Rashbehari",
+        "count": 3,
+        "timestamp": "15:31:42"
     },
     {
-        "id": "P002860",
+        "id": "P001080",
         "source": [
-            "Maidan",
-            "Rabindra Sadan",
-            "Bhowanipore"
+            "Sakherbazar",
+            "Tollygunge",
+            "Kalighat"
         ],
-        "destination": "Kalighat",
-        "count": 4,
-        "timestamp": "15:34:19"
+        "destination": "Minto Park",
+        "count": 3,
+        "timestamp": "15:31:04"
+    },
+    {
+        "id": "P001081",
+        "source": [
+            "Beleghata",
+            "Phoolbagan",
+            "Salt Lake"
+        ],
+        "destination": "Sector V",
+        "count": 6,
+        "timestamp": "15:33:57"
+    },
+    {
+        "id": "P001082",
+        "source": [
+            "Dumdum",
+            "Lake Town",
+            "Bangur"
+        ],
+        "destination": "Bidhannagar",
+        "count": 6,
+        "timestamp": "15:32:54"
     }
 ]

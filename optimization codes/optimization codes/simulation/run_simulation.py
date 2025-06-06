@@ -8,10 +8,10 @@ SIMULATION_DURATION = 24 * 60
 INTERVAL = 5 
 LIVE_FOLDER = "../live_requests"
 OUTPUT_FILE = "../output/dynamic_assignments.json"
-WAIT_LIMIT = 10  
+WAIT_LIMIT = 20  
 assigner = DynamicAssigner()
 
-for current_time in range(0, SIMULATION_DURATION, INTERVAL):
+for current_time in range(360, SIMULATION_DURATION, INTERVAL):
    
     assigner.release_passengers(current_time)
 

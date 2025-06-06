@@ -8,7 +8,7 @@ BUS_CONFIG_PATH = "input/bus_config.json"
 OUTPUT_PATH = "output/bus_timeline.json"
 
 
-START_TIME = datetime.strptime("00:00", "%H:%M")
+START_TIME = datetime.strptime("06:00", "%H:%M")
 END_TIME = datetime.strptime("23:59", "%H:%M")
 STOP_DURATION = timedelta(minutes=5)
 REST_DURATION = timedelta(minutes=20)
